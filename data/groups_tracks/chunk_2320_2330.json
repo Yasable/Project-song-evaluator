@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/shake-it",
+        "relise": "Shake it!",
+        "artist": "Elumeneveragain",
+        "grade": true
+    },
+    {
+        "link": "/track/barbi-iz-trushhob",
+        "relise": "Барби из трущоб",
+        "artist": "Мэйби Бэйби",
+        "grade": true
+    },
+    {
+        "link": "/track/delo-ne-v-tebe",
+        "relise": "Дело не в тебе",
+        "artist": "КИСЛЕЙ",
+        "grade": true
+    },
+    {
+        "link": "/track/f-e-a-r",
+        "relise": "F.E.A.R.",
+        "artist": "SIDODGI DUBOSHIT",
+        "grade": true
+    },
+    {
+        "link": "/track/otravleno",
+        "relise": "Отравлено",
+        "artist": "Джизус",
+        "grade": true
+    },
+    {
+        "link": "/track/kazhdyj-iz-dizajnerov",
+        "relise": "Каждый из Дизайнеров",
+        "artist": "Pepel Nahudi, xxxmanera",
+        "grade": true
+    },
+    {
+        "link": "/track/turn-up",
+        "relise": "TURN UP",
+        "artist": "Toxi$, Молодой Платон",
+        "grade": true
+    },
+    {
+        "link": "/track/berry-honey",
+        "relise": "Berry & Honey",
+        "artist": "ШКЕТ",
+        "grade": true
+    },
+    {
+        "link": "/track/famous-killa-odni",
+        "relise": "Одни",
+        "artist": "FAMOUS KILLA",
+        "grade": true
+    },
+    {
+        "link": "/track/kitya",
+        "relise": "Китя",
+        "artist": "Social Kid",
+        "grade": true
+    }
+]

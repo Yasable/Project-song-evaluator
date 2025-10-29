@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/album/vibes",
+        "relise": "Vibes",
+        "artist": "Yanix",
+        "grade": true
+    },
+    {
+        "link": "/album/kapitonov-time-to-trust",
+        "relise": "TIME TO TRUST",
+        "artist": "Kapitonov",
+        "grade": true
+    },
+    {
+        "link": "/album/metis",
+        "relise": "Метис",
+        "artist": "Брутто",
+        "grade": true
+    },
+    {
+        "link": "/album/mea-maxima-culpa",
+        "relise": "mea maxima culpa",
+        "artist": "pyrokinesis",
+        "grade": true
+    },
+    {
+        "link": "/album/storytell-2",
+        "relise": "STORYTELL 2",
+        "artist": "i61",
+        "grade": true
+    },
+    {
+        "link": "/album/alisher",
+        "relise": "ALISHER",
+        "artist": "MORGENSHTERN",
+        "grade": true
+    },
+    {
+        "link": "/album/provodnik",
+        "relise": "Проводник",
+        "artist": "Джизус",
+        "grade": true
+    },
+    {
+        "link": "/album/dj-august",
+        "relise": "DJ AUGUST",
+        "artist": "August",
+        "grade": true
+    },
+    {
+        "link": "/album/toxiacid-imperior",
+        "relise": "IMPERIOR",
+        "artist": "ToxiAcid",
+        "grade": true
+    },
+    {
+        "link": "/album/hunnid-gatekeeping",
+        "relise": "HUNNID: GATEKEEPING",
+        "artist": "xxxmanera",
+        "grade": true
+    }
+]

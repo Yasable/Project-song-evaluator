@@ -1,0 +1,122 @@
+[
+    {
+        "link": "/track/kollektiv-tuda-sjuda",
+        "relise": "туда-сюда",
+        "artist": "коллектив",
+        "grade": [
+            8,
+            8,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/1n3y-chicago-drill",
+        "relise": "CHICAGO DRILL",
+        "artist": "1N3Y",
+        "grade": [
+            7,
+            8,
+            7,
+            7,
+            7
+        ]
+    },
+    {
+        "link": "/track/trankwill-money-maker",
+        "relise": "Money Maker",
+        "artist": "TrankWill",
+        "grade": [
+            8,
+            8,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/lotus-blako-trofant-rapuncel",
+        "relise": "РАПУНЦЕЛЬ",
+        "artist": "LOTUS BLAKO, Трофант",
+        "grade": [
+            6,
+            7,
+            6,
+            6,
+            5
+        ]
+    },
+    {
+        "link": "/track/doflamingo-menya-ne-slomali-gnidy",
+        "relise": "Меня не сломали гниды",
+        "artist": "Doflamingo",
+        "grade": [
+            6,
+            7,
+            6,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/gekyum-tufo-razbitaya-kopilka",
+        "relise": "Разбитая копилка",
+        "artist": "GEKYUM, Туфо",
+        "grade": [
+            6,
+            7,
+            6,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/track/ffuckboy-parliament",
+        "relise": "Parliament",
+        "artist": "ffuckboy",
+        "grade": [
+            7,
+            6,
+            6,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/dontxlook-gluboko-vnutri-nikogda-snaruzhi",
+        "relise": "глубоко внутри, никогда снаружи",
+        "artist": "dontxlook",
+        "grade": [
+            9,
+            9,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/imbalance-pupis-route",
+        "relise": "Route",
+        "artist": "imbalance, Pupis",
+        "grade": [
+            5,
+            8,
+            5,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/muviton-tornado",
+        "relise": "Торнадо",
+        "artist": "Мувитон",
+        "grade": [
+            7,
+            9,
+            7,
+            7,
+            8
+        ]
+    }
+]

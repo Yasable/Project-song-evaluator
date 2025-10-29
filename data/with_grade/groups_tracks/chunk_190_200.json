@@ -1,0 +1,122 @@
+[
+    {
+        "link": "/track/sputnik-waves-sotkany",
+        "relise": "Сотканы",
+        "artist": "sputnik waves",
+        "grade": [
+            8,
+            8,
+            7,
+            7,
+            7
+        ]
+    },
+    {
+        "link": "/track/aeroplan",
+        "relise": "Аэроплан",
+        "artist": "Поэмы Дарвина",
+        "grade": [
+            8,
+            6,
+            9,
+            8,
+            7
+        ]
+    },
+    {
+        "link": "/track/saluki-voskresenskii-pokazhi-kak-ty-tancuesh",
+        "relise": "Покажи как ты танцуешь",
+        "artist": "SALUKI, Voskresenskii",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/pepel-nahudi-ya-e-bu",
+        "relise": "YA E BU",
+        "artist": "Pepel Nahudi",
+        "grade": [
+            6,
+            9,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/fortuna-812-gotham",
+        "relise": "gotham",
+        "artist": "FORTUNA 812",
+        "grade": [
+            5,
+            7,
+            8,
+            8,
+            7
+        ]
+    },
+    {
+        "link": "/track/kizaru-simba",
+        "relise": "SIMBA",
+        "artist": "kizaru",
+        "grade": [
+            7,
+            7,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/sensee-love-punk-rock",
+        "relise": "LOVE///PUNK ROCK",
+        "artist": "SENSEE",
+        "grade": [
+            8,
+            8,
+            9,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/tjomnyj-princ-tjomnyj-princ",
+        "relise": "автозаправка",
+        "artist": "тёмный принц",
+        "grade": [
+            8,
+            8,
+            8,
+            8,
+            9
+        ]
+    },
+    {
+        "link": "/track/dyhanie-tvoe",
+        "relise": "Дыхание твое",
+        "artist": "МУККА",
+        "grade": [
+            9,
+            9,
+            9,
+            10,
+            9
+        ]
+    },
+    {
+        "link": "/track/na-bare-2",
+        "relise": "На баре",
+        "artist": "БРЕДИШЬ, Кишлак",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            9
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/disnej",
+        "relise": "Дисней",
+        "artist": "PINQ, Tenderlybae",
+        "grade": true
+    },
+    {
+        "link": "/track/wednesday",
+        "relise": "Wednesday",
+        "artist": "EGRRR",
+        "grade": true
+    },
+    {
+        "link": "/track/rumtur",
+        "relise": "Румтур",
+        "artist": "Sqwore",
+        "grade": true
+    },
+    {
+        "link": "/track/uronim",
+        "relise": "УронИм",
+        "artist": "Big Chain, Whitelin",
+        "grade": true
+    },
+    {
+        "link": "/track/vyshe",
+        "relise": "Выше",
+        "artist": "blago white, LOVV66, Молодой Платон",
+        "grade": true
+    },
+    {
+        "link": "/track/metamorphosis-3",
+        "relise": "METAMORPHOSIS 3",
+        "artist": "Interworld, Sadfriendd, zxcursed",
+        "grade": true
+    },
+    {
+        "link": "/track/polaroid",
+        "relise": "Polaroid",
+        "artist": "LUVSIDE",
+        "grade": true
+    },
+    {
+        "link": "/track/6am-v-budapeshte",
+        "relise": "6AM в Будапеште",
+        "artist": "OG Buda",
+        "grade": true
+    },
+    {
+        "link": "/track/night-vision",
+        "relise": "NIGHT VISION",
+        "artist": "44neverluv",
+        "grade": true
+    },
+    {
+        "link": "/track/sleepy-flow",
+        "relise": "sleepy flow",
+        "artist": "44neverluv",
+        "grade": true
+    }
+]

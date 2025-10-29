@@ -1,0 +1,122 @@
+[
+    {
+        "link": "/track/10",
+        "relise": "10",
+        "artist": "Эндшпиль",
+        "grade": [
+            9,
+            8,
+            10,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/stimul",
+        "relise": "Стимул",
+        "artist": "MOTEL",
+        "grade": [
+            8,
+            8,
+            7,
+            7,
+            7
+        ]
+    },
+    {
+        "link": "/track/100-bol",
+        "relise": "100% боль",
+        "artist": "OG Buda, Wildways",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/moskva-vladivostok-2",
+        "relise": "Москва - Владивосток",
+        "artist": "Heronwater, SODA LUV",
+        "grade": [
+            9,
+            9,
+            9,
+            9,
+            7
+        ]
+    },
+    {
+        "link": "/track/moskva-vladivostok",
+        "relise": "Москва - Владивосток",
+        "artist": "9mice",
+        "grade": [
+            7,
+            10,
+            8,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/senti-spleshi-zaya",
+        "relise": "ЗАЯ",
+        "artist": "Senti, СПЛЭШИ",
+        "grade": [
+            6,
+            9,
+            6,
+            5,
+            5
+        ]
+    },
+    {
+        "link": "/track/vinetta-zomb1",
+        "relise": "ZOMB1",
+        "artist": "Vinetta",
+        "grade": [
+            7,
+            9,
+            8,
+            7,
+            7
+        ]
+    },
+    {
+        "link": "/track/paradise-trauma",
+        "relise": "Trauma",
+        "artist": "Paradise",
+        "grade": [
+            6,
+            6,
+            6,
+            6,
+            9
+        ]
+    },
+    {
+        "link": "/track/echo12-ne-parit",
+        "relise": "не парит",
+        "artist": "echo12",
+        "grade": [
+            5,
+            6,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "link": "/track/dietemoe-racerverse-death-point",
+        "relise": "DEATH POINT",
+        "artist": "DIETEMOE, Racerverse",
+        "grade": [
+            7,
+            7,
+            4,
+            4,
+            3
+        ]
+    }
+]

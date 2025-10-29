@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/zhazhda",
+        "relise": "жажда",
+        "artist": "playingtheangel",
+        "grade": true
+    },
+    {
+        "link": "/track/wake-up-2",
+        "relise": "Wake Up!",
+        "artist": "dirty punk",
+        "grade": true
+    },
+    {
+        "link": "/track/v-moej-golove",
+        "relise": "В моей голове",
+        "artist": "INSTASAMKA",
+        "grade": true
+    },
+    {
+        "link": "/track/kino",
+        "relise": "KINO",
+        "artist": "THE DAWLESS, КАССЕТА",
+        "grade": true
+    },
+    {
+        "link": "/track/smozhem-li-my",
+        "relise": "Сможем ли Мы",
+        "artist": "MAYOT",
+        "grade": true
+    },
+    {
+        "link": "/track/kollektiv-avantjuristov",
+        "relise": "Коллектив Авантюристов",
+        "artist": "BLAKAP",
+        "grade": true
+    },
+    {
+        "link": "/track/ty-mne-vresh",
+        "relise": "ты мне врешь",
+        "artist": "Purple",
+        "grade": true
+    },
+    {
+        "link": "/track/cveta-alogo-zakata",
+        "relise": "Цвета алого заката",
+        "artist": "Ksenon, МНЕ ЛЕНЬ",
+        "grade": true
+    },
+    {
+        "link": "/track/grustnyj-vypusknoj",
+        "relise": "Грустный выпускной",
+        "artist": "Сова",
+        "grade": true
+    },
+    {
+        "link": "/track/ne-smejsya-nad-zemljoj",
+        "relise": "не смейся над землёй",
+        "artist": "масло черного тмина",
+        "grade": true
+    }
+]

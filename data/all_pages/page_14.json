@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/track/mirele-peremotka-son",
+        "relise": "Сон",
+        "artist": "Mirèle, Перемотка",
+        "grade": true
+    },
+    {
+        "link": "/track/mirele-xrustalic-kajus",
+        "relise": "Каюсь",
+        "artist": "Mirèle, XRUSTALIC",
+        "grade": true
+    },
+    {
+        "link": "/track/polmateri-nelovko",
+        "relise": "неловко",
+        "artist": "ПОЛМАТЕРИ",
+        "grade": true
+    },
+    {
+        "link": "/track/bust-down",
+        "relise": "bust down",
+        "artist": "haijin",
+        "grade": false
+    },
+    {
+        "link": "/track/mjortvoe-leto",
+        "relise": "мёртвое лето",
+        "artist": "​ushira",
+        "grade": false
+    },
+    {
+        "link": "/track/shhelban",
+        "relise": "Щелбан",
+        "artist": "PALC",
+        "grade": false
+    },
+    {
+        "link": "/track/otmenit",
+        "relise": "Отменить",
+        "artist": "Enina",
+        "grade": false
+    },
+    {
+        "link": "/track/trek-21",
+        "relise": "ТРЭК 21",
+        "artist": "retroyse, Шкред",
+        "grade": false
+    },
+    {
+        "link": "/track/da-prosvyatit-nas-bog",
+        "relise": "да просвятит нас бог",
+        "artist": "гречка",
+        "grade": false
+    },
+    {
+        "link": "/album/cherchez-la-femme",
+        "relise": "cherchez la femme",
+        "artist": "whyspurky",
+        "grade": false
+    },
+    {
+        "link": "/album/spokojnoj-nochi-malyshi-chast-3",
+        "relise": "Спокойной ночи, малыши, Часть 3",
+        "artist": "SLIMUS",
+        "grade": false
+    },
+    {
+        "link": "/album/8-zhiznej",
+        "relise": "8 жизней",
+        "artist": "макулатура",
+        "grade": false
+    },
+    {
+        "link": "/album/syroj-zvuk",
+        "relise": "СЫРОЙ ЗВУК",
+        "artist": "0$",
+        "grade": true
+    },
+    {
+        "link": "/track/baby-melo-p-o-r-sh-e",
+        "relise": "П О Р Ш Е",
+        "artist": "Baby Melo",
+        "grade": true
+    },
+    {
+        "link": "/track/gruppa-skryptonite-izzamuzzic-do-rassveta",
+        "relise": "до рассвета",
+        "artist": "Gruppa Skryptonite, Izzamuzzic",
+        "grade": true
+    },
+    {
+        "link": "/track/163onmyneck-mayot-polyana-delat-veshhi",
+        "relise": "Делать Вещи",
+        "artist": "163ONMYNECK, MAYOT, Polyana",
+        "grade": true
+    },
+    {
+        "link": "/track/macan-yasmi-jet",
+        "relise": "Jet",
+        "artist": "MACAN, YASMI",
+        "grade": true
+    },
+    {
+        "link": "/track/sabu-saluki-locked",
+        "relise": "LOCKED",
+        "artist": "SABU, SALUKI",
+        "grade": true
+    },
+    {
+        "link": "/track/eldzhej-gameboy",
+        "relise": "GAMEBOY",
+        "artist": "Элджей",
+        "grade": true
+    },
+    {
+        "link": "/track/emocii",
+        "relise": "ЭМОЦИИ",
+        "artist": "Tenderlybae",
+        "grade": false
+    },
+    {
+        "link": "/track/impasto",
+        "relise": "Impasto",
+        "artist": "Bufo, Mav-d",
+        "grade": false
+    },
+    {
+        "link": "/track/zolotaya-rybka",
+        "relise": "золотая рыбка",
+        "artist": "Mary Gu, SCIRENA",
+        "grade": false
+    },
+    {
+        "link": "/track/kak-maloletka",
+        "relise": "КАК МАЛОЛЕТКА",
+        "artist": "EVEN CUTE",
+        "grade": false
+    },
+    {
+        "link": "/track/suka-kaliforniya",
+        "relise": "Сука-Калифорния",
+        "artist": "August, DeepFake",
+        "grade": false
+    },
+    {
+        "link": "/track/kogda-s-toboj-smejomsya",
+        "relise": "когда с тобой смеёмся",
+        "artist": "N.MASTEROFF, ФРИК ПАТИ",
+        "grade": false
+    },
+    {
+        "link": "/album/greshish",
+        "relise": "ГРЕШИШЬ",
+        "artist": "БРЕДИШЬ",
+        "grade": false
+    },
+    {
+        "link": "/album/mayday",
+        "relise": "MAYDAY",
+        "artist": "Мэйби Бэйби",
+        "grade": true
+    },
+    {
+        "link": "/track/welcome-to-forever",
+        "relise": "welcome to forever",
+        "artist": "Kai Angel",
+        "grade": true
+    },
+    {
+        "link": "/track/more-2",
+        "relise": "Море",
+        "artist": "Егор Крид",
+        "grade": true
+    },
+    {
+        "link": "/album/the-europe-tapes",
+        "relise": "The Europe Tapes",
+        "artist": "T-Fest",
+        "grade": true
+    },
+    {
+        "link": "/track/vremya",
+        "relise": "Время",
+        "artist": "Шайни",
+        "grade": true
+    },
+    {
+        "link": "/album/pocelui-mezhdu-barami",
+        "relise": "Поцелуи между барами",
+        "artist": "17 SEVENTEEN",
+        "grade": true
+    },
+    {
+        "link": "/track/snova-3",
+        "relise": "СНОВА",
+        "artist": "GERA AMEN, SALUKI",
+        "grade": true
+    },
+    {
+        "link": "/album/pomeste-s-prizrakami",
+        "relise": "Поместье с призраками",
+        "artist": "dabbackwood",
+        "grade": false
+    },
+    {
+        "link": "/track/v-moej-golove-2",
+        "relise": "В моей голове",
+        "artist": "Майвл",
+        "grade": false
+    },
+    {
+        "link": "/track/shag-vpered",
+        "relise": "Шаг Вперед",
+        "artist": "Молодой Владимир",
+        "grade": false
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/edvan-impro",
+        "relise": "Impro",
+        "artist": "Edvan",
+        "grade": true
+    },
+    {
+        "link": "/track/6less6oy-flappy-bird",
+        "relise": "Flappy Bird",
+        "artist": "6less6oy",
+        "grade": true
+    },
+    {
+        "link": "/track/prequtie-drag-on-dragon",
+        "relise": "Drag on Dragon",
+        "artist": "Prequtie",
+        "grade": true
+    },
+    {
+        "link": "/track/krim-plin-granicy",
+        "relise": "Границы",
+        "artist": "КРИМ ПЛИН",
+        "grade": true
+    },
+    {
+        "link": "/track/index-paris",
+        "relise": "PARIS",
+        "artist": "INDEX",
+        "grade": true
+    },
+    {
+        "link": "/track/batina-kozhanka-mne-segodnya-20",
+        "relise": "Мне сегодня 20",
+        "artist": "Батина Кожанка",
+        "grade": true
+    },
+    {
+        "link": "/track/gozlat-sankt-peterburg-hasla",
+        "relise": "Санкт-Петербург хасла",
+        "artist": "GOZLAT",
+        "grade": true
+    },
+    {
+        "link": "/track/fazzovskqq-snegopadom",
+        "relise": "Снегопадом",
+        "artist": "FazzovskQQ",
+        "grade": true
+    },
+    {
+        "link": "/track/killadg-black-amigo",
+        "relise": "BLACK AMIGO",
+        "artist": "KILLADG",
+        "grade": true
+    },
+    {
+        "link": "/track/beid-apotheosis",
+        "relise": "APOTHEOSIS",
+        "artist": "Beid",
+        "grade": true
+    }
+]

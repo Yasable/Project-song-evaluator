@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/nizkie-temperatury",
+        "relise": "Низкие температуры",
+        "artist": "MARKUL",
+        "grade": true
+    },
+    {
+        "link": "/track/poslednij-bal",
+        "relise": "Последний Бал",
+        "artist": "Midix",
+        "grade": true
+    },
+    {
+        "link": "/track/babybars-3",
+        "relise": "BABYBARS 3",
+        "artist": "Мэйби Бэйби",
+        "grade": true
+    },
+    {
+        "link": "/track/dior-kicks",
+        "relise": "Dior Kicks",
+        "artist": "маленький ярче",
+        "grade": true
+    },
+    {
+        "link": "/track/sizifov-trud",
+        "relise": "Сизифов труд",
+        "artist": "DISOMNUM",
+        "grade": true
+    },
+    {
+        "link": "/track/ne-beri-v-golovu",
+        "relise": "Не бери в голову",
+        "artist": "DISOMNUM",
+        "grade": true
+    },
+    {
+        "link": "/track/mnogo-wu-pryg-s-okrain",
+        "relise": "Прыг с окраин",
+        "artist": "mnogo wu",
+        "grade": true
+    },
+    {
+        "link": "/track/kibersljozy-ne-prosil",
+        "relise": "не просил",
+        "artist": "КИБЕРСЛЁЗЫ",
+        "grade": true
+    },
+    {
+        "link": "/track/emelya",
+        "relise": "Емеля",
+        "artist": "5opka",
+        "grade": true
+    },
+    {
+        "link": "/track/beddi",
+        "relise": "Бэдди",
+        "artist": "4n Way",
+        "grade": true
+    }
+]

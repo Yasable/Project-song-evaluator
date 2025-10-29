@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/ne-zabyvaj",
+        "relise": "Не Забывай",
+        "artist": "Jetty Gas",
+        "grade": true
+    },
+    {
+        "link": "/track/pepel-nahudi-kto-tebe-eto-skazal",
+        "relise": "КТО ТЕБЕ ЭТО СКАЗАЛ",
+        "artist": "Pepel Nahudi",
+        "grade": true
+    },
+    {
+        "link": "/track/drums",
+        "relise": "drums",
+        "artist": "LILDRUGHILL",
+        "grade": true
+    },
+    {
+        "link": "/track/salo",
+        "relise": "САЛО",
+        "artist": "MAYOT",
+        "grade": true
+    },
+    {
+        "link": "/track/steny",
+        "relise": "4 Стены",
+        "artist": "КРИСПИ",
+        "grade": true
+    },
+    {
+        "link": "/track/zabyvaj-2",
+        "relise": "Забывай",
+        "artist": "АДЛИН",
+        "grade": true
+    },
+    {
+        "link": "/track/pampim-neft",
+        "relise": "Пампим нефть",
+        "artist": "INSTASAMKA",
+        "grade": true
+    },
+    {
+        "link": "/track/molodoj-russkij",
+        "relise": "Молодой русский",
+        "artist": "Хаски",
+        "grade": true
+    },
+    {
+        "link": "/track/gde-ya",
+        "relise": "Где я",
+        "artist": "ENTYPE",
+        "grade": true
+    },
+    {
+        "link": "/track/obshhaya-zabota",
+        "relise": "Общая забота",
+        "artist": "Sимптом, T-Fest",
+        "grade": true
+    }
+]

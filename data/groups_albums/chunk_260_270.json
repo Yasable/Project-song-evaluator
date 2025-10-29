@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/album/1000-zhiznej",
+        "relise": "1000 жизней",
+        "artist": "5opka",
+        "grade": true
+    },
+    {
+        "link": "/album/the-curator-sluhi-i-fakty",
+        "relise": "СЛУХИ И ФАКТЫ",
+        "artist": "КУРАТОР",
+        "grade": true
+    },
+    {
+        "link": "/album/vvain-usyplenie",
+        "relise": "УСЫПЛЕНИЕ",
+        "artist": "VVAIN",
+        "grade": true
+    },
+    {
+        "link": "/album/24",
+        "relise": "24",
+        "artist": "Рыночные Отношения",
+        "grade": true
+    },
+    {
+        "link": "/album/historia-morbi",
+        "relise": "Historia Morbi",
+        "artist": "The Chemodan",
+        "grade": true
+    },
+    {
+        "link": "/album/cyber-rock-rapsodiya-vol-1",
+        "relise": "CYBER!ROCK: РАПСОДИЯ, Vol.1",
+        "artist": "ДЖЕЙЛО",
+        "grade": true
+    },
+    {
+        "link": "/album/on-skazal-poehali",
+        "relise": "Он сказал поехали!",
+        "artist": "madk1d",
+        "grade": true
+    },
+    {
+        "link": "/album/for-my-b",
+        "relise": "FOR MY B",
+        "artist": "JABO",
+        "grade": true
+    },
+    {
+        "link": "/album/narrative",
+        "relise": "NARRATIVE",
+        "artist": "Miyagi, Эндшпиль",
+        "grade": true
+    },
+    {
+        "link": "/album/uglystephan-goth-angel",
+        "relise": "Goth Angel",
+        "artist": "uglystephan",
+        "grade": true
+    }
+]

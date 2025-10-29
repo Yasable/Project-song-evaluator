@@ -1,0 +1,122 @@
+[
+    {
+        "link": "/track/tokyo-3",
+        "relise": "TOKYO",
+        "artist": "Blurry",
+        "grade": [
+            7,
+            8,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/usiki",
+        "relise": "USIKI",
+        "artist": "ХУЛИЧ",
+        "grade": [
+            8,
+            7,
+            5,
+            5,
+            7
+        ]
+    },
+    {
+        "link": "/track/fu",
+        "relise": "FU",
+        "artist": "DooMee, OG Buda",
+        "grade": [
+            9,
+            10,
+            9,
+            10,
+            9
+        ]
+    },
+    {
+        "link": "/track/sushhestvo",
+        "relise": "Существо",
+        "artist": "Бонд с кнопкой, Кишлак",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/zhizn-budet-dolgoj",
+        "relise": "жизнь будет долгой",
+        "artist": "cold carti",
+        "grade": [
+            10,
+            9,
+            9,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/summer-time",
+        "relise": "Summer time",
+        "artist": "Miyagi, Эндшпиль",
+        "grade": [
+            8,
+            9,
+            10,
+            10,
+            7
+        ]
+    },
+    {
+        "link": "/track/gorod-grehov",
+        "relise": "город грехов",
+        "artist": "тринадцать карат",
+        "grade": [
+            9,
+            10,
+            8,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/nikita-snow-g1k1",
+        "relise": "g1k1",
+        "artist": "NIKITA SNOW",
+        "grade": [
+            4,
+            5,
+            4,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/beescus-igor-ten-stimorol-ajs",
+        "relise": "Стиморол айс",
+        "artist": "Beescus, Igor Ten",
+        "grade": [
+            5,
+            5,
+            5,
+            5,
+            5
+        ]
+    },
+    {
+        "link": "/track/lamantion-russian-radar",
+        "relise": "Russian Radar",
+        "artist": "LAMANTION",
+        "grade": [
+            6,
+            6,
+            6,
+            6,
+            5
+        ]
+    }
+]

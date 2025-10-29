@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/chuchuka",
+        "relise": "Chuchuka",
+        "artist": "Big Baby Tape",
+        "grade": true
+    },
+    {
+        "link": "/track/po-domam",
+        "relise": "По Домам",
+        "artist": "MACAN, Элджей",
+        "grade": true
+    },
+    {
+        "link": "/track/den-rozhdeniya-naoborot",
+        "relise": "день рождения наоборот",
+        "artist": "pyrokinesis",
+        "grade": true
+    },
+    {
+        "link": "/track/antihrist",
+        "relise": "АНТИХРИСТ",
+        "artist": "ДЖЕЙЛО",
+        "grade": true
+    },
+    {
+        "link": "/track/izba",
+        "relise": "Изба",
+        "artist": "VELIAL SQUAD",
+        "grade": true
+    },
+    {
+        "link": "/track/hlopya-letyat-naverh",
+        "relise": "Хлопья летят наверх",
+        "artist": "FEDUK, Баста, Моя Мишель",
+        "grade": true
+    },
+    {
+        "link": "/track/elyaplugg-i-love",
+        "relise": "i love!!!",
+        "artist": "elyaplugg!",
+        "grade": true
+    },
+    {
+        "link": "/track/dzhon-garik-druzhba",
+        "relise": "Дружба",
+        "artist": "Джон Гарик",
+        "grade": true
+    },
+    {
+        "link": "/track/lyriq-guby",
+        "relise": "Губы",
+        "artist": "LYRIQ",
+        "grade": true
+    },
+    {
+        "link": "/track/mona-bonsaj",
+        "relise": "Бонсай",
+        "artist": "MONA",
+        "grade": true
+    }
+]

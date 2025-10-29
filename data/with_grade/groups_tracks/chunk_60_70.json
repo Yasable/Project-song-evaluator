@@ -1,0 +1,122 @@
+[
+    {
+        "link": "/track/raspyat-2",
+        "relise": "Распять",
+        "artist": "MACAN",
+        "grade": [
+            10,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/zlye-risunki",
+        "relise": "злые рисунки",
+        "artist": "LOVV66",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/2-goyard",
+        "relise": "2 Goyard",
+        "artist": "FRIENDLY THUG 52 NGG",
+        "grade": [
+            9,
+            8,
+            9,
+            10,
+            9
+        ]
+    },
+    {
+        "link": "/track/kanye-west-diss",
+        "relise": "kanye west diss",
+        "artist": "Хаски",
+        "grade": [
+            10,
+            8,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/ademary",
+        "relise": "ADEMARY",
+        "artist": "BUSHIDO ZHO, DooMee",
+        "grade": [
+            8,
+            9,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/crystal-castle",
+        "relise": "Crystal Castle",
+        "artist": "КУОК",
+        "grade": [
+            9,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/win-win",
+        "relise": "Win-Win",
+        "artist": "Yanix, молодой калуга",
+        "grade": [
+            9,
+            8,
+            8,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/bessolnechnyj-rassvet",
+        "relise": "Бессолнечный рассвет",
+        "artist": "ДЖЕЙЛО",
+        "grade": [
+            9,
+            8,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/persona-non-grata",
+        "relise": "PERSONA NON GRATA",
+        "artist": "dekma",
+        "grade": [
+            9,
+            9,
+            8,
+            9,
+            7
+        ]
+    },
+    {
+        "link": "/track/ne-segodnya",
+        "relise": "Не сегодня",
+        "artist": "СТИНТ",
+        "grade": [
+            8,
+            8,
+            7,
+            6,
+            7
+        ]
+    }
+]

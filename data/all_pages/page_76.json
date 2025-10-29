@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/track/bad-murz-shake-it",
+        "relise": "SHAKE IT",
+        "artist": "BAD Murz",
+        "grade": true
+    },
+    {
+        "link": "/track/index-dennoch",
+        "relise": "ДеньНочь",
+        "artist": "INDEX",
+        "grade": true
+    },
+    {
+        "link": "/track/amura-nekogo-ljubit",
+        "relise": "Некого любить",
+        "artist": "Амура",
+        "grade": true
+    },
+    {
+        "link": "/album/mathway-hello-world",
+        "relise": "Hello World",
+        "artist": "MathWAY",
+        "grade": true
+    },
+    {
+        "link": "/track/run-it-up",
+        "relise": "Run It Up",
+        "artist": "Dee Aura, LILDRUGHILL",
+        "grade": true
+    },
+    {
+        "link": "/track/universalnyj-soldzha",
+        "relise": "Универсальный солджа",
+        "artist": "Рем Дигга",
+        "grade": false
+    },
+    {
+        "link": "/album/strah-com",
+        "relise": "страх.cоm",
+        "artist": "HOFMANNITA",
+        "grade": false
+    },
+    {
+        "link": "/album/hood-talks",
+        "relise": "HOOD TALKS",
+        "artist": "Uggly",
+        "grade": false
+    },
+    {
+        "link": "/track/daleko-3",
+        "relise": "ДАЛЕКО",
+        "artist": "104, Armich",
+        "grade": false
+    },
+    {
+        "link": "/track/v-fashion",
+        "relise": "V Fashion",
+        "artist": "НОКТУ",
+        "grade": false
+    },
+    {
+        "link": "/track/tonut-2",
+        "relise": "Тонуть",
+        "artist": "ТОМА",
+        "grade": false
+    },
+    {
+        "link": "/track/money-over-bitches",
+        "relise": "MONEY OVER BITCHES",
+        "artist": "A-THIS 52",
+        "grade": false
+    },
+    {
+        "link": "/track/ya-vsya-gorju",
+        "relise": "Я вся горю",
+        "artist": "Alisha",
+        "grade": false
+    },
+    {
+        "link": "/track/lunapark",
+        "relise": "Лунапарк",
+        "artist": "eikko",
+        "grade": false
+    },
+    {
+        "link": "/track/dobree",
+        "relise": "Добрее",
+        "artist": "IGOR",
+        "grade": false
+    },
+    {
+        "link": "/album/molodoj-bishkek-lp",
+        "relise": "МОЛОДОЙ БИШКЕК LP",
+        "artist": "ЗАМАЙ",
+        "grade": true
+    },
+    {
+        "link": "/album/pop-empire",
+        "relise": "POP EMPIRE",
+        "artist": "daryana",
+        "grade": true
+    },
+    {
+        "link": "/album/family-first",
+        "relise": "FAMILY FIRST",
+        "artist": "J. ROUH",
+        "grade": true
+    },
+    {
+        "link": "/track/my-protiv-seksa",
+        "relise": "мы против секса",
+        "artist": "нексюша, ПОЛМАТЕРИ",
+        "grade": false
+    },
+    {
+        "link": "/track/duwfm",
+        "relise": "duwfm",
+        "artist": "drowsyy",
+        "grade": false
+    },
+    {
+        "link": "/track/furmanova",
+        "relise": "Фурманова",
+        "artist": "HIRO, Truwer",
+        "grade": false
+    },
+    {
+        "link": "/track/gektor",
+        "relise": "Гектор",
+        "artist": "ICEGERGERT",
+        "grade": false
+    },
+    {
+        "link": "/track/nesovmestimy",
+        "relise": "Несовместимы",
+        "artist": "Tenderlybae",
+        "grade": false
+    },
+    {
+        "link": "/track/chuzhaya-nevesta",
+        "relise": "Чужая невеста",
+        "artist": "Dyce, The Limba",
+        "grade": false
+    },
+    {
+        "link": "/track/3310",
+        "relise": "3310",
+        "artist": "G4OUR, YASMI",
+        "grade": false
+    },
+    {
+        "link": "/album/we-live-only-once",
+        "relise": "WE LIVE ONLY ONCE",
+        "artist": "Aarne, BUSHIDO ZHO",
+        "grade": true
+    },
+    {
+        "link": "/album/sekret",
+        "relise": "секрет",
+        "artist": "ooes",
+        "grade": true
+    },
+    {
+        "link": "/track/turbo-majestic",
+        "relise": "Turbo (Majestic)",
+        "artist": "Big Baby Tape",
+        "grade": true
+    },
+    {
+        "link": "/track/tryasi",
+        "relise": "ТРЯСИ",
+        "artist": "Lida, Toxi$",
+        "grade": true
+    },
+    {
+        "link": "/track/ty-tancuesh-odna",
+        "relise": "Ты танцуешь одна",
+        "artist": "SEEMEE",
+        "grade": false
+    },
+    {
+        "link": "/track/dyshi",
+        "relise": "Дыши",
+        "artist": "PUSSYKILLER",
+        "grade": false
+    },
+    {
+        "link": "/track/rn",
+        "relise": "RN!",
+        "artist": "​kayyo",
+        "grade": true
+    },
+    {
+        "link": "/track/glubina",
+        "relise": "ГЛУБИНА",
+        "artist": "i61",
+        "grade": true
+    },
+    {
+        "link": "/track/hp",
+        "relise": "ХП",
+        "artist": "Boulevard Depo",
+        "grade": true
+    },
+    {
+        "link": "/track/ne-ponimaju",
+        "relise": "Не понимаю",
+        "artist": "АДЛИН",
+        "grade": true
+    },
+    {
+        "link": "/track/lazernyj",
+        "relise": "Лазерный",
+        "artist": "OG Buda",
+        "grade": true
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/album/bushido-zho-nightmare-before-xmas",
+        "relise": "NIGHTMARE BEFORE XMAS",
+        "artist": "BUSHIDO ZHO",
+        "grade": true
+    },
+    {
+        "link": "/album/fresco-equilibrium",
+        "relise": "EQUILIBRIUM",
+        "artist": "FRESCO",
+        "grade": true
+    },
+    {
+        "link": "/album/noize-mc-vyhod-v-gorod-polnyj-albom",
+        "relise": "Выход в город (полный альбом)",
+        "artist": "Noize MC",
+        "grade": true
+    },
+    {
+        "link": "/album/cakeboy-iroh-akuly-v-bokale",
+        "relise": "АКУЛЫ В БОКАЛЕ",
+        "artist": "CAKEBOY, IROH",
+        "grade": true
+    },
+    {
+        "link": "/album/maks-korzh-psihi-popadajut-v-top",
+        "relise": "Психи попадают в топ",
+        "artist": "Макс Корж",
+        "grade": true
+    },
+    {
+        "link": "/album/midix-hyperpop-attack",
+        "relise": "HYPERPOP ATTACK",
+        "artist": "Midix",
+        "grade": true
+    },
+    {
+        "link": "/album/scally-milano-money-counter-music",
+        "relise": "MONEY COUNTER MUSIC",
+        "artist": "Scally Milano",
+        "grade": true
+    },
+    {
+        "link": "/album/soda-luv-roomination",
+        "relise": "ROOMINATION",
+        "artist": "SODA LUV",
+        "grade": true
+    },
+    {
+        "link": "/album/shajni-faded",
+        "relise": "Faded",
+        "artist": "Шайни",
+        "grade": true
+    },
+    {
+        "link": "/album/boulevard-depo-sp4k-qwerty-lang",
+        "relise": "QWERTY LANG",
+        "artist": "Boulevard Depo, SP4K",
+        "grade": true
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/album/idiocracy",
+        "relise": "IDIOCRACY",
+        "artist": "SODA LUV",
+        "grade": true
+    },
+    {
+        "link": "/album/qtopia",
+        "relise": "QTOPIA",
+        "artist": "КУОК",
+        "grade": true
+    },
+    {
+        "link": "/track/night-moon",
+        "relise": "night moon",
+        "artist": "LILDRUGHILL, SABU",
+        "grade": true
+    },
+    {
+        "link": "/track/gioconda",
+        "relise": "GIOCONDA",
+        "artist": "LDMA, SIDODGI DUBOSHIT",
+        "grade": true
+    },
+    {
+        "link": "/track/ha-ha-ha",
+        "relise": "ХА-ХА-ХА",
+        "artist": "Baby Melo",
+        "grade": false
+    },
+    {
+        "link": "/track/fap-2",
+        "relise": "Фап",
+        "artist": "Voskresenskii",
+        "grade": false
+    },
+    {
+        "link": "/track/baza",
+        "relise": "BAZA",
+        "artist": "SQWOZ BAB",
+        "grade": false
+    },
+    {
+        "link": "/track/ne-nuzhna-2",
+        "relise": "не нужна",
+        "artist": "ENTYPE",
+        "grade": false
+    },
+    {
+        "link": "/album/omerta",
+        "relise": "Omertà",
+        "artist": "CAPTOWN, Niman, Truwer, Экси",
+        "grade": false
+    },
+    {
+        "link": "/track/bolshe-ne-budet-grustno",
+        "relise": "больше не будет грустно",
+        "artist": "cold carti",
+        "grade": true
+    },
+    {
+        "link": "/track/frvr",
+        "relise": "#frvr",
+        "artist": "huzzy b",
+        "grade": false
+    },
+    {
+        "link": "/track/destroy",
+        "relise": "#destroy",
+        "artist": "huzzy b",
+        "grade": false
+    },
+    {
+        "link": "/track/ballin",
+        "relise": "ballin'",
+        "artist": "RVMZES",
+        "grade": false
+    },
+    {
+        "link": "/track/lapta",
+        "relise": "Lapta",
+        "artist": "opt, tsb",
+        "grade": false
+    },
+    {
+        "link": "/track/vvv",
+        "relise": "ВВВ",
+        "artist": "Lover",
+        "grade": false
+    },
+    {
+        "link": "/track/snakebite",
+        "relise": "Snakebite",
+        "artist": "CODE80, unki",
+        "grade": false
+    },
+    {
+        "link": "/track/morrison",
+        "relise": "Моррисон",
+        "artist": "BOOKER, ШАРЫ",
+        "grade": false
+    },
+    {
+        "link": "/track/neudachnik-2",
+        "relise": "Неудачник",
+        "artist": "MellSher",
+        "grade": false
+    },
+    {
+        "link": "/track/psihoz",
+        "relise": "Психоз",
+        "artist": "Sagath",
+        "grade": false
+    },
+    {
+        "link": "/track/bessonnica",
+        "relise": "Бессонница",
+        "artist": "Adamant, NЮ",
+        "grade": false
+    },
+    {
+        "link": "/album/episode",
+        "relise": "episode",
+        "artist": "By Индия",
+        "grade": false
+    },
+    {
+        "link": "/album/livnestok",
+        "relise": "Ливнесток",
+        "artist": "katanacss",
+        "grade": false
+    },
+    {
+        "link": "/track/foliev-imya",
+        "relise": "Имя",
+        "artist": "FOLIEV",
+        "grade": true
+    },
+    {
+        "link": "/track/pyataya-nedelya-pora-no-ya",
+        "relise": "пора, но я",
+        "artist": "пятая неделя",
+        "grade": true
+    },
+    {
+        "link": "/track/yngmarat-control",
+        "relise": "Control",
+        "artist": "YNGMARAT",
+        "grade": true
+    },
+    {
+        "link": "/track/lostboy-sinie-cvety",
+        "relise": "синие цветы",
+        "artist": "Lostboy",
+        "grade": true
+    },
+    {
+        "link": "/track/hani-v-tebe-vesna",
+        "relise": "В тебе весна",
+        "artist": "Хани",
+        "grade": true
+    },
+    {
+        "link": "/track/konstantin-deresh-matrix",
+        "relise": "Matrix",
+        "artist": "Konstantin Deresh",
+        "grade": true
+    },
+    {
+        "link": "/track/denya8-papau",
+        "relise": "papau",
+        "artist": "Denya8",
+        "grade": true
+    },
+    {
+        "link": "/track/yungcxke-zhankxr-muay-thai",
+        "relise": "Muay-Thai",
+        "artist": "yungcxke, Zhankxr",
+        "grade": true
+    },
+    {
+        "link": "/track/trankwill-kasanie",
+        "relise": "Касание",
+        "artist": "TrankWill",
+        "grade": true
+    },
+    {
+        "link": "/track/trankwill-ri",
+        "relise": "Ri",
+        "artist": "TrankWill",
+        "grade": true
+    },
+    {
+        "link": "/track/sevn-sep-sy4ki",
+        "relise": "SY4KI",
+        "artist": "SEVN Sep",
+        "grade": true
+    },
+    {
+        "link": "/track/vinetta-bystree",
+        "relise": "БЫСТРЕЕ",
+        "artist": "Vinetta",
+        "grade": true
+    },
+    {
+        "link": "/track/00santi-mesto",
+        "relise": "место",
+        "artist": "00santi",
+        "grade": true
+    },
+    {
+        "link": "/track/00santi-my",
+        "relise": "мы",
+        "artist": "00santi",
+        "grade": true
+    }
+]

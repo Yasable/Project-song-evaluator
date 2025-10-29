@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/gods",
+        "relise": "Gods",
+        "artist": "Paradise",
+        "grade": true
+    },
+    {
+        "link": "/track/fullovyj",
+        "relise": "фулловый",
+        "artist": "Doomian, джуниор",
+        "grade": true
+    },
+    {
+        "link": "/track/leti-so-mnoj",
+        "relise": "Лети со мной!!",
+        "artist": "Теллер",
+        "grade": true
+    },
+    {
+        "link": "/track/more",
+        "relise": "More",
+        "artist": "Hugo Loud",
+        "grade": true
+    },
+    {
+        "link": "/track/vverh-vniz-vlevo-vpravo",
+        "relise": "Вверх, Вниз, Влево, Вправо",
+        "artist": "Baby Melo",
+        "grade": true
+    },
+    {
+        "link": "/track/davno",
+        "relise": "давно",
+        "artist": "madk1d",
+        "grade": true
+    },
+    {
+        "link": "/track/gandikap",
+        "relise": "ГАНДИКАП",
+        "artist": "Boulevard Depo",
+        "grade": true
+    },
+    {
+        "link": "/track/save",
+        "relise": "save",
+        "artist": "Шайни",
+        "grade": true
+    },
+    {
+        "link": "/track/zhuravli-2",
+        "relise": "ЖУРАВЛИ",
+        "artist": "SCHOKK",
+        "grade": true
+    },
+    {
+        "link": "/track/est-u-nas",
+        "relise": "Есть у нас",
+        "artist": "Loc-Dog",
+        "grade": true
+    }
+]

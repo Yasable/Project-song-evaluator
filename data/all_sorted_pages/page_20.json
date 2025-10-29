@@ -1,0 +1,80 @@
+[
+    {
+        "link": "/track/it-s-true-demo-0-2",
+        "relise": "it’s true demo 0.2",
+        "artist": "qantreez x челс",
+        "grade": true
+    },
+    {
+        "link": "/track/prygaj-zhopoj-ch-2-pro-ljubov",
+        "relise": "Прыгай жопой, Ч. 2 (про любовь)",
+        "artist": "PLOHOYPAREN",
+        "grade": true
+    },
+    {
+        "link": "/album/project-v",
+        "relise": "Project V",
+        "artist": "Voskresenskii",
+        "grade": true
+    },
+    {
+        "link": "/album/gargonna-music",
+        "relise": "GARGONNA MUSIC",
+        "artist": "Pepel Nahudi",
+        "grade": true
+    },
+    {
+        "link": "/track/lovesong",
+        "relise": "lovesong",
+        "artist": "Kai Angel",
+        "grade": true
+    },
+    {
+        "link": "/track/igra",
+        "relise": "Игра",
+        "artist": "CAKEBOY, Flipper Floyd, GLAM GO!, GONE.Fludd, IROH",
+        "grade": true
+    },
+    {
+        "link": "/track/gpt",
+        "relise": "GPT",
+        "artist": "ANIKV, Элджей",
+        "grade": true
+    },
+    {
+        "link": "/track/kolpaki",
+        "relise": "КОЛПАКИ",
+        "artist": "SQWOZ BAB, КлоуКома",
+        "grade": true
+    },
+    {
+        "link": "/track/chestnyh-pravil",
+        "relise": "Честных правил",
+        "artist": "MARKUL",
+        "grade": true
+    },
+    {
+        "link": "/track/skims",
+        "relise": "SKIMS",
+        "artist": "LIL KRYSTALLL, OBLADAET",
+        "grade": true
+    },
+    {
+        "link": "/track/tonirovannyj-zhigul",
+        "relise": "Тонированный жигуль",
+        "artist": "5opka, MellSher",
+        "grade": true
+    },
+    {
+        "link": "/track/cezar-group",
+        "relise": "Цезарь group",
+        "artist": "A-THIS 52, ICEGERGERT",
+        "grade": true
+    },
+    {
+        "link": "/track/10",
+        "relise": "10",
+        "artist": "Эндшпиль",
+        "grade": true
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "link": "/track/polmateri-bov",
+        "relise": "БОВЬ",
+        "artist": "ПОЛМАТЕРИ",
+        "grade": true
+    },
+    {
+        "link": "/track/birya-exxtinct-mne-nuzhno",
+        "relise": "Мне нужно",
+        "artist": "BIRYA, Exxtinct",
+        "grade": true
+    },
+    {
+        "link": "/track/zidane",
+        "relise": "ZIDANE",
+        "artist": "OBLADAET",
+        "grade": true
+    },
+    {
+        "link": "/album/stay-hella",
+        "relise": "STAY HELLA",
+        "artist": "JEEMBO",
+        "grade": true
+    },
+    {
+        "link": "/track/delaj-chto-mozhesh",
+        "relise": "Делай Что Можешь",
+        "artist": "PHARAOH, Диана Арбенина",
+        "grade": true
+    },
+    {
+        "link": "/track/presidential-majestic",
+        "relise": "Presidential (Majestic)",
+        "artist": "kizaru",
+        "grade": true
+    },
+    {
+        "link": "/track/kak-rabotaet-ljubov",
+        "relise": "Как работает любовь?",
+        "artist": "5opka, СТИНТ",
+        "grade": true
+    },
+    {
+        "link": "/track/aga",
+        "relise": "Ага",
+        "artist": "YASMI, Полка",
+        "grade": true
+    },
+    {
+        "link": "/album/provincial",
+        "relise": "PROVINCIAL",
+        "artist": "Maladoy Prince",
+        "grade": true
+    },
+    {
+        "link": "/track/bolnoj-2",
+        "relise": "БОЛЬНОЙ",
+        "artist": "Hood Rich Luka, молодой калуга",
+        "grade": true
+    },
+    {
+        "link": "/track/ukrashenie",
+        "relise": "Украшение",
+        "artist": "pyrokinesis, Золотое Перо",
+        "grade": true
+    },
+    {
+        "link": "/album/vysshie-sily-deluxe",
+        "relise": "Высшие силы (Deluxe)",
+        "artist": "ANNA ASTI",
+        "grade": true
+    }
+]

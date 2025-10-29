@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/esli",
+        "relise": "если",
+        "artist": "тима ищет свет",
+        "grade": true
+    },
+    {
+        "link": "/track/bottom",
+        "relise": "BOTTOM",
+        "artist": "SHEEEZY",
+        "grade": true
+    },
+    {
+        "link": "/track/fuckoff",
+        "relise": "fuckoff",
+        "artist": "rizza",
+        "grade": true
+    },
+    {
+        "link": "/track/impact",
+        "relise": "Impact",
+        "artist": "RAM",
+        "grade": true
+    },
+    {
+        "link": "/track/adrenalin",
+        "relise": "Адреналин",
+        "artist": "Dose, LYRIQ",
+        "grade": true
+    },
+    {
+        "link": "/track/just-love-you",
+        "relise": "Just Love You",
+        "artist": "Кэстл, Экси",
+        "grade": true
+    },
+    {
+        "link": "/track/sheck-wes",
+        "relise": "SHECK WES",
+        "artist": "Mark Skinner",
+        "grade": true
+    },
+    {
+        "link": "/track/v-pitere",
+        "relise": "В Питере",
+        "artist": "The Hatters, Джарахов",
+        "grade": true
+    },
+    {
+        "link": "/track/pod-zontom",
+        "relise": "Под зонтом",
+        "artist": "Benz, МИЧЕЛЗ",
+        "grade": true
+    },
+    {
+        "link": "/track/pautina",
+        "relise": "Паутина",
+        "artist": "blago white, QONTRAST, Джиган",
+        "grade": true
+    }
+]

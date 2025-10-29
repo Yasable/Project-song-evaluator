@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/feduk-tancy-na-kuhne",
+        "relise": "Танцы на кухне",
+        "artist": "FEDUK",
+        "grade": true
+    },
+    {
+        "link": "/track/krest-idem-ko-dnu",
+        "relise": "идем ко дну",
+        "artist": "КРЕСТ",
+        "grade": true
+    },
+    {
+        "link": "/track/malenkij-yarche-melatonin",
+        "relise": "Мелатонин",
+        "artist": "маленький ярче",
+        "grade": true
+    },
+    {
+        "link": "/track/ephemeral-pyrokinesis-karusel",
+        "relise": "Карусель",
+        "artist": "ephemeral, pyrokinesis",
+        "grade": true
+    },
+    {
+        "link": "/track/aikko-booker-pojmaju-tebya",
+        "relise": "Поймаю тебя",
+        "artist": "aikko, BOOKER",
+        "grade": true
+    },
+    {
+        "link": "/track/ram-raybax-enemy-3",
+        "relise": "Enemy 3",
+        "artist": "RAM, RAYBAX",
+        "grade": true
+    },
+    {
+        "link": "/track/hochuspat-kosmonavtov-net-airdrop",
+        "relise": "AIRDROP",
+        "artist": "КОСМОНАВТОВ НЕТ, хочуспать",
+        "grade": true
+    },
+    {
+        "link": "/track/drowsyy-nwb",
+        "relise": "nwb",
+        "artist": "drowsyy",
+        "grade": true
+    },
+    {
+        "link": "/track/miyagi-andy-panda-burevestnik",
+        "relise": "БУРЕВЕСТНИК",
+        "artist": "Andy Panda, Miyagi",
+        "grade": true
+    },
+    {
+        "link": "/track/lsp-x-ovsyankin-wipe-your-feet",
+        "relise": "WIPE YOUR FEET",
+        "artist": "ЛСП, Овсянкин",
+        "grade": true
+    }
+]

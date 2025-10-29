@@ -1,0 +1,74 @@
+[
+    {
+        "link": "/track/snova",
+        "relise": "SNOVA",
+        "artist": "Biicla, FEDUK, Элджей",
+        "grade": true
+    },
+    {
+        "link": "/track/mi-amor",
+        "relise": "Mi Amor",
+        "artist": "Ollane, Эндшпиль",
+        "grade": true
+    },
+    {
+        "link": "/track/metal-flexin",
+        "relise": "METAL FLEXIN",
+        "artist": "VELIAL SQUAD",
+        "grade": true
+    },
+    {
+        "link": "/track/ego-trip-ii",
+        "relise": "ЭГО ТРИП II",
+        "artist": "dekma",
+        "grade": true
+    },
+    {
+        "link": "/album/kapitonov-forget-about-wounds",
+        "relise": "FORGET ABOUT WOUNDS",
+        "artist": "Kapitonov",
+        "grade": true
+    },
+    {
+        "link": "/track/erzzy-7273",
+        "relise": "7273",
+        "artist": "Erzzy",
+        "grade": true
+    },
+    {
+        "link": "/album/erzzy-treasure-island",
+        "relise": "Treasure Island",
+        "artist": "Erzzy",
+        "grade": true
+    },
+    {
+        "link": "/track/prostuzhen",
+        "relise": "Простужен",
+        "artist": "FORTUNA 812, madk1d",
+        "grade": true
+    },
+    {
+        "link": "/track/zvjozdy",
+        "relise": "Звёзды",
+        "artist": "Heronwater",
+        "grade": true
+    },
+    {
+        "link": "/album/kazhetsya-v-adu-prikolno-no-menya-vygnali-b-utrom",
+        "relise": "кажется, в аду прикольно, но меня выгнали б утром",
+        "artist": "CUPSIZE",
+        "grade": true
+    },
+    {
+        "link": "/track/sabaka-a-d-h-d",
+        "relise": "Сабака (A.D.H.D)",
+        "artist": "OG Buda",
+        "grade": true
+    },
+    {
+        "link": "/track/uroboros",
+        "relise": "uroboros",
+        "artist": "rizza",
+        "grade": true
+    }
+]

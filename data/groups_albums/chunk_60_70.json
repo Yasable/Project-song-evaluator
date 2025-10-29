@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/album/hyperpunk",
+        "relise": "HYPERPUNK",
+        "artist": "SENSEE",
+        "grade": true
+    },
+    {
+        "link": "/album/mir-mne-dolzhen",
+        "relise": "мир мне должен",
+        "artist": "zxcursed",
+        "grade": true
+    },
+    {
+        "link": "/album/erzzy-artifact",
+        "relise": "Artifact",
+        "artist": "Erzzy",
+        "grade": true
+    },
+    {
+        "link": "/album/stay-hella",
+        "relise": "STAY HELLA",
+        "artist": "JEEMBO",
+        "grade": true
+    },
+    {
+        "link": "/album/provincial",
+        "relise": "PROVINCIAL",
+        "artist": "Maladoy Prince",
+        "grade": true
+    },
+    {
+        "link": "/album/vysshie-sily-deluxe",
+        "relise": "Высшие силы (Deluxe)",
+        "artist": "ANNA ASTI",
+        "grade": true
+    },
+    {
+        "link": "/album/midix-x-midix",
+        "relise": "Midix x Midix",
+        "artist": "Midix",
+        "grade": true
+    },
+    {
+        "link": "/album/enemy",
+        "relise": "ENEMY",
+        "artist": "NEWLIGHTCHILD",
+        "grade": true
+    },
+    {
+        "link": "/album/gosha-pik-g-pik",
+        "relise": "G Pik",
+        "artist": "GOSHA PIK",
+        "grade": true
+    },
+    {
+        "link": "/album/6lankname-2",
+        "relise": "6lankname 2",
+        "artist": "BATO",
+        "grade": true
+    }
+]

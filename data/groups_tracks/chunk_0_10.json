@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/durochka",
+        "relise": "Дурочка",
+        "artist": "Дора",
+        "grade": true
+    },
+    {
+        "link": "/track/miu-miu-2",
+        "relise": "MIU MIU",
+        "artist": "Baby Melo",
+        "grade": true
+    },
+    {
+        "link": "/track/tipok",
+        "relise": "Типок",
+        "artist": "PLOHOYPAREN",
+        "grade": true
+    },
+    {
+        "link": "/track/nezabudki",
+        "relise": "Незабудки",
+        "artist": "Егор Крид",
+        "grade": true
+    },
+    {
+        "link": "/track/agent-girl",
+        "relise": "AGENT GIRL",
+        "artist": "INSTASAMKA",
+        "grade": true
+    },
+    {
+        "link": "/track/ya-obyavlyaju-vam-vojnu",
+        "relise": "Я объявляю вам войну",
+        "artist": "Хаски",
+        "grade": true
+    },
+    {
+        "link": "/track/voron-cry",
+        "relise": "Voron Cry",
+        "artist": "GOSHA PIK",
+        "grade": true
+    },
+    {
+        "link": "/track/cenzura",
+        "relise": "Цензура",
+        "artist": "kidswaga",
+        "grade": true
+    },
+    {
+        "link": "/track/plohohorosho",
+        "relise": "ПЛОХОХОРОШО",
+        "artist": "Denya8",
+        "grade": true
+    },
+    {
+        "link": "/track/who-is-poet",
+        "relise": "Who Is Poet?",
+        "artist": "Hood Poet",
+        "grade": true
+    }
+]

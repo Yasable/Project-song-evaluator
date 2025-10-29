@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/rocket-omg",
+        "relise": "OMG",
+        "artist": "ROCKET",
+        "grade": true
+    },
+    {
+        "link": "/track/rocket-ysl-erd",
+        "relise": "YSL & ERD",
+        "artist": "ROCKET",
+        "grade": true
+    },
+    {
+        "link": "/track/josodo-xxxmanera-fk-em-up",
+        "relise": "Fk Em Up",
+        "artist": "Josodo, xxxmanera",
+        "grade": true
+    },
+    {
+        "link": "/track/3ternity-chainsaw",
+        "relise": "chainsaw",
+        "artist": "3TERNITY",
+        "grade": true
+    },
+    {
+        "link": "/track/frik-pati-naposledok",
+        "relise": "Напоследок",
+        "artist": "ФРИК ПАТИ",
+        "grade": true
+    },
+    {
+        "link": "/track/guster-sny",
+        "relise": "Сны",
+        "artist": "Guster",
+        "grade": true
+    },
+    {
+        "link": "/track/bell-iskusno",
+        "relise": "Искусно",
+        "artist": "Bell",
+        "grade": true
+    },
+    {
+        "link": "/track/temnyj-rom-smerkalos",
+        "relise": "Смеркалось",
+        "artist": "Темный Ром",
+        "grade": true
+    },
+    {
+        "link": "/track/pshek-sostilju-pachki",
+        "relise": "Состилю / Пачки",
+        "artist": "ПШЕК",
+        "grade": true
+    },
+    {
+        "link": "/track/heronwater-zavisim",
+        "relise": "Зависим",
+        "artist": "Heronwater",
+        "grade": true
+    }
+]

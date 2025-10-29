@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/sputnik-waves-sotkany",
+        "relise": "Сотканы",
+        "artist": "sputnik waves",
+        "grade": true
+    },
+    {
+        "link": "/track/aeroplan",
+        "relise": "Аэроплан",
+        "artist": "Поэмы Дарвина",
+        "grade": true
+    },
+    {
+        "link": "/track/saluki-voskresenskii-pokazhi-kak-ty-tancuesh",
+        "relise": "Покажи как ты танцуешь",
+        "artist": "SALUKI, Voskresenskii",
+        "grade": true
+    },
+    {
+        "link": "/track/pepel-nahudi-ya-e-bu",
+        "relise": "YA E BU",
+        "artist": "Pepel Nahudi",
+        "grade": true
+    },
+    {
+        "link": "/track/fortuna-812-gotham",
+        "relise": "gotham",
+        "artist": "FORTUNA 812",
+        "grade": true
+    },
+    {
+        "link": "/track/kizaru-simba",
+        "relise": "SIMBA",
+        "artist": "kizaru",
+        "grade": true
+    },
+    {
+        "link": "/track/sensee-love-punk-rock",
+        "relise": "LOVE///PUNK ROCK",
+        "artist": "SENSEE",
+        "grade": true
+    },
+    {
+        "link": "/track/tjomnyj-princ-tjomnyj-princ",
+        "relise": "автозаправка",
+        "artist": "тёмный принц",
+        "grade": true
+    },
+    {
+        "link": "/track/dyhanie-tvoe",
+        "relise": "Дыхание твое",
+        "artist": "МУККА",
+        "grade": true
+    },
+    {
+        "link": "/track/na-bare-2",
+        "relise": "На баре",
+        "artist": "БРЕДИШЬ, Кишлак",
+        "grade": true
+    }
+]

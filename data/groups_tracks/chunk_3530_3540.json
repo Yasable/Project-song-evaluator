@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/whybaby-paypass",
+        "relise": "PayPass",
+        "artist": "WhyBaby?",
+        "grade": true
+    },
+    {
+        "link": "/track/dzharahov-begu-po-krugu",
+        "relise": "Бегу по кругу",
+        "artist": "Джарахов",
+        "grade": true
+    },
+    {
+        "link": "/track/horus-pryzhok-very",
+        "relise": "Прыжок веры",
+        "artist": "Horus",
+        "grade": true
+    },
+    {
+        "link": "/track/shajni-3ternity-sadness",
+        "relise": "Sadness",
+        "artist": "3TERNITY, Шайни",
+        "grade": true
+    },
+    {
+        "link": "/track/pyrokinesis-chapman-red",
+        "relise": "Чапман ред",
+        "artist": "pyrokinesis",
+        "grade": true
+    },
+    {
+        "link": "/track/gone-fludd-bolshaya-mama",
+        "relise": "Большая мама",
+        "artist": "GONE.Fludd",
+        "grade": true
+    },
+    {
+        "link": "/track/sqwoz-bab-gender",
+        "relise": "GENDER",
+        "artist": "SQWOZ BAB",
+        "grade": true
+    },
+    {
+        "link": "/track/drowsyy-sqwore-17-seventeen-ne-skroesh",
+        "relise": "Не скроешь",
+        "artist": "17 SEVENTEEN, drowsyy, Sqwore",
+        "grade": true
+    },
+    {
+        "link": "/track/bbb-govori-gromche",
+        "relise": "Говори громче",
+        "artist": "БББ",
+        "grade": true
+    },
+    {
+        "link": "/track/dajmjo-govori-gromche",
+        "relise": "Говори громче",
+        "artist": "ДАЙМЁ",
+        "grade": true
+    }
+]

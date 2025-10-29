@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/johnyboy-destroit",
+        "relise": "DEsTROIT",
+        "artist": "Johnyboy",
+        "grade": true
+    },
+    {
+        "link": "/track/poslednij-serafim-zaglyani",
+        "relise": "Загляни",
+        "artist": "Последний Серафим",
+        "grade": true
+    },
+    {
+        "link": "/track/pyrokinesis-dakooka-31006",
+        "relise": "31006",
+        "artist": "DAKOOKA, pyrokinesis",
+        "grade": true
+    },
+    {
+        "link": "/track/plc-feat-anacondaz-boeviki",
+        "relise": "Боевики",
+        "artist": "Anacondaz, PLC",
+        "grade": true
+    },
+    {
+        "link": "/track/maslo-chernogo-tmina-w-p",
+        "relise": "w.p",
+        "artist": "масло черного тмина",
+        "grade": true
+    },
+    {
+        "link": "/track/h1gh-kogda-ty-bogat",
+        "relise": "Между мировой и войной",
+        "artist": "H1GH",
+        "grade": true
+    },
+    {
+        "link": "/track/molodoj-platon-big-lil",
+        "relise": "BIG LIL",
+        "artist": "Молодой Платон",
+        "grade": true
+    },
+    {
+        "link": "/track/dzhizus-ya-tam-gde-ty",
+        "relise": "Я там где ты",
+        "artist": "Джизус",
+        "grade": true
+    },
+    {
+        "link": "/track/white-punk-ya-vse-eshhjo-zdes",
+        "relise": "Я всё ещё здесь",
+        "artist": "White Punk",
+        "grade": true
+    },
+    {
+        "link": "/track/velial-squad-golem",
+        "relise": "Golem",
+        "artist": "VELIAL SQUAD",
+        "grade": true
+    }
+]

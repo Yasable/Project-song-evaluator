@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/paris-2008",
+        "relise": "PARIS 2008",
+        "artist": "Kai Angel",
+        "grade": true
+    },
+    {
+        "link": "/track/igrushki",
+        "relise": "игрушки",
+        "artist": "mzlff",
+        "grade": true
+    },
+    {
+        "link": "/track/life-of-a-popstar",
+        "relise": "Life of a popstar",
+        "artist": "Sqwore",
+        "grade": true
+    },
+    {
+        "link": "/track/kilimandzharo",
+        "relise": "КИЛИМАНДЖАРО",
+        "artist": "LOVV66",
+        "grade": true
+    },
+    {
+        "link": "/track/aromat",
+        "relise": "AROMAT",
+        "artist": "ESTANGER",
+        "grade": true
+    },
+    {
+        "link": "/track/ne-ljubila",
+        "relise": "Не любила",
+        "artist": "Nekid",
+        "grade": true
+    },
+    {
+        "link": "/track/splash",
+        "relise": "Splash!",
+        "artist": "HARKONE ATTANO",
+        "grade": true
+    },
+    {
+        "link": "/track/na-svojom",
+        "relise": "На своём",
+        "artist": "CARAPACEE",
+        "grade": true
+    },
+    {
+        "link": "/track/sobachij-oshejnik",
+        "relise": "Собачий ошейник",
+        "artist": "CARAPACEE",
+        "grade": true
+    },
+    {
+        "link": "/track/joker",
+        "relise": "JOKER",
+        "artist": "Christiana Mergan",
+        "grade": true
+    }
+]

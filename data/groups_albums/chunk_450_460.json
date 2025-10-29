@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/album/final-fantasy-album",
+        "relise": "FINAL FANTASY",
+        "artist": "Midix",
+        "grade": true
+    },
+    {
+        "link": "/album/buter-brodskij-2",
+        "relise": "Бутер Бродский 2",
+        "artist": "Слава КПСС",
+        "grade": true
+    },
+    {
+        "link": "/album/love-stars",
+        "relise": "Love & Stars",
+        "artist": "lil 17th",
+        "grade": true
+    },
+    {
+        "link": "/album/haha",
+        "relise": "hahA",
+        "artist": "weikoo, woee33",
+        "grade": true
+    },
+    {
+        "link": "/album/mukka-mertvye-cvety",
+        "relise": "Мертвые цветы",
+        "artist": "МУККА",
+        "grade": true
+    },
+    {
+        "link": "/album/mayot-zapravka-kid-3",
+        "relise": "ЗАПРАВКА КИД 3",
+        "artist": "MAYOT",
+        "grade": true
+    },
+    {
+        "link": "/album/macan-12",
+        "relise": "12",
+        "artist": "MACAN",
+        "grade": true
+    },
+    {
+        "link": "/album/elyaplugg-spittinbars",
+        "relise": "#spittinbars",
+        "artist": "elyaplugg!",
+        "grade": true
+    },
+    {
+        "link": "/album/instasamka-popstar",
+        "relise": "POPSTAR",
+        "artist": "INSTASAMKA",
+        "grade": true
+    },
+    {
+        "link": "/album/lida-novaya-rok-zvezda",
+        "relise": "Новая рок звезда",
+        "artist": "Lida",
+        "grade": true
+    }
+]

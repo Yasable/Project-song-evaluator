@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/lovv66-mojo-vremya",
+        "relise": "Моё время",
+        "artist": "LOVV66",
+        "grade": true
+    },
+    {
+        "link": "/track/klava-koka-podushka",
+        "relise": "Подушка",
+        "artist": "Клава Кока",
+        "grade": true
+    },
+    {
+        "link": "/track/nxn-sarcasm",
+        "relise": "Sarcasm",
+        "artist": "NXN",
+        "grade": true
+    },
+    {
+        "link": "/track/bi-2-nam-ne-nuzhen-geroj",
+        "relise": "Нам не нужен герой",
+        "artist": "Би-2",
+        "grade": true
+    },
+    {
+        "link": "/track/mezza-vechnaya-zhizn",
+        "relise": "Вечная жизнь",
+        "artist": "МЕЗЗА",
+        "grade": true
+    },
+    {
+        "link": "/track/gradusy-kravc-vse-zhenshhiny-mira",
+        "relise": "Все женщины мира",
+        "artist": "Градусы, Кравц",
+        "grade": true
+    },
+    {
+        "link": "/track/pkhat-wake-up",
+        "relise": "WAKE UP",
+        "artist": "PKHAT",
+        "grade": true
+    },
+    {
+        "link": "/track/rigos-feat-jah-khalib-ej-kep",
+        "relise": "Эй, Кэп",
+        "artist": "Jah Khalib, Rigos",
+        "grade": true
+    },
+    {
+        "link": "/track/jah-khalib-sleduj-za-mnoj",
+        "relise": "Следуй за мной",
+        "artist": "Jah Khalib",
+        "grade": true
+    },
+    {
+        "link": "/track/kislo-sladkij-bonah-taq-tara-raq",
+        "relise": "TAQ TARA RAQ",
+        "artist": "Bonah, Кисло-Сладкий",
+        "grade": true
+    }
+]

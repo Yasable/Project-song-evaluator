@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/track/russkie-vpered",
+        "relise": "Русские вперед",
+        "artist": "INSTASAMKA, Ленинград",
+        "grade": true
+    },
+    {
+        "link": "/album/bumery-i-zumery",
+        "relise": "Бумеры и зумеры",
+        "artist": "INSTASAMKA, Ленинград",
+        "grade": true
+    },
+    {
+        "link": "/album/dorogaya-bol",
+        "relise": "ДОРОГАЯ, БОЛЬ!",
+        "artist": "ARUSTAMOV",
+        "grade": false
+    },
+    {
+        "link": "/album/zhelezo",
+        "relise": "Железо",
+        "artist": "Сюзанна",
+        "grade": false
+    },
+    {
+        "link": "/track/ampir",
+        "relise": "Ампир",
+        "artist": "PROOVY",
+        "grade": false
+    },
+    {
+        "link": "/track/vsjo-okej",
+        "relise": "Всё окей",
+        "artist": "Josodo",
+        "grade": false
+    },
+    {
+        "link": "/track/parislove",
+        "relise": "ParisLove",
+        "artist": "FORTUNA 812",
+        "grade": false
+    },
+    {
+        "link": "/track/perezaryadka-2",
+        "relise": "ПЕРЕЗАРЯДКА 2",
+        "artist": "dmtboy",
+        "grade": false
+    },
+    {
+        "link": "/track/tvoya-umnica",
+        "relise": "твоя умница",
+        "artist": "daryana",
+        "grade": false
+    },
+    {
+        "link": "/album/pnr19-ch-2",
+        "relise": "#PNR19, Ч. 2",
+        "artist": "Nikitsunami",
+        "grade": false
+    },
+    {
+        "link": "/album/dnevnik-pamyati",
+        "relise": "Дневник памяти",
+        "artist": "MONA",
+        "grade": true
+    },
+    {
+        "link": "/album/night-b3fore",
+        "relise": "NIGHT B3FORE",
+        "artist": "3TERNITY",
+        "grade": false
+    },
+    {
+        "link": "/track/noubadi",
+        "relise": "Ноубади",
+        "artist": "YUNGWAY",
+        "grade": false
+    },
+    {
+        "link": "/track/zitraks-mode",
+        "relise": "zitraks mode",
+        "artist": "shadowraze",
+        "grade": true
+    },
+    {
+        "link": "/track/osadki",
+        "relise": "Осадки",
+        "artist": "MARKUL",
+        "grade": false
+    },
+    {
+        "link": "/track/svarovski",
+        "relise": "Сваровски",
+        "artist": "Heronwater",
+        "grade": true
+    },
+    {
+        "link": "/track/30510",
+        "relise": "...",
+        "artist": "dekma, SHTRIHCOD",
+        "grade": false
+    },
+    {
+        "link": "/track/secrets",
+        "relise": "SECRETS",
+        "artist": "b3brina, mafanya, ЮГ 404",
+        "grade": false
+    },
+    {
+        "link": "/track/0-chudovishhe",
+        "relise": "ЧУДОВИЩЕ",
+        "artist": "0$",
+        "grade": true
+    },
+    {
+        "link": "/track/thrill-pill-bulimiya",
+        "relise": "Булимия",
+        "artist": "THRILL PILL",
+        "grade": true
+    },
+    {
+        "link": "/track/cakeboy-kloukoma-ookkaayy",
+        "relise": "OOKKAAYY",
+        "artist": "CAKEBOY, КлоуКома",
+        "grade": true
+    },
+    {
+        "link": "/track/bakkara",
+        "relise": "Баккара",
+        "artist": "4n Way",
+        "grade": true
+    },
+    {
+        "link": "/track/telekinez",
+        "relise": "Телекинез",
+        "artist": "FEDUK",
+        "grade": true
+    },
+    {
+        "link": "/track/besy-2",
+        "relise": "БЕСЫ",
+        "artist": "VELIAL SQUAD",
+        "grade": true
+    },
+    {
+        "link": "/album/amalgama",
+        "relise": "Амальгама",
+        "artist": "БРЕДИШЬ",
+        "grade": false
+    },
+    {
+        "link": "/album/dolgij-yashhik",
+        "relise": "Долгий ящик",
+        "artist": "Зараза",
+        "grade": false
+    },
+    {
+        "link": "/album/gazovyj-dush",
+        "relise": "Газовый душ",
+        "artist": "DenDerty",
+        "grade": false
+    },
+    {
+        "link": "/album/digiboy",
+        "relise": "DIGIBOY",
+        "artist": "Flavless",
+        "grade": false
+    },
+    {
+        "link": "/track/avtomobil",
+        "relise": "Автомобиль",
+        "artist": "22 РАЗА",
+        "grade": false
+    },
+    {
+        "link": "/track/tru",
+        "relise": "тру",
+        "artist": "Truwer, кухня",
+        "grade": false
+    },
+    {
+        "link": "/track/psiho",
+        "relise": "ПСИХО",
+        "artist": "НОКТУ",
+        "grade": false
+    },
+    {
+        "link": "/track/red-lipstick-2-lines",
+        "relise": "Red lipstick + 2 lines",
+        "artist": "Овсянкин",
+        "grade": false
+    },
+    {
+        "link": "/track/povezlo",
+        "relise": "ПОВЕЗЛО",
+        "artist": "Felix Kotlo, Thomas Mraz",
+        "grade": false
+    },
+    {
+        "link": "/track/back",
+        "relise": "BACK",
+        "artist": "TRU47",
+        "grade": false
+    },
+    {
+        "link": "/album/last-one-nuar",
+        "relise": "Last One Nuar",
+        "artist": "Hugo Loud",
+        "grade": true
+    },
+    {
+        "link": "/album/nastya",
+        "relise": "НАСТЯ",
+        "artist": "ЕГОР НАТС",
+        "grade": false
+    }
+]

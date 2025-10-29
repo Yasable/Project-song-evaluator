@@ -1,0 +1,92 @@
+[
+    {
+        "link": "/album/sabutage",
+        "relise": "SABUTAGE",
+        "artist": "SABU",
+        "grade": true
+    },
+    {
+        "link": "/track/dyhanie-tvoe",
+        "relise": "Дыхание твое",
+        "artist": "МУККА",
+        "grade": true
+    },
+    {
+        "link": "/track/na-bare-2",
+        "relise": "На баре",
+        "artist": "БРЕДИШЬ, Кишлак",
+        "grade": true
+    },
+    {
+        "link": "/track/omut-manit-ulica-respubliki-bez-nazvaniya",
+        "relise": "Без названия",
+        "artist": "omut manit, Улица Республики",
+        "grade": true
+    },
+    {
+        "link": "/track/volish-kakoj-sjurpriz",
+        "relise": "какой сюрприз",
+        "artist": "volish",
+        "grade": true
+    },
+    {
+        "link": "/track/wackey-kak-dela",
+        "relise": "КАК ДЕЛА",
+        "artist": "Wackey",
+        "grade": true
+    },
+    {
+        "link": "/track/kupidon-gipnoz",
+        "relise": "Гипноз",
+        "artist": "KUPIDON.",
+        "grade": true
+    },
+    {
+        "link": "/track/trankwill-artist",
+        "relise": "Artist",
+        "artist": "TrankWill",
+        "grade": true
+    },
+    {
+        "link": "/track/meli-k-loshadka",
+        "relise": "ЛОШАДКА",
+        "artist": "Meli K",
+        "grade": true
+    },
+    {
+        "link": "/track/cardio-killer-zugzwang",
+        "relise": "ZUGZWANG",
+        "artist": "CARDIO KILLER",
+        "grade": true
+    },
+    {
+        "link": "/track/mazzltoff-noski",
+        "relise": "Носки",
+        "artist": "Mazzltoff",
+        "grade": true
+    },
+    {
+        "link": "/track/korza-k5-makallan-malboro",
+        "relise": "К5, Макаллан, Мальборо",
+        "artist": "КОРЗА",
+        "grade": true
+    },
+    {
+        "link": "/album/korza-lyarva",
+        "relise": "ЛЯРВА",
+        "artist": "КОРЗА",
+        "grade": true
+    },
+    {
+        "link": "/track/kapitonov-eyes-evade",
+        "relise": "EYES EVADE",
+        "artist": "Kapitonov",
+        "grade": true
+    },
+    {
+        "link": "/album/kapitonov-amantes-amentes",
+        "relise": "AMANTES &amp; AMENTES",
+        "artist": "Kapitonov",
+        "grade": true
+    }
+]

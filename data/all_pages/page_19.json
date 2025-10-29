@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/album/dlya-nashego-stolika",
+        "relise": "Для нашего столика",
+        "artist": "Золотое Перо",
+        "grade": false
+    },
+    {
+        "link": "/track/rex",
+        "relise": "REX",
+        "artist": "SHTRIHCOD",
+        "grade": false
+    },
+    {
+        "link": "/track/fotografiya",
+        "relise": "Фотография",
+        "artist": "Ollane",
+        "grade": false
+    },
+    {
+        "link": "/track/poslednij-vals",
+        "relise": "Последний вальс",
+        "artist": "Mirèle, Петар Мартич",
+        "grade": false
+    },
+    {
+        "link": "/track/chjornyj-voron",
+        "relise": "Чёрный Ворон",
+        "artist": "Metox",
+        "grade": false
+    },
+    {
+        "link": "/track/sohrani",
+        "relise": "сохрани",
+        "artist": "LYRIQ",
+        "grade": false
+    },
+    {
+        "link": "/track/krutim-v-klub",
+        "relise": "Крутим В Клуб",
+        "artist": "HOFMANNITA",
+        "grade": false
+    },
+    {
+        "link": "/track/shahmaty",
+        "relise": "шахматы",
+        "artist": "dabbackwood, LilSemmi",
+        "grade": false
+    },
+    {
+        "link": "/track/toma",
+        "relise": "ТОМА",
+        "artist": "Минин",
+        "grade": false
+    },
+    {
+        "link": "/track/vezi",
+        "relise": "ВЕЗИ",
+        "artist": "АКУЛИЧ",
+        "grade": false
+    },
+    {
+        "link": "/album/dear-diary",
+        "relise": "Dear Diary",
+        "artist": "Pittkiid",
+        "grade": false
+    },
+    {
+        "link": "/track/proniklas-mnoj",
+        "relise": "Прониклась мной",
+        "artist": "T-Fest",
+        "grade": false
+    },
+    {
+        "link": "/track/vandal-2",
+        "relise": "Вандал",
+        "artist": "RAM",
+        "grade": false
+    },
+    {
+        "link": "/track/govori-im",
+        "relise": "ГОВОРИ ИМ",
+        "artist": "Lover",
+        "grade": false
+    },
+    {
+        "link": "/track/grr",
+        "relise": "Грр",
+        "artist": "ENTYPE",
+        "grade": false
+    },
+    {
+        "link": "/track/zhdu-vozle-doma",
+        "relise": "Жду возле дома",
+        "artist": "ЮГ 404",
+        "grade": false
+    },
+    {
+        "link": "/track/prosti-3",
+        "relise": "Прости",
+        "artist": "Тима Белорусских",
+        "grade": false
+    },
+    {
+        "link": "/track/smes",
+        "relise": "Смесь",
+        "artist": "Bumble Beezy, кровь из носа",
+        "grade": false
+    },
+    {
+        "link": "/album/sabutage",
+        "relise": "SABUTAGE",
+        "artist": "SABU",
+        "grade": true
+    },
+    {
+        "link": "/track/zvjozdy-2",
+        "relise": "звёзды",
+        "artist": "shadowraze, toboroki",
+        "grade": false
+    },
+    {
+        "link": "/track/heavier-rain",
+        "relise": "heavier rain​",
+        "artist": "dekma",
+        "grade": false
+    },
+    {
+        "link": "/track/govoril-s-toboj",
+        "relise": "говорил с тобой",
+        "artist": "Beamerlight, cold carti",
+        "grade": false
+    },
+    {
+        "link": "/track/dyhanie-tvoe",
+        "relise": "Дыхание твое",
+        "artist": "МУККА",
+        "grade": true
+    },
+    {
+        "link": "/track/na-bare-2",
+        "relise": "На баре",
+        "artist": "БРЕДИШЬ, Кишлак",
+        "grade": true
+    },
+    {
+        "link": "/track/omut-manit-ulica-respubliki-bez-nazvaniya",
+        "relise": "Без названия",
+        "artist": "omut manit, Улица Республики",
+        "grade": true
+    },
+    {
+        "link": "/track/volish-kakoj-sjurpriz",
+        "relise": "какой сюрприз",
+        "artist": "volish",
+        "grade": true
+    },
+    {
+        "link": "/track/wackey-kak-dela",
+        "relise": "КАК ДЕЛА",
+        "artist": "Wackey",
+        "grade": true
+    },
+    {
+        "link": "/track/kupidon-gipnoz",
+        "relise": "Гипноз",
+        "artist": "KUPIDON.",
+        "grade": true
+    },
+    {
+        "link": "/track/trankwill-artist",
+        "relise": "Artist",
+        "artist": "TrankWill",
+        "grade": true
+    },
+    {
+        "link": "/track/meli-k-loshadka",
+        "relise": "ЛОШАДКА",
+        "artist": "Meli K",
+        "grade": true
+    },
+    {
+        "link": "/track/cardio-killer-zugzwang",
+        "relise": "ZUGZWANG",
+        "artist": "CARDIO KILLER",
+        "grade": true
+    },
+    {
+        "link": "/track/mazzltoff-noski",
+        "relise": "Носки",
+        "artist": "Mazzltoff",
+        "grade": true
+    },
+    {
+        "link": "/track/korza-k5-makallan-malboro",
+        "relise": "К5, Макаллан, Мальборо",
+        "artist": "КОРЗА",
+        "grade": true
+    },
+    {
+        "link": "/album/korza-lyarva",
+        "relise": "ЛЯРВА",
+        "artist": "КОРЗА",
+        "grade": true
+    },
+    {
+        "link": "/track/kapitonov-eyes-evade",
+        "relise": "EYES EVADE",
+        "artist": "Kapitonov",
+        "grade": true
+    },
+    {
+        "link": "/album/kapitonov-amantes-amentes",
+        "relise": "AMANTES &amp; AMENTES",
+        "artist": "Kapitonov",
+        "grade": true
+    }
+]

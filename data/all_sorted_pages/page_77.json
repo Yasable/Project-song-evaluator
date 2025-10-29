@@ -1,0 +1,110 @@
+[
+    {
+        "link": "/track/hitrol-aviaciya",
+        "relise": "Авиация",
+        "artist": "Hitrol",
+        "grade": true
+    },
+    {
+        "link": "/track/rileyn-go-go",
+        "relise": "GO, GO!",
+        "artist": "RILEYN",
+        "grade": true
+    },
+    {
+        "link": "/track/peoll-bolshaya-sumka",
+        "relise": "большая сумка",
+        "artist": "Peoll",
+        "grade": true
+    },
+    {
+        "link": "/track/peoll-venice-criuse",
+        "relise": "Venice criuse",
+        "artist": "Peoll",
+        "grade": true
+    },
+    {
+        "link": "/track/zawjalow-bolshemenshe-cvety",
+        "relise": "Цветы",
+        "artist": "zawjalow, большеменьше",
+        "grade": true
+    },
+    {
+        "link": "/track/kate-healton-zoom",
+        "relise": "ZOOM",
+        "artist": "Kate Healton",
+        "grade": true
+    },
+    {
+        "link": "/track/vvain-vampkiller-interlude",
+        "relise": "VAMPKILLER INTERLUDE",
+        "artist": "VVAIN",
+        "grade": true
+    },
+    {
+        "link": "/track/vvain-bladerunner",
+        "relise": "BLADERUNNER",
+        "artist": "VVAIN",
+        "grade": true
+    },
+    {
+        "link": "/track/finna-tjomnyj-brill-xanredbull",
+        "relise": "Xanredbull",
+        "artist": "FiNNA, Тёмный Брилл",
+        "grade": true
+    },
+    {
+        "link": "/track/samopovtor-planeta-zhenshhin",
+        "relise": "Планета женщин",
+        "artist": "Самоповтор",
+        "grade": true
+    },
+    {
+        "link": "/track/kaniskin-ya-uplyvu",
+        "relise": "Я уплыву",
+        "artist": "KANISKIN",
+        "grade": true
+    },
+    {
+        "link": "/track/katya-miltej-highly-insulted",
+        "relise": "HIGHLY INSULTED",
+        "artist": "катя милтей",
+        "grade": true
+    },
+    {
+        "link": "/track/bouvrd-b-plan",
+        "relise": "Б-план",
+        "artist": "Bouvrd",
+        "grade": true
+    },
+    {
+        "link": "/track/bye-baby-road-rage",
+        "relise": "Road Rage",
+        "artist": "BYE! baby",
+        "grade": true
+    },
+    {
+        "link": "/track/bato-jeembo-tveth-full-house",
+        "relise": "Full House",
+        "artist": "BATO, JEEMBO, TVETH",
+        "grade": true
+    },
+    {
+        "link": "/track/metox-krov-iz-nosa-skandinavskaya-tjurma",
+        "relise": "скандинавская тюрьма",
+        "artist": "Metox, кровь из носа",
+        "grade": true
+    },
+    {
+        "link": "/track/dubaj",
+        "relise": "ДУБАЙ",
+        "artist": "АКУЛИЧ",
+        "grade": true
+    },
+    {
+        "link": "/track/ya-budu-populyarnee",
+        "relise": "Я буду популярнее!",
+        "artist": "STOPBAN",
+        "grade": true
+    }
+]

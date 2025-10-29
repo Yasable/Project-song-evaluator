@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/spoj",
+        "relise": "Спой",
+        "artist": "A.V.G., MACAN",
+        "grade": true
+    },
+    {
+        "link": "/track/marco-9-u",
+        "relise": "U",
+        "artist": "MARCO-9",
+        "grade": true
+    },
+    {
+        "link": "/track/konec-solnechnyh-dnej-molodoj-avangardist",
+        "relise": "молодой авангардист",
+        "artist": "конец солнечных дней",
+        "grade": true
+    },
+    {
+        "link": "/track/sagath-frankenshtejn",
+        "relise": "Франкенштейн",
+        "artist": "Sagath",
+        "grade": true
+    },
+    {
+        "link": "/track/fifteensaw-zabud-pzh",
+        "relise": "Забудь пж!",
+        "artist": "Fifteensaw",
+        "grade": true
+    },
+    {
+        "link": "/track/blandekaj-the-devil-does",
+        "relise": "THE DEVIL DOES",
+        "artist": "Бландекай",
+        "grade": true
+    },
+    {
+        "link": "/track/babo4ka-fashion-brand",
+        "relise": "FASHION BRAND",
+        "artist": "BABO4KA",
+        "grade": true
+    },
+    {
+        "link": "/track/hammali-navai-zapadnya",
+        "relise": "Западня",
+        "artist": "HammAli, NAVAI",
+        "grade": true
+    },
+    {
+        "link": "/track/akulich-ne-manipuliruj",
+        "relise": "Не манипулируй",
+        "artist": "АКУЛИЧ",
+        "grade": true
+    },
+    {
+        "link": "/track/mopok-81",
+        "relise": "81",
+        "artist": "МОРОК",
+        "grade": true
+    }
+]

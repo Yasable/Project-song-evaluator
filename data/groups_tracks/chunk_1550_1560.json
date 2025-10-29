@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/maybe",
+        "relise": "maybe",
+        "artist": "MACAN, The Limba",
+        "grade": true
+    },
+    {
+        "link": "/track/fakat",
+        "relise": "Факать",
+        "artist": "ENTYPE, Josodo",
+        "grade": true
+    },
+    {
+        "link": "/track/ne-nuzhna",
+        "relise": "Не нужна",
+        "artist": "Heronwater",
+        "grade": true
+    },
+    {
+        "link": "/track/12am",
+        "relise": "12 AM",
+        "artist": "DooMee, LOVV66",
+        "grade": true
+    },
+    {
+        "link": "/track/temperatura",
+        "relise": "Температура",
+        "artist": "polnalyubvi, Три дня дождя",
+        "grade": true
+    },
+    {
+        "link": "/track/teller-grustnyj-smajlik",
+        "relise": "Грустный смайлик :(",
+        "artist": "Теллер",
+        "grade": true
+    },
+    {
+        "link": "/track/antongiant-ne-raz",
+        "relise": "Не раз",
+        "artist": "AntonGiant",
+        "grade": true
+    },
+    {
+        "link": "/track/onlypanika-eyes",
+        "relise": "EYES",
+        "artist": "ONLYPANIKA",
+        "grade": true
+    },
+    {
+        "link": "/track/maive-next-week",
+        "relise": "Next Week",
+        "artist": "Maive",
+        "grade": true
+    },
+    {
+        "link": "/track/tired-ed-opyt",
+        "relise": "Опыт",
+        "artist": "Tired Ed",
+        "grade": true
+    }
+]

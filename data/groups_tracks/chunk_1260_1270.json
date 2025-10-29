@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/mayot-34n",
+        "relise": "34N",
+        "artist": "MAYOT",
+        "grade": true
+    },
+    {
+        "link": "/track/mayot-poh",
+        "relise": "Пох",
+        "artist": "MAYOT",
+        "grade": true
+    },
+    {
+        "link": "/track/vagabund",
+        "relise": "ВАГАБУНД",
+        "artist": "SCHOKK",
+        "grade": true
+    },
+    {
+        "link": "/track/black-n-white",
+        "relise": "BLACK N WHITE",
+        "artist": "VELIAL SQUAD",
+        "grade": true
+    },
+    {
+        "link": "/track/non-official",
+        "relise": "Non Official",
+        "artist": "opt, tsb",
+        "grade": true
+    },
+    {
+        "link": "/track/vazhnee",
+        "relise": "Важнее",
+        "artist": "КРИСПИ, Экси",
+        "grade": true
+    },
+    {
+        "link": "/track/lekarstvo",
+        "relise": "Лекарство",
+        "artist": "3TERNITY",
+        "grade": true
+    },
+    {
+        "link": "/track/muzyka-sfer",
+        "relise": "Музыка сфер",
+        "artist": "GONE.Fludd",
+        "grade": true
+    },
+    {
+        "link": "/track/no-diddy",
+        "relise": "NO DIDDY",
+        "artist": "Big Baby Tape",
+        "grade": true
+    },
+    {
+        "link": "/track/your-love",
+        "relise": "Your Love",
+        "artist": "9mice",
+        "grade": true
+    }
+]

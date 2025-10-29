@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/jaysame-podnyalsya",
+        "relise": "ПОДНЯЛСЯ",
+        "artist": "JAYSAME",
+        "grade": true
+    },
+    {
+        "link": "/track/basta-feduk-vremeni-net",
+        "relise": "Времени нет",
+        "artist": "FEDUK, Баста",
+        "grade": true
+    },
+    {
+        "link": "/track/klava-koka-sqwoz-bab-dzharahov-rozovaya-luna",
+        "relise": "Розовая Луна",
+        "artist": "SQWOZ BAB, Джарахов, Клава Кока",
+        "grade": true
+    },
+    {
+        "link": "/track/yungway-zhara",
+        "relise": "Жара",
+        "artist": "YUNGWAY",
+        "grade": true
+    },
+    {
+        "link": "/track/pashik-gromkiy-stamina",
+        "relise": "Стамина",
+        "artist": "Gromkiy, pashik",
+        "grade": true
+    },
+    {
+        "link": "/track/friendly-thug-52-ngg-poke",
+        "relise": "Poke",
+        "artist": "FRIENDLY THUG 52 NGG",
+        "grade": true
+    },
+    {
+        "link": "/track/mary-gu-mayot-dva-vystrela",
+        "relise": "Два выстрела",
+        "artist": "Mary Gu, MAYOT",
+        "grade": true
+    },
+    {
+        "link": "/track/eldzhej-forrest-gamp",
+        "relise": "Форрест Гамп",
+        "artist": "Элджей",
+        "grade": true
+    },
+    {
+        "link": "/track/uglystephan-hellou-kitti",
+        "relise": "Хэллоу Китти",
+        "artist": "uglystephan",
+        "grade": true
+    },
+    {
+        "link": "/track/soda-luv-dtf",
+        "relise": "DTF",
+        "artist": "SODA LUV",
+        "grade": true
+    }
+]

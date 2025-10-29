@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/asphalt-8",
+        "relise": "ASPHALT 8",
+        "artist": "MACAN",
+        "grade": true
+    },
+    {
+        "link": "/track/horoshij-den",
+        "relise": "Хороший день",
+        "artist": "STED.D",
+        "grade": true
+    },
+    {
+        "link": "/track/orlando",
+        "relise": "Орландо",
+        "artist": "JABO",
+        "grade": true
+    },
+    {
+        "link": "/track/deviant",
+        "relise": "ДЕВИАНТ",
+        "artist": "КРЕСТ",
+        "grade": true
+    },
+    {
+        "link": "/track/ballad",
+        "relise": "Ballad",
+        "artist": "Castle, TumaniYO",
+        "grade": true
+    },
+    {
+        "link": "/track/nash-poslednij-tanec",
+        "relise": "наш последний танец",
+        "artist": "ARUSTAMOV, RVMZES",
+        "grade": true
+    },
+    {
+        "link": "/track/padali-zvjozdy",
+        "relise": "Падали звёзды",
+        "artist": "The Limba",
+        "grade": true
+    },
+    {
+        "link": "/track/monster",
+        "relise": "MONSTER",
+        "artist": "FRESCO",
+        "grade": true
+    },
+    {
+        "link": "/track/ahilles",
+        "relise": "Ahilles",
+        "artist": "Beni Milordo, Скриптонит",
+        "grade": true
+    },
+    {
+        "link": "/track/voshod",
+        "relise": "Восход",
+        "artist": "КлоуКома",
+        "grade": true
+    }
+]

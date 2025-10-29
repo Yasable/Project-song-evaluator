@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/bestseller",
+        "relise": "Bestseller",
+        "artist": "PIT",
+        "grade": true
+    },
+    {
+        "link": "/track/luna",
+        "relise": "луна",
+        "artist": "Daniel Amari",
+        "grade": true
+    },
+    {
+        "link": "/track/burning",
+        "relise": "Burning",
+        "artist": "BABYSTEPPER",
+        "grade": true
+    },
+    {
+        "link": "/track/ya-odin-ok",
+        "relise": "Я ОДИН`ОК",
+        "artist": "МОЛИТЕСЬ",
+        "grade": true
+    },
+    {
+        "link": "/track/dozhd",
+        "relise": "Дождь",
+        "artist": "Рельсы",
+        "grade": true
+    },
+    {
+        "link": "/track/oru",
+        "relise": "ОРУ",
+        "artist": "FKUR",
+        "grade": true
+    },
+    {
+        "link": "/track/odnoj-krovi",
+        "relise": "Одной крови",
+        "artist": "Zox",
+        "grade": true
+    },
+    {
+        "link": "/track/roboty",
+        "relise": "Роботы",
+        "artist": "tet baby, изобрази",
+        "grade": true
+    },
+    {
+        "link": "/track/wok",
+        "relise": "WOK",
+        "artist": "YNG Feaxch",
+        "grade": true
+    },
+    {
+        "link": "/track/son-2",
+        "relise": "Сон",
+        "artist": "АДЛИН",
+        "grade": true
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/sos",
+        "relise": "SOS",
+        "artist": "Aarne, BUSHIDO ZHO",
+        "grade": true
+    },
+    {
+        "link": "/track/ysm-pc",
+        "relise": "YSM PC",
+        "artist": "OBLADAET, YASMI",
+        "grade": true
+    },
+    {
+        "link": "/track/vetreno-holodno",
+        "relise": "Ветрено / Холодно",
+        "artist": "MARKUL",
+        "grade": true
+    },
+    {
+        "link": "/track/popstars",
+        "relise": "Popstars",
+        "artist": "Kill Eva, Мэйби Бэйби",
+        "grade": true
+    },
+    {
+        "link": "/track/gromko",
+        "relise": "Громко",
+        "artist": "Кишлак, Хаски",
+        "grade": true
+    },
+    {
+        "link": "/track/athysue-rokerveka-nenavid",
+        "relise": "НЕНАВИДЬ",
+        "artist": "athysue, ROKERVEKA★",
+        "grade": true
+    },
+    {
+        "link": "/track/gosha-pik-gp",
+        "relise": "GP",
+        "artist": "GOSHA PIK",
+        "grade": true
+    },
+    {
+        "link": "/track/lonedd-besish",
+        "relise": "Бесишь",
+        "artist": "Lonedd",
+        "grade": true
+    },
+    {
+        "link": "/track/louisdioo-pticy-mogut-ljubit",
+        "relise": "птицы могут любить",
+        "artist": "LOUISDIOO",
+        "grade": true
+    },
+    {
+        "link": "/track/amirsha-poka-poka",
+        "relise": "Пока-пока",
+        "artist": "Amirsha",
+        "grade": true
+    }
+]

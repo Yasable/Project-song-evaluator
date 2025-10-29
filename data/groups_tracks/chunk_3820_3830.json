@@ -1,0 +1,38 @@
+[
+    {
+        "link": "/track/jabo-letmeknow",
+        "relise": "letmeknow",
+        "artist": "JABO",
+        "grade": true
+    },
+    {
+        "link": "/track/eldzhej-krestiki-noliki",
+        "relise": "Крестики Нолики",
+        "artist": "Элджей",
+        "grade": true
+    },
+    {
+        "link": "/track/st1m-x-johnyboy-zhivoj",
+        "relise": "Живой",
+        "artist": "Johnyboy, ST1M",
+        "grade": true
+    },
+    {
+        "link": "/track/the-limba-skriptonit-ronin",
+        "relise": "Ронин",
+        "artist": "The Limba, Скриптонит",
+        "grade": true
+    },
+    {
+        "link": "/track/dj-smash-poet-t-fest-po-mozgam",
+        "relise": "По Мозгам",
+        "artist": "DJ SMASH, Poët, T-Fest",
+        "grade": true
+    },
+    {
+        "link": "/track/yanix-og-buda-163onmyneck-stejk",
+        "relise": "Стейк",
+        "artist": "163ONMYNECK, OG Buda, Yanix",
+        "grade": true
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/i-want",
+        "relise": "I WANT",
+        "artist": "BOKO!",
+        "grade": true
+    },
+    {
+        "link": "/track/gde-to-ryadom",
+        "relise": "Где-то рядом",
+        "artist": "k0vertessence",
+        "grade": true
+    },
+    {
+        "link": "/track/three-peat",
+        "relise": "Three Peat",
+        "artist": "Kijin",
+        "grade": true
+    },
+    {
+        "link": "/track/novyj-den-2",
+        "relise": "Новый день",
+        "artist": "MOTEL",
+        "grade": true
+    },
+    {
+        "link": "/track/private-jet",
+        "relise": "Private Jet",
+        "artist": "Kijin",
+        "grade": true
+    },
+    {
+        "link": "/track/bad-bad",
+        "relise": "Bad Bad",
+        "artist": "Kijin",
+        "grade": true
+    },
+    {
+        "link": "/track/freddy-krueger",
+        "relise": "freddy krueger",
+        "artist": "Kai Angel",
+        "grade": true
+    },
+    {
+        "link": "/track/taxo",
+        "relise": "ТАХО",
+        "artist": "Heronwater",
+        "grade": true
+    },
+    {
+        "link": "/track/nonstop-obsession",
+        "relise": "Nonstop obsession",
+        "artist": "Три дня дождя",
+        "grade": true
+    },
+    {
+        "link": "/track/zvezdy-ne-plachut",
+        "relise": "Звезды не плачут!",
+        "artist": "Кишлак",
+        "grade": true
+    }
+]

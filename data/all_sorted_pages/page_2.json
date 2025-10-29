@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/album/9mm",
+        "relise": "9mm",
+        "artist": "9mice",
+        "grade": true
+    },
+    {
+        "link": "/album/vrednye-sovety",
+        "relise": "Вредные советы",
+        "artist": "5opka",
+        "grade": true
+    },
+    {
+        "link": "/album/ya-predskazyvaju",
+        "relise": "Я предсказываю",
+        "artist": "YASMI",
+        "grade": true
+    },
+    {
+        "link": "/album/dom",
+        "relise": "Дом",
+        "artist": "Бонд с кнопкой",
+        "grade": true
+    },
+    {
+        "link": "/track/durochka",
+        "relise": "Дурочка",
+        "artist": "Дора",
+        "grade": true
+    },
+    {
+        "link": "/track/miu-miu-2",
+        "relise": "MIU MIU",
+        "artist": "Baby Melo",
+        "grade": true
+    },
+    {
+        "link": "/track/tipok",
+        "relise": "Типок",
+        "artist": "PLOHOYPAREN",
+        "grade": true
+    },
+    {
+        "link": "/track/nezabudki",
+        "relise": "Незабудки",
+        "artist": "Егор Крид",
+        "grade": true
+    },
+    {
+        "link": "/track/agent-girl",
+        "relise": "AGENT GIRL",
+        "artist": "INSTASAMKA",
+        "grade": true
+    },
+    {
+        "link": "/track/ya-obyavlyaju-vam-vojnu",
+        "relise": "Я объявляю вам войну",
+        "artist": "Хаски",
+        "grade": true
+    }
+]

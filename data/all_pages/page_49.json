@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/track/kosa",
+        "relise": "Коса",
+        "artist": "RAM",
+        "grade": false
+    },
+    {
+        "link": "/track/karfagen",
+        "relise": "Карфаген",
+        "artist": "МЕГАМОЗГ, Паша Техник",
+        "grade": false
+    },
+    {
+        "link": "/track/koridor",
+        "relise": "Коридор",
+        "artist": "Illumate, Экспайн",
+        "grade": false
+    },
+    {
+        "link": "/track/og-buda-sljozy-aishi-first-day-out",
+        "relise": "Слёзы Аиши (First Day Out)",
+        "artist": "OG Buda",
+        "grade": true
+    },
+    {
+        "link": "/track/og-buda-goofy-4088",
+        "relise": "Goofy 4088",
+        "artist": "OG Buda",
+        "grade": true
+    },
+    {
+        "link": "/track/cmh-jane-air-adrenaline",
+        "relise": "ADRENALINE",
+        "artist": "CMH, Jane Air",
+        "grade": true
+    },
+    {
+        "link": "/track/cmh-slava-kpss-autbrejk",
+        "relise": "АУТБРЭЙК",
+        "artist": "CMH, Слава КПСС",
+        "grade": true
+    },
+    {
+        "link": "/album/17-25-adhd",
+        "relise": "17/25 ADHD",
+        "artist": "Quok, КУОК",
+        "grade": false
+    },
+    {
+        "link": "/album/coming-home",
+        "relise": "Coming Home",
+        "artist": "IC3PEAK",
+        "grade": false
+    },
+    {
+        "link": "/track/russkoe-narodnoe-r-n-b",
+        "relise": "Русское народное R'n'B",
+        "artist": "22 РАЗА, Воровская Лапа",
+        "grade": false
+    },
+    {
+        "link": "/track/myau-myau",
+        "relise": "мяу мяу",
+        "artist": "Flipper Floyd",
+        "grade": false
+    },
+    {
+        "link": "/track/svetlaya-dusha",
+        "relise": "СВЕТЛАЯ ДУША",
+        "artist": "PROOVY",
+        "grade": false
+    },
+    {
+        "link": "/album/grinch",
+        "relise": "Гринч",
+        "artist": "Бэнг",
+        "grade": false
+    },
+    {
+        "link": "/album/kosmos-nas-ne-zhdjot-chast-2",
+        "relise": "КОСМОС НАС НЕ ЖДЁТ, Часть 2",
+        "artist": "КОСМОНАВТОВ НЕТ",
+        "grade": false
+    },
+    {
+        "link": "/track/binokl",
+        "relise": "бинокль",
+        "artist": "INSPACE, гнилаялирика, Роки",
+        "grade": false
+    },
+    {
+        "link": "/track/zhuravli-3",
+        "relise": "Журавли",
+        "artist": "Loc-Dog",
+        "grade": false
+    },
+    {
+        "link": "/track/znaki",
+        "relise": "ЗНАКИ",
+        "artist": "UMSY",
+        "grade": false
+    },
+    {
+        "link": "/album/hunnid-gatekeeping",
+        "relise": "HUNNID: GATEKEEPING",
+        "artist": "xxxmanera",
+        "grade": true
+    },
+    {
+        "link": "/album/cyber-rock-metalmaniya-vol-2",
+        "relise": "CYBER!ROCK: МЕТАЛМАНИЯ, Vol. 2",
+        "artist": "ДЖЕЙЛО",
+        "grade": true
+    },
+    {
+        "link": "/album/vechnyj-dvigatel",
+        "relise": "Вечный двигатель",
+        "artist": "ATL, Ка тет",
+        "grade": true
+    },
+    {
+        "link": "/track/beast-mode",
+        "relise": "BEAST MODE",
+        "artist": "Heronwater",
+        "grade": true
+    },
+    {
+        "link": "/track/zakoldovala",
+        "relise": "Заколдовала",
+        "artist": "Диана Астер, Кишлак",
+        "grade": true
+    },
+    {
+        "link": "/track/jok",
+        "relise": "ЁК",
+        "artist": "Дора",
+        "grade": true
+    },
+    {
+        "link": "/track/lyin-n-dyin",
+        "relise": "lyin n' dyin",
+        "artist": "zxcursed",
+        "grade": true
+    },
+    {
+        "link": "/track/projects",
+        "relise": "PROJECTS",
+        "artist": "unki",
+        "grade": true
+    },
+    {
+        "link": "/track/oslepnut",
+        "relise": "Ослепнуть",
+        "artist": "YUNGWAY",
+        "grade": true
+    },
+    {
+        "link": "/track/padaj-na-moju-krovat",
+        "relise": "Падай на мою кровать",
+        "artist": "SEEMEE",
+        "grade": true
+    },
+    {
+        "link": "/track/30-myaso",
+        "relise": "30 мясо",
+        "artist": "6055, Пай",
+        "grade": true
+    },
+    {
+        "link": "/track/logika",
+        "relise": "Логика",
+        "artist": "Дайте танк (!)",
+        "grade": false
+    },
+    {
+        "link": "/track/bolju",
+        "relise": "болью",
+        "artist": "мартин",
+        "grade": false
+    },
+    {
+        "link": "/track/poka",
+        "relise": "Пока",
+        "artist": "Вектор А, ФОГЕЛЬ",
+        "grade": false
+    },
+    {
+        "link": "/track/pyatna",
+        "relise": "Пятна",
+        "artist": "Truwer",
+        "grade": false
+    },
+    {
+        "link": "/album/chernoe-solnce",
+        "relise": "Черное солнце",
+        "artist": "LeanJe",
+        "grade": false
+    },
+    {
+        "link": "/album/pozorniki-v-pryamom-efire",
+        "relise": "позорники в прямом эфире",
+        "artist": "ПОЛМАТЕРИ",
+        "grade": false
+    },
+    {
+        "link": "/track/in-da-club",
+        "relise": "In Da Club",
+        "artist": "DJ ASHANTI",
+        "grade": false
+    },
+    {
+        "link": "/track/tancujut",
+        "relise": "Танцуют",
+        "artist": "DJ ASHANTI",
+        "grade": false
+    }
+]

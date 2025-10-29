@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/skuly-mertvec",
+        "relise": "МЕРТВЕЦ",
+        "artist": "скулы",
+        "grade": true
+    },
+    {
+        "link": "/track/dedface-vutivu",
+        "relise": "Вутиву",
+        "artist": "DedFACE",
+        "grade": true
+    },
+    {
+        "link": "/track/napokoy-pauk-forever-alone",
+        "relise": "Forever Alone",
+        "artist": "Napokoy, PAUK",
+        "grade": true
+    },
+    {
+        "link": "/track/say-roland-yeah",
+        "relise": "YEAH",
+        "artist": "Say Roland",
+        "grade": true
+    },
+    {
+        "link": "/track/sharkdaddy-tupoj",
+        "relise": "Тупой",
+        "artist": "SharkDaddy",
+        "grade": true
+    },
+    {
+        "link": "/track/tajnye-znaki-dushu-za-uspeh",
+        "relise": "Душу за успех",
+        "artist": "Тайные знаки",
+        "grade": true
+    },
+    {
+        "link": "/track/flesh-miu-miu",
+        "relise": "MIU MIU",
+        "artist": "FLESH",
+        "grade": true
+    },
+    {
+        "link": "/track/mion-wavzz-s-vishnjovaya-semjorka",
+        "relise": "Вишнёвая Семёрка",
+        "artist": "Mion, WavZz’s",
+        "grade": true
+    },
+    {
+        "link": "/track/polka-slovil-zvezdu",
+        "relise": "Словил звезду",
+        "artist": "Полка",
+        "grade": true
+    },
+    {
+        "link": "/track/lostboysparadise-backtrack-neon-ghost",
+        "relise": "Backtrack / Neon Ghost",
+        "artist": "Lostboysparadise",
+        "grade": true
+    }
+]

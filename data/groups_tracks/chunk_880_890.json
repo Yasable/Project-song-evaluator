@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/zavisima-2",
+        "relise": "Зависима",
+        "artist": "Дора",
+        "grade": true
+    },
+    {
+        "link": "/track/zemlya",
+        "relise": "Земля",
+        "artist": "Тося Чайкина, Три дня дождя",
+        "grade": true
+    },
+    {
+        "link": "/track/shar",
+        "relise": "SHAR",
+        "artist": "EIGHTEEN, Элджей",
+        "grade": true
+    },
+    {
+        "link": "/track/i-don-t-care",
+        "relise": "I don’t care",
+        "artist": "nkeeei, Клава Кока",
+        "grade": true
+    },
+    {
+        "link": "/track/chjorstvo",
+        "relise": "Чёрство",
+        "artist": "Loqiemean, Эрика Лундмоен",
+        "grade": true
+    },
+    {
+        "link": "/track/bouvrd-5-utra",
+        "relise": "5 утра",
+        "artist": "Bouvrd",
+        "grade": true
+    },
+    {
+        "link": "/track/paranoah-belyj-plamen",
+        "relise": "белый пламень",
+        "artist": "Paranoah",
+        "grade": true
+    },
+    {
+        "link": "/track/pyataya-nedelya-gluposti",
+        "relise": "глупости",
+        "artist": "пятая неделя",
+        "grade": true
+    },
+    {
+        "link": "/track/egrrr-detskie-igry",
+        "relise": "Детские игры",
+        "artist": "EGRRR",
+        "grade": true
+    },
+    {
+        "link": "/track/mitchell-kosa",
+        "relise": "Коса",
+        "artist": "Митчеллъ",
+        "grade": true
+    }
+]

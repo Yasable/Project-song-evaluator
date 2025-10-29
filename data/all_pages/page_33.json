@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/track/boss",
+        "relise": "BOSS",
+        "artist": "INSTASAMKA",
+        "grade": true
+    },
+    {
+        "link": "/track/fraza-zoom-vitalyq-golosa",
+        "relise": "Голоса",
+        "artist": "Fraza Zoom, Vitalyq",
+        "grade": true
+    },
+    {
+        "link": "/track/gosha-pik-zabyl-tvojo-imya",
+        "relise": "Забыл твоё имя",
+        "artist": "GOSHA PIK",
+        "grade": true
+    },
+    {
+        "link": "/track/darthhash-abortman-samokat",
+        "relise": "Самокат",
+        "artist": "Darthhash, Абортман",
+        "grade": true
+    },
+    {
+        "link": "/track/knysh-toxic-city",
+        "relise": "Toxic City",
+        "artist": "KNYSH",
+        "grade": true
+    },
+    {
+        "link": "/track/konfuz-italiya",
+        "relise": "Италия",
+        "artist": "Konfuz",
+        "grade": true
+    },
+    {
+        "link": "/track/bouvrd-na-vidu",
+        "relise": "NA VIDU",
+        "artist": "Bouvrd",
+        "grade": true
+    },
+    {
+        "link": "/track/skyrize-zyzz",
+        "relise": "Zyzz",
+        "artist": "Skyrize",
+        "grade": true
+    },
+    {
+        "link": "/track/blago-white-rousemebaby-wya",
+        "relise": "WYA",
+        "artist": "blago white, ROUSEMEBABY",
+        "grade": true
+    },
+    {
+        "link": "/track/yo-brook-imperator",
+        "relise": "Император",
+        "artist": "Yo BROOK",
+        "grade": true
+    },
+    {
+        "link": "/track/11shiwa-don-t-call-me",
+        "relise": "Don’t Call Me",
+        "artist": "11SHIWA",
+        "grade": true
+    },
+    {
+        "link": "/track/ksenon-kazoo",
+        "relise": "KAZOO!",
+        "artist": "Ksenon",
+        "grade": true
+    },
+    {
+        "link": "/track/mnogo-wu-russkaya-muzyka",
+        "relise": "Русская музыка",
+        "artist": "mnogo wu",
+        "grade": true
+    },
+    {
+        "link": "/track/lostmommy-meli-k-voxgarden-prikormka",
+        "relise": "ПРИКОРМКА",
+        "artist": "lostmommy, Meli K, VoXGarDeN",
+        "grade": true
+    },
+    {
+        "link": "/track/maloyy93-aligatorr93",
+        "relise": "ALIGATORR93",
+        "artist": "maloyy93",
+        "grade": true
+    },
+    {
+        "link": "/track/16-leto-bol",
+        "relise": "Боль",
+        "artist": "16 лето",
+        "grade": true
+    },
+    {
+        "link": "/track/shateka-aggressive",
+        "relise": "Aggressive",
+        "artist": "SHATEKA",
+        "grade": true
+    },
+    {
+        "link": "/track/jennifer-daytona-schizo",
+        "relise": "SCHIZO",
+        "artist": "Jennifer Daytona",
+        "grade": true
+    },
+    {
+        "link": "/track/thorin-thug-dragonblood",
+        "relise": "DRAGONBLOOD",
+        "artist": "THORIN THUG",
+        "grade": true
+    },
+    {
+        "link": "/track/koroleva-remix",
+        "relise": "Koroleva (Remix)",
+        "artist": "104, Alisha, Innasounnd",
+        "grade": false
+    },
+    {
+        "link": "/track/mood-2",
+        "relise": "MOOD",
+        "artist": "FlameBaby",
+        "grade": false
+    },
+    {
+        "link": "/track/mama-ya-mogu",
+        "relise": "Мама, я могу!",
+        "artist": "Баста",
+        "grade": false
+    },
+    {
+        "link": "/track/berjozka",
+        "relise": "Берёзка",
+        "artist": "Port Avenue, КРИМ ПЛИН",
+        "grade": false
+    },
+    {
+        "link": "/album/zeljonyj-luch",
+        "relise": "Зелёный луч",
+        "artist": "Перемотка",
+        "grade": false
+    },
+    {
+        "link": "/track/bablo",
+        "relise": "Бабло",
+        "artist": "BLESSQ",
+        "grade": false
+    },
+    {
+        "link": "/track/atlanta-2",
+        "relise": "Atlanta 2",
+        "artist": "LiL Flash$",
+        "grade": false
+    },
+    {
+        "link": "/track/pavlov-s-dog",
+        "relise": "PAVLOV'S DOG",
+        "artist": "Booldozer, G4OUR, NOWMKILL, PKHAT, Polyana",
+        "grade": false
+    },
+    {
+        "link": "/track/ai",
+        "relise": "ai",
+        "artist": "kondachelo",
+        "grade": false
+    },
+    {
+        "link": "/track/old-money",
+        "relise": "Old Money",
+        "artist": "Murovei",
+        "grade": false
+    },
+    {
+        "link": "/track/gasp",
+        "relise": "GASP",
+        "artist": "SHTRIHCOD, takizava",
+        "grade": false
+    },
+    {
+        "link": "/track/perestroika",
+        "relise": "PERESTROIKA",
+        "artist": "UMSY",
+        "grade": false
+    },
+    {
+        "link": "/track/8-2",
+        "relise": "8",
+        "artist": "ЮГ 404",
+        "grade": false
+    },
+    {
+        "link": "/track/dni-goryat",
+        "relise": "дни горят",
+        "artist": "cold carti, GATASKI, Бикей Декада",
+        "grade": false
+    },
+    {
+        "link": "/track/ne-speshi",
+        "relise": "Не спеши",
+        "artist": "Честер Небро",
+        "grade": false
+    },
+    {
+        "link": "/album/ty-vsegda-v-proigryshe",
+        "relise": "ТЫ ВСЕГДА В ПРОИГРЫШЕ",
+        "artist": "GRILLYAZH",
+        "grade": false
+    },
+    {
+        "link": "/track/kazoo-2",
+        "relise": "KAZOO! 2",
+        "artist": "BSWEEDY, Chensky, Ernest Merkel, JackLooney, KASKAD, Ksenon, R1Fmabes, Ver$ace, нейролептик, СОВЕРГОН",
+        "grade": false
+    }
+]

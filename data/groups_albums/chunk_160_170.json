@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/album/autumn-blues",
+        "relise": "AUTUMN BLUES",
+        "artist": "Pepel Nahudi",
+        "grade": true
+    },
+    {
+        "link": "/album/takova-zhizn",
+        "relise": "Такова жизнь",
+        "artist": "СТИНТ",
+        "grade": true
+    },
+    {
+        "link": "/album/freerio-3",
+        "relise": "FREERIO 3",
+        "artist": "OG Buda",
+        "grade": true
+    },
+    {
+        "link": "/album/ratt-whore",
+        "relise": "RATT#WHORE",
+        "artist": "Пошлая Молли",
+        "grade": true
+    },
+    {
+        "link": "/album/svetlaya-storona",
+        "relise": "светлая сторона",
+        "artist": "mzlff",
+        "grade": true
+    },
+    {
+        "link": "/album/vsegda-nenavidel-byt-slabym",
+        "relise": "всегда ненавидел быть слабым",
+        "artist": "cold carti",
+        "grade": true
+    },
+    {
+        "link": "/album/mayot-z4pr4vk4-kid-deljuks-p4k",
+        "relise": "З4ПР4ВК4 КИД (ДЕЛЮКС П4К)",
+        "artist": "MAYOT",
+        "grade": true
+    },
+    {
+        "link": "/album/scarface",
+        "relise": "Scarface",
+        "artist": "молодой калуга",
+        "grade": true
+    },
+    {
+        "link": "/album/fluddality",
+        "relise": "FLUDDALITY",
+        "artist": "GONE.Fludd",
+        "grade": true
+    },
+    {
+        "link": "/album/supernova",
+        "relise": "SUPERNOVA",
+        "artist": "5opka, MellSher",
+        "grade": true
+    }
+]

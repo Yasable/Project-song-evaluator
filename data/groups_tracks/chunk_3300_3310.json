@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/bumble-beezy-regular",
+        "relise": "Regular",
+        "artist": "Bumble Beezy",
+        "grade": true
+    },
+    {
+        "link": "/track/cmh-x-dzharahov-rubl",
+        "relise": "Рубль",
+        "artist": "CMH, Джарахов",
+        "grade": true
+    },
+    {
+        "link": "/track/pinq-status",
+        "relise": "Status",
+        "artist": "PINQ",
+        "grade": true
+    },
+    {
+        "link": "/track/danchainz-mayot-blago-white-v-takt",
+        "relise": "В такт",
+        "artist": "blago white, danchainz, MAYOT",
+        "grade": true
+    },
+    {
+        "link": "/track/g4our-mayot-poblizhe",
+        "relise": "Поближе",
+        "artist": "G4OUR, MAYOT",
+        "grade": true
+    },
+    {
+        "link": "/track/lida-utomilsya",
+        "relise": "Утомился",
+        "artist": "Lida",
+        "grade": true
+    },
+    {
+        "link": "/track/morgenshtern-selyavi",
+        "relise": "Селяви",
+        "artist": "MORGENSHTERN",
+        "grade": true
+    },
+    {
+        "link": "/track/pyrokinesis-oko",
+        "relise": "око",
+        "artist": "pyrokinesis",
+        "grade": true
+    },
+    {
+        "link": "/track/malenkij-yarche-munbut-feat-mayot",
+        "relise": "Мунбут",
+        "artist": "MAYOT, маленький ярче",
+        "grade": true
+    },
+    {
+        "link": "/track/pussykiller-tolko-mne",
+        "relise": "Только мне",
+        "artist": "PUSSYKILLER",
+        "grade": true
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/track/sushhestvo",
+        "relise": "Существо",
+        "artist": "Бонд с кнопкой, Кишлак",
+        "grade": true
+    },
+    {
+        "link": "/track/zhizn-budet-dolgoj",
+        "relise": "жизнь будет долгой",
+        "artist": "cold carti",
+        "grade": true
+    },
+    {
+        "link": "/track/sicko",
+        "relise": "Sicko",
+        "artist": "LIL MORTY",
+        "grade": false
+    },
+    {
+        "link": "/track/summer-time",
+        "relise": "Summer time",
+        "artist": "Miyagi, Эндшпиль",
+        "grade": true
+    },
+    {
+        "link": "/track/gorod-grehov",
+        "relise": "город грехов",
+        "artist": "тринадцать карат",
+        "grade": true
+    },
+    {
+        "link": "/track/zavisimost",
+        "relise": "Зависимость",
+        "artist": "ARUSTAMOV, Джарахов",
+        "grade": false
+    },
+    {
+        "link": "/track/zvezdopad-iz-slez",
+        "relise": "Звездопад из слëз",
+        "artist": "ДЖЕЙЛО",
+        "grade": false
+    },
+    {
+        "link": "/album/ne-flagstrik",
+        "relise": "NE FLAГSTRИК",
+        "artist": "JDFLAG",
+        "grade": true
+    },
+    {
+        "link": "/album/xie-xie",
+        "relise": "XiE XiE",
+        "artist": "PINQ",
+        "grade": true
+    },
+    {
+        "link": "/album/blackout",
+        "relise": "BLACKOUT",
+        "artist": "J. ROUH, SENSEE",
+        "grade": true
+    },
+    {
+        "link": "/album/volga-religion",
+        "relise": "VOLGA RELIGION",
+        "artist": "lil Kidd",
+        "grade": false
+    },
+    {
+        "link": "/track/vivienne",
+        "relise": "VIVIENNE",
+        "artist": "паранойя",
+        "grade": false
+    },
+    {
+        "link": "/track/zvjozdy-3",
+        "relise": "Звёзды",
+        "artist": "Полка",
+        "grade": false
+    },
+    {
+        "link": "/track/dorogo",
+        "relise": "Дорого",
+        "artist": "Loc-Dog, NILETTO, Джиган",
+        "grade": false
+    },
+    {
+        "link": "/track/she-knows",
+        "relise": "SHE KNOWS",
+        "artist": "Slattcrank",
+        "grade": false
+    },
+    {
+        "link": "/track/akula",
+        "relise": "Акула",
+        "artist": "SaintPrince 52",
+        "grade": false
+    },
+    {
+        "link": "/track/510",
+        "relise": "510",
+        "artist": "JUGHEAD",
+        "grade": false
+    },
+    {
+        "link": "/album/dzhoni-i-ya",
+        "relise": "Джони и я",
+        "artist": "VTORNIK",
+        "grade": false
+    },
+    {
+        "link": "/track/otpustilo",
+        "relise": "Отпустило",
+        "artist": "aikko, Эсчевский",
+        "grade": false
+    },
+    {
+        "link": "/track/kraski",
+        "relise": "Краски",
+        "artist": "2hug, NIKER",
+        "grade": false
+    },
+    {
+        "link": "/track/holod-2",
+        "relise": "ХОЛОД 2",
+        "artist": "КРЕСТ",
+        "grade": false
+    },
+    {
+        "link": "/track/kalyvan-klyajn",
+        "relise": "Калыван Кляйн",
+        "artist": "HELLOVERCAVI, mortalxo",
+        "grade": false
+    },
+    {
+        "link": "/track/pticy",
+        "relise": "Птицы",
+        "artist": "noa",
+        "grade": false
+    },
+    {
+        "link": "/track/don-t-smoke",
+        "relise": "Don't smoke",
+        "artist": "Bakr, Truwer",
+        "grade": false
+    },
+    {
+        "link": "/track/ona-ne-pojmet",
+        "relise": "Она не поймет",
+        "artist": "INDEX",
+        "grade": false
+    },
+    {
+        "link": "/track/propaganda-3",
+        "relise": "PROPAGANDA",
+        "artist": "UMSY",
+        "grade": false
+    },
+    {
+        "link": "/track/nikita-snow-g1k1",
+        "relise": "g1k1",
+        "artist": "NIKITA SNOW",
+        "grade": true
+    },
+    {
+        "link": "/track/beescus-igor-ten-stimorol-ajs",
+        "relise": "Стиморол айс",
+        "artist": "Beescus, Igor Ten",
+        "grade": true
+    },
+    {
+        "link": "/track/lamantion-russian-radar",
+        "relise": "Russian Radar",
+        "artist": "LAMANTION",
+        "grade": true
+    },
+    {
+        "link": "/track/eng1neer-nn-bossco-yard",
+        "relise": "ЯРД",
+        "artist": "ENG1NEER, NN BOSSCO",
+        "grade": true
+    },
+    {
+        "link": "/track/pesochnica-imeni-menya-kosmos",
+        "relise": "Космос",
+        "artist": "Песочница имени меня",
+        "grade": true
+    },
+    {
+        "link": "/track/slayer-diesel-diamonds",
+        "relise": "Diamonds",
+        "artist": "Slayer Diesel",
+        "grade": true
+    },
+    {
+        "link": "/track/no-interest",
+        "relise": "No interest",
+        "artist": "UG",
+        "grade": true
+    },
+    {
+        "link": "/track/chzb",
+        "relise": "ЧЗБ",
+        "artist": "GENSYXA",
+        "grade": false
+    },
+    {
+        "link": "/track/rozovyj-tuman",
+        "relise": "РОЗОВЫЙ ТУМАН",
+        "artist": "DJ SMASH, D’Or",
+        "grade": true
+    },
+    {
+        "link": "/album/shqcore",
+        "relise": "shqcore",
+        "artist": "Sqwore",
+        "grade": true
+    }
+]

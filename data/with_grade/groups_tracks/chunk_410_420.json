@@ -1,0 +1,122 @@
+[
+    {
+        "link": "/track/sajden-bumazhnyj-dom",
+        "relise": "Бумажный Дом",
+        "artist": "Сайден",
+        "grade": [
+            5,
+            5,
+            6,
+            5,
+            5
+        ]
+    },
+    {
+        "link": "/track/knittta-hlorofill",
+        "relise": "хлорофилл",
+        "artist": "knittta",
+        "grade": [
+            7,
+            4,
+            5,
+            5,
+            5
+        ]
+    },
+    {
+        "link": "/track/foliev-yad",
+        "relise": "Яд",
+        "artist": "FOLIEV",
+        "grade": [
+            6,
+            8,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/kebabog-skazal-2093",
+        "relise": "2093",
+        "artist": "KebabOG, skazal",
+        "grade": [
+            5,
+            6,
+            4,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/skazal-nevermind",
+        "relise": "Nevermind",
+        "artist": "skazal",
+        "grade": [
+            3,
+            4,
+            4,
+            6,
+            5
+        ]
+    },
+    {
+        "link": "/track/6less6oy-long-island",
+        "relise": "Long Island",
+        "artist": "6less6oy",
+        "grade": [
+            8,
+            8,
+            7,
+            7,
+            7
+        ]
+    },
+    {
+        "link": "/track/sumasshedshaya",
+        "relise": "Сумасшедшая",
+        "artist": "КРИМ ПЛИН",
+        "grade": [
+            7,
+            8,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/holodnaya-ljubov",
+        "relise": "Холодная любовь",
+        "artist": "LXNER, woee33",
+        "grade": [
+            8,
+            9,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/l",
+        "relise": "L",
+        "artist": "MACAN",
+        "grade": [
+            8,
+            8,
+            10,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/gosha-rubchinskij",
+        "relise": "ГОША РУБЧИНСКИЙ",
+        "artist": "9mice",
+        "grade": [
+            8,
+            8,
+            9,
+            10,
+            9
+        ]
+    }
+]

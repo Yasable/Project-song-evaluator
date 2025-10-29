@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/album/saspens-glava-iii",
+        "relise": "Саспенс. Глава III",
+        "artist": "STED.D",
+        "grade": true
+    },
+    {
+        "link": "/album/wafa",
+        "relise": "WAFA",
+        "artist": "масло черного тмина",
+        "grade": true
+    },
+    {
+        "link": "/album/rossiya24",
+        "relise": "Россия24",
+        "artist": "Слава КПСС",
+        "grade": true
+    },
+    {
+        "link": "/album/koshmar-pered-rozhdestvom",
+        "relise": "Кошмар перед Рождеством",
+        "artist": "17 SEVENTEEN",
+        "grade": true
+    },
+    {
+        "link": "/album/i-love-a-thma-boys",
+        "relise": "I LOVE A$THMA BOYS",
+        "artist": "A$THMA BOYS",
+        "grade": true
+    },
+    {
+        "link": "/album/futuroarhaika",
+        "relise": "ФУТУРОАРХАИКА",
+        "artist": "Boulevard Depo",
+        "grade": true
+    },
+    {
+        "link": "/album/kach",
+        "relise": "КАЧ",
+        "artist": "BOOKER",
+        "grade": true
+    },
+    {
+        "link": "/album/sensation-a-cute-chaotic-trail",
+        "relise": "SENSATION! A Cute Chaotic Trail",
+        "artist": "Baby Cute",
+        "grade": true
+    },
+    {
+        "link": "/album/you-could-be-pumpkin",
+        "relise": "YOU COULD BE PUMPKIN",
+        "artist": "deathmarried",
+        "grade": true
+    },
+    {
+        "link": "/album/eve-2",
+        "relise": "Eve 2",
+        "artist": "Sqwore",
+        "grade": true
+    }
+]

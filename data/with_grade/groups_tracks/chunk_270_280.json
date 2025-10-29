@@ -1,0 +1,122 @@
+[
+    {
+        "link": "/track/bato-how-funny",
+        "relise": "How Funny",
+        "artist": "BATO",
+        "grade": [
+            9,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/kishlak-samye-modnye",
+        "relise": "Самые модные",
+        "artist": "Кишлак",
+        "grade": [
+            9,
+            8,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/hurt",
+        "relise": "hurt",
+        "artist": "Kai Angel",
+        "grade": [
+            7,
+            10,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/neboskreby",
+        "relise": "Небоскребы",
+        "artist": "MAYOT, OG Buda, YUNGWAY",
+        "grade": [
+            8,
+            8,
+            9,
+            9,
+            7
+        ]
+    },
+    {
+        "link": "/track/ne-zabyl",
+        "relise": "НЕ ЗАБЫЛ ╥﹏╥",
+        "artist": "SALUKI, SLAVA MARLOW",
+        "grade": [
+            8,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/ohwow",
+        "relise": "OHWOW",
+        "artist": "Sqwore",
+        "grade": [
+            9,
+            9,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/sterva-2",
+        "relise": "СТЕРВА",
+        "artist": "ARTEM SHILOVETS, Heronwater, nkeeei, uniqe",
+        "grade": [
+            7,
+            8,
+            9,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/svaga",
+        "relise": "СВАГА",
+        "artist": "HELLOVERCAVI, SODA LUV",
+        "grade": [
+            9,
+            8,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/tryboy-guerlain-s",
+        "relise": "GUERLAIN’S",
+        "artist": "TRYBOY",
+        "grade": [
+            6,
+            7,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/amidi-rolie-teplee",
+        "relise": "Теплее",
+        "artist": "AMIDI, Rolie",
+        "grade": [
+            6,
+            8,
+            7,
+            7,
+            7
+        ]
+    }
+]

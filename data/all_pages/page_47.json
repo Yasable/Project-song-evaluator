@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/track/na-dvoih",
+        "relise": "На двоих",
+        "artist": "Кишлак",
+        "grade": true
+    },
+    {
+        "link": "/track/chelovek-iz-tmy",
+        "relise": "ЧЕЛОВЕК ИЗ ТЬМЫ",
+        "artist": "dekma",
+        "grade": false
+    },
+    {
+        "link": "/track/ak-47",
+        "relise": "АК-47",
+        "artist": "FORTUNA 812",
+        "grade": true
+    },
+    {
+        "link": "/track/s-w-a-g-therapy",
+        "relise": "S.W.A.G Therapy",
+        "artist": "FORTUNA 812",
+        "grade": false
+    },
+    {
+        "link": "/track/aktrisa-delo-ne-v-tebe",
+        "relise": "актриса (дело не в тебе)",
+        "artist": "Pepel Nahudi",
+        "grade": false
+    },
+    {
+        "link": "/track/tysyacha-prichin",
+        "relise": "тысяча причин",
+        "artist": "Pepel Nahudi, Slattcrank",
+        "grade": false
+    },
+    {
+        "link": "/track/shramy-2",
+        "relise": "шрамы",
+        "artist": "Pepel Nahudi",
+        "grade": true
+    },
+    {
+        "link": "/track/ne-vernus",
+        "relise": "Не вернусь",
+        "artist": "uglystephan",
+        "grade": true
+    },
+    {
+        "link": "/track/ufimskij-rejv-kartinki-nakolki",
+        "relise": "картинки наколки",
+        "artist": "уфимский рейв",
+        "grade": true
+    },
+    {
+        "link": "/track/yula-zapadnya",
+        "relise": "западня",
+        "artist": "yulá",
+        "grade": true
+    },
+    {
+        "link": "/track/gosha-pik-dasha-chu-forever",
+        "relise": "Dasha Chu Forever",
+        "artist": "GOSHA PIK",
+        "grade": true
+    },
+    {
+        "link": "/track/feelwchoppa-bl0o0m-onion",
+        "relise": "BL0O0M.onion",
+        "artist": "Feelwchoppa",
+        "grade": true
+    },
+    {
+        "link": "/track/bez-zhivyh-ne-naberu",
+        "relise": "Не наберу",
+        "artist": "Без живых",
+        "grade": true
+    },
+    {
+        "link": "/track/paradise-vip",
+        "relise": "VIP",
+        "artist": "Paradise",
+        "grade": true
+    },
+    {
+        "link": "/track/paradise-posh-boy",
+        "relise": "Posh Boy",
+        "artist": "Paradise",
+        "grade": true
+    },
+    {
+        "link": "/track/yo-brook-luiziana",
+        "relise": "Луизиана",
+        "artist": "Yo BROOK",
+        "grade": true
+    },
+    {
+        "link": "/track/kiiddi-biguniq",
+        "relise": "BIGUNIQ",
+        "artist": "kiiddi",
+        "grade": true
+    },
+    {
+        "link": "/track/uglyzh-inhale",
+        "relise": "INHALE",
+        "artist": "Uglyzh",
+        "grade": true
+    },
+    {
+        "link": "/track/peercosettt-backwoods",
+        "relise": "BACKWOODS",
+        "artist": "Peercosettt.",
+        "grade": true
+    },
+    {
+        "link": "/track/kweetee-tenda-maryy-lomaj-menya",
+        "relise": "ломай меня",
+        "artist": "kweetee, тенда, ​maryy",
+        "grade": true
+    },
+    {
+        "link": "/track/birya-dorian-grej",
+        "relise": "Дориан Грей",
+        "artist": "BIRYA",
+        "grade": true
+    },
+    {
+        "link": "/track/dirty-punk-vizitka-xd",
+        "relise": "Визитка xD",
+        "artist": "dirty punk",
+        "grade": true
+    },
+    {
+        "link": "/track/matryoshka",
+        "relise": "matryoshka",
+        "artist": "SCIRENA",
+        "grade": false
+    },
+    {
+        "link": "/track/z4-drop-top",
+        "relise": "Z4 Drop-Top",
+        "artist": "Pupis",
+        "grade": false
+    },
+    {
+        "link": "/track/tolko-ne-s-nej",
+        "relise": "Только не с ней",
+        "artist": "Leraiie",
+        "grade": false
+    },
+    {
+        "link": "/track/snova-taesh",
+        "relise": "Снова таешь",
+        "artist": "Dose, NXN",
+        "grade": false
+    },
+    {
+        "link": "/track/krylya-2",
+        "relise": "крылья",
+        "artist": "Basic Boy",
+        "grade": false
+    },
+    {
+        "link": "/track/neudachnik",
+        "relise": "неудачник",
+        "artist": "Basic Boy",
+        "grade": false
+    },
+    {
+        "link": "/album/live-letter",
+        "relise": "Live Letter",
+        "artist": "Slattcrank",
+        "grade": false
+    },
+    {
+        "link": "/album/v-pogone-za-schastem",
+        "relise": "В погоне за счастьем",
+        "artist": "2hug",
+        "grade": false
+    },
+    {
+        "link": "/track/gromko-2",
+        "relise": "ГРОМКО",
+        "artist": "RAYBAX, НОКТУ",
+        "grade": false
+    },
+    {
+        "link": "/track/sgovor",
+        "relise": "Сговор",
+        "artist": "Metox, Рыночные Отношения",
+        "grade": false
+    },
+    {
+        "link": "/track/kruzhit-golovu",
+        "relise": "КРУЖИТ ГОЛОВУ",
+        "artist": "Tenderlybae",
+        "grade": false
+    },
+    {
+        "link": "/album/real-new-jazz",
+        "relise": "REAL NEW JAZZ",
+        "artist": "Felix Kotlo",
+        "grade": false
+    },
+    {
+        "link": "/album/ibc-blood5tar",
+        "relise": "IBC Blood5tar",
+        "artist": "CODE80, Euro5tar",
+        "grade": false
+    },
+    {
+        "link": "/track/efir",
+        "relise": "Эфир",
+        "artist": "Дайте танк (!)",
+        "grade": false
+    }
+]

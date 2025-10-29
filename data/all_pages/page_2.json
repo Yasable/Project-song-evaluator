@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/track/spit-moya-ljubov",
+        "relise": "Спит моя любовь",
+        "artist": "polnalyubvi",
+        "grade": false
+    },
+    {
+        "link": "/album/9mm",
+        "relise": "9mm",
+        "artist": "9mice",
+        "grade": true
+    },
+    {
+        "link": "/album/vrednye-sovety",
+        "relise": "Вредные советы",
+        "artist": "5opka",
+        "grade": true
+    },
+    {
+        "link": "/album/ya-predskazyvaju",
+        "relise": "Я предсказываю",
+        "artist": "YASMI",
+        "grade": true
+    },
+    {
+        "link": "/album/tehnika-opasnosti",
+        "relise": "Техника опасности",
+        "artist": "RAM",
+        "grade": false
+    },
+    {
+        "link": "/album/y2k",
+        "relise": "Y2K",
+        "artist": "GRILLYAZH",
+        "grade": false
+    },
+    {
+        "link": "/album/oda-ikara",
+        "relise": "ODA IKARA",
+        "artist": "Честер Небро",
+        "grade": false
+    },
+    {
+        "link": "/album/dorndom",
+        "relise": "dorndom",
+        "artist": "Иван Дорн",
+        "grade": false
+    },
+    {
+        "link": "/album/pepel",
+        "relise": "Пепел",
+        "artist": "Зараза",
+        "grade": false
+    },
+    {
+        "link": "/album/dom",
+        "relise": "Дом",
+        "artist": "Бонд с кнопкой",
+        "grade": true
+    },
+    {
+        "link": "/track/durochka",
+        "relise": "Дурочка",
+        "artist": "Дора",
+        "grade": true
+    },
+    {
+        "link": "/track/miu-miu-2",
+        "relise": "MIU MIU",
+        "artist": "Baby Melo",
+        "grade": true
+    },
+    {
+        "link": "/track/tipok",
+        "relise": "Типок",
+        "artist": "PLOHOYPAREN",
+        "grade": true
+    },
+    {
+        "link": "/track/nezabudki",
+        "relise": "Незабудки",
+        "artist": "Егор Крид",
+        "grade": true
+    },
+    {
+        "link": "/track/agent-girl",
+        "relise": "AGENT GIRL",
+        "artist": "INSTASAMKA",
+        "grade": true
+    },
+    {
+        "link": "/track/sapsan",
+        "relise": "SAPSAN",
+        "artist": "Lida",
+        "grade": false
+    },
+    {
+        "link": "/track/daj-mne-eshhjo",
+        "relise": "DAЙ MNE ЕЩЁ",
+        "artist": "JDFLAG",
+        "grade": false
+    },
+    {
+        "link": "/track/ya-obyavlyaju-vam-vojnu",
+        "relise": "Я объявляю вам войну",
+        "artist": "Хаски",
+        "grade": true
+    },
+    {
+        "link": "/track/ya-odna",
+        "relise": "я одна",
+        "artist": "daryana",
+        "grade": false
+    },
+    {
+        "link": "/track/ripit-pliz",
+        "relise": "RИПИТ ПLИZ",
+        "artist": "JDFLAG",
+        "grade": false
+    },
+    {
+        "link": "/track/bank",
+        "relise": "БАНК",
+        "artist": "ICEGERGERT, Zivert",
+        "grade": false
+    },
+    {
+        "link": "/track/pju-vino",
+        "relise": "Пью вино",
+        "artist": "FEDUK",
+        "grade": false
+    },
+    {
+        "link": "/track/serost-piter-i-ty",
+        "relise": "Серость, Питер и ты",
+        "artist": "Mirèle",
+        "grade": false
+    },
+    {
+        "link": "/track/rezhimnyj",
+        "relise": "Режимный",
+        "artist": "Metox, Рыночные Отношения",
+        "grade": false
+    },
+    {
+        "link": "/track/gvozdiki",
+        "relise": "гвоздики",
+        "artist": "вышел покурить",
+        "grade": false
+    },
+    {
+        "link": "/track/topim",
+        "relise": "TOPIM",
+        "artist": "A$THMA BOYS",
+        "grade": false
+    },
+    {
+        "link": "/track/sgushhennye-oblaka",
+        "relise": "Сгущенные облака",
+        "artist": "blago white",
+        "grade": false
+    },
+    {
+        "link": "/track/eto-elektrobus",
+        "relise": "Это электробус",
+        "artist": "Воскресная школа, Плакин М., Слава КПСС",
+        "grade": false
+    },
+    {
+        "link": "/track/perebolel",
+        "relise": "Переболел",
+        "artist": "КРИСПИ",
+        "grade": false
+    },
+    {
+        "link": "/track/sladkih-snov",
+        "relise": "сладких снов",
+        "artist": "KRISTIEE",
+        "grade": false
+    },
+    {
+        "link": "/track/katerina",
+        "relise": "Катерина",
+        "artist": "Ганвест",
+        "grade": false
+    },
+    {
+        "link": "/track/priyatno",
+        "relise": "Приятно",
+        "artist": "BOOKER, JEW3SS, пазнякс",
+        "grade": false
+    },
+    {
+        "link": "/track/ustalost",
+        "relise": "Усталость",
+        "artist": "ETERNI",
+        "grade": false
+    },
+    {
+        "link": "/track/miss-oktyabr",
+        "relise": "Мисс Октябрь",
+        "artist": "Thomas Mraz",
+        "grade": false
+    },
+    {
+        "link": "/track/hey-bae",
+        "relise": "HEY BAE",
+        "artist": "2markee",
+        "grade": false
+    },
+    {
+        "link": "/track/mister",
+        "relise": "Мистер",
+        "artist": "ShonZi",
+        "grade": false
+    }
+]

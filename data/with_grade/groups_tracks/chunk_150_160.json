@@ -1,0 +1,122 @@
+[
+    {
+        "link": "/track/eldzhej-gameboy",
+        "relise": "GAMEBOY",
+        "artist": "Элджей",
+        "grade": [
+            8,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/welcome-to-forever",
+        "relise": "welcome to forever",
+        "artist": "Kai Angel",
+        "grade": [
+            8,
+            10,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/more-2",
+        "relise": "Море",
+        "artist": "Егор Крид",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/vremya",
+        "relise": "Время",
+        "artist": "Шайни",
+        "grade": [
+            8,
+            8,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/snova-3",
+        "relise": "СНОВА",
+        "artist": "GERA AMEN, SALUKI",
+        "grade": [
+            8,
+            10,
+            9,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/5opka-mellsher-xxl",
+        "relise": "XXL",
+        "artist": "5opka, MellSher",
+        "grade": [
+            9,
+            10,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/wateri-fasho",
+        "relise": "fasho",
+        "artist": "wateri",
+        "grade": [
+            7,
+            7,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/naked",
+        "relise": "Naked",
+        "artist": "LIL KRYSTALLL, The Limba",
+        "grade": [
+            8,
+            8,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/brotha-eeewww",
+        "relise": "BROTHA EEEWWW",
+        "artist": "OBLADAET",
+        "grade": [
+            8,
+            9,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/phantasmagoria",
+        "relise": "phantasmagoria",
+        "artist": "mzlff",
+        "grade": [
+            10,
+            9,
+            10,
+            10,
+            9
+        ]
+    }
+]

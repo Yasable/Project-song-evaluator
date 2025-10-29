@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/tipsi-tip-melodeklamator",
+        "relise": "Мелодекламатор",
+        "artist": "Типси Тип",
+        "grade": true
+    },
+    {
+        "link": "/track/dino-ex-triada-kinopremery",
+        "relise": "Кинопремьеры",
+        "artist": "Дино (ex. Триада)",
+        "grade": true
+    },
+    {
+        "link": "/track/nlo-mir-holodnyj",
+        "relise": "Мир холодный",
+        "artist": "NLO",
+        "grade": true
+    },
+    {
+        "link": "/track/lowlife-shah-i-mat",
+        "relise": "шах и мат",
+        "artist": "lowlife",
+        "grade": true
+    },
+    {
+        "link": "/track/riley-baby-4n-way-kosmicheskij-dzhem",
+        "relise": "Космический Джем",
+        "artist": "4n Way, RILEY BABY",
+        "grade": true
+    },
+    {
+        "link": "/track/sted-d-carpe-diem",
+        "relise": "CARPE DIEM",
+        "artist": "STED.D",
+        "grade": true
+    },
+    {
+        "link": "/track/redo-rizzla",
+        "relise": "RIZZLA",
+        "artist": "REDO",
+        "grade": true
+    },
+    {
+        "link": "/track/josodo-lajfstajl",
+        "relise": "Лайфстайл",
+        "artist": "Josodo",
+        "grade": true
+    },
+    {
+        "link": "/track/kuok-corrida",
+        "relise": "CORRIDA",
+        "artist": "КУОК",
+        "grade": true
+    },
+    {
+        "link": "/track/17-seventeen-kapli",
+        "relise": "Капли",
+        "artist": "17 SEVENTEEN",
+        "grade": true
+    }
+]

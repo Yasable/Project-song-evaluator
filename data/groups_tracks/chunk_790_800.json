@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/overdoze",
+        "relise": "OVERDOZE",
+        "artist": "BATO, OBLADAET",
+        "grade": true
+    },
+    {
+        "link": "/track/t-fest",
+        "relise": "T-FEST",
+        "artist": "August, FENDIGLOCK",
+        "grade": true
+    },
+    {
+        "link": "/track/novye-dengi",
+        "relise": "Новые Деньги",
+        "artist": "BUSHIDO ZHO, CODE80",
+        "grade": true
+    },
+    {
+        "link": "/track/russkie-vpered",
+        "relise": "Русские вперед",
+        "artist": "INSTASAMKA, Ленинград",
+        "grade": true
+    },
+    {
+        "link": "/track/zitraks-mode",
+        "relise": "zitraks mode",
+        "artist": "shadowraze",
+        "grade": true
+    },
+    {
+        "link": "/track/svarovski",
+        "relise": "Сваровски",
+        "artist": "Heronwater",
+        "grade": true
+    },
+    {
+        "link": "/track/0-chudovishhe",
+        "relise": "ЧУДОВИЩЕ",
+        "artist": "0$",
+        "grade": true
+    },
+    {
+        "link": "/track/thrill-pill-bulimiya",
+        "relise": "Булимия",
+        "artist": "THRILL PILL",
+        "grade": true
+    },
+    {
+        "link": "/track/cakeboy-kloukoma-ookkaayy",
+        "relise": "OOKKAAYY",
+        "artist": "CAKEBOY, КлоуКома",
+        "grade": true
+    },
+    {
+        "link": "/track/bakkara",
+        "relise": "Баккара",
+        "artist": "4n Way",
+        "grade": true
+    }
+]

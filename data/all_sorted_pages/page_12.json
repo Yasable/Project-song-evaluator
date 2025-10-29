@@ -1,0 +1,74 @@
+[
+    {
+        "link": "/track/nevynosimo",
+        "relise": "невыносимо",
+        "artist": "mzlff, Слава КПСС",
+        "grade": true
+    },
+    {
+        "link": "/track/nol-muzhskogo",
+        "relise": "НОЛЬ МУЖСКОГО",
+        "artist": "CMH, Дмитрий Уткин, Молодой Платон, Пошлая Молли",
+        "grade": true
+    },
+    {
+        "link": "/track/poslednee-leto",
+        "relise": "Последнее лето",
+        "artist": "Lida, СЕКОНД ХЕНД",
+        "grade": true
+    },
+    {
+        "link": "/track/aromat-3",
+        "relise": "aromat",
+        "artist": "gotlibgotlibgotlib",
+        "grade": true
+    },
+    {
+        "link": "/track/so-vsemi-tenyami",
+        "relise": "Со всеми тенями",
+        "artist": "LOVV66, TRITIA",
+        "grade": true
+    },
+    {
+        "link": "/album/zarima",
+        "relise": "ZARIMA",
+        "artist": "GERA AMEN",
+        "grade": true
+    },
+    {
+        "link": "/album/euphoria-2",
+        "relise": "EUPHORIA",
+        "artist": "LiL Flash$",
+        "grade": true
+    },
+    {
+        "link": "/track/iuda",
+        "relise": "Иуда",
+        "artist": "katanacss, КРИМ ПЛИН",
+        "grade": true
+    },
+    {
+        "link": "/track/jennifer-daytona-god-save-the-queen",
+        "relise": "God Save The Queen",
+        "artist": "Jennifer Daytona",
+        "grade": true
+    },
+    {
+        "link": "/track/unikkk-swaga",
+        "relise": "SWAGA",
+        "artist": "unikkk",
+        "grade": true
+    },
+    {
+        "link": "/track/myron-budilnik",
+        "relise": "Будильник",
+        "artist": "MYRON",
+        "grade": true
+    },
+    {
+        "link": "/track/beescus-crack-a-dilly",
+        "relise": "Crack-a-Dilly",
+        "artist": "Beescus",
+        "grade": true
+    }
+]

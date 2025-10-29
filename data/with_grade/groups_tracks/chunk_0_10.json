@@ -1,0 +1,122 @@
+[
+    {
+        "link": "/track/durochka",
+        "relise": "Дурочка",
+        "artist": "Дора",
+        "grade": [
+            8,
+            9,
+            10,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/miu-miu-2",
+        "relise": "MIU MIU",
+        "artist": "Baby Melo",
+        "grade": [
+            7,
+            8,
+            7,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/tipok",
+        "relise": "Типок",
+        "artist": "PLOHOYPAREN",
+        "grade": [
+            8,
+            9,
+            8,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/nezabudki",
+        "relise": "Незабудки",
+        "artist": "Егор Крид",
+        "grade": [
+            9,
+            10,
+            10,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/agent-girl",
+        "relise": "AGENT GIRL",
+        "artist": "INSTASAMKA",
+        "grade": [
+            6,
+            8,
+            7,
+            6,
+            5
+        ]
+    },
+    {
+        "link": "/track/ya-obyavlyaju-vam-vojnu",
+        "relise": "Я объявляю вам войну",
+        "artist": "Хаски",
+        "grade": [
+            8,
+            8,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/voron-cry",
+        "relise": "Voron Cry",
+        "artist": "GOSHA PIK",
+        "grade": [
+            6,
+            3,
+            3,
+            4,
+            6
+        ]
+    },
+    {
+        "link": "/track/cenzura",
+        "relise": "Цензура",
+        "artist": "kidswaga",
+        "grade": [
+            8,
+            7,
+            6,
+            6,
+            5
+        ]
+    },
+    {
+        "link": "/track/plohohorosho",
+        "relise": "ПЛОХОХОРОШО",
+        "artist": "Denya8",
+        "grade": [
+            6,
+            6,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "link": "/track/who-is-poet",
+        "relise": "Who Is Poet?",
+        "artist": "Hood Poet",
+        "grade": [
+            4,
+            3,
+            4,
+            4,
+            3
+        ]
+    }
+]

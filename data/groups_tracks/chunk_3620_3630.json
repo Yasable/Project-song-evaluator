@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/lil-morty-the-goaty",
+        "relise": "THE GOATY",
+        "artist": "LIL MORTY",
+        "grade": true
+    },
+    {
+        "link": "/track/sqwoz-bab-gone-fludd-blago-white-bratva-na-svyazi",
+        "relise": "БРАТВА НА СВЯЗИ",
+        "artist": "blago white, GONE.Fludd, SQWOZ BAB",
+        "grade": true
+    },
+    {
+        "link": "/track/mayot-mixtape",
+        "relise": "Mixtape",
+        "artist": "MAYOT",
+        "grade": true
+    },
+    {
+        "link": "/track/zabej-lerochka-kazhdyj-kto-delal-tebe-bolno",
+        "relise": "каждый, кто делал тебе больно",
+        "artist": "забей, лерочка",
+        "grade": true
+    },
+    {
+        "link": "/track/r3xred-heart",
+        "relise": "Heart",
+        "artist": "R3xred",
+        "grade": true
+    },
+    {
+        "link": "/track/velial-squad-vampirskij-shhit",
+        "relise": "Вампирский щит",
+        "artist": "VELIAL SQUAD",
+        "grade": true
+    },
+    {
+        "link": "/track/bushido-zho-sluchajno",
+        "relise": "случайно",
+        "artist": "BUSHIDO ZHO",
+        "grade": true
+    },
+    {
+        "link": "/track/markul-vrednye-privychki",
+        "relise": "Вредные привычки",
+        "artist": "MARKUL",
+        "grade": true
+    },
+    {
+        "link": "/track/molodoj-platon-kozlina",
+        "relise": "KOZLINA",
+        "artist": "Молодой Платон",
+        "grade": true
+    },
+    {
+        "link": "/track/lovv66-short-lav",
+        "relise": "ШОРТ ЛАВ",
+        "artist": "LOVV66",
+        "grade": true
+    }
+]

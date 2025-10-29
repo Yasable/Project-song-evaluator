@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/markul-niotkuda",
+        "relise": "Ниоткуда",
+        "artist": "MARKUL",
+        "grade": true
+    },
+    {
+        "link": "/track/lil-morty-shit-talking",
+        "relise": "SHIT TALKING",
+        "artist": "LIL MORTY",
+        "grade": true
+    },
+    {
+        "link": "/track/sapa13-vsegda",
+        "relise": "ВСЕГДА",
+        "artist": "SAPA13",
+        "grade": true
+    },
+    {
+        "link": "/track/nezy-inferno",
+        "relise": "Inferno",
+        "artist": "Nezy",
+        "grade": true
+    },
+    {
+        "link": "/track/heronwater-odarivaet",
+        "relise": "Одаривает",
+        "artist": "Heronwater",
+        "grade": true
+    },
+    {
+        "link": "/track/nine-lifes-ksks",
+        "relise": "KSKS",
+        "artist": "NINE LIFES",
+        "grade": true
+    },
+    {
+        "link": "/track/instasamka-za-dengi-da",
+        "relise": "ЗА ДЕНЬГИ ДА",
+        "artist": "INSTASAMKA",
+        "grade": true
+    },
+    {
+        "link": "/track/pyrokinesis-booker-v-ad-tolko-pered-toboj-v-raj-tolko-posle-tebya",
+        "relise": "в ад только перед тобой, в рай только после тебя",
+        "artist": "BOOKER, pyrokinesis",
+        "grade": true
+    },
+    {
+        "link": "/track/midix-sovral",
+        "relise": "Соврал",
+        "artist": "Midix",
+        "grade": true
+    },
+    {
+        "link": "/track/mzlff-kto-to-dolzhen-opylyat-cvetok",
+        "relise": "кто-то должен опылять цветок",
+        "artist": "mzlff",
+        "grade": true
+    }
+]

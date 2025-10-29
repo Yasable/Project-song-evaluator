@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/album/vsjo-chto-ya-znaju",
+        "relise": "Всё, что я знаю",
+        "artist": "4n Way",
+        "grade": true
+    },
+    {
+        "link": "/album/kiss-the-wall",
+        "relise": "KISS THE WALL",
+        "artist": "CAKEBOY, КлоуКома",
+        "grade": true
+    },
+    {
+        "link": "/album/princessa-amp-robot",
+        "relise": "Принцесса &amp; Робот",
+        "artist": "FEDUK",
+        "grade": true
+    },
+    {
+        "link": "/album/gosha-pik-dasha-chu",
+        "relise": "Dasha Chu",
+        "artist": "GOSHA PIK",
+        "grade": true
+    },
+    {
+        "link": "/album/slava-kpss-chudovishhe-pogubivshee-mir",
+        "relise": "ЧУДОВИЩЕ ПОГУБИВШЕЕ МИР",
+        "artist": "Слава КПСС",
+        "grade": true
+    },
+    {
+        "link": "/album/slava-kpss-solnce-mjortvyh",
+        "relise": "Солнце мёртвых",
+        "artist": "Слава КПСС",
+        "grade": true
+    },
+    {
+        "link": "/album/stray-dogs",
+        "relise": "STRAY DOGS",
+        "artist": "VELIAL SQUAD",
+        "grade": true
+    },
+    {
+        "link": "/album/rossiya34",
+        "relise": "Россия34",
+        "artist": "Слава КПСС",
+        "grade": true
+    },
+    {
+        "link": "/album/lovesongs",
+        "relise": "LOVESONGS",
+        "artist": "Дора",
+        "grade": true
+    },
+    {
+        "link": "/album/iznutri",
+        "relise": "ИЗНУТРИ",
+        "artist": "Toxi$",
+        "grade": true
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/track/golodnye-ulicy",
+        "relise": "Голодные улицы",
+        "artist": "JABO",
+        "grade": true
+    },
+    {
+        "link": "/track/ah-kakaya-zhenshhina",
+        "relise": "Ах, какая женщина",
+        "artist": "ALON",
+        "grade": true
+    },
+    {
+        "link": "/track/alone-starzz",
+        "relise": "ALONE STARZZ",
+        "artist": "44neverluv",
+        "grade": true
+    },
+    {
+        "link": "/album/album-tokyo",
+        "relise": "Tokyo",
+        "artist": "44neverluv",
+        "grade": true
+    },
+    {
+        "link": "/track/serdce",
+        "relise": "Сердце",
+        "artist": "WHITE GALLOWS",
+        "grade": true
+    },
+    {
+        "link": "/track/wake-up-3",
+        "relise": "WAKE UP",
+        "artist": "TumaniYO, Эндшпиль",
+        "grade": true
+    },
+    {
+        "link": "/track/traktor",
+        "relise": "Трактор",
+        "artist": "BuzyBurger, ​visagehq",
+        "grade": true
+    },
+    {
+        "link": "/track/umestit-v-odno-slovo",
+        "relise": "Уместить в одно слово",
+        "artist": "ЮГ 404",
+        "grade": true
+    },
+    {
+        "link": "/track/kem-by-ya-stal",
+        "relise": "КЕМ БЫ Я СТАЛ",
+        "artist": "MEYAC",
+        "grade": true
+    },
+    {
+        "link": "/track/trapcitylife",
+        "relise": "TRAPCITYLIFE",
+        "artist": "Милиан О’Войд",
+        "grade": true
+    },
+    {
+        "link": "/track/v-temnote",
+        "relise": "В Темноте",
+        "artist": "Wavez",
+        "grade": true
+    },
+    {
+        "link": "/track/nasekomoe",
+        "relise": "НАСЕКОМОЕ",
+        "artist": "Boulevard Depo, прыгай киска",
+        "grade": true
+    },
+    {
+        "link": "/track/chasto",
+        "relise": "Часто",
+        "artist": "Josodo, xxxmanera",
+        "grade": true
+    },
+    {
+        "link": "/track/iskry-2",
+        "relise": "Искры",
+        "artist": "Jaix$",
+        "grade": true
+    },
+    {
+        "link": "/track/demon",
+        "relise": "DEMON",
+        "artist": "kondachelo, OBLADAET",
+        "grade": true
+    },
+    {
+        "link": "/track/slava-marlow-diss-track",
+        "relise": "Slava Marlow Diss Track",
+        "artist": "MR.ARAPE",
+        "grade": true
+    },
+    {
+        "link": "/track/fristajl-2023",
+        "relise": "ФРИСТАЙЛ 2023",
+        "artist": "НЕДРЫ",
+        "grade": true
+    },
+    {
+        "link": "/album/bang",
+        "relise": "BANG",
+        "artist": "Джиган",
+        "grade": true
+    },
+    {
+        "link": "/album/i-gryanul-grom",
+        "relise": "И ГРЯНУЛ ГРОМ",
+        "artist": "НЕДРЫ",
+        "grade": true
+    },
+    {
+        "link": "/track/sladko",
+        "relise": "Сладко",
+        "artist": "Егор Крид, Смоки Мо",
+        "grade": true
+    },
+    {
+        "link": "/track/nikto-ne-znaet",
+        "relise": "Никто не знает",
+        "artist": "desaad",
+        "grade": true
+    },
+    {
+        "link": "/track/7-952-812",
+        "relise": "+7(952)812",
+        "artist": "ALBLAK 52",
+        "grade": true
+    },
+    {
+        "link": "/track/quite-a-minute",
+        "relise": "Quite a Minute",
+        "artist": "FIILL’, Neymles",
+        "grade": true
+    },
+    {
+        "link": "/track/vmeste",
+        "relise": "ВМЕСТЕ",
+        "artist": "Aarne, BUSHIDO ZHO",
+        "grade": true
+    },
+    {
+        "link": "/track/skvoznoe",
+        "relise": "Сквозное",
+        "artist": "Kinshu",
+        "grade": true
+    },
+    {
+        "link": "/track/pravda",
+        "relise": "ПРАВДА",
+        "artist": "BLASTT",
+        "grade": true
+    },
+    {
+        "link": "/track/mosty",
+        "relise": "МОСТЫ",
+        "artist": "Jessie Vatutin",
+        "grade": true
+    },
+    {
+        "link": "/track/esli",
+        "relise": "если",
+        "artist": "тима ищет свет",
+        "grade": true
+    },
+    {
+        "link": "/track/bottom",
+        "relise": "BOTTOM",
+        "artist": "SHEEEZY",
+        "grade": true
+    },
+    {
+        "link": "/track/fuckoff",
+        "relise": "fuckoff",
+        "artist": "rizza",
+        "grade": true
+    },
+    {
+        "link": "/album/limbo",
+        "relise": "limbo",
+        "artist": "rizza",
+        "grade": true
+    },
+    {
+        "link": "/track/impact",
+        "relise": "Impact",
+        "artist": "RAM",
+        "grade": true
+    },
+    {
+        "link": "/track/adrenalin",
+        "relise": "Адреналин",
+        "artist": "Dose, LYRIQ",
+        "grade": true
+    },
+    {
+        "link": "/track/just-love-you",
+        "relise": "Just Love You",
+        "artist": "Кэстл, Экси",
+        "grade": true
+    },
+    {
+        "link": "/track/sheck-wes",
+        "relise": "SHECK WES",
+        "artist": "Mark Skinner",
+        "grade": true
+    },
+    {
+        "link": "/track/v-pitere",
+        "relise": "В Питере",
+        "artist": "The Hatters, Джарахов",
+        "grade": true
+    }
+]

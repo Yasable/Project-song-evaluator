@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/track/satn",
+        "relise": "satn",
+        "artist": "deathmarried",
+        "grade": true
+    },
+    {
+        "link": "/track/iznichtozhenie",
+        "relise": "Изничтожение",
+        "artist": "G4OUR, Nacho Montero, SKB, THRILL PILL, ​ushira",
+        "grade": true
+    },
+    {
+        "link": "/track/rage-quit",
+        "relise": "RAGE QUIT",
+        "artist": "Loqiemean",
+        "grade": true
+    },
+    {
+        "link": "/track/sisyamby",
+        "relise": "СИСЯМБЫ",
+        "artist": "5opka, EVEN CUTE, НАВЕРНОЕ ПОЭТ, ЯКОРЪ",
+        "grade": false
+    },
+    {
+        "link": "/track/magiya",
+        "relise": "магия",
+        "artist": "Basic Boy, Thomas Mraz",
+        "grade": false
+    },
+    {
+        "link": "/track/evangelion",
+        "relise": "EVANGELION",
+        "artist": "i61",
+        "grade": false
+    },
+    {
+        "link": "/track/manifesto",
+        "relise": "MANIFESTO",
+        "artist": "UMSY",
+        "grade": false
+    },
+    {
+        "link": "/track/zhizn-na-edity",
+        "relise": "Жизнь на эдиты",
+        "artist": "YASMI",
+        "grade": true
+    },
+    {
+        "link": "/track/chto-skryvaet-les",
+        "relise": "Что скрывает лес",
+        "artist": "DEEP-EX-SENSE, Лжедмитрий IV",
+        "grade": false
+    },
+    {
+        "link": "/track/kazhetsya",
+        "relise": "Кажется",
+        "artist": "Сюзанна",
+        "grade": false
+    },
+    {
+        "link": "/track/jou-demi-ju-gou-krejzi",
+        "relise": "Йоу деми ю гоу крейзи",
+        "artist": "Mosquit",
+        "grade": false
+    },
+    {
+        "link": "/album/malyj-jus",
+        "relise": "Малый Юс",
+        "artist": "Воскресная школа, Плакин М.",
+        "grade": false
+    },
+    {
+        "link": "/album/o-tebe",
+        "relise": "О тебе",
+        "artist": "Jakone, Kiliana",
+        "grade": false
+    },
+    {
+        "link": "/track/mramor",
+        "relise": "Мрамор",
+        "artist": "INDEX",
+        "grade": false
+    },
+    {
+        "link": "/track/zelenye-glaza",
+        "relise": "зеленые глаза",
+        "artist": "pyatno",
+        "grade": false
+    },
+    {
+        "link": "/track/hoe",
+        "relise": "Hoe",
+        "artist": "Producer Yaro, Pupis",
+        "grade": true
+    },
+    {
+        "link": "/track/burning-down",
+        "relise": "Burning Down",
+        "artist": "Producer Yaro, Pupis",
+        "grade": false
+    },
+    {
+        "link": "/track/atl-horovod",
+        "relise": "Хоровод",
+        "artist": "ATL",
+        "grade": true
+    },
+    {
+        "link": "/track/appetit",
+        "relise": "Аппетит",
+        "artist": "Avenuepluggg",
+        "grade": false
+    },
+    {
+        "link": "/track/chto-ty-vidish",
+        "relise": "ЧТО ТЫ ВИДИШЬ?",
+        "artist": "J. ROUH",
+        "grade": true
+    },
+    {
+        "link": "/album/firmaa-3",
+        "relise": "FIRMAA 3",
+        "artist": "DJ Cave, Murovei",
+        "grade": false
+    },
+    {
+        "link": "/album/fin-de-siecle",
+        "relise": "Fin de siècle",
+        "artist": "LUKA, Словетский",
+        "grade": false
+    },
+    {
+        "link": "/album/baza",
+        "relise": "BAZA",
+        "artist": "OTRIX, Басота",
+        "grade": false
+    },
+    {
+        "link": "/track/u-vseh-na-vidu",
+        "relise": "У ВСЕХ НА ВИДУ",
+        "artist": "Wipo, АКУЛИЧ",
+        "grade": true
+    },
+    {
+        "link": "/track/pered-toboj",
+        "relise": "перед тобой",
+        "artist": "РЭЙДИ",
+        "grade": false
+    },
+    {
+        "link": "/track/klyki",
+        "relise": "Клыки",
+        "artist": "PUSSYKILLER",
+        "grade": false
+    },
+    {
+        "link": "/track/zvezdy-v-zdanii",
+        "relise": "звезды в здании",
+        "artist": "ЮГ 404",
+        "grade": false
+    },
+    {
+        "link": "/track/kancler",
+        "relise": "Канцлер",
+        "artist": "CAPTOWN, Niman, Truwer, Экси",
+        "grade": false
+    },
+    {
+        "link": "/album/neobratimye-posledstviya",
+        "relise": "Необратимые последствия",
+        "artist": "ATL",
+        "grade": true
+    },
+    {
+        "link": "/album/no-tune",
+        "relise": "NO TUNE",
+        "artist": "FENDIGLOCK",
+        "grade": true
+    },
+    {
+        "link": "/album/pray-on-my-downfall",
+        "relise": "PRAY ON MY DOWNFALL",
+        "artist": "dekma",
+        "grade": false
+    },
+    {
+        "link": "/track/jennifer-s-body",
+        "relise": "jennifer's body",
+        "artist": "Kai Angel",
+        "grade": true
+    },
+    {
+        "link": "/track/loveyourself",
+        "relise": "LOVEYourself",
+        "artist": "Sqwore",
+        "grade": true
+    },
+    {
+        "link": "/track/slim-shady",
+        "relise": "Slim Shady",
+        "artist": "Aarne, BUSHIDO ZHO",
+        "grade": true
+    },
+    {
+        "link": "/track/videl-vashi-lica",
+        "relise": "Видел ваши лица",
+        "artist": "OG Buda, Ямыч Восточный Округ",
+        "grade": true
+    },
+    {
+        "link": "/track/ya-tebe-sovral",
+        "relise": "Я тебе соврал",
+        "artist": "Lida, Дмитрий Маликов",
+        "grade": true
+    }
+]

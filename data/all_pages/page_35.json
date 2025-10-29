@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/track/skazal-nevermind",
+        "relise": "Nevermind",
+        "artist": "skazal",
+        "grade": true
+    },
+    {
+        "link": "/track/6less6oy-long-island",
+        "relise": "Long Island",
+        "artist": "6less6oy",
+        "grade": true
+    },
+    {
+        "link": "/track/eto-ljubov",
+        "relise": "Это любовь",
+        "artist": "забей, лерочка, Перемотка",
+        "grade": false
+    },
+    {
+        "link": "/album/foliev-vremennye-trudnosti",
+        "relise": "Временные трудности",
+        "artist": "FOLIEV",
+        "grade": true
+    },
+    {
+        "link": "/track/dvor",
+        "relise": "Двор",
+        "artist": "2hug",
+        "grade": false
+    },
+    {
+        "link": "/track/mne-snilos-kak-ty-umrjosh",
+        "relise": "мне снилось как ты умрёшь",
+        "artist": "aikko",
+        "grade": false
+    },
+    {
+        "link": "/track/barber",
+        "relise": "Барбер",
+        "artist": "SCIRENA",
+        "grade": false
+    },
+    {
+        "link": "/track/i-ta-i-eta",
+        "relise": "и та и эта",
+        "artist": "cuteken, YASMI",
+        "grade": false
+    },
+    {
+        "link": "/track/ulica",
+        "relise": "Улица",
+        "artist": "Kambulat, Truwer",
+        "grade": false
+    },
+    {
+        "link": "/track/tancy",
+        "relise": "Танцы",
+        "artist": "Skurt",
+        "grade": false
+    },
+    {
+        "link": "/album/trapstar",
+        "relise": "TRAPSTAR",
+        "artist": "D4P",
+        "grade": false
+    },
+    {
+        "link": "/track/sumasshedshaya",
+        "relise": "Сумасшедшая",
+        "artist": "КРИМ ПЛИН",
+        "grade": true
+    },
+    {
+        "link": "/track/kosmos-2",
+        "relise": "Космос",
+        "artist": "TRITIA, Баста",
+        "grade": false
+    },
+    {
+        "link": "/track/vesna",
+        "relise": "Весна",
+        "artist": "Канги",
+        "grade": false
+    },
+    {
+        "link": "/track/one",
+        "relise": "ONE",
+        "artist": "Майк Стикс, НОКТУ",
+        "grade": false
+    },
+    {
+        "link": "/album/nikto-nigde",
+        "relise": "никто, нигде",
+        "artist": "Basic Boy",
+        "grade": false
+    },
+    {
+        "link": "/album/ignor",
+        "relise": "ИГНОР",
+        "artist": "Чёрная экономика",
+        "grade": false
+    },
+    {
+        "link": "/track/premium-girl",
+        "relise": "PREMIUM GIRL",
+        "artist": "Молодой Платон",
+        "grade": false
+    },
+    {
+        "link": "/track/chjornyj-escalade",
+        "relise": "ЧЁРНЫЙ ESCALADE",
+        "artist": "ФРИК ПАТИ",
+        "grade": false
+    },
+    {
+        "link": "/track/grejvlend",
+        "relise": "Грейвлэнд",
+        "artist": "PROOVY",
+        "grade": false
+    },
+    {
+        "link": "/track/holodnaya-ljubov",
+        "relise": "Холодная любовь",
+        "artist": "LXNER, woee33",
+        "grade": true
+    },
+    {
+        "link": "/album/prosecco-flow",
+        "relise": "Prosecco Flow",
+        "artist": "Guram D",
+        "grade": false
+    },
+    {
+        "link": "/album/privorot-gumanoida",
+        "relise": "Приворот гуманоида",
+        "artist": "Horus, SharOn",
+        "grade": false
+    },
+    {
+        "link": "/track/russian-jordan-alikson-team-anthem",
+        "relise": "Russian Jordan (Alikson Team Anthem)",
+        "artist": "Desiigner, Джарахов",
+        "grade": false
+    },
+    {
+        "link": "/track/l",
+        "relise": "L",
+        "artist": "MACAN",
+        "grade": true
+    },
+    {
+        "link": "/track/ispytyvaju-zhazhdu",
+        "relise": "ИСПЫТЫВАЮ ЖАЖДУ",
+        "artist": "ЕГОР НАТС",
+        "grade": false
+    },
+    {
+        "link": "/track/prijom-prijom",
+        "relise": "Приём! Приём!",
+        "artist": "DJ Stonik1917, Антоха МС",
+        "grade": false
+    },
+    {
+        "link": "/album/harmony",
+        "relise": "Harmony",
+        "artist": "Glukoza",
+        "grade": false
+    },
+    {
+        "link": "/album/second-rule",
+        "relise": "SECOND RULE",
+        "artist": "J. ROUH",
+        "grade": true
+    },
+    {
+        "link": "/track/gosha-rubchinskij",
+        "relise": "ГОША РУБЧИНСКИЙ",
+        "artist": "9mice",
+        "grade": true
+    },
+    {
+        "link": "/track/lalala",
+        "relise": "lalala",
+        "artist": "9mice, LILDRUGHILL",
+        "grade": true
+    },
+    {
+        "link": "/track/1st-day-smoke",
+        "relise": "1ST DAY SMOKE",
+        "artist": "Heronwater",
+        "grade": true
+    },
+    {
+        "link": "/track/fake-id",
+        "relise": "Fake ID",
+        "artist": "ICEGERGERT, kizaru",
+        "grade": true
+    },
+    {
+        "link": "/track/swjorve",
+        "relise": "SWЁRVE",
+        "artist": "OG Buda, revvboy",
+        "grade": true
+    },
+    {
+        "link": "/track/glock17",
+        "relise": "GLOCK17",
+        "artist": "BUSHIDO ZHO, Yanix",
+        "grade": true
+    },
+    {
+        "link": "/track/vo-dvore",
+        "relise": "во дворе",
+        "artist": "mzlff",
+        "grade": true
+    }
+]

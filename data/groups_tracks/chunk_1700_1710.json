@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/snxwfall-kokon",
+        "relise": "Кокон",
+        "artist": "SNXWFALL",
+        "grade": true
+    },
+    {
+        "link": "/track/codlecane-ljublju",
+        "relise": "Люблю",
+        "artist": "CODLECANE",
+        "grade": true
+    },
+    {
+        "link": "/track/dzhejlo-antiutopiya",
+        "relise": "Антиутопия",
+        "artist": "ДЖЕЙЛО",
+        "grade": true
+    },
+    {
+        "link": "/track/vsjo-ne-to",
+        "relise": "Всё не то",
+        "artist": "JUGHEAD",
+        "grade": true
+    },
+    {
+        "link": "/track/nounejm",
+        "relise": "ноунейм",
+        "artist": "Onative",
+        "grade": true
+    },
+    {
+        "link": "/track/kurer-s-toporom",
+        "relise": "Курьер с топором",
+        "artist": "Валентин Дядька",
+        "grade": true
+    },
+    {
+        "link": "/track/peddoppi-ulybka",
+        "relise": "Улыбка",
+        "artist": "Peddoppi",
+        "grade": true
+    },
+    {
+        "link": "/track/gohk-na-dno",
+        "relise": "На дно",
+        "artist": "Gohk",
+        "grade": true
+    },
+    {
+        "link": "/track/ernest-podnyat-i-potratit",
+        "relise": "Поднять и Потратить",
+        "artist": "ERNEST",
+        "grade": true
+    },
+    {
+        "link": "/track/liney-u-menya-svoj-vajb-2",
+        "relise": "У меня свой вайб",
+        "artist": "Liney",
+        "grade": true
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/album/glamour",
+        "relise": "GLAMOUR",
+        "artist": "ARTEM SHILOVETS, nkeeei, uniqe",
+        "grade": true
+    },
+    {
+        "link": "/album/enigma",
+        "relise": "ENIGMA",
+        "artist": "FRESCO",
+        "grade": true
+    },
+    {
+        "link": "/album/hroniki-kajfa",
+        "relise": "Хроники Кайфа",
+        "artist": "blago white",
+        "grade": true
+    },
+    {
+        "link": "/album/infinity-love-888",
+        "relise": "INFINITY LOVE 888",
+        "artist": "Милиан О’Войд",
+        "grade": true
+    },
+    {
+        "link": "/album/soda-luv",
+        "relise": "SODA LUV",
+        "artist": "SODA LUV",
+        "grade": true
+    },
+    {
+        "link": "/album/streets-echo-2052",
+        "relise": "Streets Echo 2052",
+        "artist": "ALBLAK 52",
+        "grade": true
+    },
+    {
+        "link": "/album/jerk-shit-happens-2",
+        "relise": "JERK SHIT HAPPENS 2",
+        "artist": "unki",
+        "grade": true
+    },
+    {
+        "link": "/album/drugoj",
+        "relise": "Другой",
+        "artist": "BATO",
+        "grade": true
+    },
+    {
+        "link": "/album/zastolnye-psihodelicheskie-pesni",
+        "relise": "Застольные Психоделические Песни",
+        "artist": "Валентин Дядька",
+        "grade": true
+    },
+    {
+        "link": "/album/who-realer",
+        "relise": "Who Realer?",
+        "artist": "Baby Melo",
+        "grade": true
+    }
+]

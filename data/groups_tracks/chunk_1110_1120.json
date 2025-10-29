@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/rudeboys",
+        "relise": "RudeBoys",
+        "artist": "Miyagi, Эндшпиль",
+        "grade": true
+    },
+    {
+        "link": "/track/bus",
+        "relise": "BUS",
+        "artist": "BORIS REDWALL, MAYOT",
+        "grade": true
+    },
+    {
+        "link": "/track/esli-ne-usnut",
+        "relise": "Если не уснуть",
+        "artist": "Крип-А-Крип, Скриптонит",
+        "grade": true
+    },
+    {
+        "link": "/track/memento-amor",
+        "relise": "Memento Amor",
+        "artist": "PROOVY",
+        "grade": true
+    },
+    {
+        "link": "/track/lxner-pererozhdenie",
+        "relise": "перерождение",
+        "artist": "LXNER",
+        "grade": true
+    },
+    {
+        "link": "/track/saluki-beirut",
+        "relise": "BEIRUT",
+        "artist": "SALUKI",
+        "grade": true
+    },
+    {
+        "link": "/track/sdelaj-mne-priyatno-shhas",
+        "relise": "Сделай Мне Приятно Щас",
+        "artist": "OG Buda",
+        "grade": true
+    },
+    {
+        "link": "/track/shoubiz",
+        "relise": "ШОУБИЗ",
+        "artist": "Милиан О’Войд",
+        "grade": true
+    },
+    {
+        "link": "/track/glubokoe-pogruzhenie",
+        "relise": "Глубокое погружение",
+        "artist": "IROH",
+        "grade": true
+    },
+    {
+        "link": "/track/inaya",
+        "relise": "ИNAЯ",
+        "artist": "JDFLAG",
+        "grade": true
+    }
+]

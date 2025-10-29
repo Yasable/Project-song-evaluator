@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/rehab",
+        "relise": "Рехаб",
+        "artist": "uglystephan",
+        "grade": true
+    },
+    {
+        "link": "/track/arheolog",
+        "relise": "Археолог",
+        "artist": "goldtbk",
+        "grade": true
+    },
+    {
+        "link": "/track/yanvar",
+        "relise": "Январь",
+        "artist": "Ramil’, Xcho",
+        "grade": true
+    },
+    {
+        "link": "/track/scsc-wav",
+        "relise": "Scsc.wav",
+        "artist": "ROMPEЯ",
+        "grade": true
+    },
+    {
+        "link": "/track/gryaz",
+        "relise": "ГРЯЗЬ",
+        "artist": "ALBLAK 52, SEEMEE",
+        "grade": true
+    },
+    {
+        "link": "/track/ya-tak-chasto-vljublyajus",
+        "relise": "я так часто влюбляюсь",
+        "artist": "Твоя молодость",
+        "grade": true
+    },
+    {
+        "link": "/track/vlone-jacket",
+        "relise": "VLONE JACKET",
+        "artist": "JABO",
+        "grade": true
+    },
+    {
+        "link": "/track/105-problem",
+        "relise": "105 Проблем",
+        "artist": "Midix",
+        "grade": true
+    },
+    {
+        "link": "/track/dlya-tebya-i-dlya-menya",
+        "relise": "Для тебя и для меня",
+        "artist": "17 SEVENTEEN",
+        "grade": true
+    },
+    {
+        "link": "/track/pro-pudelya",
+        "relise": "Про Пуделя",
+        "artist": "Гуф",
+        "grade": true
+    }
+]

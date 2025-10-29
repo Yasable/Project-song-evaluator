@@ -1,0 +1,122 @@
+[
+    {
+        "link": "/track/wake-up-4",
+        "relise": "Wake Up",
+        "artist": "Макс Корж",
+        "grade": [
+            9,
+            9,
+            8,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/whole-lotta-swag-milliony",
+        "relise": "Миллионы",
+        "artist": "Whole Lotta Swag",
+        "grade": [
+            8,
+            8,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/mirele-peremotka-son",
+        "relise": "Сон",
+        "artist": "Mirèle, Перемотка",
+        "grade": [
+            8,
+            8,
+            8,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/mirele-xrustalic-kajus",
+        "relise": "Каюсь",
+        "artist": "Mirèle, XRUSTALIC",
+        "grade": [
+            8,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/polmateri-nelovko",
+        "relise": "неловко",
+        "artist": "ПОЛМАТЕРИ",
+        "grade": [
+            9,
+            10,
+            9,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/baby-melo-p-o-r-sh-e",
+        "relise": "П О Р Ш Е",
+        "artist": "Baby Melo",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/gruppa-skryptonite-izzamuzzic-do-rassveta",
+        "relise": "до рассвета",
+        "artist": "Gruppa Skryptonite, Izzamuzzic",
+        "grade": [
+            9,
+            9,
+            9,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/163onmyneck-mayot-polyana-delat-veshhi",
+        "relise": "Делать Вещи",
+        "artist": "163ONMYNECK, MAYOT, Polyana",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/macan-yasmi-jet",
+        "relise": "Jet",
+        "artist": "MACAN, YASMI",
+        "grade": [
+            9,
+            8,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/sabu-saluki-locked",
+        "relise": "LOCKED",
+        "artist": "SABU, SALUKI",
+        "grade": [
+            9,
+            10,
+            10,
+            9,
+            10
+        ]
+    }
+]

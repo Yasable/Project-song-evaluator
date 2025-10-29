@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/album/ave",
+        "relise": "Ave",
+        "artist": "ICEGERGERT",
+        "grade": true
+    },
+    {
+        "link": "/track/kupe",
+        "relise": "Купе",
+        "artist": "3TERNITY",
+        "grade": false
+    },
+    {
+        "link": "/track/inej",
+        "relise": "Иней",
+        "artist": "АДЛИН",
+        "grade": false
+    },
+    {
+        "link": "/track/sauce-2004",
+        "relise": "SAUCE 2004",
+        "artist": "КРЕСТ",
+        "grade": false
+    },
+    {
+        "link": "/track/dirizhabl",
+        "relise": "Дирижабль",
+        "artist": "blago white",
+        "grade": false
+    },
+    {
+        "link": "/track/azart",
+        "relise": "Азарт",
+        "artist": "Экси",
+        "grade": false
+    },
+    {
+        "link": "/track/belorusskij-hit",
+        "relise": "Белорусский Хит",
+        "artist": "AQYLA, ARTEM SHILOVETS",
+        "grade": false
+    },
+    {
+        "link": "/track/snova-sovrjosh",
+        "relise": "снова соврёшь",
+        "artist": "MellSher, ​uxknow",
+        "grade": false
+    },
+    {
+        "link": "/track/do-svidaniya",
+        "relise": "До свидания",
+        "artist": "LOVV66",
+        "grade": true
+    },
+    {
+        "link": "/album/sniper66",
+        "relise": "SNIPER66",
+        "artist": "LOVV66",
+        "grade": true
+    },
+    {
+        "link": "/album/young-rich",
+        "relise": "Young &amp; Rich",
+        "artist": "Baby Melo",
+        "grade": true
+    },
+    {
+        "link": "/track/centr",
+        "relise": "Центр",
+        "artist": "Heronwater",
+        "grade": true
+    },
+    {
+        "link": "/track/experemental",
+        "relise": "EXPEREMENTAL",
+        "artist": "NEWLIGHTCHILD",
+        "grade": true
+    },
+    {
+        "link": "/track/sirena",
+        "relise": "Сирена",
+        "artist": "White Punk",
+        "grade": false
+    },
+    {
+        "link": "/track/spooky-pooky-blog",
+        "relise": "spooky pooky blog",
+        "artist": "pixiesquad​, Sqwore, ​kayyo",
+        "grade": false
+    },
+    {
+        "link": "/track/ne-hodi-na-russkij-rejv",
+        "relise": "Не ходи на русский рейв",
+        "artist": "Lida",
+        "grade": true
+    },
+    {
+        "link": "/track/dvigaj-telom-2",
+        "relise": "Двигай Телом",
+        "artist": "DJ ASHANTI",
+        "grade": false
+    },
+    {
+        "link": "/track/shanson-2",
+        "relise": "Шансон 2",
+        "artist": "Хаски",
+        "grade": true
+    },
+    {
+        "link": "/track/final-fantasy-track",
+        "relise": "FINAL FANTASY",
+        "artist": "UNA, КУОК",
+        "grade": true
+    },
+    {
+        "link": "/track/kisee-vampirinysh-sawing",
+        "relise": "SAWING",
+        "artist": "Kisee, vampirinysh",
+        "grade": true
+    },
+    {
+        "link": "/track/beliwhatt-hochu-dvigatsya",
+        "relise": "хочу двигаться",
+        "artist": "Beliwhatt",
+        "grade": true
+    },
+    {
+        "link": "/track/unisex-eklips-pinocchio",
+        "relise": "PINOCCHIO",
+        "artist": "Униsex, Эклипс",
+        "grade": true
+    },
+    {
+        "link": "/track/vspak-naberi-nomer-blizkih",
+        "relise": "Набери номер близких",
+        "artist": "Vspak",
+        "grade": true
+    },
+    {
+        "link": "/track/angelo-bae-trash-movie",
+        "relise": "Trash Movie",
+        "artist": "Angelo Bae",
+        "grade": true
+    },
+    {
+        "link": "/album/0-0coa-t",
+        "relise": "0COA$T",
+        "artist": "0$",
+        "grade": true
+    },
+    {
+        "link": "/track/karma",
+        "relise": "Карма",
+        "artist": "LeanJe",
+        "grade": false
+    },
+    {
+        "link": "/album/golovolomka",
+        "relise": "Головоломка",
+        "artist": "5opka",
+        "grade": true
+    },
+    {
+        "link": "/track/pepel-nahudi-huyomayo",
+        "relise": "HUYOMAYO",
+        "artist": "Pepel Nahudi",
+        "grade": true
+    },
+    {
+        "link": "/track/dora-proshhaj",
+        "relise": "Прощай",
+        "artist": "Дора",
+        "grade": true
+    },
+    {
+        "link": "/track/slava-kpss-dengi-i-bog",
+        "relise": "Деньги и Бог",
+        "artist": "Слава КПСС",
+        "grade": true
+    },
+    {
+        "link": "/track/tosya-chajkina-dlya-k",
+        "relise": "для к.",
+        "artist": "Тося Чайкина",
+        "grade": true
+    },
+    {
+        "link": "/track/egomaniac",
+        "relise": "EGOMANIAC",
+        "artist": "IGOR",
+        "grade": false
+    },
+    {
+        "link": "/track/rezinki",
+        "relise": "Резинки",
+        "artist": "валюта скуратов",
+        "grade": false
+    },
+    {
+        "link": "/track/proshloe",
+        "relise": "Прошлое",
+        "artist": "10AGE",
+        "grade": false
+    },
+    {
+        "link": "/track/topit",
+        "relise": "Топит",
+        "artist": "ANNA ASTI",
+        "grade": false
+    },
+    {
+        "link": "/track/manipulyator",
+        "relise": "Манипулятор",
+        "artist": "Maladoy Prince",
+        "grade": false
+    }
+]

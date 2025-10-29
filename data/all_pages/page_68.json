@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/album/teen-trip",
+        "relise": "TEEN TRIP",
+        "artist": "BLESSQ",
+        "grade": false
+    },
+    {
+        "link": "/album/butthurt",
+        "relise": "BUTTHURT",
+        "artist": "diklor, dmtboy",
+        "grade": false
+    },
+    {
+        "link": "/album/guilty-pleasure",
+        "relise": "GUILTY PLEASURE",
+        "artist": "Neverlove",
+        "grade": false
+    },
+    {
+        "link": "/track/supermodel",
+        "relise": "СУПЕРМОДЕЛЬ",
+        "artist": "DILARA",
+        "grade": false
+    },
+    {
+        "link": "/track/ya-nochju-plachu",
+        "relise": "Я ночью плачу",
+        "artist": "Матис, СТИНТ",
+        "grade": true
+    },
+    {
+        "link": "/track/disconnect",
+        "relise": "DISCONNECT",
+        "artist": "Becpot, RILEYN, SENSEE",
+        "grade": false
+    },
+    {
+        "link": "/album/tanecgoloszvuk-4",
+        "relise": "ТанецГолосЗвук 4",
+        "artist": "ЛАУД",
+        "grade": false
+    },
+    {
+        "link": "/album/vsegda-nenavidel-byt-slabym",
+        "relise": "всегда ненавидел быть слабым",
+        "artist": "cold carti",
+        "grade": true
+    },
+    {
+        "link": "/track/kak-odet",
+        "relise": "КАК ОДЕТ",
+        "artist": "B soul",
+        "grade": true
+    },
+    {
+        "link": "/track/knoknul",
+        "relise": "КНОКНУЛ",
+        "artist": "JUGHEAD, Kinderlil",
+        "grade": true
+    },
+    {
+        "link": "/track/ugaraju",
+        "relise": "УГАРАЮ",
+        "artist": "Lover",
+        "grade": false
+    },
+    {
+        "link": "/track/hrabroe-serdce",
+        "relise": "Храброе сердце",
+        "artist": "Murovei",
+        "grade": false
+    },
+    {
+        "link": "/track/voltage",
+        "relise": "VOLTAGE",
+        "artist": "RAM",
+        "grade": false
+    },
+    {
+        "link": "/track/sanzen-sekai",
+        "relise": "SANZEN SEKAI",
+        "artist": "SHTRIHCOD",
+        "grade": false
+    },
+    {
+        "link": "/track/plus-plus-plus",
+        "relise": "PLUS+PLUS+PLUS",
+        "artist": "SHTRIHCOD",
+        "grade": false
+    },
+    {
+        "link": "/track/vljublyatsya",
+        "relise": "Влюбляться",
+        "artist": "Tenderlybae",
+        "grade": false
+    },
+    {
+        "link": "/track/gigiena",
+        "relise": "ГИГИЕНА",
+        "artist": "UMSY",
+        "grade": false
+    },
+    {
+        "link": "/album/mayot-z4pr4vk4-kid-deljuks-p4k",
+        "relise": "З4ПР4ВК4 КИД (ДЕЛЮКС П4К)",
+        "artist": "MAYOT",
+        "grade": true
+    },
+    {
+        "link": "/album/scarface",
+        "relise": "Scarface",
+        "artist": "молодой калуга",
+        "grade": true
+    },
+    {
+        "link": "/track/cowboys",
+        "relise": "CowBoys",
+        "artist": "Toxi$, Егор Крид",
+        "grade": true
+    },
+    {
+        "link": "/track/na-kraju",
+        "relise": "На краю",
+        "artist": "LOVV66, White Punk",
+        "grade": true
+    },
+    {
+        "link": "/track/skuchaju-po-tebe",
+        "relise": "Скучаю по тебе",
+        "artist": "неисправность, Три дня дождя",
+        "grade": true
+    },
+    {
+        "link": "/track/letter-to-you",
+        "relise": "Letter To You",
+        "artist": "LIL MORTY",
+        "grade": false
+    },
+    {
+        "link": "/track/iz-raya",
+        "relise": "из рая",
+        "artist": "CALLMYDD, LXNER",
+        "grade": false
+    },
+    {
+        "link": "/track/otcy-i-deti",
+        "relise": "Отцы и дети",
+        "artist": "ICEGERGERT, Гуф",
+        "grade": true
+    },
+    {
+        "link": "/track/pazly",
+        "relise": "Пазлы",
+        "artist": "FEDUK",
+        "grade": true
+    },
+    {
+        "link": "/track/vysokij-spros",
+        "relise": "Высокий спрос",
+        "artist": "CAKEBOY",
+        "grade": false
+    },
+    {
+        "link": "/track/noch-3",
+        "relise": "Ночь",
+        "artist": "CAKEBOY",
+        "grade": true
+    },
+    {
+        "link": "/track/hajgraund",
+        "relise": "Хайграунд",
+        "artist": "CAKEBOY",
+        "grade": false
+    },
+    {
+        "link": "/track/nikita-77-zabiraj",
+        "relise": "ЗАБИРАЙ",
+        "artist": "Никита 77",
+        "grade": true
+    },
+    {
+        "link": "/track/trofant-pochemu-eshhe",
+        "relise": "Почему еще?",
+        "artist": "Трофант",
+        "grade": true
+    },
+    {
+        "link": "/track/rei-ishida-protiv-pravil",
+        "relise": "Против правил",
+        "artist": "Rei Ishida",
+        "grade": true
+    },
+    {
+        "link": "/track/miki-ganbei-black-parade-of-the-elephants",
+        "relise": "Black Parade of the Elephants",
+        "artist": "Miki Ganbei 干杯",
+        "grade": true
+    },
+    {
+        "link": "/track/krim-plin-gorko-da-veselo",
+        "relise": "Горько да весело",
+        "artist": "КРИМ ПЛИН",
+        "grade": true
+    },
+    {
+        "link": "/track/nonsanchez-b3d-bitch",
+        "relise": "B3d Bitch",
+        "artist": "NonSanchez",
+        "grade": true
+    },
+    {
+        "link": "/track/le-noir-sect",
+        "relise": "Sect",
+        "artist": "Le Noir",
+        "grade": true
+    }
+]

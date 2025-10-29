@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/album/who-realer",
+        "relise": "Who Realer?",
+        "artist": "Baby Melo",
+        "grade": true
+    },
+    {
+        "link": "/album/final-affect",
+        "relise": "Final Affect",
+        "artist": "Showbiz School",
+        "grade": true
+    },
+    {
+        "link": "/track/dengi-i-seks",
+        "relise": "Деньги и секс",
+        "artist": "Krishtall ZHS, Voskresenskii",
+        "grade": true
+    },
+    {
+        "link": "/track/never-b4",
+        "relise": "NEVER B4",
+        "artist": "Милиан О’Войд",
+        "grade": true
+    },
+    {
+        "link": "/track/no-stylist-2",
+        "relise": "No Stylist 2",
+        "artist": "LIL MORTY",
+        "grade": true
+    },
+    {
+        "link": "/track/kazhdoj-nochju",
+        "relise": "Каждой ночью",
+        "artist": "ДЖЕЙЛО",
+        "grade": false
+    },
+    {
+        "link": "/track/v-poslednij-r_r-az",
+        "relise": "В последний (р_р)аз",
+        "artist": "ДЖЕЙЛО",
+        "grade": false
+    },
+    {
+        "link": "/track/iskusstvo",
+        "relise": "Искусство",
+        "artist": "ДЖЕЙЛО",
+        "grade": false
+    },
+    {
+        "link": "/track/ljubimye-shramy",
+        "relise": "любимые шрамы",
+        "artist": "shadowraze, ​ushira",
+        "grade": true
+    },
+    {
+        "link": "/track/padaju",
+        "relise": "падаю",
+        "artist": "вышел покурить",
+        "grade": true
+    },
+    {
+        "link": "/track/faithmauch-pupis-we-goin-top",
+        "relise": "WE GOIN TOP",
+        "artist": "Faithmauch, Pupis",
+        "grade": true
+    },
+    {
+        "link": "/track/khaidar-kometa",
+        "relise": "КОМЕТА",
+        "artist": "Khaidar",
+        "grade": true
+    },
+    {
+        "link": "/track/bouvrd-gost",
+        "relise": "Гост",
+        "artist": "Bouvrd",
+        "grade": true
+    },
+    {
+        "link": "/track/tishukov-okovy",
+        "relise": "Оковы",
+        "artist": "TishukoV",
+        "grade": true
+    },
+    {
+        "link": "/track/holodnyj-vozduh-svet",
+        "relise": "Свет",
+        "artist": "Холодный воздух",
+        "grade": true
+    },
+    {
+        "link": "/track/disomnum-zabyt",
+        "relise": "ЗАБЫТЬ",
+        "artist": "DISOMNUM",
+        "grade": true
+    },
+    {
+        "link": "/track/mottya-vvain-intro",
+        "relise": "INTRO",
+        "artist": "mottya, VVAIN",
+        "grade": true
+    },
+    {
+        "link": "/track/uxknow-chuzhie-zvjozdy",
+        "relise": "чужие звёзды",
+        "artist": "​uxknow",
+        "grade": true
+    },
+    {
+        "link": "/track/bl4rry-mayhem",
+        "relise": "MAYHEM",
+        "artist": "Blurry",
+        "grade": true
+    },
+    {
+        "link": "/track/baby-cartell-night-night",
+        "relise": "Night Night",
+        "artist": "Baby cartell",
+        "grade": true
+    },
+    {
+        "link": "/track/sevnz-tveth-exp",
+        "relise": "EXP",
+        "artist": "SEVNZ, TVETH",
+        "grade": true
+    },
+    {
+        "link": "/track/kryshi",
+        "relise": "Крыши",
+        "artist": "Danami, MellSher",
+        "grade": false
+    },
+    {
+        "link": "/album/overdose",
+        "relise": "OVERDOSE",
+        "artist": "Pupis",
+        "grade": false
+    },
+    {
+        "link": "/album/gritty-tales",
+        "relise": "Gritty Tales",
+        "artist": "A-THIS 52",
+        "grade": false
+    },
+    {
+        "link": "/album/plyazhnyj-bezdelnik",
+        "relise": "пляжный бездельник",
+        "artist": "семьсот семь",
+        "grade": false
+    },
+    {
+        "link": "/track/geniya-rodila",
+        "relise": "ГЕНИЯ РОДИЛА",
+        "artist": "Lover",
+        "grade": true
+    },
+    {
+        "link": "/track/vokrug-sveta",
+        "relise": "Вокруг света",
+        "artist": "Dose",
+        "grade": false
+    },
+    {
+        "link": "/track/odinoko",
+        "relise": "Одиноко",
+        "artist": "Horus, LeanJe",
+        "grade": false
+    },
+    {
+        "link": "/track/pozhar",
+        "relise": "Пожар",
+        "artist": "JONY",
+        "grade": false
+    },
+    {
+        "link": "/track/mestnyj",
+        "relise": "Местный",
+        "artist": "Fardi, Truwer",
+        "grade": false
+    },
+    {
+        "link": "/track/tak-nuzhno",
+        "relise": "Так нужно",
+        "artist": "Dima Roux",
+        "grade": false
+    },
+    {
+        "link": "/track/skrizhal",
+        "relise": "СКРИЖАЛЬ",
+        "artist": "НОКТУ",
+        "grade": false
+    },
+    {
+        "link": "/track/ayomarkiz-krov-iz-nosa-vne-korobki",
+        "relise": "вне коробки",
+        "artist": "ayomarkiz, кровь из носа",
+        "grade": true
+    },
+    {
+        "link": "/album/airbag",
+        "relise": "AIRBAG",
+        "artist": "SEVNZ, TVETH",
+        "grade": true
+    },
+    {
+        "link": "/album/yves",
+        "relise": "YVES",
+        "artist": "FLESH",
+        "grade": true
+    },
+    {
+        "link": "/album/talk4hero",
+        "relise": "Talk4hero",
+        "artist": "woee33",
+        "grade": false
+    }
+]

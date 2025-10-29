@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/album/sinergis",
+        "relise": "СИНЕРГИС",
+        "artist": "DEEP-EX-SENSE, Лжедмитрий IV",
+        "grade": false
+    },
+    {
+        "link": "/track/flamebaby-do-do-do",
+        "relise": "Do Do Do",
+        "artist": "FlameBaby",
+        "grade": true
+    },
+    {
+        "link": "/track/wayward-village-news",
+        "relise": "Village News",
+        "artist": "Wayward.",
+        "grade": true
+    },
+    {
+        "link": "/track/glu-mora-rezo-daisy",
+        "relise": "Daisy",
+        "artist": "GLU, MORA, Rezo",
+        "grade": true
+    },
+    {
+        "link": "/track/sd3k-patient",
+        "relise": "Patient",
+        "artist": "sd3k",
+        "grade": true
+    },
+    {
+        "link": "/track/famous-killa-vamp",
+        "relise": "VAMP",
+        "artist": "FAMOUS KILLA",
+        "grade": true
+    },
+    {
+        "link": "/track/blurry-sex-impulse",
+        "relise": "SEX IMPULSE",
+        "artist": "Blurry",
+        "grade": true
+    },
+    {
+        "link": "/track/karma-tut-i-tam",
+        "relise": "ТУТ И ТАМ",
+        "artist": "KARMA.",
+        "grade": true
+    },
+    {
+        "link": "/track/uaja",
+        "relise": "УАЙА",
+        "artist": "Смоки Мо",
+        "grade": false
+    },
+    {
+        "link": "/track/holoda",
+        "relise": "Холода",
+        "artist": "MellSher, СТИНТ",
+        "grade": false
+    },
+    {
+        "link": "/album/lax-files",
+        "relise": "LAX FILES",
+        "artist": "FLESH",
+        "grade": true
+    },
+    {
+        "link": "/album/trap-ain-t-dead",
+        "relise": "Trap Ain't Dead",
+        "artist": "Hood Rich Luka",
+        "grade": true
+    },
+    {
+        "link": "/track/nataliya",
+        "relise": "Наталия",
+        "artist": "Серега Пират",
+        "grade": true
+    },
+    {
+        "link": "/track/skvoz-mysli",
+        "relise": "сквозь мысли",
+        "artist": "LXNER",
+        "grade": true
+    },
+    {
+        "link": "/track/nezabyvaemaya",
+        "relise": "НЕЗАБЫВАЕМАЯ",
+        "artist": "ARTEM SHILOVETS, Wipo",
+        "grade": true
+    },
+    {
+        "link": "/track/stress",
+        "relise": "Stress",
+        "artist": "Макс Корж",
+        "grade": true
+    },
+    {
+        "link": "/track/grustnyj-dens",
+        "relise": "Грустный дэнс",
+        "artist": "INSTASAMKA",
+        "grade": true
+    },
+    {
+        "link": "/track/tysyachi-nochej",
+        "relise": "Тысячи ночей",
+        "artist": "MONRAU",
+        "grade": true
+    },
+    {
+        "link": "/track/poslednij-boj",
+        "relise": "Последний Бой",
+        "artist": "LeanJe",
+        "grade": false
+    },
+    {
+        "link": "/track/u-vhoda-v-paradnuju",
+        "relise": "у входа в парадную",
+        "artist": "гнилаялирика",
+        "grade": false
+    },
+    {
+        "link": "/track/64",
+        "relise": "64",
+        "artist": "Daylor, Mag Luzi",
+        "grade": false
+    },
+    {
+        "link": "/track/bojus-svoih-zhelanij",
+        "relise": "боюсь своих желаний",
+        "artist": "playingtheangel",
+        "grade": false
+    },
+    {
+        "link": "/track/azzakari-kommunizm-love",
+        "relise": "Коммунизм Love",
+        "artist": "azzakari",
+        "grade": true
+    },
+    {
+        "link": "/track/iamskyeye-tok-po-telu",
+        "relise": "Ток по телу",
+        "artist": "Iamskyeye!",
+        "grade": true
+    },
+    {
+        "link": "/track/babo4ka-ne-vinovat",
+        "relise": "НЕ ВИНОВАТ",
+        "artist": "BABO4KA",
+        "grade": true
+    },
+    {
+        "link": "/track/vv4lt3r-nichego-zhivogo",
+        "relise": "ничего живого",
+        "artist": "VV4LT3R",
+        "grade": true
+    },
+    {
+        "link": "/track/fonetic-sozdano-dlya-tebya",
+        "relise": "Создано для тебя",
+        "artist": "Fonetic",
+        "grade": true
+    },
+    {
+        "link": "/track/fonetic-zvezdopady",
+        "relise": "Звездопады",
+        "artist": "Fonetic",
+        "grade": true
+    },
+    {
+        "link": "/track/managa-bessonica",
+        "relise": "Бессоница",
+        "artist": "Managa",
+        "grade": true
+    },
+    {
+        "link": "/track/flaro-thirteenth-nefor",
+        "relise": "Нефор",
+        "artist": "FLARO THIRTEENTH",
+        "grade": true
+    },
+    {
+        "link": "/track/summersucks-ne-nogami",
+        "relise": "не ногами",
+        "artist": "SummerSuckS",
+        "grade": true
+    },
+    {
+        "link": "/track/rryany-kazhdyj",
+        "relise": "Каждый",
+        "artist": "RRYANY",
+        "grade": true
+    },
+    {
+        "link": "/track/poddelka",
+        "relise": "Подделка",
+        "artist": "Daylor",
+        "grade": false
+    },
+    {
+        "link": "/track/ya-znaju-chto-tebe-nuzhno",
+        "relise": "я знаю что тебе нужно",
+        "artist": "lowlife",
+        "grade": false
+    },
+    {
+        "link": "/track/wazzup",
+        "relise": "WAZZUP",
+        "artist": "Kinderlil",
+        "grade": false
+    },
+    {
+        "link": "/track/byl-da-vsplyl",
+        "relise": "Был да всплыл",
+        "artist": "nyan.mp3",
+        "grade": false
+    }
+]

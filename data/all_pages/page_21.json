@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/album/dramaturgiya",
+        "relise": "DRAMAТУРГИЯ",
+        "artist": "GAVRILINA",
+        "grade": true
+    },
+    {
+        "link": "/track/rano",
+        "relise": "Рано",
+        "artist": "STOPBAN",
+        "grade": false
+    },
+    {
+        "link": "/track/prestupnik-flow",
+        "relise": "Преступник Flow",
+        "artist": "молодой калуга",
+        "grade": false
+    },
+    {
+        "link": "/track/nechto",
+        "relise": "Нечто",
+        "artist": "маленький ярче",
+        "grade": false
+    },
+    {
+        "link": "/track/tai-ku",
+        "relise": "Tai-Ku",
+        "artist": "PINQ",
+        "grade": false
+    },
+    {
+        "link": "/album/caporegime",
+        "relise": "Caporegime",
+        "artist": "Truwer",
+        "grade": false
+    },
+    {
+        "link": "/track/100-iz-10",
+        "relise": "100 из 10",
+        "artist": "Baby Melo",
+        "grade": false
+    },
+    {
+        "link": "/album/no-concept",
+        "relise": "NO CONCEPT",
+        "artist": "Slattcrank",
+        "grade": false
+    },
+    {
+        "link": "/album/fordastreets-2",
+        "relise": "FORDASTREETS 2",
+        "artist": "MastHead",
+        "grade": false
+    },
+    {
+        "link": "/album/odna-kepka-so-vpiski",
+        "relise": "одна кепка со вписки",
+        "artist": "две тысячи ярдов",
+        "grade": false
+    },
+    {
+        "link": "/track/licemer",
+        "relise": "лицемер",
+        "artist": "fallen777angel, volhey",
+        "grade": false
+    },
+    {
+        "link": "/track/ya-vyberu-tebya",
+        "relise": "я выберу тебя",
+        "artist": "mapt0v",
+        "grade": false
+    },
+    {
+        "link": "/track/po-detalyam",
+        "relise": "По деталям",
+        "artist": "Leraiie",
+        "grade": false
+    },
+    {
+        "link": "/track/vampir",
+        "relise": "Вампир",
+        "artist": "INDEX",
+        "grade": false
+    },
+    {
+        "link": "/track/tiktok",
+        "relise": "#тикток",
+        "artist": "Babyface Melo",
+        "grade": false
+    },
+    {
+        "link": "/track/tvoya-krasota",
+        "relise": "Твоя красота",
+        "artist": "Канги",
+        "grade": false
+    },
+    {
+        "link": "/track/sopernica",
+        "relise": "СОПЕРНИЦА",
+        "artist": "Tenderlybae",
+        "grade": false
+    },
+    {
+        "link": "/track/otbitye-deti",
+        "relise": "Отбитые дети",
+        "artist": "Skurt",
+        "grade": false
+    },
+    {
+        "link": "/track/bu",
+        "relise": "Бу",
+        "artist": "Sagath, UMERTVIE, НОКТУ",
+        "grade": false
+    },
+    {
+        "link": "/track/converse",
+        "relise": "Converse",
+        "artist": "KRISTIEE",
+        "grade": false
+    },
+    {
+        "link": "/track/rentgen",
+        "relise": "РЕНТГЕН",
+        "artist": "КРЕСТ",
+        "grade": false
+    },
+    {
+        "link": "/track/shljozy",
+        "relise": "шлёзы",
+        "artist": "голодный, тёмный принц",
+        "grade": false
+    },
+    {
+        "link": "/album/tvoya-vina",
+        "relise": "твоя вина",
+        "artist": "dope17",
+        "grade": false
+    },
+    {
+        "link": "/track/god-bless",
+        "relise": "God Bless",
+        "artist": "ENTYPE, xe1to",
+        "grade": false
+    },
+    {
+        "link": "/track/pustota",
+        "relise": "ПУСТОТА",
+        "artist": "greenwoodzz, i61, Rinji",
+        "grade": false
+    },
+    {
+        "link": "/track/big-fail",
+        "relise": "BIG FAIL",
+        "artist": "dmtboy",
+        "grade": false
+    },
+    {
+        "link": "/track/robot",
+        "relise": "Robot",
+        "artist": "АДЛИН",
+        "grade": false
+    },
+    {
+        "link": "/track/throne",
+        "relise": "throne",
+        "artist": "3TERNITY",
+        "grade": false
+    },
+    {
+        "link": "/album/prizraki-fanteta",
+        "relise": "Призраки Фантьета",
+        "artist": "Ежемесячные",
+        "grade": false
+    },
+    {
+        "link": "/track/stimul",
+        "relise": "Стимул",
+        "artist": "MOTEL",
+        "grade": true
+    },
+    {
+        "link": "/track/davaj-skonnektimsya",
+        "relise": "Давай сконнектимся",
+        "artist": "T-Fest",
+        "grade": false
+    },
+    {
+        "link": "/track/rasshhepi-moju-sut",
+        "relise": "расщепи мою суть",
+        "artist": "playingtheangel",
+        "grade": false
+    },
+    {
+        "link": "/track/svechus",
+        "relise": "SVEЧУSЬ",
+        "artist": "JDFLAG",
+        "grade": false
+    },
+    {
+        "link": "/track/ne-verju-glazam",
+        "relise": "NE VERЮ ГLAZAM",
+        "artist": "JDFLAG",
+        "grade": false
+    },
+    {
+        "link": "/track/ne-zabyvaj-svoi-mechty",
+        "relise": "Не забывай свои мечты",
+        "artist": "DEAD BLONDE",
+        "grade": false
+    },
+    {
+        "link": "/track/chto-to-kruche",
+        "relise": "ЧТО-ТО КРУЧЕ",
+        "artist": "паранойя",
+        "grade": false
+    }
+]

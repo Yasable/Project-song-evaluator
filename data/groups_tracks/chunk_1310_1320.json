@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/limo-rany",
+        "relise": "Раны",
+        "artist": "Лимо",
+        "grade": true
+    },
+    {
+        "link": "/track/corso-carbon",
+        "relise": "Carbon",
+        "artist": "Corso",
+        "grade": true
+    },
+    {
+        "link": "/track/edienomy-4-am",
+        "relise": "4'AM",
+        "artist": "Edienomy",
+        "grade": true
+    },
+    {
+        "link": "/track/dopo-brouk",
+        "relise": "БРОУК",
+        "artist": "dopo",
+        "grade": true
+    },
+    {
+        "link": "/track/dopo-zateryannyj-gorod",
+        "relise": "ЗАТЕРЯННЫЙ ГОРОД",
+        "artist": "dopo",
+        "grade": true
+    },
+    {
+        "link": "/track/dopo-kopot",
+        "relise": "КОПОТЬ",
+        "artist": "dopo",
+        "grade": true
+    },
+    {
+        "link": "/track/artur-karton-bez-perspektiv",
+        "relise": "Без перспектив",
+        "artist": "ARTUR KARTON",
+        "grade": true
+    },
+    {
+        "link": "/track/pavel-golotin-moya-strana",
+        "relise": "Моя страна",
+        "artist": "Павел Голотин",
+        "grade": true
+    },
+    {
+        "link": "/track/o-tebe",
+        "relise": "О тебе",
+        "artist": "Ранетки, ТРАВМА",
+        "grade": true
+    },
+    {
+        "link": "/track/ozero-v-lesu",
+        "relise": "ОЗЕРО В ЛЕСУ",
+        "artist": "SQWOZ BAB",
+        "grade": true
+    }
+]

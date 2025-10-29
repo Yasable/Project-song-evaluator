@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/album/twins",
+        "relise": "TWINS",
+        "artist": "LDMA, SIDODGI DUBOSHIT",
+        "grade": true
+    },
+    {
+        "link": "/album/el",
+        "relise": "Эл",
+        "artist": "Джарахов",
+        "grade": true
+    },
+    {
+        "link": "/album/bolshoj-glebovski",
+        "relise": "Большой Глебовски",
+        "artist": "Крип-А-Крип",
+        "grade": true
+    },
+    {
+        "link": "/album/popsa-2025",
+        "relise": "POPSA 2025",
+        "artist": "Кишлак",
+        "grade": true
+    },
+    {
+        "link": "/album/v-svetluju-zhizn",
+        "relise": "В светлую жизнь",
+        "artist": "MellSher",
+        "grade": true
+    },
+    {
+        "link": "/album/10-13",
+        "relise": "10:13",
+        "artist": "PHARAOH",
+        "grade": true
+    },
+    {
+        "link": "/album/graf-monte-cristo-most-valuable-pirate",
+        "relise": "Graf Monte-Cristo / Most Valuable Pirate",
+        "artist": "FRIENDLY THUG 52 NGG",
+        "grade": true
+    },
+    {
+        "link": "/album/barter-66",
+        "relise": "Barter 66",
+        "artist": "LOVV66",
+        "grade": true
+    },
+    {
+        "link": "/album/adhd",
+        "relise": "ADHD",
+        "artist": "mzlff",
+        "grade": true
+    },
+    {
+        "link": "/album/chastnaya-sobstvennost",
+        "relise": "ЧАСТНАЯ СОБСТВЕННОСТЬ",
+        "artist": "TVETH",
+        "grade": true
+    }
+]

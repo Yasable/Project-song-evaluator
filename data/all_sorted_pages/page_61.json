@@ -1,0 +1,74 @@
+[
+    {
+        "link": "/track/russkie-vpered",
+        "relise": "Русские вперед",
+        "artist": "INSTASAMKA, Ленинград",
+        "grade": true
+    },
+    {
+        "link": "/album/bumery-i-zumery",
+        "relise": "Бумеры и зумеры",
+        "artist": "INSTASAMKA, Ленинград",
+        "grade": true
+    },
+    {
+        "link": "/album/dnevnik-pamyati",
+        "relise": "Дневник памяти",
+        "artist": "MONA",
+        "grade": true
+    },
+    {
+        "link": "/track/zitraks-mode",
+        "relise": "zitraks mode",
+        "artist": "shadowraze",
+        "grade": true
+    },
+    {
+        "link": "/track/svarovski",
+        "relise": "Сваровски",
+        "artist": "Heronwater",
+        "grade": true
+    },
+    {
+        "link": "/track/0-chudovishhe",
+        "relise": "ЧУДОВИЩЕ",
+        "artist": "0$",
+        "grade": true
+    },
+    {
+        "link": "/track/thrill-pill-bulimiya",
+        "relise": "Булимия",
+        "artist": "THRILL PILL",
+        "grade": true
+    },
+    {
+        "link": "/track/cakeboy-kloukoma-ookkaayy",
+        "relise": "OOKKAAYY",
+        "artist": "CAKEBOY, КлоуКома",
+        "grade": true
+    },
+    {
+        "link": "/track/bakkara",
+        "relise": "Баккара",
+        "artist": "4n Way",
+        "grade": true
+    },
+    {
+        "link": "/track/telekinez",
+        "relise": "Телекинез",
+        "artist": "FEDUK",
+        "grade": true
+    },
+    {
+        "link": "/track/besy-2",
+        "relise": "БЕСЫ",
+        "artist": "VELIAL SQUAD",
+        "grade": true
+    },
+    {
+        "link": "/album/last-one-nuar",
+        "relise": "Last One Nuar",
+        "artist": "Hugo Loud",
+        "grade": true
+    }
+]

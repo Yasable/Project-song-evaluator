@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/album/ikona",
+        "relise": "ИКОНА",
+        "artist": "прыгай киска",
+        "grade": true
+    },
+    {
+        "link": "/album/mtv-00",
+        "relise": "MTV ’00",
+        "artist": "RVMZES",
+        "grade": true
+    },
+    {
+        "link": "/album/burning-man",
+        "relise": "BURNING MAN",
+        "artist": "SIDODGI DUBOSHIT",
+        "grade": true
+    },
+    {
+        "link": "/album/2005",
+        "relise": "2005",
+        "artist": "Минин",
+        "grade": true
+    },
+    {
+        "link": "/album/gremlin",
+        "relise": "Gremlin",
+        "artist": "kizaru",
+        "grade": true
+    },
+    {
+        "link": "/album/oba",
+        "relise": "ОБА",
+        "artist": "MAYOT",
+        "grade": true
+    },
+    {
+        "link": "/album/in-my-dna",
+        "relise": "IN MY DNA",
+        "artist": "NEWLIGHTCHILD",
+        "grade": true
+    },
+    {
+        "link": "/album/glebasta-gde-progress",
+        "relise": "глебаста где прогресс",
+        "artist": "GLEBASTA SPAL",
+        "grade": true
+    },
+    {
+        "link": "/album/who-is-melo",
+        "relise": "Who Is Melo?",
+        "artist": "Baby Melo",
+        "grade": true
+    },
+    {
+        "link": "/album/non-autotune-tape-vol-1",
+        "relise": "NON AUTOTUNE TAPE VOL.1",
+        "artist": "YUNGWAY",
+        "grade": true
+    }
+]

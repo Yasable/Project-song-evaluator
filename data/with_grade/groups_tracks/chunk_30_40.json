@@ -1,0 +1,122 @@
+[
+    {
+        "link": "/track/i-want",
+        "relise": "I WANT",
+        "artist": "BOKO!",
+        "grade": [
+            7,
+            7,
+            5,
+            4,
+            5
+        ]
+    },
+    {
+        "link": "/track/gde-to-ryadom",
+        "relise": "Где-то рядом",
+        "artist": "k0vertessence",
+        "grade": [
+            9,
+            9,
+            8,
+            8,
+            9
+        ]
+    },
+    {
+        "link": "/track/three-peat",
+        "relise": "Three Peat",
+        "artist": "Kijin",
+        "grade": [
+            8,
+            9,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/novyj-den-2",
+        "relise": "Новый день",
+        "artist": "MOTEL",
+        "grade": [
+            7,
+            7,
+            8,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/private-jet",
+        "relise": "Private Jet",
+        "artist": "Kijin",
+        "grade": [
+            8,
+            8,
+            8,
+            7,
+            7
+        ]
+    },
+    {
+        "link": "/track/bad-bad",
+        "relise": "Bad Bad",
+        "artist": "Kijin",
+        "grade": [
+            9,
+            9,
+            9,
+            8,
+            9
+        ]
+    },
+    {
+        "link": "/track/freddy-krueger",
+        "relise": "freddy krueger",
+        "artist": "Kai Angel",
+        "grade": [
+            7,
+            8,
+            9,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/taxo",
+        "relise": "ТАХО",
+        "artist": "Heronwater",
+        "grade": [
+            10,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/nonstop-obsession",
+        "relise": "Nonstop obsession",
+        "artist": "Три дня дождя",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/zvezdy-ne-plachut",
+        "relise": "Звезды не плачут!",
+        "artist": "Кишлак",
+        "grade": [
+            9,
+            9,
+            9,
+            10,
+            10
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/krispi-psiholog",
+        "relise": "Психолог",
+        "artist": "КРИСПИ",
+        "grade": true
+    },
+    {
+        "link": "/track/corso-secret-floor",
+        "relise": "Secret Floor",
+        "artist": "Corso",
+        "grade": true
+    },
+    {
+        "link": "/track/shawtyfelps-hrom-harts",
+        "relise": "Хром хартс",
+        "artist": "Shawtyfelps",
+        "grade": true
+    },
+    {
+        "link": "/track/rude13oy-angel-hranitel",
+        "relise": "Ангел Хранитель",
+        "artist": "rude13oy",
+        "grade": true
+    },
+    {
+        "link": "/track/sulfur-formalin",
+        "relise": "Формалин",
+        "artist": "SULFUR",
+        "grade": true
+    },
+    {
+        "link": "/track/midix-eshhjo-vchera",
+        "relise": "Ещё Вчера",
+        "artist": "Midix",
+        "grade": true
+    },
+    {
+        "link": "/track/gone-fludd-rapsodiya-konca-sveta",
+        "relise": "Рапсодия Конца Света",
+        "artist": "GONE.Fludd",
+        "grade": true
+    },
+    {
+        "link": "/track/eldzhej-ai",
+        "relise": "AI",
+        "artist": "Элджей",
+        "grade": true
+    },
+    {
+        "link": "/track/skriptonit-endshpil-razbalovannaya",
+        "relise": "Разбалованная",
+        "artist": "Скриптонит, Эндшпиль",
+        "grade": true
+    },
+    {
+        "link": "/track/louisdioo-govori-eto-tiho",
+        "relise": "говори это тихо",
+        "artist": "LOUISDIOO",
+        "grade": true
+    }
+]

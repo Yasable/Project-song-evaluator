@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/p-i-m-p-shiit",
+        "relise": "P.I.M.P Shiit",
+        "artist": "WOO MAKAVELI",
+        "grade": true
+    },
+    {
+        "link": "/track/vynoc",
+        "relise": "Вынос",
+        "artist": "Anonymous Ember, tuborosho",
+        "grade": true
+    },
+    {
+        "link": "/track/grustnoe",
+        "relise": "GRUSTNOE",
+        "artist": "TRICKY YAREZ",
+        "grade": true
+    },
+    {
+        "link": "/track/strit-biznes",
+        "relise": "Стрит бизнес",
+        "artist": "Ганвест",
+        "grade": true
+    },
+    {
+        "link": "/track/claymore",
+        "relise": "CLAYMORE",
+        "artist": "VELIAL SQUAD",
+        "grade": true
+    },
+    {
+        "link": "/track/pomnish-li-ty-menya-2",
+        "relise": "помнишь ли ты меня?",
+        "artist": "ooes, вышел покурить",
+        "grade": true
+    },
+    {
+        "link": "/track/mir",
+        "relise": "МИР",
+        "artist": "Alexey Kem, woee33",
+        "grade": true
+    },
+    {
+        "link": "/track/malabar",
+        "relise": "Малабар",
+        "artist": "Миша Маккофе",
+        "grade": true
+    },
+    {
+        "link": "/track/zhuchij-klubnyj",
+        "relise": "Жучий клубный",
+        "artist": "PLOHOYPAREN, Платина",
+        "grade": true
+    },
+    {
+        "link": "/track/dyrki-v-shtanah",
+        "relise": "дырки в штанах",
+        "artist": "madk1d",
+        "grade": true
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/album/bol-vernulas",
+        "relise": "Боль вернулась",
+        "artist": "Azar Strato",
+        "grade": false
+    },
+    {
+        "link": "/album/samuraj",
+        "relise": "Самурай",
+        "artist": "Инкогнито",
+        "grade": false
+    },
+    {
+        "link": "/album/aperture",
+        "relise": "Aperture",
+        "artist": "April Rain",
+        "grade": false
+    },
+    {
+        "link": "/album/lirikalirika",
+        "relise": "Лирикалирика",
+        "artist": "ВОЛКОВА САНКОВ",
+        "grade": false
+    },
+    {
+        "link": "/album/speedy-gonzales",
+        "relise": "Speedy Gonzales",
+        "artist": "kizaru",
+        "grade": true
+    },
+    {
+        "link": "/track/new-rock",
+        "relise": "NEW ROCK",
+        "artist": "Lida",
+        "grade": false
+    },
+    {
+        "link": "/track/chernyj-stonik",
+        "relise": "Черный Стоник",
+        "artist": "ICEGERGERT, Баста",
+        "grade": false
+    },
+    {
+        "link": "/track/madrid",
+        "relise": "Madrid",
+        "artist": "Mark Siemens, zxcursed",
+        "grade": false
+    },
+    {
+        "link": "/track/v-rossii",
+        "relise": "В России",
+        "artist": "4n Way",
+        "grade": false
+    },
+    {
+        "link": "/track/i-m-out",
+        "relise": "I‘M OUT",
+        "artist": "FENDIGLOCK",
+        "grade": false
+    },
+    {
+        "link": "/track/familia",
+        "relise": "familia",
+        "artist": "TVETH",
+        "grade": false
+    },
+    {
+        "link": "/track/ne-vrubajus",
+        "relise": "Не врубаюсь",
+        "artist": "паранойя",
+        "grade": false
+    },
+    {
+        "link": "/track/satoshi",
+        "relise": "Сатоши",
+        "artist": "KSB muzic",
+        "grade": false
+    },
+    {
+        "link": "/track/prod-by-me",
+        "relise": "Prod By Me",
+        "artist": "LIL MORTY",
+        "grade": false
+    },
+    {
+        "link": "/track/syrup",
+        "relise": "syrup",
+        "artist": "onna badvibes",
+        "grade": false
+    },
+    {
+        "link": "/track/ranenoe-serdce",
+        "relise": "Раненое сердце",
+        "artist": "Loc-Dog, NAVAI",
+        "grade": false
+    },
+    {
+        "link": "/track/truby",
+        "relise": "ТРУБЫ",
+        "artist": "Lover",
+        "grade": false
+    },
+    {
+        "link": "/track/meduza",
+        "relise": "MEDUZA",
+        "artist": "Lover",
+        "grade": false
+    },
+    {
+        "link": "/track/zhit-po-prikolu",
+        "relise": "Жить по приколу",
+        "artist": "MellSher",
+        "grade": false
+    },
+    {
+        "link": "/track/tatu",
+        "relise": "TATU",
+        "artist": "SABU",
+        "grade": false
+    },
+    {
+        "link": "/track/bezobraznik-bigfut",
+        "relise": "Безобразник / Бигфут",
+        "artist": "SODA LUV, YOGAS",
+        "grade": false
+    },
+    {
+        "link": "/track/svetofory",
+        "relise": "Светофоры",
+        "artist": "SERYABKINA, Брутто",
+        "grade": false
+    },
+    {
+        "link": "/track/99-2",
+        "relise": "99",
+        "artist": "Slatt Savage",
+        "grade": false
+    },
+    {
+        "link": "/track/jaded-london",
+        "relise": "Jaded London",
+        "artist": "COLDAH",
+        "grade": false
+    },
+    {
+        "link": "/album/sbornik-ulichnogo-repa",
+        "relise": "Сборник уличного рэпа",
+        "artist": "LeanJe",
+        "grade": false
+    },
+    {
+        "link": "/track/emotional-violence",
+        "relise": "EMOTIONAL VIOLENCE",
+        "artist": "Slattcrank",
+        "grade": false
+    },
+    {
+        "link": "/track/reloaded",
+        "relise": "RELOADED",
+        "artist": "Josodo",
+        "grade": false
+    },
+    {
+        "link": "/track/shtorm",
+        "relise": "Шторм",
+        "artist": "KOMMO, RAM",
+        "grade": false
+    },
+    {
+        "link": "/track/vajperr",
+        "relise": "Вайперр",
+        "artist": "ivanzolo2004",
+        "grade": false
+    },
+    {
+        "link": "/album/bezyshodnost-tv",
+        "relise": "Безысходность.ТВ",
+        "artist": "Роки",
+        "grade": false
+    },
+    {
+        "link": "/track/sexxxdriver",
+        "relise": "SEXXXDRIVER",
+        "artist": "Slattcrank",
+        "grade": false
+    },
+    {
+        "link": "/track/chuma",
+        "relise": "чума",
+        "artist": "я про рок",
+        "grade": false
+    },
+    {
+        "link": "/track/esenin",
+        "relise": "Есенин",
+        "artist": "Blockkid",
+        "grade": false
+    },
+    {
+        "link": "/track/do-murashek",
+        "relise": "До мурашек",
+        "artist": "The Narcissus, Амура",
+        "grade": false
+    },
+    {
+        "link": "/track/moi-kumiry-i-bet-you-will-ovsyankin",
+        "relise": "Мои кумиры / I bet you will Овсянкин",
+        "artist": "Овсянкин",
+        "grade": false
+    },
+    {
+        "link": "/track/ice-cube-2",
+        "relise": "ICE CUBE",
+        "artist": "Экси",
+        "grade": false
+    }
+]

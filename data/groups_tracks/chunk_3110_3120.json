@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/ulukmanapo-volchij-voj",
+        "relise": "Волчий вой",
+        "artist": "Ulukmanapo",
+        "grade": true
+    },
+    {
+        "link": "/track/noize-mc-strana-dozhdej",
+        "relise": "Страна Дождей",
+        "artist": "Noize MC",
+        "grade": true
+    },
+    {
+        "link": "/track/loqiemean-pugalo",
+        "relise": "Пугало",
+        "artist": "Loqiemean",
+        "grade": true
+    },
+    {
+        "link": "/track/the-chemodan-shou-trumana",
+        "relise": "Шоу Трумана",
+        "artist": "The Chemodan",
+        "grade": true
+    },
+    {
+        "link": "/track/captown-seti",
+        "relise": "Сети",
+        "artist": "CAPTOWN",
+        "grade": true
+    },
+    {
+        "link": "/track/kai-angel-9mice-trivial",
+        "relise": "*** TRIVIAL",
+        "artist": "9mice, Kai Angel",
+        "grade": true
+    },
+    {
+        "link": "/track/sted-d-svet-i-ten",
+        "relise": "Свет и тень",
+        "artist": "STED.D",
+        "grade": true
+    },
+    {
+        "link": "/track/lowmilo-dvizhenie",
+        "relise": "Движение",
+        "artist": "LowMilo",
+        "grade": true
+    },
+    {
+        "link": "/track/demetra-nezhivoj",
+        "relise": "Неживой",
+        "artist": "DEMETRA",
+        "grade": true
+    },
+    {
+        "link": "/track/somewell-poslednij-vecher",
+        "relise": "Последний вечер",
+        "artist": "SomeWell",
+        "grade": true
+    }
+]

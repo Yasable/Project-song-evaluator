@@ -1,0 +1,80 @@
+[
+    {
+        "link": "/track/macan-moskva-bezhit",
+        "relise": "Москва бежит",
+        "artist": "MACAN",
+        "grade": true
+    },
+    {
+        "link": "/track/kizaru-mecenat",
+        "relise": "MECENAT",
+        "artist": "kizaru",
+        "grade": true
+    },
+    {
+        "link": "/track/suprim-trusy",
+        "relise": "Суприм трусы",
+        "artist": "SATS",
+        "grade": true
+    },
+    {
+        "link": "/track/hba",
+        "relise": "HBA",
+        "artist": "clout",
+        "grade": true
+    },
+    {
+        "link": "/album/obsidian",
+        "relise": "Obsidian",
+        "artist": "BATO, JEEMBO",
+        "grade": true
+    },
+    {
+        "link": "/album/bplr",
+        "relise": "BPLR",
+        "artist": "PINQ",
+        "grade": true
+    },
+    {
+        "link": "/album/gumanitarnaya-katastrofa",
+        "relise": "гуманитарная катастрофа",
+        "artist": "Metox, кровь из носа",
+        "grade": true
+    },
+    {
+        "link": "/track/ya-ne-upotreblyaju",
+        "relise": "Я не употребляю",
+        "artist": "Voskresenskii, Wipo",
+        "grade": true
+    },
+    {
+        "link": "/track/osuzhdajut",
+        "relise": "Осуждают",
+        "artist": "BLESSQ, xxxmanera",
+        "grade": true
+    },
+    {
+        "link": "/track/stigmata",
+        "relise": "STIGMATA",
+        "artist": "Кишлак",
+        "grade": true
+    },
+    {
+        "link": "/track/chelovecheskoe-serdce",
+        "relise": "ЧЕЛОВЕЧЕСКОЕ СЕРДЦЕ",
+        "artist": "dekma",
+        "grade": true
+    },
+    {
+        "link": "/track/fendiglock-lovv66-nad-nami",
+        "relise": "Над Нами",
+        "artist": "FENDIGLOCK, LOVV66",
+        "grade": true
+    },
+    {
+        "link": "/track/scally-milano-uglystephan-porezy",
+        "relise": "Порезы",
+        "artist": "Scally Milano, uglystephan",
+        "grade": true
+    }
+]

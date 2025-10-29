@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/pit-krossovki",
+        "relise": "Кроссовки",
+        "artist": "PIT",
+        "grade": true
+    },
+    {
+        "link": "/track/yellow-eyes-molodoj-paket-why-i-am-goat",
+        "relise": "Why i am goat",
+        "artist": "YELLOW.Eyes, МОЛОДОЙ ПАКЕТ",
+        "grade": true
+    },
+    {
+        "link": "/track/danya-pole-kareta",
+        "relise": "Карета",
+        "artist": "Даня Поле",
+        "grade": true
+    },
+    {
+        "link": "/track/dshs-davaj-zabudem",
+        "relise": "ДАВАЙ ЗАБУДЕМ",
+        "artist": "DSHS",
+        "grade": true
+    },
+    {
+        "link": "/track/typos-nachali",
+        "relise": "НАЧАЛИ",
+        "artist": "Typos",
+        "grade": true
+    },
+    {
+        "link": "/track/iskry-3",
+        "relise": "Искры",
+        "artist": "Skurt, маломира",
+        "grade": true
+    },
+    {
+        "link": "/track/og-buda-seemee-b2b",
+        "relise": "B2B",
+        "artist": "OG Buda, SEEMEE",
+        "grade": true
+    },
+    {
+        "link": "/track/9mice-kai-angel-da-vinci",
+        "relise": "Da Vinci",
+        "artist": "9mice, Kai Angel",
+        "grade": true
+    },
+    {
+        "link": "/track/megapolis",
+        "relise": "Мегаполис",
+        "artist": "АДЛИН",
+        "grade": true
+    },
+    {
+        "link": "/track/pyatyj",
+        "relise": "Пятый",
+        "artist": "CAPTOWN, Whole Lotta Swag",
+        "grade": true
+    }
+]

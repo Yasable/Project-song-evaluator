@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/pazly",
+        "relise": "Пазлы",
+        "artist": "FEDUK",
+        "grade": true
+    },
+    {
+        "link": "/track/noch-3",
+        "relise": "Ночь",
+        "artist": "CAKEBOY",
+        "grade": true
+    },
+    {
+        "link": "/track/nikita-77-zabiraj",
+        "relise": "ЗАБИРАЙ",
+        "artist": "Никита 77",
+        "grade": true
+    },
+    {
+        "link": "/track/trofant-pochemu-eshhe",
+        "relise": "Почему еще?",
+        "artist": "Трофант",
+        "grade": true
+    },
+    {
+        "link": "/track/rei-ishida-protiv-pravil",
+        "relise": "Против правил",
+        "artist": "Rei Ishida",
+        "grade": true
+    },
+    {
+        "link": "/track/miki-ganbei-black-parade-of-the-elephants",
+        "relise": "Black Parade of the Elephants",
+        "artist": "Miki Ganbei 干杯",
+        "grade": true
+    },
+    {
+        "link": "/track/krim-plin-gorko-da-veselo",
+        "relise": "Горько да весело",
+        "artist": "КРИМ ПЛИН",
+        "grade": true
+    },
+    {
+        "link": "/track/nonsanchez-b3d-bitch",
+        "relise": "B3d Bitch",
+        "artist": "NonSanchez",
+        "grade": true
+    },
+    {
+        "link": "/track/le-noir-sect",
+        "relise": "Sect",
+        "artist": "Le Noir",
+        "grade": true
+    },
+    {
+        "link": "/track/charge-v-morning",
+        "relise": "Morning",
+        "artist": "Charge V",
+        "grade": true
+    }
+]

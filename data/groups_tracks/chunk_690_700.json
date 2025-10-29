@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/yanvar-2",
+        "relise": "Январь",
+        "artist": "Midix",
+        "grade": true
+    },
+    {
+        "link": "/track/izotop",
+        "relise": "IZOTOP",
+        "artist": "NEWLIGHTCHILD",
+        "grade": true
+    },
+    {
+        "link": "/track/hanoi",
+        "relise": "Hanoi",
+        "artist": "STOPBAN",
+        "grade": true
+    },
+    {
+        "link": "/track/christmas-night",
+        "relise": "christmas night",
+        "artist": "Baby Cute",
+        "grade": true
+    },
+    {
+        "link": "/track/blade-of-tears",
+        "relise": "blade of tears",
+        "artist": "zxcursed",
+        "grade": true
+    },
+    {
+        "link": "/track/twilight",
+        "relise": "twilight",
+        "artist": "3TERNITY",
+        "grade": true
+    },
+    {
+        "link": "/track/sted-d-vot-i-vsjo",
+        "relise": "Вот и всё",
+        "artist": "STED.D",
+        "grade": true
+    },
+    {
+        "link": "/track/17-seventeen-ne-zakryvaj-glaza",
+        "relise": "Не закрывай глаза",
+        "artist": "17 SEVENTEEN",
+        "grade": true
+    },
+    {
+        "link": "/track/miyagi-endshpil-aphrodisiac",
+        "relise": "Aphrodisiac",
+        "artist": "Mav-d, Miyagi, Эндшпиль",
+        "grade": true
+    },
+    {
+        "link": "/track/dawg-dracy-megan-fox",
+        "relise": "MEGAN FOX",
+        "artist": "Dawg Dracy",
+        "grade": true
+    }
+]

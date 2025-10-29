@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/album/mathway-hello-world",
+        "relise": "Hello World",
+        "artist": "MathWAY",
+        "grade": true
+    },
+    {
+        "link": "/album/molodoj-bishkek-lp",
+        "relise": "МОЛОДОЙ БИШКЕК LP",
+        "artist": "ЗАМАЙ",
+        "grade": true
+    },
+    {
+        "link": "/album/pop-empire",
+        "relise": "POP EMPIRE",
+        "artist": "daryana",
+        "grade": true
+    },
+    {
+        "link": "/album/family-first",
+        "relise": "FAMILY FIRST",
+        "artist": "J. ROUH",
+        "grade": true
+    },
+    {
+        "link": "/album/we-live-only-once",
+        "relise": "WE LIVE ONLY ONCE",
+        "artist": "Aarne, BUSHIDO ZHO",
+        "grade": true
+    },
+    {
+        "link": "/album/sekret",
+        "relise": "секрет",
+        "artist": "ooes",
+        "grade": true
+    },
+    {
+        "link": "/album/morok-morokomor",
+        "relise": "Морокомор",
+        "artist": "МОРОК",
+        "grade": true
+    },
+    {
+        "link": "/album/ruisajdbojs",
+        "relise": "РУИСАЙДБОЙС",
+        "artist": "BOOKER, STED.D",
+        "grade": true
+    },
+    {
+        "link": "/album/obsidian",
+        "relise": "Obsidian",
+        "artist": "BATO, JEEMBO",
+        "grade": true
+    },
+    {
+        "link": "/album/bplr",
+        "relise": "BPLR",
+        "artist": "PINQ",
+        "grade": true
+    }
+]

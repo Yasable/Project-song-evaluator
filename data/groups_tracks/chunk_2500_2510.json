@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/prosto",
+        "relise": "Просто",
+        "artist": "Guster",
+        "grade": true
+    },
+    {
+        "link": "/track/ya-prostitutka",
+        "relise": "Я проститутка",
+        "artist": "CUPSIZE",
+        "grade": true
+    },
+    {
+        "link": "/track/kraska",
+        "relise": "Краска",
+        "artist": "пирамида",
+        "grade": true
+    },
+    {
+        "link": "/track/vypusknoj",
+        "relise": "Выпускной",
+        "artist": "Егор Крид",
+        "grade": true
+    },
+    {
+        "link": "/track/mishel",
+        "relise": "МИШЕЛЬ",
+        "artist": "ARTEM SHILOVETS, nkeeei, uniqe",
+        "grade": true
+    },
+    {
+        "link": "/track/tonut",
+        "relise": "Тонуть",
+        "artist": "TOMÓRROW, КЛЫК",
+        "grade": true
+    },
+    {
+        "link": "/track/100",
+        "relise": "100",
+        "artist": "ROCKET",
+        "grade": true
+    },
+    {
+        "link": "/track/ne-tupi",
+        "relise": "НЕ ТУПИ",
+        "artist": "Биполярный",
+        "grade": true
+    },
+    {
+        "link": "/track/papik",
+        "relise": "Папик",
+        "artist": "Yanix, Дора",
+        "grade": true
+    },
+    {
+        "link": "/track/jdm-nfs",
+        "relise": "JDM NFS",
+        "artist": "jzxdx, Midix, quiizzzmeow, shadowraze",
+        "grade": true
+    }
+]

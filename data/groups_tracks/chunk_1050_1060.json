@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/ne-ponimaju",
+        "relise": "Не понимаю",
+        "artist": "АДЛИН",
+        "grade": true
+    },
+    {
+        "link": "/track/lazernyj",
+        "relise": "Лазерный",
+        "artist": "OG Buda",
+        "grade": true
+    },
+    {
+        "link": "/track/hitrol-aviaciya",
+        "relise": "Авиация",
+        "artist": "Hitrol",
+        "grade": true
+    },
+    {
+        "link": "/track/rileyn-go-go",
+        "relise": "GO, GO!",
+        "artist": "RILEYN",
+        "grade": true
+    },
+    {
+        "link": "/track/peoll-bolshaya-sumka",
+        "relise": "большая сумка",
+        "artist": "Peoll",
+        "grade": true
+    },
+    {
+        "link": "/track/peoll-venice-criuse",
+        "relise": "Venice criuse",
+        "artist": "Peoll",
+        "grade": true
+    },
+    {
+        "link": "/track/zawjalow-bolshemenshe-cvety",
+        "relise": "Цветы",
+        "artist": "zawjalow, большеменьше",
+        "grade": true
+    },
+    {
+        "link": "/track/kate-healton-zoom",
+        "relise": "ZOOM",
+        "artist": "Kate Healton",
+        "grade": true
+    },
+    {
+        "link": "/track/vvain-vampkiller-interlude",
+        "relise": "VAMPKILLER INTERLUDE",
+        "artist": "VVAIN",
+        "grade": true
+    },
+    {
+        "link": "/track/vvain-bladerunner",
+        "relise": "BLADERUNNER",
+        "artist": "VVAIN",
+        "grade": true
+    }
+]

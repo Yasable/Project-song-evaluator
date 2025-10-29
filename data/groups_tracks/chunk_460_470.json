@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/shout-out",
+        "relise": "SHOUT OUT",
+        "artist": "shadowraze",
+        "grade": true
+    },
+    {
+        "link": "/track/malenkij-yarche-densish",
+        "relise": "Денсишь",
+        "artist": "маленький ярче",
+        "grade": true
+    },
+    {
+        "link": "/track/miami-96",
+        "relise": "Miami 96",
+        "artist": "AQYLA, BORIS REDWALL",
+        "grade": true
+    },
+    {
+        "link": "/track/to-zhe-samoe",
+        "relise": "ТО ЖЕ САМОЕ",
+        "artist": "ICYBANDO, OG Buda",
+        "grade": true
+    },
+    {
+        "link": "/track/satn",
+        "relise": "satn",
+        "artist": "deathmarried",
+        "grade": true
+    },
+    {
+        "link": "/track/iznichtozhenie",
+        "relise": "Изничтожение",
+        "artist": "G4OUR, Nacho Montero, SKB, THRILL PILL, ​ushira",
+        "grade": true
+    },
+    {
+        "link": "/track/rage-quit",
+        "relise": "RAGE QUIT",
+        "artist": "Loqiemean",
+        "grade": true
+    },
+    {
+        "link": "/track/zhizn-na-edity",
+        "relise": "Жизнь на эдиты",
+        "artist": "YASMI",
+        "grade": true
+    },
+    {
+        "link": "/track/hoe",
+        "relise": "Hoe",
+        "artist": "Producer Yaro, Pupis",
+        "grade": true
+    },
+    {
+        "link": "/track/atl-horovod",
+        "relise": "Хоровод",
+        "artist": "ATL",
+        "grade": true
+    }
+]

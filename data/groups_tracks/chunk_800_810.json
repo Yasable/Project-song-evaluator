@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/telekinez",
+        "relise": "Телекинез",
+        "artist": "FEDUK",
+        "grade": true
+    },
+    {
+        "link": "/track/besy-2",
+        "relise": "БЕСЫ",
+        "artist": "VELIAL SQUAD",
+        "grade": true
+    },
+    {
+        "link": "/track/do-svidaniya",
+        "relise": "До свидания",
+        "artist": "LOVV66",
+        "grade": true
+    },
+    {
+        "link": "/track/centr",
+        "relise": "Центр",
+        "artist": "Heronwater",
+        "grade": true
+    },
+    {
+        "link": "/track/experemental",
+        "relise": "EXPEREMENTAL",
+        "artist": "NEWLIGHTCHILD",
+        "grade": true
+    },
+    {
+        "link": "/track/ne-hodi-na-russkij-rejv",
+        "relise": "Не ходи на русский рейв",
+        "artist": "Lida",
+        "grade": true
+    },
+    {
+        "link": "/track/shanson-2",
+        "relise": "Шансон 2",
+        "artist": "Хаски",
+        "grade": true
+    },
+    {
+        "link": "/track/final-fantasy-track",
+        "relise": "FINAL FANTASY",
+        "artist": "UNA, КУОК",
+        "grade": true
+    },
+    {
+        "link": "/track/kisee-vampirinysh-sawing",
+        "relise": "SAWING",
+        "artist": "Kisee, vampirinysh",
+        "grade": true
+    },
+    {
+        "link": "/track/beliwhatt-hochu-dvigatsya",
+        "relise": "хочу двигаться",
+        "artist": "Beliwhatt",
+        "grade": true
+    }
+]

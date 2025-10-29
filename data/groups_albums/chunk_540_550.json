@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/album/lxner-elysium",
+        "relise": "Elysium",
+        "artist": "LXNER",
+        "grade": true
+    },
+    {
+        "link": "/album/163onmyneck-no-offence",
+        "relise": "NO OFFENCE",
+        "artist": "163ONMYNECK",
+        "grade": true
+    },
+    {
+        "link": "/album/zavet-doom",
+        "relise": "DOOM",
+        "artist": "zavet",
+        "grade": true
+    },
+    {
+        "link": "/album/valentin-dyadka-dve-devochki",
+        "relise": "Две девочки",
+        "artist": "Валентин Дядька",
+        "grade": true
+    },
+    {
+        "link": "/album/josodo-higher",
+        "relise": "Higher",
+        "artist": "Josodo",
+        "grade": true
+    },
+    {
+        "link": "/album/rizza-plohaya-koncovka",
+        "relise": "плохая концовка",
+        "artist": "rizza",
+        "grade": true
+    },
+    {
+        "link": "/album/h1gh-chelovek",
+        "relise": "Человек",
+        "artist": "H1GH",
+        "grade": true
+    },
+    {
+        "link": "/album/jabo-jabo-season-3",
+        "relise": "JABO SEASON 3",
+        "artist": "JABO",
+        "grade": true
+    },
+    {
+        "link": "/album/pussykiller-amnesia",
+        "relise": "AMNESIA",
+        "artist": "PUSSYKILLER",
+        "grade": true
+    },
+    {
+        "link": "/album/3ternity-system-3rase",
+        "relise": "SYSTEM 3RASE",
+        "artist": "3TERNITY",
+        "grade": true
+    }
+]

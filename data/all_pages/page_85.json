@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/track/say-roland-yeah",
+        "relise": "YEAH",
+        "artist": "Say Roland",
+        "grade": true
+    },
+    {
+        "link": "/track/sharkdaddy-tupoj",
+        "relise": "Тупой",
+        "artist": "SharkDaddy",
+        "grade": true
+    },
+    {
+        "link": "/track/tajnye-znaki-dushu-za-uspeh",
+        "relise": "Душу за успех",
+        "artist": "Тайные знаки",
+        "grade": true
+    },
+    {
+        "link": "/track/flesh-miu-miu",
+        "relise": "MIU MIU",
+        "artist": "FLESH",
+        "grade": true
+    },
+    {
+        "link": "/track/mion-wavzz-s-vishnjovaya-semjorka",
+        "relise": "Вишнёвая Семёрка",
+        "artist": "Mion, WavZz’s",
+        "grade": true
+    },
+    {
+        "link": "/track/polka-slovil-zvezdu",
+        "relise": "Словил звезду",
+        "artist": "Полка",
+        "grade": true
+    },
+    {
+        "link": "/track/lostboysparadise-backtrack-neon-ghost",
+        "relise": "Backtrack / Neon Ghost",
+        "artist": "Lostboysparadise",
+        "grade": true
+    },
+    {
+        "link": "/track/kallipso-zasypaju",
+        "relise": "Засыпаю",
+        "artist": "Kallipso",
+        "grade": true
+    },
+    {
+        "link": "/track/kibersljozy-podzhigaj",
+        "relise": "поджигай",
+        "artist": "КИБЕРСЛЁЗЫ",
+        "grade": true
+    },
+    {
+        "link": "/track/gosha-pik-playstation-5",
+        "relise": "PlayStation 5",
+        "artist": "GOSHA PIK",
+        "grade": true
+    },
+    {
+        "link": "/track/bilingual-big-boy",
+        "relise": "BIG BOY",
+        "artist": "BILINGUAL",
+        "grade": true
+    },
+    {
+        "link": "/track/molites-dezhavju",
+        "relise": "Дежавю",
+        "artist": "МОЛИТЕСЬ",
+        "grade": true
+    },
+    {
+        "link": "/track/liney-fuckin-teen",
+        "relise": "Fuckin Teen",
+        "artist": "Liney",
+        "grade": true
+    },
+    {
+        "link": "/track/xvally-navsegda",
+        "relise": "навсегда",
+        "artist": "Xvally",
+        "grade": true
+    },
+    {
+        "link": "/track/lv-diamond-volna",
+        "relise": "Волна",
+        "artist": "Lv.diamond",
+        "grade": true
+    },
+    {
+        "link": "/track/anonymous_ember-tuborosho-emberfromlondon",
+        "relise": "#EMBERFROMLONDON",
+        "artist": "Anonymous Ember, tuborosho",
+        "grade": true
+    },
+    {
+        "link": "/track/10th-chance",
+        "relise": "10th Chance",
+        "artist": "Baby Cute",
+        "grade": false
+    },
+    {
+        "link": "/track/frag",
+        "relise": "FRAG",
+        "artist": "dmtboy",
+        "grade": false
+    },
+    {
+        "link": "/track/i-ix-xvii",
+        "relise": "I.IX.XVII",
+        "artist": "LeanJe",
+        "grade": false
+    },
+    {
+        "link": "/track/prodjuser",
+        "relise": "ПРОДЮСЕР",
+        "artist": "АКУЛИЧ",
+        "grade": false
+    },
+    {
+        "link": "/track/monetochka-zanovo",
+        "relise": "Заново",
+        "artist": "Монеточка",
+        "grade": true
+    },
+    {
+        "link": "/track/163onmyneck-polyana-cifry",
+        "relise": "Цифры",
+        "artist": "163ONMYNECK, Polyana",
+        "grade": true
+    },
+    {
+        "link": "/album/drugoj",
+        "relise": "Другой",
+        "artist": "BATO",
+        "grade": true
+    },
+    {
+        "link": "/album/zastolnye-psihodelicheskie-pesni",
+        "relise": "Застольные Психоделические Песни",
+        "artist": "Валентин Дядька",
+        "grade": true
+    },
+    {
+        "link": "/album/dorozhe-vsego",
+        "relise": "Дороже Всего",
+        "artist": "May Wave$",
+        "grade": false
+    },
+    {
+        "link": "/album/epic",
+        "relise": "EPIC",
+        "artist": "JONY",
+        "grade": false
+    },
+    {
+        "link": "/album/welcome2reap-2",
+        "relise": "WELCOME2REAP 2",
+        "artist": "G4OUR",
+        "grade": false
+    },
+    {
+        "link": "/track/dzherkal",
+        "relise": "Джеркал",
+        "artist": "Минин",
+        "grade": false
+    },
+    {
+        "link": "/track/nashe-leto",
+        "relise": "Наше лето",
+        "artist": "PUSSYKILLER, VERBEE",
+        "grade": false
+    },
+    {
+        "link": "/track/ambiciya",
+        "relise": "амбиция",
+        "artist": "Lizer",
+        "grade": false
+    },
+    {
+        "link": "/track/nadezhda",
+        "relise": "надежда",
+        "artist": "Lizer",
+        "grade": false
+    },
+    {
+        "link": "/track/problema-s-golovoj",
+        "relise": "Проблема с головой",
+        "artist": "Onative",
+        "grade": false
+    },
+    {
+        "link": "/track/lemme-smoke-2",
+        "relise": "Lemme Smoke 2",
+        "artist": "blago white, Boost Morale",
+        "grade": true
+    },
+    {
+        "link": "/track/bato-davaj-molchat",
+        "relise": "Давай Молчать",
+        "artist": "BATO",
+        "grade": true
+    },
+    {
+        "link": "/track/bolnoj",
+        "relise": "Больной",
+        "artist": "Heronwater",
+        "grade": true
+    },
+    {
+        "link": "/track/ammo",
+        "relise": "AMMO",
+        "artist": "FRIENDLY THUG 52 NGG",
+        "grade": true
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/coupe",
+        "relise": "Coupe",
+        "artist": "Блинк",
+        "grade": true
+    },
+    {
+        "link": "/track/vajb",
+        "relise": "Вайб",
+        "artist": "VACÍO",
+        "grade": true
+    },
+    {
+        "link": "/track/prosto-govorit",
+        "relise": "Просто говорить",
+        "artist": "БЭХА",
+        "grade": true
+    },
+    {
+        "link": "/track/473-ml-2",
+        "relise": "473 мл.",
+        "artist": "OG Buda, White Punk",
+        "grade": true
+    },
+    {
+        "link": "/track/pomolchi",
+        "relise": "Помолчи",
+        "artist": "White Punk",
+        "grade": true
+    },
+    {
+        "link": "/track/verju-v-tebya",
+        "relise": "Верю в тебя",
+        "artist": "ANNA ASTI",
+        "grade": true
+    },
+    {
+        "link": "/track/kogda-grom-gryanet",
+        "relise": "Когда гром грянет",
+        "artist": "VALYA!VALYA!",
+        "grade": true
+    },
+    {
+        "link": "/track/dom-2",
+        "relise": "Дом",
+        "artist": "Paul Baldhill",
+        "grade": true
+    },
+    {
+        "link": "/track/asimmetriya",
+        "relise": "Асимметрия",
+        "artist": "desaad",
+        "grade": true
+    },
+    {
+        "link": "/track/stanet-legche",
+        "relise": "СТАНЕТ ЛЕГЧЕ",
+        "artist": "SEEMEE, Баста",
+        "grade": true
+    }
+]

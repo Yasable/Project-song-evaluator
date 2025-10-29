@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/prequtie-no-blood",
+        "relise": "No Blood",
+        "artist": "Prequtie",
+        "grade": true
+    },
+    {
+        "link": "/track/max-po-emirates",
+        "relise": "Emirates",
+        "artist": "MAX PO",
+        "grade": true
+    },
+    {
+        "link": "/track/r3fresh-rave-city",
+        "relise": "RAVE CITY",
+        "artist": "r3fresh",
+        "grade": true
+    },
+    {
+        "link": "/track/nu-zaplach-pora-priznatsya",
+        "relise": "Пора признаться",
+        "artist": "ну заплачь",
+        "grade": true
+    },
+    {
+        "link": "/track/nonexistence-plach",
+        "relise": "плач",
+        "artist": "NON-EXISTENCE",
+        "grade": true
+    },
+    {
+        "link": "/track/1lotta-gluboko",
+        "relise": "Глубоко",
+        "artist": "1lotta",
+        "grade": true
+    },
+    {
+        "link": "/track/mafyk-ybludok-i-rly-wanna-love",
+        "relise": "I RLY WANNA LOVE",
+        "artist": "Mafyk ybludok",
+        "grade": true
+    },
+    {
+        "link": "/track/lilaamee-wormwood_limonene",
+        "relise": "wormwood_limonene",
+        "artist": "lilaamee",
+        "grade": true
+    },
+    {
+        "link": "/track/jennifer-daytona-turnt",
+        "relise": "TURNT",
+        "artist": "Jennifer Daytona",
+        "grade": true
+    },
+    {
+        "link": "/track/mnogo-wu-zvuk-tvoego-kiberpanka",
+        "relise": "Звук твоего киберпанка",
+        "artist": "mnogo wu",
+        "grade": true
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/kuok-imago",
+        "relise": "Imago",
+        "artist": "КУОК",
+        "grade": true
+    },
+    {
+        "link": "/track/krov-iz-nosa-skolko-raz",
+        "relise": "сколько раз?",
+        "artist": "кровь из носа",
+        "grade": true
+    },
+    {
+        "link": "/track/bumble-beezy-tolko-moj",
+        "relise": "Только Мой",
+        "artist": "Bumble Beezy",
+        "grade": true
+    },
+    {
+        "link": "/track/dzhizus-ya-ne-teryaju-nadezhdy",
+        "relise": "Я не теряю надежды",
+        "artist": "Джизус",
+        "grade": true
+    },
+    {
+        "link": "/track/rizza-serenite",
+        "relise": "serenite",
+        "artist": "rizza",
+        "grade": true
+    },
+    {
+        "link": "/track/nekoglai-ivanzolo2004-obychnyj-paren",
+        "relise": "Обычный парень",
+        "artist": "ivanzolo2004, Nekoglai",
+        "grade": true
+    },
+    {
+        "link": "/track/dipins-kosmonavtov-net-v-temnote",
+        "relise": "в темноте",
+        "artist": "Дипинс, КОСМОНАВТОВ НЕТ",
+        "grade": true
+    },
+    {
+        "link": "/track/dead-blonde-ne-takaya-kak-vse",
+        "relise": "Не такая, как все",
+        "artist": "DEAD BLONDE",
+        "grade": true
+    },
+    {
+        "link": "/track/dzharahov-vokzal",
+        "relise": "Вокзал",
+        "artist": "Джарахов",
+        "grade": true
+    },
+    {
+        "link": "/track/lsp-snegovichok",
+        "relise": "Снеговичок",
+        "artist": "ЛСП",
+        "grade": true
+    }
+]

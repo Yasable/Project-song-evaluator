@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/album/hooray",
+        "relise": "HOORAY",
+        "artist": "Трофант",
+        "grade": true
+    },
+    {
+        "link": "/album/5luv5",
+        "relise": "-5LUV5",
+        "artist": "SODA LUV",
+        "grade": true
+    },
+    {
+        "link": "/album/ne-flagstrik",
+        "relise": "NE FLAГSTRИК",
+        "artist": "JDFLAG",
+        "grade": true
+    },
+    {
+        "link": "/album/xie-xie",
+        "relise": "XiE XiE",
+        "artist": "PINQ",
+        "grade": true
+    },
+    {
+        "link": "/album/blackout",
+        "relise": "BLACKOUT",
+        "artist": "J. ROUH, SENSEE",
+        "grade": true
+    },
+    {
+        "link": "/album/shqcore",
+        "relise": "shqcore",
+        "artist": "Sqwore",
+        "grade": true
+    },
+    {
+        "link": "/album/zarima",
+        "relise": "ZARIMA",
+        "artist": "GERA AMEN",
+        "grade": true
+    },
+    {
+        "link": "/album/euphoria-2",
+        "relise": "EUPHORIA",
+        "artist": "LiL Flash$",
+        "grade": true
+    },
+    {
+        "link": "/album/syroj-zvuk",
+        "relise": "СЫРОЙ ЗВУК",
+        "artist": "0$",
+        "grade": true
+    },
+    {
+        "link": "/album/mayday",
+        "relise": "MAYDAY",
+        "artist": "Мэйби Бэйби",
+        "grade": true
+    }
+]

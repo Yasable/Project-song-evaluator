@@ -1,0 +1,122 @@
+[
+    {
+        "link": "/track/shout-out",
+        "relise": "SHOUT OUT",
+        "artist": "shadowraze",
+        "grade": [
+            8,
+            9,
+            6,
+            7,
+            7
+        ]
+    },
+    {
+        "link": "/track/malenkij-yarche-densish",
+        "relise": "Денсишь",
+        "artist": "маленький ярче",
+        "grade": [
+            8,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/miami-96",
+        "relise": "Miami 96",
+        "artist": "AQYLA, BORIS REDWALL",
+        "grade": [
+            8,
+            7,
+            7,
+            8,
+            9
+        ]
+    },
+    {
+        "link": "/track/to-zhe-samoe",
+        "relise": "ТО ЖЕ САМОЕ",
+        "artist": "ICYBANDO, OG Buda",
+        "grade": [
+            7,
+            7,
+            8,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/satn",
+        "relise": "satn",
+        "artist": "deathmarried",
+        "grade": [
+            8,
+            9,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/iznichtozhenie",
+        "relise": "Изничтожение",
+        "artist": "G4OUR, Nacho Montero, SKB, THRILL PILL, ​ushira",
+        "grade": [
+            7,
+            8,
+            8,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/rage-quit",
+        "relise": "RAGE QUIT",
+        "artist": "Loqiemean",
+        "grade": [
+            10,
+            10,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/zhizn-na-edity",
+        "relise": "Жизнь на эдиты",
+        "artist": "YASMI",
+        "grade": [
+            10,
+            8,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/hoe",
+        "relise": "Hoe",
+        "artist": "Producer Yaro, Pupis",
+        "grade": [
+            7,
+            8,
+            8,
+            7,
+            7
+        ]
+    },
+    {
+        "link": "/track/atl-horovod",
+        "relise": "Хоровод",
+        "artist": "ATL",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    }
+]

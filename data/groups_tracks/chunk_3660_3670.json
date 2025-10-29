@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/toni-raut-hobbi",
+        "relise": "Хобби",
+        "artist": "Тони Раут",
+        "grade": true
+    },
+    {
+        "link": "/track/little-big-moustache-feat-netta",
+        "relise": "MOUSTACHE",
+        "artist": "LITTLE BIG, NETTA",
+        "grade": true
+    },
+    {
+        "link": "/track/dzharahov-mary-gu-ya-v-momente-2",
+        "relise": "Я в моменте 2",
+        "artist": "Mary Gu, Джарахов",
+        "grade": true
+    },
+    {
+        "link": "/track/m-dee-truwer-izvodit",
+        "relise": "Изводить",
+        "artist": "M'Dee, Truwer",
+        "grade": true
+    },
+    {
+        "link": "/track/rompeya-boom-boom",
+        "relise": "Boom Boom",
+        "artist": "ROMPEЯ",
+        "grade": true
+    },
+    {
+        "link": "/track/pravoslavnyj-hor-svyatogo-iudy-ne-vremya-dlya-slov",
+        "relise": "Не время для слов",
+        "artist": "Православный хор святого Иуды",
+        "grade": true
+    },
+    {
+        "link": "/track/kbs-m-o-b",
+        "relise": "M.O.B.",
+        "artist": "КБС",
+        "grade": true
+    },
+    {
+        "link": "/track/bbb-ne-vremya-dlya",
+        "relise": "Не время для…",
+        "artist": "БББ",
+        "grade": true
+    },
+    {
+        "link": "/track/deti-lejna-ne-vremya-dlya",
+        "relise": "Не время для…",
+        "artist": "Дети Лэйна",
+        "grade": true
+    },
+    {
+        "link": "/track/space-music-ne-vremya-dlya",
+        "relise": "Не время для…",
+        "artist": "Space Music",
+        "grade": true
+    }
+]

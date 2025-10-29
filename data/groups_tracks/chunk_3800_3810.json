@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/bludkidd-skriptonit-tremor",
+        "relise": "Тремор",
+        "artist": "bludkidd, Скриптонит",
+        "grade": true
+    },
+    {
+        "link": "/track/scally-milano-skam",
+        "relise": "Cкам",
+        "artist": "Scally Milano",
+        "grade": true
+    },
+    {
+        "link": "/track/ganvest-durnaya",
+        "relise": "Дурная",
+        "artist": "Ганвест",
+        "grade": true
+    },
+    {
+        "link": "/track/cakeboy-boevoj-klich",
+        "relise": "Боевой клич",
+        "artist": "CAKEBOY",
+        "grade": true
+    },
+    {
+        "link": "/track/jeembo-nekropol",
+        "relise": "Некрополь",
+        "artist": "JEEMBO",
+        "grade": true
+    },
+    {
+        "link": "/track/blago-white-monte-carlo",
+        "relise": "MONTE CARLO",
+        "artist": "blago white",
+        "grade": true
+    },
+    {
+        "link": "/track/chipachip-kak-i-ty",
+        "relise": "Как и ты",
+        "artist": "ChipaChip",
+        "grade": true
+    },
+    {
+        "link": "/track/pra-killa-gramm-midiblack-kopii",
+        "relise": "Копии",
+        "artist": "MIDIBlack, Pra(Killa'Gramm)",
+        "grade": true
+    },
+    {
+        "link": "/track/dashxx-tochki",
+        "relise": "Точки",
+        "artist": "DASHXX",
+        "grade": true
+    },
+    {
+        "link": "/track/ram-feat-kommo-made-in-russia",
+        "relise": "Made in Russia",
+        "artist": "KOMMO, RAM",
+        "grade": true
+    }
+]

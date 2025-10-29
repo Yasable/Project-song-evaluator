@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/bez-obid-heppi-end",
+        "relise": "хеппи-энд",
+        "artist": "без обид",
+        "grade": true
+    },
+    {
+        "link": "/track/takaia-pyanyj-gorod",
+        "relise": "Пьяный город",
+        "artist": "Takaia",
+        "grade": true
+    },
+    {
+        "link": "/track/doomlack-tyanet",
+        "relise": "Тянет",
+        "artist": "DOOMLACK",
+        "grade": true
+    },
+    {
+        "link": "/track/bezotvetna-vremya",
+        "relise": "Время",
+        "artist": "безответна",
+        "grade": true
+    },
+    {
+        "link": "/track/famous-killa-son",
+        "relise": "Сон",
+        "artist": "FAMOUS KILLA",
+        "grade": true
+    },
+    {
+        "link": "/track/eksi-24block",
+        "relise": "24Block",
+        "artist": "Экси",
+        "grade": true
+    },
+    {
+        "link": "/track/clout-vampirism",
+        "relise": "Vampirism",
+        "artist": "clout",
+        "grade": true
+    },
+    {
+        "link": "/track/nikeas-aya-yaj",
+        "relise": "Ая-яй",
+        "artist": "Nikeas",
+        "grade": true
+    },
+    {
+        "link": "/track/kondrashin-shaul-marina-bay",
+        "relise": "Marina Bay",
+        "artist": "KONDRASHIN, SHAUL",
+        "grade": true
+    },
+    {
+        "link": "/track/sted-d-odin-iz-nas",
+        "relise": "Один из нас",
+        "artist": "STED.D",
+        "grade": true
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/album/the-europe-tapes",
+        "relise": "The Europe Tapes",
+        "artist": "T-Fest",
+        "grade": true
+    },
+    {
+        "link": "/album/pocelui-mezhdu-barami",
+        "relise": "Поцелуи между барами",
+        "artist": "17 SEVENTEEN",
+        "grade": true
+    },
+    {
+        "link": "/album/vertigo",
+        "relise": "Vertigo",
+        "artist": "Ollane",
+        "grade": true
+    },
+    {
+        "link": "/album/emingread-around-da-world",
+        "relise": "AROUND DA WORLD",
+        "artist": "emingread",
+        "grade": true
+    },
+    {
+        "link": "/album/trevozhnyj-tip-privyazannosti",
+        "relise": "Тревожный тип привязанности",
+        "artist": "Mirèle",
+        "grade": true
+    },
+    {
+        "link": "/album/04-00-p-m",
+        "relise": "04:00 p.m.",
+        "artist": "Gruppa Skryptonite",
+        "grade": true
+    },
+    {
+        "link": "/album/party-elf-online",
+        "relise": "PARTY ELF ONLINE",
+        "artist": "маленький ярче",
+        "grade": true
+    },
+    {
+        "link": "/album/moscow-tape",
+        "relise": "MOSCOW TAPE",
+        "artist": "Whole Lotta Swag",
+        "grade": true
+    },
+    {
+        "link": "/album/skinhead",
+        "relise": "SKINHEAD",
+        "artist": "huzzy b",
+        "grade": true
+    },
+    {
+        "link": "/album/super-puper-nova",
+        "relise": "SUPER PUPER NOVA",
+        "artist": "5opka, MellSher",
+        "grade": true
+    }
+]

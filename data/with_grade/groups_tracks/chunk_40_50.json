@@ -1,0 +1,122 @@
+[
+    {
+        "link": "/track/v-tance",
+        "relise": "в танце",
+        "artist": "LXNER",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/pismo-2",
+        "relise": "письмо",
+        "artist": "tewiq",
+        "grade": [
+            9,
+            9,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/atmosphere",
+        "relise": "ATMOSPHERE",
+        "artist": "unki",
+        "grade": [
+            7,
+            7,
+            8,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/zapiska-bogu",
+        "relise": "ZAПИSKA БОГУ",
+        "artist": "JDFLAG",
+        "grade": [
+            8,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/vopreki",
+        "relise": "вопреки",
+        "artist": "тринадцать карат",
+        "grade": [
+            7,
+            9,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/romantic",
+        "relise": "ROMANTIC",
+        "artist": "SQWOZ BAB",
+        "grade": [
+            9,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/nevynosimyj",
+        "relise": "Невыносимый",
+        "artist": "YASMI",
+        "grade": [
+            9,
+            9,
+            8,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/ukulele",
+        "relise": "Укулеле",
+        "artist": "luvdakash, MAYOT",
+        "grade": [
+            8,
+            8,
+            8,
+            8,
+            7
+        ]
+    },
+    {
+        "link": "/track/party-on-u",
+        "relise": "party on u",
+        "artist": "Heavyslam",
+        "grade": [
+            3,
+            5,
+            2,
+            3,
+            3
+        ]
+    },
+    {
+        "link": "/track/dyavol",
+        "relise": "дьявол!",
+        "artist": "CUPSIZE",
+        "grade": [
+            10,
+            9,
+            9,
+            10,
+            10
+        ]
+    }
+]

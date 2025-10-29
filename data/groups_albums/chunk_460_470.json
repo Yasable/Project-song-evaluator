@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/album/scally-milano-really-rich",
+        "relise": "Really Rich",
+        "artist": "Scally Milano",
+        "grade": true
+    },
+    {
+        "link": "/album/slava-marlow-tuzik",
+        "relise": "ТУЗИК",
+        "artist": "SLAVA MARLOW",
+        "grade": true
+    },
+    {
+        "link": "/album/yungway-excalibur",
+        "relise": "Excalibur",
+        "artist": "YUNGWAY",
+        "grade": true
+    },
+    {
+        "link": "/album/pussykiller-price-of-future",
+        "relise": "PRICE OF FUTURE",
+        "artist": "PUSSYKILLER",
+        "grade": true
+    },
+    {
+        "link": "/album/malenkij-yarche-ecstasy-flow",
+        "relise": "ECSTASY FLOW",
+        "artist": "маленький ярче",
+        "grade": true
+    },
+    {
+        "link": "/album/lil-morty-lil-morty-3",
+        "relise": "LIL MORTY 3",
+        "artist": "LIL MORTY",
+        "grade": true
+    },
+    {
+        "link": "/album/treepside-world",
+        "relise": "world",
+        "artist": "treepside",
+        "grade": true
+    },
+    {
+        "link": "/album/heronwater-no-commercial-lyrics",
+        "relise": "NO COMMERCIAL LYRICS",
+        "artist": "Heronwater",
+        "grade": true
+    },
+    {
+        "link": "/album/mzlff-k-mayaku-vselennoj",
+        "relise": "к маяку вселенной",
+        "artist": "mzlff",
+        "grade": true
+    },
+    {
+        "link": "/album/vacio-otec",
+        "relise": "Отец",
+        "artist": "VACÍO",
+        "grade": true
+    }
+]

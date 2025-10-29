@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/imaqo-skyfall",
+        "relise": "Skyfall",
+        "artist": "IMAQO",
+        "grade": true
+    },
+    {
+        "link": "/track/estanger-novyj-god",
+        "relise": "Новый Год",
+        "artist": "ESTANGER",
+        "grade": true
+    },
+    {
+        "link": "/track/estanger-fevralskij-moroz",
+        "relise": "Февральский мороз",
+        "artist": "ESTANGER",
+        "grade": true
+    },
+    {
+        "link": "/track/corso-friendsonly",
+        "relise": "FriendsOnly",
+        "artist": "Corso",
+        "grade": true
+    },
+    {
+        "link": "/track/kondrashin-lottery-billz-xzibit-stop-invest",
+        "relise": "STOP INVEST",
+        "artist": "KONDRASHIN, Lottery Billz, Xzibit",
+        "grade": true
+    },
+    {
+        "link": "/track/sasha-krokers-pokidaju-neverlend",
+        "relise": "Покидаю Неверленд",
+        "artist": "Саша Крокерс",
+        "grade": true
+    },
+    {
+        "link": "/track/velite-t1v1-str",
+        "relise": "t1v1 str!.",
+        "artist": "velite",
+        "grade": true
+    },
+    {
+        "link": "/track/shateka-bol",
+        "relise": "Боль",
+        "artist": "SHATEKA",
+        "grade": true
+    },
+    {
+        "link": "/track/junkie-sosedi-sosite",
+        "relise": "соседи sosite",
+        "artist": "Junkie",
+        "grade": true
+    },
+    {
+        "link": "/track/jmyname-renzen-skuchaju-silno",
+        "relise": "Скучаю сильно",
+        "artist": "JmyName, RENZEN",
+        "grade": true
+    }
+]

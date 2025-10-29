@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/malo",
+        "relise": "МАЛО",
+        "artist": "VADIX",
+        "grade": true
+    },
+    {
+        "link": "/track/chego-ty-hochesh",
+        "relise": "Чего Ты Хочешь",
+        "artist": "LIL MORTY",
+        "grade": true
+    },
+    {
+        "link": "/track/disskreditaciya-narnii",
+        "relise": "Dissкредитация Нарнии",
+        "artist": "DISPUT",
+        "grade": true
+    },
+    {
+        "link": "/track/ya-pomnju",
+        "relise": "Я помню (Woo)",
+        "artist": "Biicla, FEDUK",
+        "grade": true
+    },
+    {
+        "link": "/track/bolshe-2",
+        "relise": "Больше",
+        "artist": "Jennifer Daytona",
+        "grade": true
+    },
+    {
+        "link": "/track/spi",
+        "relise": "Спи",
+        "artist": "SODA LUV, Серёжа Аверин",
+        "grade": true
+    },
+    {
+        "link": "/track/solovej",
+        "relise": "Соловей",
+        "artist": "Soloway, Фиксай",
+        "grade": true
+    },
+    {
+        "link": "/track/holodno",
+        "relise": "Холодно",
+        "artist": "Скриптонит",
+        "grade": true
+    },
+    {
+        "link": "/track/doroga-nadezhdy",
+        "relise": "Дорога Надежды",
+        "artist": "Yungsh1ny",
+        "grade": true
+    },
+    {
+        "link": "/track/supernxva",
+        "relise": "supernxva",
+        "artist": "zxcursed",
+        "grade": true
+    }
+]

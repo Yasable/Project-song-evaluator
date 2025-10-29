@@ -1,0 +1,122 @@
+[
+    {
+        "link": "/track/lalala",
+        "relise": "lalala",
+        "artist": "9mice, LILDRUGHILL",
+        "grade": [
+            8,
+            8,
+            9,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/1st-day-smoke",
+        "relise": "1ST DAY SMOKE",
+        "artist": "Heronwater",
+        "grade": [
+            10,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/fake-id",
+        "relise": "Fake ID",
+        "artist": "ICEGERGERT, kizaru",
+        "grade": [
+            8,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/swjorve",
+        "relise": "SWЁRVE",
+        "artist": "OG Buda, revvboy",
+        "grade": [
+            9,
+            10,
+            9,
+            10,
+            9
+        ]
+    },
+    {
+        "link": "/track/glock17",
+        "relise": "GLOCK17",
+        "artist": "BUSHIDO ZHO, Yanix",
+        "grade": [
+            9,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/vo-dvore",
+        "relise": "во дворе",
+        "artist": "mzlff",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/mnogo-deneg",
+        "relise": "Много денег",
+        "artist": "LOVV66",
+        "grade": [
+            9,
+            8,
+            9,
+            10,
+            9
+        ]
+    },
+    {
+        "link": "/track/sharady",
+        "relise": "Шарады",
+        "artist": "MOT, Егор Крид",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/kazino",
+        "relise": "Казино",
+        "artist": "5opka",
+        "grade": [
+            7,
+            10,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/azbuka",
+        "relise": "АЗБУКА",
+        "artist": "BATO, TVETH",
+        "grade": [
+            9,
+            8,
+            10,
+            10,
+            10
+        ]
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "link": "/album/dramaturgiya",
+        "relise": "DRAMAТУРГИЯ",
+        "artist": "GAVRILINA",
+        "grade": true
+    },
+    {
+        "link": "/track/stimul",
+        "relise": "Стимул",
+        "artist": "MOTEL",
+        "grade": true
+    }
+]
