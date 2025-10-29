@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/track/wintercore",
+        "release": "Wintercore",
+        "artist": "COLDCLOUD, Horus",
+        "grade": false
+    },
+    {
+        "link": "/track/welcome-to-moscow",
+        "release": "Welcome to Moscow",
+        "artist": "DERZKO69, EVEN CUTE, НАВЕРНОЕ ПОЭТ, ЯКОРЪ",
+        "grade": false
+    },
+    {
+        "link": "/track/poslednij-rejv",
+        "release": "Последний рейв",
+        "artist": "Баста",
+        "grade": false
+    },
+    {
+        "link": "/track/nazhimaj",
+        "release": "Нажимай",
+        "artist": "Lay-Far, Антоха МС",
+        "grade": false
+    },
+    {
+        "link": "/track/tjotya-nastya",
+        "release": "тётя настя",
+        "artist": "кровь из носа",
+        "grade": false
+    },
+    {
+        "link": "/track/bulletproof",
+        "release": "BULLETPROOF",
+        "artist": "RAM, S.Castro",
+        "grade": false
+    },
+    {
+        "link": "/track/5am",
+        "release": "5AM",
+        "artist": "KateKey, Kinderlil",
+        "grade": false
+    },
+    {
+        "link": "/track/vsjo-budet-horosho",
+        "release": "Всё будет хорошо",
+        "artist": "Mary Gu",
+        "grade": false
+    },
+    {
+        "link": "/track/prirost",
+        "release": "Прирост",
+        "artist": "Glocki52",
+        "grade": false
+    },
+    {
+        "link": "/track/ne-sudba",
+        "release": "не судьба",
+        "artist": "SCHOKK",
+        "grade": false
+    },
+    {
+        "link": "/track/banderolka",
+        "release": "Бандеролька",
+        "artist": "Рыночные Отношения",
+        "grade": false
+    },
+    {
+        "link": "/track/ljubol",
+        "release": "Люболь",
+        "artist": "HOFMANNITA",
+        "grade": false
+    },
+    {
+        "link": "/track/nikotin",
+        "release": "Никотин",
+        "artist": "Жак Энтони",
+        "grade": false
+    },
+    {
+        "link": "/track/cunami-2",
+        "release": "цунами",
+        "artist": "гнилаялирика",
+        "grade": false
+    },
+    {
+        "link": "/track/po-mkadu",
+        "release": "По МКАДу",
+        "artist": "Wallem, АКУЛИЧ",
+        "grade": false
+    },
+    {
+        "link": "/track/povedenie",
+        "release": "Поведение",
+        "artist": "Skurt, ФРИК ПАТИ",
+        "grade": false
+    },
+    {
+        "link": "/track/izobrazhenie-ryabit-bolyat-glaza",
+        "release": "ИЗОБРАЖЕНИЕ РЯБИТ БОЛЯТ ГЛАЗА",
+        "artist": "SHTRIHCOD",
+        "grade": false
+    },
+    {
+        "link": "/track/priyatno-poznakomitsya",
+        "release": "Приятно познакомиться",
+        "artist": "AQYLA",
+        "grade": false
+    },
+    {
+        "link": "/track/tolko-muzyka",
+        "release": "Только музыка",
+        "artist": "Честер Небро",
+        "grade": false
+    },
+    {
+        "link": "/track/brutto-nikuda-ne-opazdyval",
+        "release": "Никуда не опаздывал",
+        "artist": "Брутто",
+        "grade": true
+    },
+    {
+        "link": "/track/dzhizus-imya-moej-pechali",
+        "release": "Имя моей печали",
+        "artist": "Джизус",
+        "grade": true
+    },
+    {
+        "link": "/track/morgenshtern-dom-london-praga-nicca",
+        "release": "ДОМ (Лондон, Прага, Ницца)",
+        "artist": "MORGENSHTERN",
+        "grade": true
+    },
+    {
+        "link": "/album/muzyka-koshki-bilyard",
+        "release": "музыка кошки бильярд",
+        "artist": "zhanulka",
+        "grade": false
+    },
+    {
+        "link": "/album/ne-zabytoe-staroe",
+        "release": "не забытое старое",
+        "artist": "mzlff",
+        "grade": false
+    },
+    {
+        "link": "/track/edu-odin",
+        "release": "Еду один",
+        "artist": "YUNGWAY",
+        "grade": false
+    },
+    {
+        "link": "/track/zakrichu-na-ves-mir",
+        "release": "Закричу на весь мир",
+        "artist": "ТРАВМА",
+        "grade": false
+    },
+    {
+        "link": "/track/chernyj-dzhip",
+        "release": "ЧЕРНЫЙ ДЖИП",
+        "artist": "blago white",
+        "grade": false
+    },
+    {
+        "link": "/track/2002",
+        "release": "2002",
+        "artist": "Jakone, MACAN",
+        "grade": true
+    },
+    {
+        "link": "/track/fear2",
+        "release": "feaR2",
+        "artist": "PINQ",
+        "grade": false
+    },
+    {
+        "link": "/track/namjoki",
+        "release": "Намёки",
+        "artist": "The Limba",
+        "grade": false
+    },
+    {
+        "link": "/album/tjumenskaya-lirika-300",
+        "release": "Тюменская лирика, 300",
+        "artist": "The Narcissus",
+        "grade": false
+    },
+    {
+        "link": "/track/naposledok-ya-vsjo-zhe-skazhu",
+        "release": "напоследок я всё же скажу",
+        "artist": "BOOKER, две тысячи ярдов",
+        "grade": false
+    },
+    {
+        "link": "/track/hishhnik",
+        "release": "хищник",
+        "artist": "fallen777angel",
+        "grade": false
+    },
+    {
+        "link": "/track/anapa",
+        "release": "АНАПА",
+        "artist": "Magnum Opus, Джон Гарик",
+        "grade": true
+    },
+    {
+        "link": "/track/tak-byvaet",
+        "release": "Так Бывает",
+        "artist": "May Wave$",
+        "grade": false
+    },
+    {
+        "link": "/album/vibes",
+        "release": "Vibes",
+        "artist": "Yanix",
+        "grade": true
+    }
+]

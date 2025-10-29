@@ -1,0 +1,68 @@
+[
+    {
+        "link": "/track/vremya",
+        "release": "Время",
+        "artist": "Шайни",
+        "grade": true
+    },
+    {
+        "link": "/album/pocelui-mezhdu-barami",
+        "release": "Поцелуи между барами",
+        "artist": "17 SEVENTEEN",
+        "grade": true
+    },
+    {
+        "link": "/track/snova-3",
+        "release": "СНОВА",
+        "artist": "GERA AMEN, SALUKI",
+        "grade": true
+    },
+    {
+        "link": "/track/5opka-mellsher-xxl",
+        "release": "XXL",
+        "artist": "5opka, MellSher",
+        "grade": true
+    },
+    {
+        "link": "/album/vertigo",
+        "release": "Vertigo",
+        "artist": "Ollane",
+        "grade": true
+    },
+    {
+        "link": "/album/emingread-around-da-world",
+        "release": "AROUND DA WORLD",
+        "artist": "emingread",
+        "grade": true
+    },
+    {
+        "link": "/track/wateri-fasho",
+        "release": "fasho",
+        "artist": "wateri",
+        "grade": true
+    },
+    {
+        "link": "/album/trevozhnyj-tip-privyazannosti",
+        "release": "Тревожный тип привязанности",
+        "artist": "Mirèle",
+        "grade": true
+    },
+    {
+        "link": "/album/04-00-p-m",
+        "release": "04:00 p.m.",
+        "artist": "Gruppa Skryptonite",
+        "grade": true
+    },
+    {
+        "link": "/album/party-elf-online",
+        "release": "PARTY ELF ONLINE",
+        "artist": "маленький ярче",
+        "grade": true
+    },
+    {
+        "link": "/track/naked",
+        "release": "Naked",
+        "artist": "LIL KRYSTALLL, The Limba",
+        "grade": true
+    }
+]

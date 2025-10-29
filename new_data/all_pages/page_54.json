@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/track/poloman",
+        "release": "поломан",
+        "artist": "playingtheangel",
+        "grade": false
+    },
+    {
+        "link": "/track/5",
+        "release": "5$",
+        "artist": "ФРИК ПАТИ",
+        "grade": false
+    },
+    {
+        "link": "/track/220",
+        "release": "220",
+        "artist": "Jetty Gas",
+        "grade": false
+    },
+    {
+        "link": "/track/ne-dumal",
+        "release": "Не думал",
+        "artist": "Рыночные Отношения",
+        "grade": false
+    },
+    {
+        "link": "/track/na-svoej-volne",
+        "release": "На своей волне",
+        "artist": "Канги",
+        "grade": false
+    },
+    {
+        "link": "/track/slezy",
+        "release": "Слезы",
+        "artist": "BLESSQ",
+        "grade": false
+    },
+    {
+        "link": "/track/ljubit",
+        "release": "Любит",
+        "artist": "BLESSQ, haijin",
+        "grade": false
+    },
+    {
+        "link": "/track/prygaj",
+        "release": "Прыгай",
+        "artist": "22 РАЗА, CMH",
+        "grade": false
+    },
+    {
+        "link": "/track/a-mozhet-zrya",
+        "release": "а может зря?",
+        "artist": "aikko",
+        "grade": false
+    },
+    {
+        "link": "/track/vechnaya-tema",
+        "release": "Вечная тема",
+        "artist": "Horus",
+        "grade": false
+    },
+    {
+        "link": "/track/nikto-ne-veril",
+        "release": "Никто не верил",
+        "artist": "Ilya Konoplev",
+        "grade": false
+    },
+    {
+        "link": "/album/less-is-more",
+        "release": "Less is more",
+        "artist": "JUGHEAD",
+        "grade": false
+    },
+    {
+        "link": "/album/bezmyatezhnost-exe",
+        "release": "безмятежность.exe",
+        "artist": "Скриптонит",
+        "grade": true
+    },
+    {
+        "link": "/track/zaceni",
+        "release": "Зацени",
+        "artist": "Voskresenskii",
+        "grade": false
+    },
+    {
+        "link": "/album/rich-yung",
+        "release": "Rich &amp; Yung",
+        "artist": "Baby Melo",
+        "grade": true
+    },
+    {
+        "link": "/album/lakrimarij",
+        "release": "Лакримарий",
+        "artist": "Magnum Opus",
+        "grade": false
+    },
+    {
+        "link": "/album/tretij-lishnij",
+        "release": "Третий лишний",
+        "artist": "5opka, OTURRO",
+        "grade": false
+    },
+    {
+        "link": "/track/yanvar-2",
+        "release": "Январь",
+        "artist": "Midix",
+        "grade": true
+    },
+    {
+        "link": "/track/vihr",
+        "release": "Вихрь",
+        "artist": "Maladoy Prince",
+        "grade": false
+    },
+    {
+        "link": "/track/prichina-snova-doverit",
+        "release": "Причина Снова Доверить",
+        "artist": "Maladoy Prince",
+        "grade": false
+    },
+    {
+        "link": "/track/izotop",
+        "release": "IZOTOP",
+        "artist": "NEWLIGHTCHILD",
+        "grade": true
+    },
+    {
+        "link": "/track/beijing",
+        "release": "Beijing",
+        "artist": "STOPBAN",
+        "grade": false
+    },
+    {
+        "link": "/track/hanoi",
+        "release": "Hanoi",
+        "artist": "STOPBAN",
+        "grade": true
+    },
+    {
+        "link": "/track/christmas-night",
+        "release": "christmas night",
+        "artist": "Baby Cute",
+        "grade": true
+    },
+    {
+        "link": "/track/xoxo",
+        "release": "XOXO",
+        "artist": "Baby Cute",
+        "grade": false
+    },
+    {
+        "link": "/track/blade-of-tears",
+        "release": "blade of tears",
+        "artist": "zxcursed",
+        "grade": true
+    },
+    {
+        "link": "/track/twilight",
+        "release": "twilight",
+        "artist": "3TERNITY",
+        "grade": true
+    },
+    {
+        "link": "/track/sted-d-vot-i-vsjo",
+        "release": "Вот и всё",
+        "artist": "STED.D",
+        "grade": true
+    },
+    {
+        "link": "/track/17-seventeen-ne-zakryvaj-glaza",
+        "release": "Не закрывай глаза",
+        "artist": "17 SEVENTEEN",
+        "grade": true
+    },
+    {
+        "link": "/track/miyagi-endshpil-aphrodisiac",
+        "release": "Aphrodisiac",
+        "artist": "Mav-d, Miyagi, Эндшпиль",
+        "grade": true
+    },
+    {
+        "link": "/album/kuplety-v-shkafu",
+        "release": "Куплеты в шкафу",
+        "artist": "KREC",
+        "grade": false
+    },
+    {
+        "link": "/track/jetlag",
+        "release": "JETLAG",
+        "artist": "луни ана",
+        "grade": false
+    },
+    {
+        "link": "/track/pridurok",
+        "release": "Придурок",
+        "artist": "ENTYPE",
+        "grade": false
+    },
+    {
+        "link": "/track/moskva",
+        "release": "Москва",
+        "artist": "AQYLA",
+        "grade": false
+    },
+    {
+        "link": "/track/odinokij-rassvet",
+        "release": "Одинокий рассвет",
+        "artist": "LeanJe",
+        "grade": false
+    },
+    {
+        "link": "/track/nahodka",
+        "release": "НАХОДКА",
+        "artist": "B soul",
+        "grade": false
+    }
+]

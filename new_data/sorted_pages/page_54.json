@@ -1,0 +1,68 @@
+[
+    {
+        "link": "/album/bezmyatezhnost-exe",
+        "release": "безмятежность.exe",
+        "artist": "Скриптонит",
+        "grade": true
+    },
+    {
+        "link": "/album/rich-yung",
+        "release": "Rich &amp; Yung",
+        "artist": "Baby Melo",
+        "grade": true
+    },
+    {
+        "link": "/track/yanvar-2",
+        "release": "Январь",
+        "artist": "Midix",
+        "grade": true
+    },
+    {
+        "link": "/track/izotop",
+        "release": "IZOTOP",
+        "artist": "NEWLIGHTCHILD",
+        "grade": true
+    },
+    {
+        "link": "/track/hanoi",
+        "release": "Hanoi",
+        "artist": "STOPBAN",
+        "grade": true
+    },
+    {
+        "link": "/track/christmas-night",
+        "release": "christmas night",
+        "artist": "Baby Cute",
+        "grade": true
+    },
+    {
+        "link": "/track/blade-of-tears",
+        "release": "blade of tears",
+        "artist": "zxcursed",
+        "grade": true
+    },
+    {
+        "link": "/track/twilight",
+        "release": "twilight",
+        "artist": "3TERNITY",
+        "grade": true
+    },
+    {
+        "link": "/track/sted-d-vot-i-vsjo",
+        "release": "Вот и всё",
+        "artist": "STED.D",
+        "grade": true
+    },
+    {
+        "link": "/track/17-seventeen-ne-zakryvaj-glaza",
+        "release": "Не закрывай глаза",
+        "artist": "17 SEVENTEEN",
+        "grade": true
+    },
+    {
+        "link": "/track/miyagi-endshpil-aphrodisiac",
+        "release": "Aphrodisiac",
+        "artist": "Mav-d, Miyagi, Эндшпиль",
+        "grade": true
+    }
+]

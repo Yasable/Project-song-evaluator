@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/track/fonetic-morfej",
+        "release": "Морфей",
+        "artist": "Fonetic",
+        "grade": true
+    },
+    {
+        "link": "/track/bump-s-rajona",
+        "release": "С района",
+        "artist": "Bump",
+        "grade": true
+    },
+    {
+        "link": "/track/ne-zabyvaj",
+        "release": "Не Забывай",
+        "artist": "Jetty Gas",
+        "grade": true
+    },
+    {
+        "link": "/album/markul-great-depression",
+        "release": "Great Depression",
+        "artist": "MARKUL",
+        "grade": false
+    },
+    {
+        "link": "/track/pepel-nahudi-kto-tebe-eto-skazal",
+        "release": "КТО ТЕБЕ ЭТО СКАЗАЛ",
+        "artist": "Pepel Nahudi",
+        "grade": true
+    },
+    {
+        "link": "/album/psychedelic-love",
+        "release": "PSYCHEDELIC LOVE",
+        "artist": "Pepel Nahudi",
+        "grade": true
+    },
+    {
+        "link": "/track/drums",
+        "release": "drums",
+        "artist": "LILDRUGHILL",
+        "grade": true
+    },
+    {
+        "link": "/track/salo",
+        "release": "САЛО",
+        "artist": "MAYOT",
+        "grade": true
+    },
+    {
+        "link": "/track/steny",
+        "release": "4 Стены",
+        "artist": "КРИСПИ",
+        "grade": true
+    },
+    {
+        "link": "/track/zabyvaj-2",
+        "release": "Забывай",
+        "artist": "АДЛИН",
+        "grade": true
+    },
+    {
+        "link": "/track/pampim-neft",
+        "release": "Пампим нефть",
+        "artist": "INSTASAMKA",
+        "grade": true
+    },
+    {
+        "link": "/track/molodoj-russkij",
+        "release": "Молодой русский",
+        "artist": "Хаски",
+        "grade": true
+    },
+    {
+        "link": "/track/eho",
+        "release": "Эхо",
+        "artist": "Зараза",
+        "grade": false
+    },
+    {
+        "link": "/track/alko-na-pol",
+        "release": "Алко на пол",
+        "artist": "Экси",
+        "grade": false
+    },
+    {
+        "link": "/track/signal",
+        "release": "Сигнал",
+        "artist": "Andro",
+        "grade": false
+    },
+    {
+        "link": "/track/payback",
+        "release": "PAYBACK",
+        "artist": "dekma",
+        "grade": false
+    },
+    {
+        "link": "/track/gde-ya",
+        "release": "Где я",
+        "artist": "ENTYPE",
+        "grade": true
+    },
+    {
+        "link": "/track/za-vsjo-nado-platit",
+        "release": "За всё надо платить",
+        "artist": "LeanJe, RAM",
+        "grade": false
+    },
+    {
+        "link": "/track/hustle",
+        "release": "Hustle",
+        "artist": "104, Malcolm Kush, Скриптонит",
+        "grade": false
+    },
+    {
+        "link": "/track/gryaz-2",
+        "release": "Грязь",
+        "artist": "BOOKER, MOCKUMENTARY",
+        "grade": false
+    },
+    {
+        "link": "/album/saga-ob-atlantide-2",
+        "release": "Сага об Атлантиде 2",
+        "artist": "​ushira",
+        "grade": false
+    },
+    {
+        "link": "/album/platina",
+        "release": "Платина",
+        "artist": "Платина",
+        "grade": true
+    },
+    {
+        "link": "/album/perestrojka",
+        "release": "ПЕРЕСТРОЙКА",
+        "artist": "DEAD BLONDE",
+        "grade": true
+    },
+    {
+        "link": "/album/kremaciya",
+        "release": "кремация",
+        "artist": "вышел покурить",
+        "grade": false
+    },
+    {
+        "link": "/track/dorama",
+        "release": "Дорама",
+        "artist": "VACÍO",
+        "grade": false
+    },
+    {
+        "link": "/track/obshhaya-zabota",
+        "release": "Общая забота",
+        "artist": "Sимптом, T-Fest",
+        "grade": true
+    },
+    {
+        "link": "/track/ice-killah-moskva",
+        "release": "Москва",
+        "artist": "ICE KILLAH",
+        "grade": true
+    },
+    {
+        "link": "/album/ice-killah-ice-killah",
+        "release": "ICE KILLAH",
+        "artist": "ICE KILLAH",
+        "grade": true
+    },
+    {
+        "link": "/track/ownr-eksi-na-mne-shhas",
+        "release": "На мне щас",
+        "artist": "OWNR, Экси",
+        "grade": true
+    },
+    {
+        "link": "/track/blurry-eye-2-eye-w-god",
+        "release": "EYE 2 EYE W GOD",
+        "artist": "Blurry",
+        "grade": true
+    },
+    {
+        "link": "/track/r3fresh-fason",
+        "release": "Fason",
+        "artist": "r3fresh",
+        "grade": true
+    },
+    {
+        "link": "/track/dj-cave-murovei-muro",
+        "release": "MURO",
+        "artist": "DJ Cave, Murovei",
+        "grade": true
+    },
+    {
+        "link": "/track/kis-kis-stokgolmskij-sindrom",
+        "release": "стокгольмский синдром",
+        "artist": "кис-кис",
+        "grade": true
+    },
+    {
+        "link": "/album/vozrast-soglasiya",
+        "release": "возраст согласия",
+        "artist": "кис-кис",
+        "grade": true
+    },
+    {
+        "link": "/album/russkaya-toska",
+        "release": "РУССКАЯ ТОСКА",
+        "artist": "гречка",
+        "grade": true
+    },
+    {
+        "link": "/album/firmaa-ii",
+        "release": "FIRMAA II",
+        "artist": "DJ Cave, Murovei",
+        "grade": true
+    }
+]

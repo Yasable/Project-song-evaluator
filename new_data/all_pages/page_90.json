@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/album/stiks",
+        "release": "Стикс",
+        "artist": "ST1M",
+        "grade": false
+    },
+    {
+        "link": "/track/b-laden",
+        "release": "B Laden",
+        "artist": "Kinderlil",
+        "grade": false
+    },
+    {
+        "link": "/track/sled",
+        "release": "След",
+        "artist": "spand",
+        "grade": true
+    },
+    {
+        "link": "/track/aga-nu",
+        "release": "Ага, ну",
+        "artist": "T-Fest, Скриптонит",
+        "grade": true
+    },
+    {
+        "link": "/track/44",
+        "release": "44",
+        "artist": "jzxdx, shadowraze",
+        "grade": true
+    },
+    {
+        "link": "/track/ordertolife-glass-life",
+        "release": "Glass Life",
+        "artist": "ORDERTOLIFE",
+        "grade": true
+    },
+    {
+        "link": "/track/gennadij-skobka-parus",
+        "release": "Парус",
+        "artist": "Геннадий Скобка",
+        "grade": true
+    },
+    {
+        "link": "/track/stickyflow-nepravilnyj-reper",
+        "release": "Неправильный рэпер!",
+        "artist": "STICKYFLOW",
+        "grade": true
+    },
+    {
+        "link": "/track/limo-rany",
+        "release": "Раны",
+        "artist": "Лимо",
+        "grade": true
+    },
+    {
+        "link": "/track/corso-carbon",
+        "release": "Carbon",
+        "artist": "Corso",
+        "grade": true
+    },
+    {
+        "link": "/track/edienomy-4-am",
+        "release": "4'AM",
+        "artist": "Edienomy",
+        "grade": true
+    },
+    {
+        "link": "/track/dopo-brouk",
+        "release": "БРОУК",
+        "artist": "dopo",
+        "grade": true
+    },
+    {
+        "link": "/track/dopo-zateryannyj-gorod",
+        "release": "ЗАТЕРЯННЫЙ ГОРОД",
+        "artist": "dopo",
+        "grade": true
+    },
+    {
+        "link": "/track/dopo-kopot",
+        "release": "КОПОТЬ",
+        "artist": "dopo",
+        "grade": true
+    },
+    {
+        "link": "/track/artur-karton-bez-perspektiv",
+        "release": "Без перспектив",
+        "artist": "ARTUR KARTON",
+        "grade": true
+    },
+    {
+        "link": "/track/pavel-golotin-moya-strana",
+        "release": "Моя страна",
+        "artist": "Павел Голотин",
+        "grade": true
+    },
+    {
+        "link": "/album/makarevich",
+        "release": "Макаревич",
+        "artist": "Babangida",
+        "grade": false
+    },
+    {
+        "link": "/track/privet-iz-proshlogo-leta",
+        "release": "Привет из прошлого лета",
+        "artist": "ЮГ 404",
+        "grade": false
+    },
+    {
+        "link": "/track/aim",
+        "release": "Aim",
+        "artist": "OFFMi",
+        "grade": false
+    },
+    {
+        "link": "/track/blagorazumnyj-razbojnik",
+        "release": "Благоразумный разбойник",
+        "artist": "Баста",
+        "grade": false
+    },
+    {
+        "link": "/album/doordoom",
+        "release": "DooRDooM",
+        "artist": "Brick Bazuka",
+        "grade": false
+    },
+    {
+        "link": "/album/pole-chudes",
+        "release": "Поле чудес",
+        "artist": "STED.D",
+        "grade": true
+    },
+    {
+        "link": "/album/polnoch-trudnogo-dnya",
+        "release": "Полночь трудного дня",
+        "artist": "Metox",
+        "grade": false
+    },
+    {
+        "link": "/track/lepestok",
+        "release": "Лепесток",
+        "artist": "HammAli, Loc-Dog, NAVAI",
+        "grade": false
+    },
+    {
+        "link": "/track/o-tebe",
+        "release": "О тебе",
+        "artist": "Ранетки, ТРАВМА",
+        "grade": true
+    },
+    {
+        "link": "/track/sozavisimost",
+        "release": "созависимость",
+        "artist": "aikko",
+        "grade": false
+    },
+    {
+        "link": "/track/ozero-v-lesu",
+        "release": "ОЗЕРО В ЛЕСУ",
+        "artist": "SQWOZ BAB",
+        "grade": true
+    },
+    {
+        "link": "/track/hochu",
+        "release": "Хочу",
+        "artist": "PUSSYKILLER",
+        "grade": true
+    },
+    {
+        "link": "/track/mejhem",
+        "release": "Мэйхэм",
+        "artist": "PROOVY",
+        "grade": false
+    },
+    {
+        "link": "/track/ninja",
+        "release": "Ninja",
+        "artist": "Horus, RIPBEAT, Зараза",
+        "grade": false
+    },
+    {
+        "link": "/track/dym",
+        "release": "Дым",
+        "artist": "JONY, Егор Крид",
+        "grade": true
+    },
+    {
+        "link": "/track/high",
+        "release": "High",
+        "artist": "MAYOT",
+        "grade": true
+    },
+    {
+        "link": "/album/ilm",
+        "release": "ILM",
+        "artist": "​kayyo",
+        "grade": true
+    },
+    {
+        "link": "/track/daleko-bolshoj-bushizm",
+        "release": "далеко (большой Бушизм)",
+        "artist": "BUSHIDO ZHO",
+        "grade": true
+    },
+    {
+        "link": "/album/broke-lives-matter",
+        "release": "BROKE LIVES MATTER",
+        "artist": "Voskresenskii",
+        "grade": true
+    },
+    {
+        "link": "/track/novym-shramom",
+        "release": "новым шрамом",
+        "artist": "LOVV66",
+        "grade": false
+    }
+]

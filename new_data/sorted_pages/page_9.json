@@ -1,0 +1,104 @@
+[
+    {
+        "link": "/track/pont",
+        "release": "ПОНТ",
+        "artist": "HELLOVERCAVI",
+        "grade": true
+    },
+    {
+        "link": "/track/na-kablukah",
+        "release": "НА КАБЛУКАХ",
+        "artist": "КОРСА КИЛЛА",
+        "grade": true
+    },
+    {
+        "link": "/track/trofant-vypuskaju",
+        "release": "Выпускаю",
+        "artist": "Трофант",
+        "grade": true
+    },
+    {
+        "link": "/track/osen-3",
+        "release": "Осень",
+        "artist": "AC_TheFlame",
+        "grade": true
+    },
+    {
+        "link": "/track/molcha",
+        "release": "Молча",
+        "artist": "GOZLAT",
+        "grade": true
+    },
+    {
+        "link": "/track/t3hn0-dr4mnb3js",
+        "release": "т3хн0/др4мнб3йс",
+        "artist": "fever lie",
+        "grade": true
+    },
+    {
+        "link": "/track/gelato",
+        "release": "Gelato",
+        "artist": "starloner",
+        "grade": true
+    },
+    {
+        "link": "/track/chuvstvo-ploti",
+        "release": "Чувство плоти",
+        "artist": "mnogo wu",
+        "grade": true
+    },
+    {
+        "link": "/track/che-dlya-tebya-cenno",
+        "release": "Че для тебя ценно?",
+        "artist": "63OPALA",
+        "grade": true
+    },
+    {
+        "link": "/track/prosto-pozovi",
+        "release": "Просто позови",
+        "artist": "Potteryalsа",
+        "grade": true
+    },
+    {
+        "link": "/album/damage",
+        "release": "damage",
+        "artist": "Kai Angel",
+        "grade": true
+    },
+    {
+        "link": "/track/overdoz",
+        "release": "овердоз",
+        "artist": "тёмный принц",
+        "grade": true
+    },
+    {
+        "link": "/track/dreams-fallen",
+        "release": "dreams fallen​",
+        "artist": "deathmarried",
+        "grade": true
+    },
+    {
+        "link": "/track/monblan",
+        "release": "Монблан",
+        "artist": "Miyagi, Смоки Мо",
+        "grade": true
+    },
+    {
+        "link": "/track/tvoej-bolju",
+        "release": "Твоей болью",
+        "artist": "ISAEVA, OG Buda",
+        "grade": true
+    },
+    {
+        "link": "/track/monte-marie",
+        "release": "MONTE MARIE",
+        "artist": "Lover",
+        "grade": true
+    },
+    {
+        "link": "/track/baby",
+        "release": "BABY",
+        "artist": "FRAGMENT999",
+        "grade": true
+    }
+]

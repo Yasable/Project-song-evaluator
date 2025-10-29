@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/track/markul-og-buda-fakty",
+        "release": "Факты",
+        "artist": "MARKUL, OG Buda",
+        "grade": true
+    },
+    {
+        "link": "/track/kai-angel-fake-love",
+        "release": "FAKE LOVE",
+        "artist": "Kai Angel",
+        "grade": false
+    },
+    {
+        "link": "/track/kai-angel-angryy",
+        "release": "ANGRYY",
+        "artist": "Kai Angel",
+        "grade": true
+    },
+    {
+        "link": "/track/1-kla-oxxxymiron-1-kla-pt-2",
+        "release": "1.Kla$ Pt. 2",
+        "artist": "1.Kla$, Oxxxymiron",
+        "grade": true
+    },
+    {
+        "link": "/track/pyrokinesis-broshen",
+        "release": "брошен",
+        "artist": "pyrokinesis",
+        "grade": true
+    },
+    {
+        "link": "/track/atl-ka-tet-bol-bytiya-2",
+        "release": "Боль бытия",
+        "artist": "ATL, Ка тет",
+        "grade": true
+    },
+    {
+        "link": "/track/managa-lajk",
+        "release": "Лайк",
+        "artist": "Managa",
+        "grade": true
+    },
+    {
+        "link": "/track/riffch-shawtyfelps-babnik",
+        "release": "БАБНИК",
+        "artist": "RIFFCH, Shawtyfelps",
+        "grade": true
+    },
+    {
+        "link": "/track/kovsh-marikmarakesh-hopichapok",
+        "release": "ХОПИЦЬХАПОК",
+        "artist": "KOVSH, MarikMarakesh",
+        "grade": true
+    },
+    {
+        "link": "/track/peoll-julius-freestyle",
+        "release": "JULIUS FREESTYLE",
+        "artist": "Peoll",
+        "grade": true
+    },
+    {
+        "link": "/album/thomas-mraz-eco",
+        "release": "ECO+",
+        "artist": "Thomas Mraz",
+        "grade": false
+    },
+    {
+        "link": "/track/aikko-inspace-katanacss-molodjozh",
+        "release": "молодёжь",
+        "artist": "aikko, INSPACE, katanacss",
+        "grade": false
+    },
+    {
+        "link": "/track/dfysaga-tveth-s-okrain",
+        "release": "С окраин",
+        "artist": "DFYSAGA, TVETH",
+        "grade": false
+    },
+    {
+        "link": "/track/krest-voron",
+        "release": "ВОРОН",
+        "artist": "КРЕСТ",
+        "grade": false
+    },
+    {
+        "link": "/track/daylor-mag-luzi-lenya",
+        "release": "Леня",
+        "artist": "Daylor, Mag Luzi",
+        "grade": true
+    },
+    {
+        "link": "/track/o-dinrap-ishhi-menya",
+        "release": "Ищи меня!",
+        "artist": "O’DINRAP",
+        "grade": true
+    },
+    {
+        "link": "/track/exxtinct-emd",
+        "release": "ЭМД",
+        "artist": "Exxtinct",
+        "grade": true
+    },
+    {
+        "link": "/track/dawg-dracy-daemon",
+        "release": "DAEMON",
+        "artist": "Dawg Dracy",
+        "grade": true
+    },
+    {
+        "link": "/track/tonika-kapli-dozhdya",
+        "release": "КАПЛИ ДОЖДЯ",
+        "artist": "ТОНИКА",
+        "grade": true
+    },
+    {
+        "link": "/track/hollyflame-kravc-otpuskaj",
+        "release": "Отпускай",
+        "artist": "HOLLYFLAME, Кравц",
+        "grade": true
+    },
+    {
+        "link": "/track/fenzep-moya-pravda",
+        "release": "Моя правда",
+        "artist": "Fenzep",
+        "grade": true
+    },
+    {
+        "link": "/track/sovvpretty-na-huj-tebya",
+        "release": "НА *** ТЕБЯ",
+        "artist": "sovvpretty",
+        "grade": true
+    },
+    {
+        "link": "/track/entype-boing",
+        "release": "Боинг",
+        "artist": "ENTYPE",
+        "grade": true
+    },
+    {
+        "link": "/track/graveegod-scraizis-killer-instinct",
+        "release": "KILLER INSTINCT",
+        "artist": "GRAVEEGOD, scraizis",
+        "grade": true
+    },
+    {
+        "link": "/track/zloj-maloj-muvit",
+        "release": "МУВИТ",
+        "artist": "ЗЛОЙ МАЛОЙ",
+        "grade": true
+    },
+    {
+        "link": "/track/wayward-hobby",
+        "release": "Hobby!",
+        "artist": "Wayward.",
+        "grade": true
+    },
+    {
+        "link": "/track/mirfon-kolonka",
+        "release": "Колонка",
+        "artist": "Мирфон",
+        "grade": true
+    },
+    {
+        "link": "/track/newlightchild-f-ck-off",
+        "release": "F*CK OFF",
+        "artist": "NEWLIGHTCHILD",
+        "grade": true
+    },
+    {
+        "link": "/track/jayyyoko-ostyt",
+        "release": "Остыть",
+        "artist": "Jayyyoko",
+        "grade": true
+    },
+    {
+        "link": "/track/masta-indigo-pay-chapo-i-got-to-money",
+        "release": "I GOT TO MONEY",
+        "artist": "Masta Indigo, Pay Chapo",
+        "grade": true
+    },
+    {
+        "link": "/album/morgenshtern-million-dollar-business",
+        "release": "MILLION DOLLAR: BUSINESS",
+        "artist": "MORGENSHTERN",
+        "grade": false
+    },
+    {
+        "link": "/album/papin-olimpos-devochka-i-malchik",
+        "release": "Девочка и Мальчик",
+        "artist": "Папин Олимпос",
+        "grade": false
+    },
+    {
+        "link": "/track/semsot-sem-nravitsya",
+        "release": "нравится",
+        "artist": "семьсот семь",
+        "grade": false
+    },
+    {
+        "link": "/track/163onmyneck-flint",
+        "release": "Флинт",
+        "artist": "163ONMYNECK",
+        "grade": true
+    },
+    {
+        "link": "/album/code80-tears-of-the-dragon-2",
+        "release": "Tears of the Dragon 2",
+        "artist": "CODE80",
+        "grade": false
+    },
+    {
+        "link": "/track/tikotheceo-projects",
+        "release": "Projects",
+        "artist": "TikoTheCEO",
+        "grade": true
+    }
+]

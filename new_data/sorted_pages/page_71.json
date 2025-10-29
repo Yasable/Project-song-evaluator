@@ -1,0 +1,74 @@
+[
+    {
+        "link": "/album/rep-mir",
+        "release": "РЭП МИР",
+        "artist": "Mosquit",
+        "grade": true
+    },
+    {
+        "link": "/album/heavy-metal-2",
+        "release": "Heavy Metal 2",
+        "artist": "9mice, Kai Angel",
+        "grade": true
+    },
+    {
+        "link": "/album/txc-2",
+        "release": "TXC 2",
+        "artist": "SEEMEE",
+        "grade": true
+    },
+    {
+        "link": "/track/lazer-slava",
+        "release": "LAZER SLAVA",
+        "artist": "OG Buda, Слава КПСС",
+        "grade": true
+    },
+    {
+        "link": "/track/snova",
+        "release": "SNOVA",
+        "artist": "Biicla, FEDUK, Элджей",
+        "grade": true
+    },
+    {
+        "link": "/track/mi-amor",
+        "release": "Mi Amor",
+        "artist": "Ollane, Эндшпиль",
+        "grade": true
+    },
+    {
+        "link": "/track/metal-flexin",
+        "release": "METAL FLEXIN",
+        "artist": "VELIAL SQUAD",
+        "grade": true
+    },
+    {
+        "link": "/track/ego-trip-ii",
+        "release": "ЭГО ТРИП II",
+        "artist": "dekma",
+        "grade": true
+    },
+    {
+        "link": "/album/kapitonov-forget-about-wounds",
+        "release": "FORGET ABOUT WOUNDS",
+        "artist": "Kapitonov",
+        "grade": true
+    },
+    {
+        "link": "/track/erzzy-7273",
+        "release": "7273",
+        "artist": "Erzzy",
+        "grade": true
+    },
+    {
+        "link": "/album/erzzy-treasure-island",
+        "release": "Treasure Island",
+        "artist": "Erzzy",
+        "grade": true
+    },
+    {
+        "link": "/track/prostuzhen",
+        "release": "Простужен",
+        "artist": "FORTUNA 812, madk1d",
+        "grade": true
+    }
+]

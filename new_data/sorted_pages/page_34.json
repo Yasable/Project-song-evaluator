@@ -1,0 +1,98 @@
+[
+    {
+        "link": "/album/visholding",
+        "release": "Висхолдинг",
+        "artist": "Три дня дождя",
+        "grade": true
+    },
+    {
+        "link": "/album/angel-may-cry-2",
+        "release": "ANGEL MAY CRY 2",
+        "artist": "Kai Angel",
+        "grade": true
+    },
+    {
+        "link": "/album/accept-all-cookies",
+        "release": "ACCEPT ALL COOKIES",
+        "artist": "Loqiemean",
+        "grade": true
+    },
+    {
+        "link": "/track/neo",
+        "release": "НЕО",
+        "artist": "Платина",
+        "grade": true
+    },
+    {
+        "link": "/track/futfetish",
+        "release": "Футфетиш",
+        "artist": "MC Кальмар, OG Buda",
+        "grade": true
+    },
+    {
+        "link": "/track/wrong",
+        "release": "WRONG",
+        "artist": "Baby Melo, CMH",
+        "grade": true
+    },
+    {
+        "link": "/track/aeroflot-143",
+        "release": "AEROFLOT 143",
+        "artist": "NAVAI, Элджей",
+        "grade": true
+    },
+    {
+        "link": "/album/v-moih-legkih-vyrosli-cvety",
+        "release": "в моих легких выросли цветы",
+        "artist": "CUPSIZE",
+        "grade": true
+    },
+    {
+        "link": "/track/elektronnyj",
+        "release": "ЭлЕктРоНный",
+        "artist": "clout",
+        "grade": true
+    },
+    {
+        "link": "/track/shin-shin",
+        "release": "shin (ШИН)",
+        "artist": "elyaplugg!",
+        "grade": true
+    },
+    {
+        "link": "/track/pomnish-2",
+        "release": "ПОМНИШЬ",
+        "artist": "i61",
+        "grade": true
+    },
+    {
+        "link": "/track/tweak-oblaka",
+        "release": "Облака",
+        "artist": "TWEAK",
+        "grade": true
+    },
+    {
+        "link": "/track/human-being-trxstr-kolyan-boryan-mc-luchnik-2025",
+        "release": "2025",
+        "artist": "human Being, TRXSTR, Колян Борян, МЦ Лучник",
+        "grade": true
+    },
+    {
+        "link": "/track/kust-zaza-pack",
+        "release": "ZaZa Pack",
+        "artist": "kust",
+        "grade": true
+    },
+    {
+        "link": "/track/firaya-odinokaya-luna",
+        "release": "Одинокая луна",
+        "artist": "Firaya",
+        "grade": true
+    },
+    {
+        "link": "/track/mirfon-sansara",
+        "release": "Сансара",
+        "artist": "Мирфон",
+        "grade": true
+    }
+]

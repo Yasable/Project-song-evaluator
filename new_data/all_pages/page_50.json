@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/track/poka",
+        "release": "Пока",
+        "artist": "Вектор А, ФОГЕЛЬ",
+        "grade": false
+    },
+    {
+        "link": "/track/pyatna",
+        "release": "Пятна",
+        "artist": "Truwer",
+        "grade": false
+    },
+    {
+        "link": "/album/chernoe-solnce",
+        "release": "Черное солнце",
+        "artist": "LeanJe",
+        "grade": false
+    },
+    {
+        "link": "/album/pozorniki-v-pryamom-efire",
+        "release": "позорники в прямом эфире",
+        "artist": "ПОЛМАТЕРИ",
+        "grade": false
+    },
+    {
+        "link": "/track/in-da-club",
+        "release": "In Da Club",
+        "artist": "DJ ASHANTI",
+        "grade": false
+    },
+    {
+        "link": "/track/tancujut",
+        "release": "Танцуют",
+        "artist": "DJ ASHANTI",
+        "grade": false
+    },
+    {
+        "link": "/track/esli-ya-v-klube",
+        "release": "Если я в клубе",
+        "artist": "DJ ASHANTI",
+        "grade": false
+    },
+    {
+        "link": "/track/internet-ljubov",
+        "release": "интернет любовь",
+        "artist": "fallen777angel",
+        "grade": true
+    },
+    {
+        "link": "/track/pay",
+        "release": "PAY",
+        "artist": "SHTRIHCOD",
+        "grade": false
+    },
+    {
+        "link": "/track/iskusstvenno",
+        "release": "искусственно",
+        "artist": "семьсот семь",
+        "grade": false
+    },
+    {
+        "link": "/track/flirtuj",
+        "release": "Флиртуй",
+        "artist": "The Limba",
+        "grade": false
+    },
+    {
+        "link": "/track/pomnish",
+        "release": "Помнишь",
+        "artist": "PUSSYKILLER",
+        "grade": false
+    },
+    {
+        "link": "/track/segodnya-ya-vsjo-eshhjo",
+        "release": "сегодня я всё ещё",
+        "artist": "playingtheangel",
+        "grade": false
+    },
+    {
+        "link": "/track/ne-propal",
+        "release": "Не пропал",
+        "artist": "Glocki52",
+        "grade": false
+    },
+    {
+        "link": "/album/kill-this-album",
+        "release": "KILL THIS ALBUM",
+        "artist": "CMH",
+        "grade": true
+    },
+    {
+        "link": "/album/x",
+        "release": "X",
+        "artist": "Ilya Konoplev",
+        "grade": false
+    },
+    {
+        "link": "/track/industrial",
+        "release": "INDUSTRIAL",
+        "artist": "ATL, Horus, Ка тет",
+        "grade": true
+    },
+    {
+        "link": "/track/smert-k-licu",
+        "release": "Смерть к лицу",
+        "artist": "Джизус",
+        "grade": true
+    },
+    {
+        "link": "/track/otel-klub-ili-dom",
+        "release": "отель, клуб или дом?",
+        "artist": "LOVV66",
+        "grade": true
+    },
+    {
+        "link": "/track/dik",
+        "release": "DИК",
+        "artist": "JDFLAG",
+        "grade": false
+    },
+    {
+        "link": "/track/girit",
+        "release": "ГИRИТ",
+        "artist": "JDFLAG",
+        "grade": true
+    },
+    {
+        "link": "/track/tripoloski",
+        "release": "тРи пОлОсКи",
+        "artist": "clout",
+        "grade": true
+    },
+    {
+        "link": "/track/cena",
+        "release": "цена",
+        "artist": "madk1d, паранойя",
+        "grade": true
+    },
+    {
+        "link": "/track/sexisdeath",
+        "release": "sexisdeath",
+        "artist": "deathmarried",
+        "grade": true
+    },
+    {
+        "link": "/track/dura",
+        "release": "Дура",
+        "artist": "СТИНТ",
+        "grade": false
+    },
+    {
+        "link": "/track/ulichnyj-biznes",
+        "release": "уличный бизнес",
+        "artist": "Candy Flip Boy, молодой калуга",
+        "grade": false
+    },
+    {
+        "link": "/track/mat-severa",
+        "release": "Мать Севера",
+        "artist": "Green Apelsin",
+        "grade": false
+    },
+    {
+        "link": "/album/love-stars-mili-2-overfreckles",
+        "release": "LOVE STARS MILI 2: OVERFRECKLES",
+        "artist": "Милиан О’Войд",
+        "grade": false
+    },
+    {
+        "link": "/track/renzen-fonari",
+        "release": "Фонари",
+        "artist": "RENZEN",
+        "grade": true
+    },
+    {
+        "link": "/track/zaichkovskii-autsajder",
+        "release": "аутсайдер",
+        "artist": "zaichkovskii",
+        "grade": true
+    },
+    {
+        "link": "/track/ctapyj-dvopeckij-d-layd-rina",
+        "release": "Rina",
+        "artist": "Cтapый Двopeцкий, D-LAYD",
+        "grade": true
+    },
+    {
+        "link": "/track/bouncywav-puffeta",
+        "release": "puffЭТА",
+        "artist": "bouncyWAV",
+        "grade": true
+    },
+    {
+        "link": "/track/ivanf0x-hrust",
+        "release": "ХРУСТ",
+        "artist": "IvanF0X",
+        "grade": true
+    },
+    {
+        "link": "/track/vonarti-zeelay-alyj-mak",
+        "release": "Алый мак",
+        "artist": "Vonarti, Zeelay",
+        "grade": true
+    },
+    {
+        "link": "/track/kapitonov-sunless",
+        "release": "SUNLESS",
+        "artist": "Kapitonov",
+        "grade": true
+    },
+    {
+        "link": "/album/kapitonov-tsunami-abyss",
+        "release": "TSUNAMI ≈ ABYSS",
+        "artist": "Kapitonov",
+        "grade": true
+    }
+]

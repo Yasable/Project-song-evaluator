@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/track/po-moryam",
+        "release": "ПО МОРЯМ",
+        "artist": "ЕГОР НАТС",
+        "grade": true
+    },
+    {
+        "link": "/track/kajfolodzhi",
+        "release": "КАЙФОЛОДЖИ",
+        "artist": "GSPD",
+        "grade": true
+    },
+    {
+        "link": "/track/legenda-o-bogine-mechej",
+        "release": "Легенда о Богине Мечей",
+        "artist": "pyrokinesis",
+        "grade": true
+    },
+    {
+        "link": "/track/sezon-ohoty",
+        "release": "Сезон охоты",
+        "artist": "KEMO NO, woee33",
+        "grade": true
+    },
+    {
+        "link": "/track/krest",
+        "release": "КРЕСТ",
+        "artist": "DECRY LAV",
+        "grade": true
+    },
+    {
+        "link": "/track/taskmaster",
+        "release": "TASKMASTER",
+        "artist": "Ноби",
+        "grade": true
+    },
+    {
+        "link": "/track/ha-ha",
+        "release": "Ха-ха",
+        "artist": "CAPTOWN",
+        "grade": true
+    },
+    {
+        "link": "/album/winamp",
+        "release": "WINAMP",
+        "artist": "CAPTOWN",
+        "grade": true
+    },
+    {
+        "link": "/track/ap",
+        "release": "AP",
+        "artist": "Молодой Платон",
+        "grade": true
+    },
+    {
+        "link": "/track/shimmy-shimmy-ya",
+        "release": "Shimmy Shimmy Ya!",
+        "artist": "Мэйби Бэйби",
+        "grade": true
+    },
+    {
+        "link": "/track/zhvachka",
+        "release": "Жвачка",
+        "artist": "Джизус",
+        "grade": true
+    },
+    {
+        "link": "/track/ya-tupoj",
+        "release": "Я тупой",
+        "artist": "BUSTER, Frame Tamer, lixxx, Rostik",
+        "grade": true
+    },
+    {
+        "link": "/track/sterva",
+        "release": "Стерва",
+        "artist": "Nekid",
+        "grade": true
+    },
+    {
+        "link": "/track/wake-up",
+        "release": "Wake up",
+        "artist": "Ful1House",
+        "grade": true
+    },
+    {
+        "link": "/track/grap",
+        "release": "Grap",
+        "artist": "opt, tsb",
+        "grade": true
+    },
+    {
+        "link": "/album/shinra-tensei",
+        "release": "Shinra Tensei",
+        "artist": "opt, tsb",
+        "grade": true
+    },
+    {
+        "link": "/track/bless",
+        "release": "Bless",
+        "artist": "Yanix",
+        "grade": true
+    },
+    {
+        "link": "/track/dom-s-privideniyami",
+        "release": "Дом С Привидениями",
+        "artist": "FRIENDLY THUG 52 NGG, OBLADAET",
+        "grade": true
+    },
+    {
+        "link": "/track/premium",
+        "release": "Премиум",
+        "artist": "валюта скуратов",
+        "grade": true
+    },
+    {
+        "link": "/track/zerkalo-2",
+        "release": "Зеркало",
+        "artist": "kizaru",
+        "grade": true
+    },
+    {
+        "link": "/track/net-nikogo",
+        "release": "Нет никого",
+        "artist": "Синдром Саламандры",
+        "grade": true
+    },
+    {
+        "link": "/track/m-m-oxxxymiron-diss",
+        "release": "M&M (Oxxxymiron Diss)",
+        "artist": "SCHOKK",
+        "grade": true
+    },
+    {
+        "link": "/album/vynos-tela-2",
+        "release": "Вынос тела 2",
+        "artist": "Fatal-M, Sagath",
+        "grade": true
+    },
+    {
+        "link": "/track/suter",
+        "release": "Сутер",
+        "artist": "PUSSYKILLER",
+        "grade": true
+    },
+    {
+        "link": "/track/i-ya-tam-i-ya-tut",
+        "release": "И я там И я тут",
+        "artist": "Haiiro tenshi",
+        "grade": true
+    },
+    {
+        "link": "/track/poh",
+        "release": "ПОХ",
+        "artist": "BUSTER, Егор Крид",
+        "grade": true
+    },
+    {
+        "link": "/track/viski",
+        "release": "Виски",
+        "artist": "Вадяра Блюз",
+        "grade": true
+    },
+    {
+        "link": "/track/zhivotvoryashhij-slem",
+        "release": "Животворящий слэм",
+        "artist": "Fatal-M, Sagath",
+        "grade": true
+    },
+    {
+        "link": "/track/in-my-head",
+        "release": "In My Head",
+        "artist": "⁣ghostwalker",
+        "grade": true
+    },
+    {
+        "link": "/album/jug-808",
+        "release": "ЮГ 808",
+        "artist": "BOOKER, ЮГ 404",
+        "grade": true
+    },
+    {
+        "link": "/track/nina",
+        "release": "NINA",
+        "artist": "YA DIGG KAPUSTU!",
+        "grade": true
+    },
+    {
+        "link": "/track/ochen-gryaznyj-rep-v-stile-detrojt",
+        "release": "ОЧЕНЬ ГРЯЗНЫЙ РЕП В СТИЛЕ ДЕТРОЙТ",
+        "artist": "Bezzubik Drago",
+        "grade": true
+    },
+    {
+        "link": "/track/coupe",
+        "release": "Coupe",
+        "artist": "Блинк",
+        "grade": true
+    },
+    {
+        "link": "/track/vajb",
+        "release": "Вайб",
+        "artist": "VACÍO",
+        "grade": true
+    },
+    {
+        "link": "/album/nikolay-vasilev",
+        "release": "NIKOLAY VASILEV",
+        "artist": "VACÍO",
+        "grade": true
+    },
+    {
+        "link": "/track/prosto-govorit",
+        "release": "Просто говорить",
+        "artist": "БЭХА",
+        "grade": true
+    }
+]

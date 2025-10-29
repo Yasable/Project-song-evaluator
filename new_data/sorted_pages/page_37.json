@@ -1,0 +1,80 @@
+[
+    {
+        "link": "/album/idiocracy",
+        "release": "IDIOCRACY",
+        "artist": "SODA LUV",
+        "grade": true
+    },
+    {
+        "link": "/album/qtopia",
+        "release": "QTOPIA",
+        "artist": "КУОК",
+        "grade": true
+    },
+    {
+        "link": "/track/night-moon",
+        "release": "night moon",
+        "artist": "LILDRUGHILL, SABU",
+        "grade": true
+    },
+    {
+        "link": "/track/gioconda",
+        "release": "GIOCONDA",
+        "artist": "LDMA, SIDODGI DUBOSHIT",
+        "grade": true
+    },
+    {
+        "link": "/track/bolshe-ne-budet-grustno",
+        "release": "больше не будет грустно",
+        "artist": "cold carti",
+        "grade": true
+    },
+    {
+        "link": "/track/foliev-imya",
+        "release": "Имя",
+        "artist": "FOLIEV",
+        "grade": true
+    },
+    {
+        "link": "/track/pyataya-nedelya-pora-no-ya",
+        "release": "пора, но я",
+        "artist": "пятая неделя",
+        "grade": true
+    },
+    {
+        "link": "/track/yngmarat-control",
+        "release": "Control",
+        "artist": "YNGMARAT",
+        "grade": true
+    },
+    {
+        "link": "/track/lostboy-sinie-cvety",
+        "release": "синие цветы",
+        "artist": "Lostboy",
+        "grade": true
+    },
+    {
+        "link": "/track/hani-v-tebe-vesna",
+        "release": "В тебе весна",
+        "artist": "Хани",
+        "grade": true
+    },
+    {
+        "link": "/track/konstantin-deresh-matrix",
+        "release": "Matrix",
+        "artist": "Konstantin Deresh",
+        "grade": true
+    },
+    {
+        "link": "/track/denya8-papau",
+        "release": "papau",
+        "artist": "Denya8",
+        "grade": true
+    },
+    {
+        "link": "/track/yungcxke-zhankxr-muay-thai",
+        "release": "Muay-Thai",
+        "artist": "yungcxke, Zhankxr",
+        "grade": true
+    }
+]

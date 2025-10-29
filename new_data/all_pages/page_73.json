@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/track/vse-dlya-tebya",
+        "release": "Все для тебя",
+        "artist": "BLESSQ",
+        "grade": true
+    },
+    {
+        "link": "/track/concrete-jungle",
+        "release": "Concrete Jungle",
+        "artist": "Lasilini, TumaniYO",
+        "grade": true
+    },
+    {
+        "link": "/track/whats-crushing-me-down",
+        "release": "WHATS CRUSHING ME DOWN",
+        "artist": "triplesixdelete",
+        "grade": false
+    },
+    {
+        "link": "/album/fleks-v-bolshom-gorode",
+        "release": "Флекс в Большом Городе",
+        "artist": "UncleFlexxx, Смоки Мо",
+        "grade": false
+    },
+    {
+        "link": "/track/bljuj-mne-na-lico",
+        "release": "БЛЮЙ МНЕ НА ЛИЦО",
+        "artist": "diklor, dmtboy",
+        "grade": false
+    },
+    {
+        "link": "/track/pasmurno",
+        "release": "Пасмурно",
+        "artist": "Джарахов",
+        "grade": false
+    },
+    {
+        "link": "/track/povest",
+        "release": "Повесть",
+        "artist": "Экси",
+        "grade": false
+    },
+    {
+        "link": "/track/odinokaya-luna",
+        "release": "Одинокая луна",
+        "artist": "ЮГ 404",
+        "grade": false
+    },
+    {
+        "link": "/track/wolfgang",
+        "release": "Wolfgang",
+        "artist": "ICEGERGERT, KNIGGHT",
+        "grade": false
+    },
+    {
+        "link": "/track/ne-pomnju",
+        "release": "НЕ ПОМНЮ",
+        "artist": "J. ROUH",
+        "grade": false
+    },
+    {
+        "link": "/track/sejchas-2",
+        "release": "сейчас",
+        "artist": "Lizer",
+        "grade": false
+    },
+    {
+        "link": "/track/plach-i-tancuj",
+        "release": "Плачь и танцуй",
+        "artist": "Daylor, Mag Luzi",
+        "grade": false
+    },
+    {
+        "link": "/track/besshumnyj-privedenie",
+        "release": "бесшумный привидение",
+        "artist": "quiizzzmeow",
+        "grade": true
+    },
+    {
+        "link": "/track/litij",
+        "release": "Литий",
+        "artist": "UMSY",
+        "grade": false
+    },
+    {
+        "link": "/track/sovri",
+        "release": "Соври",
+        "artist": "Alisha, WHITE GALLOWS",
+        "grade": false
+    },
+    {
+        "link": "/track/omega-2",
+        "release": "OMEGA",
+        "artist": "Destroy Lonely, PHARAOH",
+        "grade": true
+    },
+    {
+        "link": "/track/zhuravli",
+        "release": "Журавли",
+        "artist": "ooes, Oxxxymiron",
+        "grade": true
+    },
+    {
+        "link": "/album/first-date-magic",
+        "release": "first date magic",
+        "artist": "nkeeei",
+        "grade": true
+    },
+    {
+        "link": "/track/sport-2",
+        "release": "SPORT",
+        "artist": "ANIKV, Элджей",
+        "grade": true
+    },
+    {
+        "link": "/track/adskaya-kolybelnaya",
+        "release": "Адская колыбельная",
+        "artist": "Пошлая Молли",
+        "grade": true
+    },
+    {
+        "link": "/track/sekretarsha",
+        "release": "СЕКРЕТАРША",
+        "artist": "ЛСП, Молодой Платон",
+        "grade": true
+    },
+    {
+        "link": "/track/burya-metel-i-mgla",
+        "release": "Буря, метель и мгла",
+        "artist": "mzlff, STED.D, Канги",
+        "grade": true
+    },
+    {
+        "link": "/track/o-tebe-napomnit-dym-sigaret",
+        "release": "О тебе напомнит дым сигарет",
+        "artist": "ДЖЕЙЛО",
+        "grade": false
+    },
+    {
+        "link": "/track/nikakih-pravil",
+        "release": "Никаких правил",
+        "artist": "August",
+        "grade": true
+    },
+    {
+        "link": "/album/grustnye-pesni-dlya-vesjolyh-ljudej",
+        "release": "ГРУСТНЫЕ ПЕСНИ ДЛЯ ВЕСЁЛЫХ ЛЮДЕЙ",
+        "artist": "GSPD",
+        "grade": false
+    },
+    {
+        "link": "/track/seezon-slu",
+        "release": "SLU",
+        "artist": "Seezon",
+        "grade": true
+    },
+    {
+        "link": "/track/ixandra-bratik",
+        "release": "Братик",
+        "artist": "iXandra",
+        "grade": true
+    },
+    {
+        "link": "/track/lastsleep-no-kogda-opyat",
+        "release": "Но когда опять",
+        "artist": "LastSleep",
+        "grade": true
+    },
+    {
+        "link": "/track/lil-van-nebo",
+        "release": "Небо",
+        "artist": "LIL VAN",
+        "grade": true
+    },
+    {
+        "link": "/track/vilian-why-tishina",
+        "release": "тишина",
+        "artist": "Vilian Why",
+        "grade": true
+    },
+    {
+        "link": "/track/lostboysparadise-club-nocturne",
+        "release": "CLUB NOCTURNE",
+        "artist": "Lostboysparadise",
+        "grade": true
+    },
+    {
+        "link": "/track/antarez-can-t-feel",
+        "release": "CAN’T FEEL",
+        "artist": "Antarez",
+        "grade": true
+    },
+    {
+        "link": "/track/chillcash-day-n-nite",
+        "release": "Day ‘n’ Nite",
+        "artist": "​chillcash",
+        "grade": true
+    },
+    {
+        "link": "/track/zox-son",
+        "release": "Сон",
+        "artist": "Zox",
+        "grade": true
+    },
+    {
+        "link": "/track/lyb-coca-kokain",
+        "release": "Кокаин",
+        "artist": "LYB Coca",
+        "grade": true
+    },
+    {
+        "link": "/track/daryana-juice",
+        "release": "juice",
+        "artist": "daryana",
+        "grade": true
+    }
+]

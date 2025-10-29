@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/album/h1gh-chelovek",
+        "release": "Человек",
+        "artist": "H1GH",
+        "grade": true
+    },
+    {
+        "link": "/track/jabo-sistema",
+        "release": "Система",
+        "artist": "JABO",
+        "grade": true
+    },
+    {
+        "link": "/album/jabo-jabo-season-3",
+        "release": "JABO SEASON 3",
+        "artist": "JABO",
+        "grade": true
+    },
+    {
+        "link": "/track/pussykiller-prosti",
+        "release": "прости",
+        "artist": "PUSSYKILLER",
+        "grade": true
+    },
+    {
+        "link": "/album/pussykiller-amnesia",
+        "release": "AMNESIA",
+        "artist": "PUSSYKILLER",
+        "grade": true
+    },
+    {
+        "link": "/track/josodo-may-wave-vesy",
+        "release": "Весы",
+        "artist": "Josodo, May Wave$",
+        "grade": true
+    },
+    {
+        "link": "/track/kloukoma-bydlo",
+        "release": "Быдло",
+        "artist": "КлоуКома",
+        "grade": true
+    },
+    {
+        "link": "/track/guf-alik",
+        "release": "Алик",
+        "artist": "Гуф",
+        "grade": true
+    },
+    {
+        "link": "/track/flesh-low-n-slow",
+        "release": "Low-n-Slow",
+        "artist": "FLESH",
+        "grade": true
+    },
+    {
+        "link": "/track/ic3peak-kim-dracula-cherv-worm",
+        "release": "Червь / Worm",
+        "artist": "IC3PEAK, Kim Dracula",
+        "grade": true
+    },
+    {
+        "link": "/track/dora-loverboy",
+        "release": "Loverboy",
+        "artist": "Дора",
+        "grade": true
+    },
+    {
+        "link": "/track/lollipop-molodoj",
+        "release": "Молодой",
+        "artist": "Lollipop",
+        "grade": true
+    },
+    {
+        "link": "/track/ayyo-kravc-fonari",
+        "release": "Фонари",
+        "artist": "AYYO, Кравц",
+        "grade": true
+    },
+    {
+        "link": "/track/captown-gruv",
+        "release": "ГРУВ",
+        "artist": "CAPTOWN",
+        "grade": true
+    },
+    {
+        "link": "/track/sjuzanna-zavet-zmeem",
+        "release": "Змеем",
+        "artist": "zavet, Сюзанна",
+        "grade": true
+    },
+    {
+        "link": "/track/feduk-tancy-na-kuhne",
+        "release": "Танцы на кухне",
+        "artist": "FEDUK",
+        "grade": true
+    },
+    {
+        "link": "/track/krest-idem-ko-dnu",
+        "release": "идем ко дну",
+        "artist": "КРЕСТ",
+        "grade": true
+    },
+    {
+        "link": "/track/malenkij-yarche-melatonin",
+        "release": "Мелатонин",
+        "artist": "маленький ярче",
+        "grade": true
+    },
+    {
+        "link": "/track/ephemeral-pyrokinesis-karusel",
+        "release": "Карусель",
+        "artist": "ephemeral, pyrokinesis",
+        "grade": true
+    },
+    {
+        "link": "/track/aikko-booker-pojmaju-tebya",
+        "release": "Поймаю тебя",
+        "artist": "aikko, BOOKER",
+        "grade": true
+    },
+    {
+        "link": "/track/ram-raybax-enemy-3",
+        "release": "Enemy 3",
+        "artist": "RAM, RAYBAX",
+        "grade": true
+    },
+    {
+        "link": "/track/hochuspat-kosmonavtov-net-airdrop",
+        "release": "AIRDROP",
+        "artist": "КОСМОНАВТОВ НЕТ, хочуспать",
+        "grade": true
+    },
+    {
+        "link": "/track/drowsyy-nwb",
+        "release": "nwb",
+        "artist": "drowsyy",
+        "grade": true
+    },
+    {
+        "link": "/track/miyagi-andy-panda-burevestnik",
+        "release": "БУРЕВЕСТНИК",
+        "artist": "Andy Panda, Miyagi",
+        "grade": true
+    },
+    {
+        "link": "/track/lsp-x-ovsyankin-wipe-your-feet",
+        "release": "WIPE YOUR FEET",
+        "artist": "ЛСП, Овсянкин",
+        "grade": true
+    },
+    {
+        "link": "/track/dzharahov-stas-kostjushkin-prosto-drug",
+        "release": "Просто друг",
+        "artist": "Джарахов, Стас Костюшкин",
+        "grade": true
+    },
+    {
+        "link": "/track/lil-the-neel-babygun",
+        "release": "Babygun",
+        "artist": "LIL THE NEEL",
+        "grade": true
+    },
+    {
+        "link": "/track/bumble-beezy-proteinovye-chipsy-freestyle",
+        "release": "Протеиновые чипсы Freestyle",
+        "artist": "Bumble Beezy",
+        "grade": true
+    },
+    {
+        "link": "/track/lizer-prostym",
+        "release": "Простым",
+        "artist": "Lizer",
+        "grade": true
+    },
+    {
+        "link": "/track/travma-rvmzes-tri",
+        "release": "Три",
+        "artist": "RVMZES, ТРАВМА",
+        "grade": true
+    },
+    {
+        "link": "/track/yungway-hater",
+        "release": "HATER",
+        "artist": "YUNGWAY",
+        "grade": true
+    },
+    {
+        "link": "/track/lxner-quiizzzmeow-kryshu-snosit",
+        "release": "Крышу сносит",
+        "artist": "LXNER, quiizzzmeow",
+        "grade": true
+    },
+    {
+        "link": "/track/basic-boy-boulevard-depo-tveth-udachi",
+        "release": "Удачи",
+        "artist": "Basic Boy, Boulevard Depo, TVETH",
+        "grade": true
+    },
+    {
+        "link": "/track/buster-polnyj-bak",
+        "release": "Полный Бак",
+        "artist": "BUSTER",
+        "grade": true
+    },
+    {
+        "link": "/track/mayot-dribling",
+        "release": "Дриблинг",
+        "artist": "MAYOT",
+        "grade": true
+    },
+    {
+        "link": "/track/17-seventeen-sqwore-spat",
+        "release": "Спать",
+        "artist": "17 SEVENTEEN, Sqwore",
+        "grade": true
+    }
+]

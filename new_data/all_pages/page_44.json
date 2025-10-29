@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/album/vampir-glava-vtoraya",
+        "release": "Вампиръ:Глава Вторая",
+        "artist": "White Punk",
+        "grade": false
+    },
+    {
+        "link": "/track/moim-ljudyam",
+        "release": "Моим Людям",
+        "artist": "OG Buda",
+        "grade": true
+    },
+    {
+        "link": "/track/flatout",
+        "release": "Flatout",
+        "artist": "SODA LUV",
+        "grade": true
+    },
+    {
+        "link": "/track/name",
+        "release": "NAME",
+        "artist": "ICEGERGERT, OBLADAET",
+        "grade": true
+    },
+    {
+        "link": "/track/venom-boy",
+        "release": "Venom Boy",
+        "artist": "5opka, Дмитрий Маликов",
+        "grade": true
+    },
+    {
+        "link": "/track/krabovoe-oruzhie",
+        "release": "Крабовое Оружие",
+        "artist": "GONE.Fludd, Гриб Крабоид",
+        "grade": true
+    },
+    {
+        "link": "/track/pomnju",
+        "release": "ПОМНЮ",
+        "artist": "unki",
+        "grade": true
+    },
+    {
+        "link": "/track/ne-dala",
+        "release": "НЕ ДАЛА",
+        "artist": "ARTEM SHILOVETS, nkeeei, uniqe",
+        "grade": true
+    },
+    {
+        "link": "/track/jibvrv-ne-chuvstvuju",
+        "release": "Не чувствую",
+        "artist": "JIBVRV",
+        "grade": true
+    },
+    {
+        "link": "/track/jibvrv-eva",
+        "release": "Ева",
+        "artist": "JIBVRV",
+        "grade": true
+    },
+    {
+        "link": "/track/jibvrv-lechu",
+        "release": "Лечу",
+        "artist": "JIBVRV",
+        "grade": true
+    },
+    {
+        "link": "/track/rousemebaby-poppin",
+        "release": "Poppin",
+        "artist": "ROUSEMEBABY",
+        "grade": true
+    },
+    {
+        "link": "/track/beliwhatt-siga",
+        "release": "siga",
+        "artist": "Beliwhatt",
+        "grade": true
+    },
+    {
+        "link": "/track/happy-emili",
+        "release": "Emily",
+        "artist": "Happy",
+        "grade": true
+    },
+    {
+        "link": "/track/mit7-u-vseh-dela",
+        "release": "У всех дела",
+        "artist": "Mit7",
+        "grade": true
+    },
+    {
+        "link": "/track/nelzya-zabyt-holodno",
+        "release": "Холодно",
+        "artist": "нельзя забыть",
+        "grade": true
+    },
+    {
+        "link": "/track/fear-luv-delaj-dropaj",
+        "release": "ДЕЛАЙ ДРОПАЙ",
+        "artist": "FEAR LUV",
+        "grade": true
+    },
+    {
+        "link": "/track/white-punk-lekarstvo-ot-zdorovya",
+        "release": "Лекарство от здоровья",
+        "artist": "White Punk",
+        "grade": true
+    },
+    {
+        "link": "/track/6less6oy-nicotina",
+        "release": "Nicotina",
+        "artist": "6less6oy",
+        "grade": true
+    },
+    {
+        "link": "/track/tomorrow-xella-ya",
+        "release": "ya",
+        "artist": "TOMÓRROW, xеlla",
+        "grade": true
+    },
+    {
+        "link": "/track/ksu6bii-prosti-za-moj-francuzskij",
+        "release": "Прости за мой французский!",
+        "artist": "Ksu6bii",
+        "grade": true
+    },
+    {
+        "link": "/track/original-facka-maza-faka",
+        "release": "Maza Faka",
+        "artist": "ORIGINAL FACKA",
+        "grade": true
+    },
+    {
+        "link": "/track/muviton-not-normal",
+        "release": "NOT NORMAL",
+        "artist": "Мувитон",
+        "grade": true
+    },
+    {
+        "link": "/track/menya-ne-vspomnish-begi-ot-menya",
+        "release": "Беги от меня",
+        "artist": "Меня не вспомнишь",
+        "grade": true
+    },
+    {
+        "link": "/album/kapitonov-time-to-trust",
+        "release": "TIME TO TRUST",
+        "artist": "Kapitonov",
+        "grade": true
+    },
+    {
+        "link": "/track/show",
+        "release": "Show",
+        "artist": "Pupis",
+        "grade": false
+    },
+    {
+        "link": "/track/demony-2",
+        "release": "Демоны",
+        "artist": "MellSher",
+        "grade": false
+    },
+    {
+        "link": "/track/shag-vverh-nou-camp",
+        "release": "Шаг вверх (Nou Camp)",
+        "artist": "MastHead",
+        "grade": false
+    },
+    {
+        "link": "/track/frost",
+        "release": "Frost",
+        "artist": "Glukoza",
+        "grade": false
+    },
+    {
+        "link": "/album/triller",
+        "release": "Триллер",
+        "artist": "Mr Lambo, Xcho, Пабло",
+        "grade": false
+    },
+    {
+        "link": "/track/zamorozilo",
+        "release": "Заморозило",
+        "artist": "КРИМ ПЛИН, МОЛОДОСТЬ ВНУТРИ",
+        "grade": false
+    },
+    {
+        "link": "/track/stanciya-ljubov",
+        "release": "Станция “Любовь”",
+        "artist": "polnalyubvi, Найк Борзов",
+        "grade": false
+    },
+    {
+        "link": "/track/metropoliten",
+        "release": "METROPOLITEN",
+        "artist": "Mosquit",
+        "grade": false
+    },
+    {
+        "link": "/album/i-m-sorry-i-m-trying",
+        "release": "I'M SORRY, I'M TRYING",
+        "artist": "Myqeed",
+        "grade": false
+    },
+    {
+        "link": "/album/hell-sessions-vol-6",
+        "release": "HELL SESSIONS VOL.6",
+        "artist": "CODE80",
+        "grade": false
+    },
+    {
+        "link": "/album/tet-a-tet",
+        "release": "Тет-а-тет",
+        "artist": "Dose",
+        "grade": false
+    }
+]

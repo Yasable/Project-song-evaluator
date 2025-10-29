@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/track/lalala",
+        "release": "lalala",
+        "artist": "9mice, LILDRUGHILL",
+        "grade": true
+    },
+    {
+        "link": "/track/1st-day-smoke",
+        "release": "1ST DAY SMOKE",
+        "artist": "Heronwater",
+        "grade": true
+    },
+    {
+        "link": "/track/fake-id",
+        "release": "Fake ID",
+        "artist": "ICEGERGERT, kizaru",
+        "grade": true
+    },
+    {
+        "link": "/track/swjorve",
+        "release": "SWЁRVE",
+        "artist": "OG Buda, revvboy",
+        "grade": true
+    },
+    {
+        "link": "/track/glock17",
+        "release": "GLOCK17",
+        "artist": "BUSHIDO ZHO, Yanix",
+        "grade": true
+    },
+    {
+        "link": "/track/vo-dvore",
+        "release": "во дворе",
+        "artist": "mzlff",
+        "grade": true
+    },
+    {
+        "link": "/track/mnogo-deneg",
+        "release": "Много денег",
+        "artist": "LOVV66",
+        "grade": true
+    },
+    {
+        "link": "/track/sharady",
+        "release": "Шарады",
+        "artist": "MOT, Егор Крид",
+        "grade": true
+    },
+    {
+        "link": "/album/sarepta",
+        "release": "Sarepta",
+        "artist": "opt, tsb",
+        "grade": false
+    },
+    {
+        "link": "/track/kazino",
+        "release": "Казино",
+        "artist": "5opka",
+        "grade": true
+    },
+    {
+        "link": "/track/po-prichine-uvazhitelnoj",
+        "release": "ПО ПРИЧИНЕ УВАЖИТЕЛЬНОЙ",
+        "artist": "dekma",
+        "grade": false
+    },
+    {
+        "link": "/track/azbuka",
+        "release": "АЗБУКА",
+        "artist": "BATO, TVETH",
+        "grade": true
+    },
+    {
+        "link": "/track/vernis-domoj",
+        "release": "Вернись домой",
+        "artist": "Mirèle, ЛСП",
+        "grade": true
+    },
+    {
+        "link": "/track/shmyga",
+        "release": "ШМЫГА",
+        "artist": "Loqiemean",
+        "grade": false
+    },
+    {
+        "link": "/track/obladaet-yasmi-claus",
+        "release": "CLAUS",
+        "artist": "OBLADAET, YASMI",
+        "grade": true
+    },
+    {
+        "link": "/track/dmtboy-dg",
+        "release": "DG",
+        "artist": "dmtboy",
+        "grade": true
+    },
+    {
+        "link": "/track/whole-lotta-swag-formalnost",
+        "release": "Формальность",
+        "artist": "Whole Lotta Swag",
+        "grade": true
+    },
+    {
+        "link": "/track/fendiglock-balenguyaga",
+        "release": "Баленгуяга",
+        "artist": "FENDIGLOCK",
+        "grade": true
+    },
+    {
+        "link": "/track/fendiglock-dark-souls",
+        "release": "Dark Souls",
+        "artist": "FENDIGLOCK",
+        "grade": true
+    },
+    {
+        "link": "/track/meep-velial-squad-balaklava",
+        "release": "Балаклава",
+        "artist": "Meep, VELIAL SQUAD",
+        "grade": true
+    },
+    {
+        "link": "/track/madk1d-tak-po",
+        "release": "так по***",
+        "artist": "madk1d",
+        "grade": true
+    },
+    {
+        "link": "/track/icegergert-syn-ot-chjornyh-korolev",
+        "release": "Сын от чёрных королев",
+        "artist": "ICEGERGERT",
+        "grade": true
+    },
+    {
+        "link": "/track/vampiry",
+        "release": "вампиры",
+        "artist": "забей, лерочка",
+        "grade": false
+    },
+    {
+        "link": "/track/ustala-byt-slaboj",
+        "release": "УСТАЛА БЫТЬ СЛАБОЙ",
+        "artist": "катя милтей",
+        "grade": false
+    },
+    {
+        "link": "/track/v-chjornom-spiske",
+        "release": "В Чёрном Списке",
+        "artist": "Real Girl, WhyBaby?",
+        "grade": false
+    },
+    {
+        "link": "/track/deja-vu",
+        "release": "Deja Vu",
+        "artist": "JONY",
+        "grade": false
+    },
+    {
+        "link": "/album/eho-dvorov",
+        "release": "Эхо дворов",
+        "artist": "Vspak, передоз чувств",
+        "grade": false
+    },
+    {
+        "link": "/album/sviter-s-gorlom",
+        "release": "Свитер с горлом",
+        "artist": "Овсянкин",
+        "grade": false
+    },
+    {
+        "link": "/album/astralnaya-katapulta",
+        "release": "Астральная катапульта",
+        "artist": "OM.",
+        "grade": false
+    },
+    {
+        "link": "/track/skazhi-narkotikam-net",
+        "release": "Скажи наркотикам нет",
+        "artist": "ЗоХа",
+        "grade": false
+    },
+    {
+        "link": "/track/vansy",
+        "release": "ВАНСЫ",
+        "artist": "GRILLYAZH",
+        "grade": false
+    },
+    {
+        "link": "/track/power",
+        "release": "POWER",
+        "artist": "GAVRILINA",
+        "grade": false
+    },
+    {
+        "link": "/album/proshhaj-i-ljubi-menya",
+        "release": "Прощай и люби меня",
+        "artist": "polnalyubvi",
+        "grade": false
+    },
+    {
+        "link": "/track/spasi-i-potusi",
+        "release": "СПАСИ И ПОТУСИ",
+        "artist": "GSPD",
+        "grade": false
+    },
+    {
+        "link": "/track/sornyaki",
+        "release": "Сорняки",
+        "artist": "Horus, SharOn",
+        "grade": false
+    },
+    {
+        "link": "/track/spokojnoj-nochi",
+        "release": "Спокойной ночи",
+        "artist": "Kiliana, MACAN",
+        "grade": false
+    }
+]

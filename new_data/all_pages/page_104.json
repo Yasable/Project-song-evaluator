@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/track/summersucks-ne-nogami",
+        "release": "не ногами",
+        "artist": "SummerSuckS",
+        "grade": true
+    },
+    {
+        "link": "/track/rryany-kazhdyj",
+        "release": "Каждый",
+        "artist": "RRYANY",
+        "grade": true
+    },
+    {
+        "link": "/track/poddelka",
+        "release": "Подделка",
+        "artist": "Daylor",
+        "grade": false
+    },
+    {
+        "link": "/track/ya-znaju-chto-tebe-nuzhno",
+        "release": "я знаю что тебе нужно",
+        "artist": "lowlife",
+        "grade": false
+    },
+    {
+        "link": "/track/wazzup",
+        "release": "WAZZUP",
+        "artist": "Kinderlil",
+        "grade": false
+    },
+    {
+        "link": "/track/byl-da-vsplyl",
+        "release": "Был да всплыл",
+        "artist": "nyan.mp3",
+        "grade": false
+    },
+    {
+        "link": "/track/eto-vsjo",
+        "release": "Это всё",
+        "artist": "Sagath, МЕГАМОЗГ",
+        "grade": false
+    },
+    {
+        "link": "/track/holodaet-vnutri",
+        "release": "Холодает внутри",
+        "artist": "Жак Энтони",
+        "grade": false
+    },
+    {
+        "link": "/track/delikates",
+        "release": "Деликатес",
+        "artist": "Maladoy Prince",
+        "grade": false
+    },
+    {
+        "link": "/track/naverno",
+        "release": "Наверно",
+        "artist": "Adamant",
+        "grade": false
+    },
+    {
+        "link": "/track/ne-moroch-mne-golovu",
+        "release": "Не морочь мне голову",
+        "artist": "Амура, ФОГЕЛЬ",
+        "grade": false
+    },
+    {
+        "link": "/track/odin",
+        "release": "Один",
+        "artist": "Ресторатор",
+        "grade": false
+    },
+    {
+        "link": "/track/tribjut",
+        "release": "Трибьют",
+        "artist": "ммф.",
+        "grade": false
+    },
+    {
+        "link": "/album/tolko-na-starte",
+        "release": "Только на старте",
+        "artist": "Guram D",
+        "grade": false
+    },
+    {
+        "link": "/album/skuratov-valjuta-964",
+        "release": "скуратов валюта 964",
+        "artist": "валюта скуратов",
+        "grade": false
+    },
+    {
+        "link": "/track/bbteam-freestyle",
+        "release": "BBTEAM FREESTYLE",
+        "artist": "Big Baby Tape",
+        "grade": true
+    },
+    {
+        "link": "/track/podarok",
+        "release": "ПОДАРОК",
+        "artist": "АКУЛИЧ, Молодой Платон",
+        "grade": true
+    },
+    {
+        "link": "/track/igry",
+        "release": "ИГРЫ",
+        "artist": "GENSYXA, Toxi$",
+        "grade": true
+    },
+    {
+        "link": "/track/type-shit",
+        "release": "TYPE SHiT",
+        "artist": "OBLADAET",
+        "grade": true
+    },
+    {
+        "link": "/track/how-are-u",
+        "release": "HOW ARE U",
+        "artist": "Pepel Nahudi, xxxmanera",
+        "grade": true
+    },
+    {
+        "link": "/track/holodom-po-spine",
+        "release": "холодом по спине",
+        "artist": "LOVV66, мартин",
+        "grade": true
+    },
+    {
+        "link": "/track/vremenami-vsjo-projdjot",
+        "release": "Временами всё пройдёт",
+        "artist": "Джизус",
+        "grade": true
+    },
+    {
+        "link": "/track/memfis",
+        "release": "Мемфис",
+        "artist": "CAKEBOY, КлоуКома",
+        "grade": true
+    },
+    {
+        "link": "/track/dotla-2",
+        "release": "Дотла 2",
+        "artist": "TAYÖKA, Скриптонит",
+        "grade": true
+    },
+    {
+        "link": "/track/ice",
+        "release": "Ice",
+        "artist": "BATO",
+        "grade": true
+    },
+    {
+        "link": "/album/luvcore",
+        "release": "luvcore",
+        "artist": "Mary Gu",
+        "grade": false
+    },
+    {
+        "link": "/track/odinokaya-zvezda",
+        "release": "Одинокая звезда",
+        "artist": "Минин",
+        "grade": false
+    },
+    {
+        "link": "/track/ne-obyazany",
+        "release": "Не обязаны",
+        "artist": "Loc-Dog",
+        "grade": false
+    },
+    {
+        "link": "/track/toshno",
+        "release": "Тошно",
+        "artist": "STED.D",
+        "grade": false
+    },
+    {
+        "link": "/track/pov",
+        "release": "pov",
+        "artist": "huzzy b",
+        "grade": false
+    },
+    {
+        "link": "/track/altushka",
+        "release": "Альтушка",
+        "artist": "Neverlove",
+        "grade": false
+    },
+    {
+        "link": "/album/adaptaciya",
+        "release": "Адаптация",
+        "artist": "AMNESIA",
+        "grade": false
+    },
+    {
+        "link": "/track/whaiiit-cold-chrome-heart",
+        "release": "Cold Chrome Heart",
+        "artist": "whaiiit",
+        "grade": true
+    },
+    {
+        "link": "/track/mental-me-1000-minut",
+        "release": "1000 минут",
+        "artist": "MENTAL.ME",
+        "grade": true
+    },
+    {
+        "link": "/track/youareneverseeme-ne-zabyvaj",
+        "release": "НЕ ЗАБЫВАЙ",
+        "artist": "youareneverseeme",
+        "grade": true
+    },
+    {
+        "link": "/track/rieza-indika-2",
+        "release": "Индика 2",
+        "artist": "RIEZA",
+        "grade": true
+    }
+]

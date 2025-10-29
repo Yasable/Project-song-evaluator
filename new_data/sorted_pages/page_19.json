@@ -1,0 +1,56 @@
+[
+    {
+        "link": "/album/sabutage",
+        "release": "SABUTAGE",
+        "artist": "SABU",
+        "grade": true
+    },
+    {
+        "link": "/track/dyhanie-tvoe",
+        "release": "Дыхание твое",
+        "artist": "МУККА",
+        "grade": true
+    },
+    {
+        "link": "/track/na-bare-2",
+        "release": "На баре",
+        "artist": "БРЕДИШЬ, Кишлак",
+        "grade": true
+    },
+    {
+        "link": "/track/omut-manit-ulica-respubliki-bez-nazvaniya",
+        "release": "Без названия",
+        "artist": "omut manit, Улица Республики",
+        "grade": true
+    },
+    {
+        "link": "/track/volish-kakoj-sjurpriz",
+        "release": "какой сюрприз",
+        "artist": "volish",
+        "grade": true
+    },
+    {
+        "link": "/track/wackey-kak-dela",
+        "release": "КАК ДЕЛА",
+        "artist": "Wackey",
+        "grade": true
+    },
+    {
+        "link": "/track/kupidon-gipnoz",
+        "release": "Гипноз",
+        "artist": "KUPIDON.",
+        "grade": true
+    },
+    {
+        "link": "/track/trankwill-artist",
+        "release": "Artist",
+        "artist": "TrankWill",
+        "grade": true
+    },
+    {
+        "link": "/track/meli-k-loshadka",
+        "release": "ЛОШАДКА",
+        "artist": "Meli K",
+        "grade": true
+    }
+]

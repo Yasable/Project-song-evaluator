@@ -1,0 +1,80 @@
+[
+    {
+        "link": "/album/b2w-mixtape",
+        "release": "B2W MIXTAPE",
+        "artist": "unki",
+        "grade": true
+    },
+    {
+        "link": "/album/anderrated",
+        "release": "ANDERRATED",
+        "artist": "маленький ярче",
+        "grade": true
+    },
+    {
+        "link": "/track/to-zhe-samoe",
+        "release": "ТО ЖЕ САМОЕ",
+        "artist": "ICYBANDO, OG Buda",
+        "grade": true
+    },
+    {
+        "link": "/track/satn",
+        "release": "satn",
+        "artist": "deathmarried",
+        "grade": true
+    },
+    {
+        "link": "/track/iznichtozhenie",
+        "release": "Изничтожение",
+        "artist": "G4OUR, Nacho Montero, SKB, THRILL PILL, ​ushira",
+        "grade": true
+    },
+    {
+        "link": "/track/rage-quit",
+        "release": "RAGE QUIT",
+        "artist": "Loqiemean",
+        "grade": true
+    },
+    {
+        "link": "/track/zhizn-na-edity",
+        "release": "Жизнь на эдиты",
+        "artist": "YASMI",
+        "grade": true
+    },
+    {
+        "link": "/track/hoe",
+        "release": "Hoe",
+        "artist": "Producer Yaro, Pupis",
+        "grade": true
+    },
+    {
+        "link": "/track/atl-horovod",
+        "release": "Хоровод",
+        "artist": "ATL",
+        "grade": true
+    },
+    {
+        "link": "/track/chto-ty-vidish",
+        "release": "ЧТО ТЫ ВИДИШЬ?",
+        "artist": "J. ROUH",
+        "grade": true
+    },
+    {
+        "link": "/track/u-vseh-na-vidu",
+        "release": "У ВСЕХ НА ВИДУ",
+        "artist": "Wipo, АКУЛИЧ",
+        "grade": true
+    },
+    {
+        "link": "/album/neobratimye-posledstviya",
+        "release": "Необратимые последствия",
+        "artist": "ATL",
+        "grade": true
+    },
+    {
+        "link": "/album/no-tune",
+        "release": "NO TUNE",
+        "artist": "FENDIGLOCK",
+        "grade": true
+    }
+]

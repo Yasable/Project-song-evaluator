@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/track/ne-vizhu-sny",
+        "release": "Не вижу сны",
+        "artist": "ТРАВМА",
+        "grade": true
+    },
+    {
+        "link": "/track/dolzhen-remix",
+        "release": "Должен Remix",
+        "artist": "Boulevard Depo, DJ Stonik1917",
+        "grade": false
+    },
+    {
+        "link": "/track/melanholiya",
+        "release": "меланхолия",
+        "artist": "Jetty Gas, umeli",
+        "grade": false
+    },
+    {
+        "link": "/album/hunnass",
+        "release": "HUNNASS",
+        "artist": "Kinderlil",
+        "grade": false
+    },
+    {
+        "link": "/album/hurt-unlocked",
+        "release": "Hurt+unlocked",
+        "artist": "JUGHEAD",
+        "grade": false
+    },
+    {
+        "link": "/album/press-f",
+        "release": "PRESS F",
+        "artist": "dmtboy",
+        "grade": false
+    },
+    {
+        "link": "/album/sinergis",
+        "release": "СИНЕРГИС",
+        "artist": "DEEP-EX-SENSE, Лжедмитрий IV",
+        "grade": false
+    },
+    {
+        "link": "/track/flamebaby-do-do-do",
+        "release": "Do Do Do",
+        "artist": "FlameBaby",
+        "grade": true
+    },
+    {
+        "link": "/track/wayward-village-news",
+        "release": "Village News",
+        "artist": "Wayward.",
+        "grade": true
+    },
+    {
+        "link": "/track/glu-mora-rezo-daisy",
+        "release": "Daisy",
+        "artist": "GLU, MORA, Rezo",
+        "grade": true
+    },
+    {
+        "link": "/track/sd3k-patient",
+        "release": "Patient",
+        "artist": "sd3k",
+        "grade": true
+    },
+    {
+        "link": "/track/famous-killa-vamp",
+        "release": "VAMP",
+        "artist": "FAMOUS KILLA",
+        "grade": true
+    },
+    {
+        "link": "/track/blurry-sex-impulse",
+        "release": "SEX IMPULSE",
+        "artist": "Blurry",
+        "grade": true
+    },
+    {
+        "link": "/track/karma-tut-i-tam",
+        "release": "ТУТ И ТАМ",
+        "artist": "KARMA.",
+        "grade": true
+    },
+    {
+        "link": "/track/uaja",
+        "release": "УАЙА",
+        "artist": "Смоки Мо",
+        "grade": false
+    },
+    {
+        "link": "/track/holoda",
+        "release": "Холода",
+        "artist": "MellSher, СТИНТ",
+        "grade": false
+    },
+    {
+        "link": "/album/lax-files",
+        "release": "LAX FILES",
+        "artist": "FLESH",
+        "grade": true
+    },
+    {
+        "link": "/album/trap-ain-t-dead",
+        "release": "Trap Ain't Dead",
+        "artist": "Hood Rich Luka",
+        "grade": true
+    },
+    {
+        "link": "/track/nataliya",
+        "release": "Наталия",
+        "artist": "Серега Пират",
+        "grade": true
+    },
+    {
+        "link": "/track/skvoz-mysli",
+        "release": "сквозь мысли",
+        "artist": "LXNER",
+        "grade": true
+    },
+    {
+        "link": "/track/nezabyvaemaya",
+        "release": "НЕЗАБЫВАЕМАЯ",
+        "artist": "ARTEM SHILOVETS, Wipo",
+        "grade": true
+    },
+    {
+        "link": "/track/stress",
+        "release": "Stress",
+        "artist": "Макс Корж",
+        "grade": true
+    },
+    {
+        "link": "/track/grustnyj-dens",
+        "release": "Грустный дэнс",
+        "artist": "INSTASAMKA",
+        "grade": true
+    },
+    {
+        "link": "/track/tysyachi-nochej",
+        "release": "Тысячи ночей",
+        "artist": "MONRAU",
+        "grade": true
+    },
+    {
+        "link": "/track/poslednij-boj",
+        "release": "Последний Бой",
+        "artist": "LeanJe",
+        "grade": false
+    },
+    {
+        "link": "/track/u-vhoda-v-paradnuju",
+        "release": "у входа в парадную",
+        "artist": "гнилаялирика",
+        "grade": false
+    },
+    {
+        "link": "/track/64",
+        "release": "64",
+        "artist": "Daylor, Mag Luzi",
+        "grade": false
+    },
+    {
+        "link": "/track/bojus-svoih-zhelanij",
+        "release": "боюсь своих желаний",
+        "artist": "playingtheangel",
+        "grade": false
+    },
+    {
+        "link": "/track/azzakari-kommunizm-love",
+        "release": "Коммунизм Love",
+        "artist": "azzakari",
+        "grade": true
+    },
+    {
+        "link": "/track/iamskyeye-tok-po-telu",
+        "release": "Ток по телу",
+        "artist": "Iamskyeye!",
+        "grade": true
+    },
+    {
+        "link": "/track/babo4ka-ne-vinovat",
+        "release": "НЕ ВИНОВАТ",
+        "artist": "BABO4KA",
+        "grade": true
+    },
+    {
+        "link": "/track/vv4lt3r-nichego-zhivogo",
+        "release": "ничего живого",
+        "artist": "VV4LT3R",
+        "grade": true
+    },
+    {
+        "link": "/track/fonetic-sozdano-dlya-tebya",
+        "release": "Создано для тебя",
+        "artist": "Fonetic",
+        "grade": true
+    },
+    {
+        "link": "/track/fonetic-zvezdopady",
+        "release": "Звездопады",
+        "artist": "Fonetic",
+        "grade": true
+    },
+    {
+        "link": "/track/managa-bessonica",
+        "release": "Бессоница",
+        "artist": "Managa",
+        "grade": true
+    },
+    {
+        "link": "/track/flaro-thirteenth-nefor",
+        "release": "Нефор",
+        "artist": "FLARO THIRTEENTH",
+        "grade": true
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "link": "/track/internet-ljubov",
+        "release": "интернет любовь",
+        "artist": "fallen777angel",
+        "grade": true
+    },
+    {
+        "link": "/album/kill-this-album",
+        "release": "KILL THIS ALBUM",
+        "artist": "CMH",
+        "grade": true
+    },
+    {
+        "link": "/track/industrial",
+        "release": "INDUSTRIAL",
+        "artist": "ATL, Horus, Ка тет",
+        "grade": true
+    },
+    {
+        "link": "/track/smert-k-licu",
+        "release": "Смерть к лицу",
+        "artist": "Джизус",
+        "grade": true
+    },
+    {
+        "link": "/track/otel-klub-ili-dom",
+        "release": "отель, клуб или дом?",
+        "artist": "LOVV66",
+        "grade": true
+    },
+    {
+        "link": "/track/girit",
+        "release": "ГИRИТ",
+        "artist": "JDFLAG",
+        "grade": true
+    },
+    {
+        "link": "/track/tripoloski",
+        "release": "тРи пОлОсКи",
+        "artist": "clout",
+        "grade": true
+    },
+    {
+        "link": "/track/cena",
+        "release": "цена",
+        "artist": "madk1d, паранойя",
+        "grade": true
+    },
+    {
+        "link": "/track/sexisdeath",
+        "release": "sexisdeath",
+        "artist": "deathmarried",
+        "grade": true
+    },
+    {
+        "link": "/track/renzen-fonari",
+        "release": "Фонари",
+        "artist": "RENZEN",
+        "grade": true
+    },
+    {
+        "link": "/track/zaichkovskii-autsajder",
+        "release": "аутсайдер",
+        "artist": "zaichkovskii",
+        "grade": true
+    },
+    {
+        "link": "/track/ctapyj-dvopeckij-d-layd-rina",
+        "release": "Rina",
+        "artist": "Cтapый Двopeцкий, D-LAYD",
+        "grade": true
+    },
+    {
+        "link": "/track/bouncywav-puffeta",
+        "release": "puffЭТА",
+        "artist": "bouncyWAV",
+        "grade": true
+    },
+    {
+        "link": "/track/ivanf0x-hrust",
+        "release": "ХРУСТ",
+        "artist": "IvanF0X",
+        "grade": true
+    },
+    {
+        "link": "/track/vonarti-zeelay-alyj-mak",
+        "release": "Алый мак",
+        "artist": "Vonarti, Zeelay",
+        "grade": true
+    },
+    {
+        "link": "/track/kapitonov-sunless",
+        "release": "SUNLESS",
+        "artist": "Kapitonov",
+        "grade": true
+    },
+    {
+        "link": "/album/kapitonov-tsunami-abyss",
+        "release": "TSUNAMI ≈ ABYSS",
+        "artist": "Kapitonov",
+        "grade": true
+    }
+]

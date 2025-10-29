@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/track/big-siti-lajf",
+        "release": "Биг Сити Лайф",
+        "artist": "Whole Lotta Swag",
+        "grade": true
+    },
+    {
+        "link": "/track/vip",
+        "release": "ВиП",
+        "artist": "aikko, BOOKER, INSPACE",
+        "grade": true
+    },
+    {
+        "link": "/track/2012",
+        "release": "2012",
+        "artist": "Brick Bazuka, opt",
+        "grade": true
+    },
+    {
+        "link": "/track/sredi-seryh-oblakov",
+        "release": "Среди серых облаков",
+        "artist": "retroyse, Джарахов, ТРАВМА",
+        "grade": true
+    },
+    {
+        "link": "/track/sk3walker-sorry",
+        "release": "Sorry",
+        "artist": "Sk3walker",
+        "grade": true
+    },
+    {
+        "link": "/track/inposm-vvs",
+        "release": "VVS",
+        "artist": "INPOSM",
+        "grade": true
+    },
+    {
+        "link": "/track/zenily-girls",
+        "release": "Girls",
+        "artist": "Zenily",
+        "grade": true
+    },
+    {
+        "link": "/track/evgenij-okunev-u-kraya-propasti",
+        "release": "У края пропасти",
+        "artist": "Евгений Окунев",
+        "grade": true
+    },
+    {
+        "link": "/track/sb-odd-moya-istoriya",
+        "release": "Моя История",
+        "artist": "SB ODD",
+        "grade": true
+    },
+    {
+        "link": "/track/dedface-lider",
+        "release": "Лидер",
+        "artist": "DedFACE",
+        "grade": true
+    },
+    {
+        "link": "/track/nick-dayzi-esli-est-chto-skazat",
+        "release": "Если есть что сказать",
+        "artist": "NICK DAYZI",
+        "grade": true
+    },
+    {
+        "link": "/track/nick-dayzi-whyluv-iwannalove",
+        "release": "IWANNALOVE",
+        "artist": "NICK DAYZI, WHYLUV",
+        "grade": true
+    },
+    {
+        "link": "/track/uxknow-v-poiskah-pulsa",
+        "release": "в поисках пульса",
+        "artist": "​uxknow",
+        "grade": true
+    },
+    {
+        "link": "/track/ekspajn-experience",
+        "release": "Experience",
+        "artist": "Экспайн",
+        "grade": true
+    },
+    {
+        "link": "/album/swag-season-2",
+        "release": "SWAG SEASON 2",
+        "artist": "ROCKET",
+        "grade": false
+    },
+    {
+        "link": "/album/protagonist",
+        "release": "PROTAGONIST",
+        "artist": "ShawtyShine",
+        "grade": true
+    },
+    {
+        "link": "/track/biches",
+        "release": "БИЧЕС",
+        "artist": "ARTEM SHILOVETS, nkeeei, uniqe, Wipo",
+        "grade": true
+    },
+    {
+        "link": "/track/sasha-ostansya-so-mnoj",
+        "release": "Саша, останься со мной",
+        "artist": "тринадцать карат",
+        "grade": true
+    },
+    {
+        "link": "/track/tajming",
+        "release": "ТАЙМИНГ",
+        "artist": "BUSTER",
+        "grade": true
+    },
+    {
+        "link": "/track/brat",
+        "release": "БРАТ",
+        "artist": "MACAN",
+        "grade": true
+    },
+    {
+        "link": "/track/piter-gorod-kriminala",
+        "release": "Питер – город криминала",
+        "artist": "DEAD BLONDE",
+        "grade": true
+    },
+    {
+        "link": "/track/ot-chego",
+        "release": "От чего?",
+        "artist": "Brick Bazuka, Metox, Брутто",
+        "grade": true
+    },
+    {
+        "link": "/track/kai-angel-godmode",
+        "release": "/godmode",
+        "artist": "Kai Angel",
+        "grade": true
+    },
+    {
+        "link": "/album/dr-mike",
+        "release": "Dr. Mike",
+        "artist": "SaintPrince 52",
+        "grade": false
+    },
+    {
+        "link": "/album/hiler",
+        "release": "хилер",
+        "artist": "Даниил Ким",
+        "grade": false
+    },
+    {
+        "link": "/track/lade-di-da-da",
+        "release": "lade di da da",
+        "artist": "treepside",
+        "grade": false
+    },
+    {
+        "link": "/track/zatyanulo",
+        "release": "Затянуло",
+        "artist": "OBRAZKOBRA, TRU47",
+        "grade": false
+    },
+    {
+        "link": "/track/cherez-reki-i-morya",
+        "release": "Через реки и моря",
+        "artist": "MARIA KON",
+        "grade": false
+    },
+    {
+        "link": "/track/sofiya-2",
+        "release": "София",
+        "artist": "CALLMYDD",
+        "grade": false
+    },
+    {
+        "link": "/track/ne-hochu-2",
+        "release": "НЕ ХОЧУ",
+        "artist": "ТОНИКА",
+        "grade": false
+    },
+    {
+        "link": "/track/outside",
+        "release": "OUTSIDE",
+        "artist": "Ato Woody, Индаблэк",
+        "grade": false
+    },
+    {
+        "link": "/track/ty-privyk",
+        "release": "Ты привык",
+        "artist": "Гуляй Рванина",
+        "grade": false
+    },
+    {
+        "link": "/track/lips",
+        "release": "LIPS",
+        "artist": "44neverluv",
+        "grade": false
+    },
+    {
+        "link": "/track/otec",
+        "release": "Отец",
+        "artist": "Neverlove",
+        "grade": false
+    },
+    {
+        "link": "/track/zatmenie",
+        "release": "Затмение",
+        "artist": "Horus, Аманит",
+        "grade": false
+    },
+    {
+        "link": "/track/molly",
+        "release": "Molly",
+        "artist": "Wakeupmoontalk, КРЕСТ",
+        "grade": false
+    }
+]
