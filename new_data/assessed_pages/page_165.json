@@ -1,0 +1,434 @@
+[
+    {
+        "link": "/track/dk-feat-virus-ty-menya-ne-ishhi",
+        "release": "Ты меня не ищи",
+        "artist": "DK, ВИРУС",
+        "grade": [
+            8,
+            8,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/pharaoh-hallivud-hous",
+        "release": "Халливуд Хоус",
+        "artist": "PHARAOH",
+        "grade": [
+            9,
+            8,
+            8,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/dzharahov-ljublju",
+        "release": "Люблю",
+        "artist": "Джарахов",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/dzharahov-ljogkij-sposob-brosit-ljubit",
+        "release": "Лёгкий способ бросить любить",
+        "artist": "Джарахов",
+        "grade": [
+            8,
+            10,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/lxnerb-mejbi-bejbi-hinata",
+        "release": "Хината",
+        "artist": "LXNER, Мэйби Бэйби",
+        "grade": [
+            9,
+            7,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/album/lxner-elysium",
+        "release": "Elysium",
+        "artist": "LXNER",
+        "grade": [
+            7,
+            7,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/album/163onmyneck-no-offence",
+        "release": "NO OFFENCE",
+        "artist": "163ONMYNECK",
+        "grade": [
+            6,
+            7,
+            6,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/whybaby-skittles",
+        "release": "Skittles",
+        "artist": "WhyBaby?",
+        "grade": [
+            10,
+            9,
+            10,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/anikv-saluki-ogni",
+        "release": "Огни",
+        "artist": "ANIKV, SALUKI",
+        "grade": [
+            7,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/kloukoma-dushevnyj-pokoj",
+        "release": "Душевный покой",
+        "artist": "КлоуКома",
+        "grade": [
+            9,
+            9,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/album/zavet-doom",
+        "release": "DOOM",
+        "artist": "zavet",
+        "grade": [
+            8,
+            10,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/flesh-na-lico",
+        "release": "На лицо",
+        "artist": "FLESH",
+        "grade": [
+            9,
+            6,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/tri-dnya-dozhdya-vina",
+        "release": "Вина",
+        "artist": "Три дня дождя",
+        "grade": [
+            9,
+            8,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/sqwore-chjornyj-kot",
+        "release": "Чёрный кот",
+        "artist": "Sqwore",
+        "grade": [
+            7,
+            8,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/sidodzhi-duboshit-goatzilla",
+        "release": "GOATZILLA",
+        "artist": "SIDODGI DUBOSHIT",
+        "grade": [
+            8,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/kuok-imago",
+        "release": "Imago",
+        "artist": "КУОК",
+        "grade": [
+            8,
+            8,
+            10,
+            10,
+            6
+        ]
+    },
+    {
+        "link": "/album/valentin-dyadka-dve-devochki",
+        "release": "Две девочки",
+        "artist": "Валентин Дядька",
+        "grade": [
+            6,
+            4,
+            4,
+            6,
+            4
+        ]
+    },
+    {
+        "link": "/track/krov-iz-nosa-skolko-raz",
+        "release": "сколько раз?",
+        "artist": "кровь из носа",
+        "grade": [
+            8,
+            9,
+            10,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/bumble-beezy-tolko-moj",
+        "release": "Только Мой",
+        "artist": "Bumble Beezy",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/dzhizus-ya-ne-teryaju-nadezhdy",
+        "release": "Я не теряю надежды",
+        "artist": "Джизус",
+        "grade": [
+            8,
+            8,
+            9,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/album/josodo-higher",
+        "release": "Higher",
+        "artist": "Josodo",
+        "grade": [
+            5,
+            9,
+            3,
+            3,
+            4
+        ]
+    },
+    {
+        "link": "/track/rizza-serenite",
+        "release": "serenite",
+        "artist": "rizza",
+        "grade": [
+            6,
+            8,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/rizza-plohaya-koncovka",
+        "release": "плохая концовка",
+        "artist": "rizza",
+        "grade": [
+            6,
+            8,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/nekoglai-ivanzolo2004-obychnyj-paren",
+        "release": "Обычный парень",
+        "artist": "ivanzolo2004, Nekoglai",
+        "grade": [
+            4,
+            7,
+            4,
+            4,
+            2
+        ]
+    },
+    {
+        "link": "/track/dipins-kosmonavtov-net-v-temnote",
+        "release": "в темноте",
+        "artist": "Дипинс, КОСМОНАВТОВ НЕТ",
+        "grade": [
+            7,
+            7,
+            9,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/dead-blonde-ne-takaya-kak-vse",
+        "release": "Не такая, как все",
+        "artist": "DEAD BLONDE",
+        "grade": [
+            7,
+            9,
+            8,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/dzharahov-vokzal",
+        "release": "Вокзал",
+        "artist": "Джарахов",
+        "grade": [
+            7,
+            7,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/lsp-snegovichok",
+        "release": "Снеговичок",
+        "artist": "ЛСП",
+        "grade": [
+            10,
+            8,
+            10,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/mejbi-bejbi-sh1pu4ka",
+        "release": "sH1pu4Ka!",
+        "artist": "Мэйби Бэйби",
+        "grade": [
+            8,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/dzhizus-regeneration",
+        "release": "reGeneration",
+        "artist": "Джизус",
+        "grade": [
+            9,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/shajni-yeyo",
+        "release": "Yeyo!",
+        "artist": "Шайни",
+        "grade": [
+            9,
+            10,
+            7,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/lida-ya-sobirajus-tebya",
+        "release": "Я собираюсь тебя",
+        "artist": "Lida",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/shadowraze-lxner-quiizzzmeow-adaptive-strike",
+        "release": "adaptive strike",
+        "artist": "LXNER, quiizzzmeow, shadowraze",
+        "grade": [
+            9,
+            5,
+            4,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/seemee-bushido-zho-davaj-zanovo",
+        "release": "Давай заново",
+        "artist": "BUSHIDO ZHO, SEEMEE",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/163onmyneck-feat-yanix-fearmuch-scally-milano-shoplifter",
+        "release": "Шоплифтер",
+        "artist": "163ONMYNECK, FEARMUCH, Scally Milano, Yanix",
+        "grade": [
+            8,
+            8,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/egor-krid-maksim-otpuskaju",
+        "release": "Отпускаю",
+        "artist": "Егор Крид, МакSим",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            8
+        ]
+    }
+]

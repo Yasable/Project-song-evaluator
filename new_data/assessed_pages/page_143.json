@@ -1,0 +1,434 @@
+[
+    {
+        "link": "/track/rumtur",
+        "release": "Румтур",
+        "artist": "Sqwore",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/obo-vsjom-i-ni-o-chjom",
+        "release": "Обо всём и ни о чём",
+        "artist": "Sqwore",
+        "grade": [
+            9,
+            10,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/uronim",
+        "release": "УронИм",
+        "artist": "Big Chain, Whitelin",
+        "grade": [
+            7,
+            8,
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/track/vyshe",
+        "release": "Выше",
+        "artist": "blago white, LOVV66, Молодой Платон",
+        "grade": [
+            9,
+            10,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/metamorphosis-3",
+        "release": "METAMORPHOSIS 3",
+        "artist": "Interworld, Sadfriendd, zxcursed",
+        "grade": [
+            7,
+            9,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/polaroid",
+        "release": "Polaroid",
+        "artist": "LUVSIDE",
+        "grade": [
+            7,
+            10,
+            6,
+            6,
+            8
+        ]
+    },
+    {
+        "link": "/track/6am-v-budapeshte",
+        "release": "6AM в Будапеште",
+        "artist": "OG Buda",
+        "grade": [
+            9,
+            8,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/night-vision",
+        "release": "NIGHT VISION",
+        "artist": "44neverluv",
+        "grade": [
+            8,
+            9,
+            9,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/album/night-vision-album",
+        "release": "NIGHT VISION",
+        "artist": "44neverluv",
+        "grade": [
+            8,
+            8,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/sleepy-flow",
+        "release": "sleepy flow",
+        "artist": "44neverluv",
+        "grade": [
+            8,
+            7,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/is-temnoti",
+        "release": "IS TEMNOTI",
+        "artist": "Hugo Loud, Pretty Scream",
+        "grade": [
+            8,
+            9,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/local",
+        "release": "Local",
+        "artist": "Hugo Loud, Pretty Scream",
+        "grade": [
+            8,
+            8,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/moya-depressiya-0904",
+        "release": "моя депрессия 0904",
+        "artist": "КРИСПИ",
+        "grade": [
+            9,
+            8,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/kolhoznica",
+        "release": "Колхозница",
+        "artist": "ALON, SQWOZ BAB",
+        "grade": [
+            9,
+            8,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/anemia",
+        "release": "ANEMIA",
+        "artist": "BATO, HELLA HILLZ, TVETH",
+        "grade": [
+            9,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/horror",
+        "release": "HORROR",
+        "artist": "BATO, HELLA HILLZ, JEEMBO, TVETH",
+        "grade": [
+            9,
+            9,
+            10,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/daddy",
+        "release": "Daddy",
+        "artist": "PINQ",
+        "grade": [
+            8,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/zasypaesh-no-ne-so-mnoj",
+        "release": "Засыпаешь, но не со мной",
+        "artist": "HammAli, NAVAI, Егор Крид",
+        "grade": [
+            8,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/legacy",
+        "release": "Legacy",
+        "artist": "OG Buda, Yanix",
+        "grade": [
+            8,
+            8,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/nochnoj-gorod",
+        "release": "Ночной город",
+        "artist": "MATTHEW, Эйзи",
+        "grade": [
+            8,
+            9,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/on-me-owe-me",
+        "release": "on me (owe me)",
+        "artist": "кровь из носа",
+        "grade": [
+            9,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/ty",
+        "release": "Ты <Знаешь",
+        "artist": "4n Way",
+        "grade": [
+            7,
+            9,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/tri-slova",
+        "release": "три слова",
+        "artist": "Sunr1s3",
+        "grade": [
+            7,
+            7,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/psihologi",
+        "release": "Психологи",
+        "artist": "Элджей",
+        "grade": [
+            8,
+            10,
+            8,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/kondrashin-valjuta-skuratov-thailand",
+        "release": "Thailand",
+        "artist": "KONDRASHIN, валюта скуратов",
+        "grade": [
+            3,
+            5,
+            4,
+            5,
+            3
+        ]
+    },
+    {
+        "link": "/track/u-ljudej-raznye-glaza",
+        "release": "У ЛЮДЕЙ РАЗНЫЕ ГЛАЗА",
+        "artist": "ЯМАУГЛИ",
+        "grade": [
+            7,
+            8,
+            7,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/track/prosti-ya-obeshhal-byt-s-nej-v-etom-godu",
+        "release": "Прости, я обещал быть с ней в этом году",
+        "artist": "HOLOCRON",
+        "grade": [
+            8,
+            4,
+            4,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/melodiya",
+        "release": "Мелодия",
+        "artist": "mountflower, RYSO",
+        "grade": [
+            8,
+            8,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/dima-doma",
+        "release": "Дима Дома",
+        "artist": "OM.",
+        "grade": [
+            10,
+            8,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/vzryv-snaryada",
+        "release": "Взрыв снаряда",
+        "artist": "HOLOCRON",
+        "grade": [
+            7,
+            6,
+            6,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/simfoni",
+        "release": "симфони",
+        "artist": "lowlife",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/not-romantic",
+        "release": "not romantic",
+        "artist": "lowlife",
+        "grade": [
+            8,
+            7,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/smejus-na-tehno",
+        "release": "смеюсь на техно",
+        "artist": "playingtheangel",
+        "grade": [
+            10,
+            8,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/asphalt-8",
+        "release": "ASPHALT 8",
+        "artist": "MACAN",
+        "grade": [
+            8,
+            8,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/horoshij-den",
+        "release": "Хороший день",
+        "artist": "STED.D",
+        "grade": [
+            9,
+            7,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/orlando",
+        "release": "Орландо",
+        "artist": "JABO",
+        "grade": [
+            7,
+            8,
+            7,
+            7,
+            6
+        ]
+    }
+]

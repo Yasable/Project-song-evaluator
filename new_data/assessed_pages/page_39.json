@@ -1,0 +1,158 @@
+[
+    {
+        "link": "/album/b2w-mixtape",
+        "release": "B2W MIXTAPE",
+        "artist": "unki",
+        "grade": [
+            8,
+            8,
+            7,
+            8,
+            7
+        ]
+    },
+    {
+        "link": "/album/anderrated",
+        "release": "ANDERRATED",
+        "artist": "маленький ярче",
+        "grade": [
+            8,
+            9,
+            10,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/to-zhe-samoe",
+        "release": "ТО ЖЕ САМОЕ",
+        "artist": "ICYBANDO, OG Buda",
+        "grade": [
+            7,
+            7,
+            8,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/satn",
+        "release": "satn",
+        "artist": "deathmarried",
+        "grade": [
+            8,
+            9,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/iznichtozhenie",
+        "release": "Изничтожение",
+        "artist": "G4OUR, Nacho Montero, SKB, THRILL PILL, ​ushira",
+        "grade": [
+            7,
+            8,
+            8,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/rage-quit",
+        "release": "RAGE QUIT",
+        "artist": "Loqiemean",
+        "grade": [
+            10,
+            10,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/zhizn-na-edity",
+        "release": "Жизнь на эдиты",
+        "artist": "YASMI",
+        "grade": [
+            10,
+            8,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/hoe",
+        "release": "Hoe",
+        "artist": "Producer Yaro, Pupis",
+        "grade": [
+            7,
+            8,
+            8,
+            7,
+            7
+        ]
+    },
+    {
+        "link": "/track/atl-horovod",
+        "release": "Хоровод",
+        "artist": "ATL",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/chto-ty-vidish",
+        "release": "ЧТО ТЫ ВИДИШЬ?",
+        "artist": "J. ROUH",
+        "grade": [
+            9,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/u-vseh-na-vidu",
+        "release": "У ВСЕХ НА ВИДУ",
+        "artist": "Wipo, АКУЛИЧ",
+        "grade": [
+            8,
+            10,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/neobratimye-posledstviya",
+        "release": "Необратимые последствия",
+        "artist": "ATL",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/no-tune",
+        "release": "NO TUNE",
+        "artist": "FENDIGLOCK",
+        "grade": [
+            8,
+            7,
+            7,
+            9,
+            9
+        ]
+    }
+]

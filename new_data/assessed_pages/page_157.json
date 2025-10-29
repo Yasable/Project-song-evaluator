@@ -1,0 +1,434 @@
+[
+    {
+        "link": "/album/morgenshtern-last-one",
+        "release": "LAST ONE",
+        "artist": "MORGENSHTERN",
+        "grade": [
+            9,
+            9,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/masthead-mandp-pomni-kto-ty-est",
+        "release": "Помни кто ты есть",
+        "artist": "MandP, MastHead",
+        "grade": [
+            8,
+            7,
+            6,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/album/velial-squad-ritual",
+        "release": "RITUAL",
+        "artist": "VELIAL SQUAD",
+        "grade": [
+            10,
+            10,
+            9,
+            6,
+            4
+        ]
+    },
+    {
+        "link": "/album/blockkid-sound-of-streets",
+        "release": "Sound Of Streets",
+        "artist": "Blockkid",
+        "grade": [
+            5,
+            8,
+            5,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/sagath-noktu-fatal-m-podruzhka-psihushka",
+        "release": "Подружка-психушка",
+        "artist": "Fatal-M, Sagath, НОКТУ",
+        "grade": [
+            8,
+            7,
+            9,
+            9,
+            6
+        ]
+    },
+    {
+        "link": "/track/10age-blizko",
+        "release": "Близко",
+        "artist": "10AGE",
+        "grade": [
+            8,
+            8,
+            10,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/proovy-kloukoma-heavy",
+        "release": "HEAVY",
+        "artist": "PROOVY, КлоуКома",
+        "grade": [
+            7,
+            9,
+            7,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/haski-maslo-chernogo-tmina-sjuzanna-noktjurn",
+        "release": "Ноктюрн",
+        "artist": "масло черного тмина, Сюзанна, Хаски",
+        "grade": [
+            9,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/seemee-hugo-loud-dlya-ulic-osa-prod",
+        "release": "Для улиц",
+        "artist": "Hugo Loud, SEEMEE",
+        "grade": [
+            8,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/zxcursed-mana-break",
+        "release": "Mana Break",
+        "artist": "zxcursed",
+        "grade": [
+            10,
+            9,
+            7,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/slava-kpss-biografiya",
+        "release": "Биография",
+        "artist": "Слава КПСС",
+        "grade": [
+            10,
+            6,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/lovv66-baj-baj",
+        "release": "БАЙ БАЙ",
+        "artist": "LOVV66",
+        "grade": [
+            8,
+            10,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/lizer-derzko",
+        "release": "Дерзко",
+        "artist": "Lizer",
+        "grade": [
+            7,
+            7,
+            8,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/album/lizer-ottenki",
+        "release": "Оттенки",
+        "artist": "Lizer",
+        "grade": [
+            8,
+            8,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/kovaal-pravila-rules",
+        "release": "Правила",
+        "artist": "KOVAAL",
+        "grade": [
+            7,
+            6,
+            6,
+            5,
+            7
+        ]
+    },
+    {
+        "link": "/track/feduk-yabeda",
+        "release": "Ябеда",
+        "artist": "FEDUK",
+        "grade": [
+            9,
+            10,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/feduk-v-ton-ulicam",
+        "release": "В тон улицам",
+        "artist": "FEDUK",
+        "grade": [
+            9,
+            8,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/hofmannita-poshlaya-molli-habibati",
+        "release": "#HABIBATI",
+        "artist": "HOFMANNITA, Пошлая Молли",
+        "grade": [
+            7,
+            7,
+            7,
+            7,
+            4
+        ]
+    },
+    {
+        "link": "/track/cakeboy-kloukoma-wtf",
+        "release": "WTF",
+        "artist": "CAKEBOY, КлоуКома",
+        "grade": [
+            8,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/sidodzhi-duboshit-808-problem",
+        "release": "808 PROBLEM",
+        "artist": "SIDODGI DUBOSHIT",
+        "grade": [
+            9,
+            8,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/drowsyy-tvoi-fotografii-prod-by-jetty-gas-gnaar",
+        "release": "Твои фотографии",
+        "artist": "drowsyy",
+        "grade": [
+            7,
+            7,
+            8,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/dzhizus-tvoi-glaza",
+        "release": "Твои глаза",
+        "artist": "Джизус",
+        "grade": [
+            9,
+            8,
+            9,
+            10,
+            6
+        ]
+    },
+    {
+        "link": "/track/ulukmanapo-volchij-voj",
+        "release": "Волчий вой",
+        "artist": "Ulukmanapo",
+        "grade": [
+            7,
+            8,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/noize-mc-strana-dozhdej",
+        "release": "Страна Дождей",
+        "artist": "Noize MC",
+        "grade": [
+            10,
+            8,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/slava-kpss-angelskoe-true",
+        "release": "Ангельское True",
+        "artist": "Слава КПСС",
+        "grade": [
+            8,
+            8,
+            7,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/loqiemean-pugalo",
+        "release": "Пугало",
+        "artist": "Loqiemean",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/loqiemean-mlab",
+        "release": "MLAB",
+        "artist": "Loqiemean",
+        "grade": [
+            10,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/the-chemodan-shou-trumana",
+        "release": "Шоу Трумана",
+        "artist": "The Chemodan",
+        "grade": [
+            10,
+            8,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/captown-seti",
+        "release": "Сети",
+        "artist": "CAPTOWN",
+        "grade": [
+            8,
+            8,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/kai-angel-9mice-trivial",
+        "release": "*** TRIVIAL",
+        "artist": "9mice, Kai Angel",
+        "grade": [
+            8,
+            8,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/sted-d-svet-i-ten",
+        "release": "Свет и тень",
+        "artist": "STED.D",
+        "grade": [
+            9,
+            9,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/lowmilo-dvizhenie",
+        "release": "Движение",
+        "artist": "LowMilo",
+        "grade": [
+            4,
+            5,
+            2,
+            2,
+            2
+        ]
+    },
+    {
+        "link": "/track/demetra-nezhivoj",
+        "release": "Неживой",
+        "artist": "DEMETRA",
+        "grade": [
+            8,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/walkjulie-run-the-racks-up",
+        "release": "RUN THE RACKS UP",
+        "artist": "WalkJulie",
+        "grade": [
+            4,
+            4,
+            3,
+            3,
+            2
+        ]
+    },
+    {
+        "link": "/track/somewell-poslednij-vecher",
+        "release": "Последний вечер",
+        "artist": "SomeWell",
+        "grade": [
+            6,
+            10,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/friendly-thug-52-ngg-miss-you",
+        "release": "Miss You",
+        "artist": "FRIENDLY THUG 52 NGG",
+        "grade": [
+            9,
+            8,
+            9,
+            10,
+            10
+        ]
+    }
+]

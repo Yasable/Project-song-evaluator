@@ -1,0 +1,74 @@
+[
+    {
+        "link": "/track/brutto-nikuda-ne-opazdyval",
+        "release": "Никуда не опаздывал",
+        "artist": "Брутто",
+        "grade": [
+            10,
+            8,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/dzhizus-imya-moej-pechali",
+        "release": "Имя моей печали",
+        "artist": "Джизус",
+        "grade": [
+            10,
+            8,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/morgenshtern-dom-london-praga-nicca",
+        "release": "ДОМ (Лондон, Прага, Ницца)",
+        "artist": "MORGENSHTERN",
+        "grade": [
+            9,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/2002",
+        "release": "2002",
+        "artist": "Jakone, MACAN",
+        "grade": [
+            9,
+            8,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/anapa",
+        "release": "АНАПА",
+        "artist": "Magnum Opus, Джон Гарик",
+        "grade": [
+            9,
+            8,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/album/vibes",
+        "release": "Vibes",
+        "artist": "Yanix",
+        "grade": [
+            7,
+            8,
+            9,
+            8,
+            8
+        ]
+    }
+]

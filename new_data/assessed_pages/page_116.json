@@ -1,0 +1,422 @@
+[
+    {
+        "link": "/track/iamskyeye-pomnju",
+        "release": "Помню",
+        "artist": "Iamskyeye!",
+        "grade": [
+            9,
+            10,
+            9,
+            7,
+            10
+        ]
+    },
+    {
+        "link": "/track/plastinka-ne-guuglili",
+        "release": "Не гууглили",
+        "artist": "Пластинка",
+        "grade": [
+            8,
+            8,
+            7,
+            9,
+            6
+        ]
+    },
+    {
+        "link": "/track/paranojya-silent-hill",
+        "release": "Silent Hill",
+        "artist": "паранойя",
+        "grade": [
+            8,
+            9,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/minin-ne-po-puti-2",
+        "release": "Не по пути",
+        "artist": "Минин",
+        "grade": [
+            7,
+            8,
+            8,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/gwala-gavajskij-sneg",
+        "release": "Гавайский снег",
+        "artist": "Gwala",
+        "grade": [
+            8,
+            5,
+            7,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/ronyas-shag",
+        "release": "Шаг",
+        "artist": "RONYAS",
+        "grade": [
+            9,
+            9,
+            7,
+            4,
+            6
+        ]
+    },
+    {
+        "link": "/track/xvostik-pochtischaste-pomogi-mne-vyzhit",
+        "release": "помоги мне выжить",
+        "artist": "Xvostik, почтисчастье",
+        "grade": [
+            8,
+            8,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/thirdbranch-usain-bolt",
+        "release": "Usain Bolt",
+        "artist": "Thirdbranch",
+        "grade": [
+            8,
+            9,
+            7,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/track/cmh-ya-lublyu-tebya",
+        "release": "YA LUBLYU TEBYA",
+        "artist": "CMH",
+        "grade": [
+            8,
+            10,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/cmh-raw",
+        "release": "RAW",
+        "artist": "CMH",
+        "grade": [
+            9,
+            9,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/the-dawless-tveth-fantastic",
+        "release": "FANTASTIC",
+        "artist": "THE DAWLESS, TVETH",
+        "grade": [
+            10,
+            10,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/esmi-josodo-ljubi",
+        "release": "Люби",
+        "artist": "ESMI, Josodo",
+        "grade": [
+            8,
+            8,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/uncleflexxx-bellingham",
+        "release": "Bellingham",
+        "artist": "UncleFlexxx",
+        "grade": [
+            6,
+            7,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/d9vl-nlo",
+        "release": "НЛО",
+        "artist": "D9vl",
+        "grade": [
+            7,
+            8,
+            4,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/stefan-taggo-nahaelsia",
+        "release": "Нахаелся",
+        "artist": "Stefan Taggo",
+        "grade": [
+            6,
+            9,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/dima-snep-vlone",
+        "release": "VLONE",
+        "artist": "Дима Снэп",
+        "grade": [
+            7,
+            5,
+            8,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/saint-ble-ed-duhi",
+        "release": "Духи",
+        "artist": "Saint-Ble$$ed",
+        "grade": [
+            7,
+            7,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/vorovskaya-lapa-i-am-criminal",
+        "release": "I Am Criminal",
+        "artist": "Воровская Лапа",
+        "grade": [
+            10,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/vorovskaya-lapa-siyanie-lapy",
+        "release": "Сияние Лапы",
+        "artist": "Воровская Лапа",
+        "grade": [
+            10,
+            8,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/vintazh-travma-gospozha",
+        "release": "Госпожа",
+        "artist": "Винтаж, ТРАВМА",
+        "grade": [
+            8,
+            6,
+            8,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/vacio-vnutrivenno",
+        "release": "ВНУТРИВЕННО",
+        "artist": "VACÍO",
+        "grade": [
+            7,
+            8,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/krispi-psiholog",
+        "release": "Психолог",
+        "artist": "КРИСПИ",
+        "grade": [
+            9,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/corso-secret-floor",
+        "release": "Secret Floor",
+        "artist": "Corso",
+        "grade": [
+            7,
+            7,
+            6,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/shawtyfelps-hrom-harts",
+        "release": "Хром хартс",
+        "artist": "Shawtyfelps",
+        "grade": [
+            6,
+            7,
+            5,
+            4,
+            5
+        ]
+    },
+    {
+        "link": "/track/rude13oy-angel-hranitel",
+        "release": "Ангел Хранитель",
+        "artist": "rude13oy",
+        "grade": [
+            7,
+            8,
+            6,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/track/sulfur-formalin",
+        "release": "Формалин",
+        "artist": "SULFUR",
+        "grade": [
+            8,
+            8,
+            7,
+            6,
+            8
+        ]
+    },
+    {
+        "link": "/track/midix-eshhjo-vchera",
+        "release": "Ещё Вчера",
+        "artist": "Midix",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/midix-2dwrld-prequel",
+        "release": "2DWRLD PREQUEL",
+        "artist": "Midix",
+        "grade": [
+            10,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/gone-fludd-rapsodiya-konca-sveta",
+        "release": "Рапсодия Конца Света",
+        "artist": "GONE.Fludd",
+        "grade": [
+            10,
+            10,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/eldzhej-ai",
+        "release": "AI",
+        "artist": "Элджей",
+        "grade": [
+            8,
+            8,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/skriptonit-endshpil-razbalovannaya",
+        "release": "Разбалованная",
+        "artist": "Скриптонит, Эндшпиль",
+        "grade": [
+            9,
+            7,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/louisdioo-govori-eto-tiho",
+        "release": "говори это тихо",
+        "artist": "LOUISDIOO",
+        "grade": [
+            9,
+            8,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/lilovyi-hellouin",
+        "release": "ХЭЛЛОУИН",
+        "artist": "LiLOVYI",
+        "grade": [
+            8,
+            7,
+            4,
+            3,
+            4
+        ]
+    },
+    {
+        "link": "/track/drama-tam-gde-ty",
+        "release": "Там, где ты",
+        "artist": "драма",
+        "grade": [
+            6,
+            6,
+            5,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/big-baby-tape-lyfe",
+        "release": "Lyfe",
+        "artist": "Big Baby Tape",
+        "grade": [
+            8,
+            9,
+            10,
+            10,
+            10
+        ]
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "link": "/track/vremya",
+        "release": "Время",
+        "artist": "Шайни",
+        "grade": [
+            8,
+            8,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/album/pocelui-mezhdu-barami",
+        "release": "Поцелуи между барами",
+        "artist": "17 SEVENTEEN",
+        "grade": [
+            8,
+            10,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/snova-3",
+        "release": "СНОВА",
+        "artist": "GERA AMEN, SALUKI",
+        "grade": [
+            8,
+            10,
+            9,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/5opka-mellsher-xxl",
+        "release": "XXL",
+        "artist": "5opka, MellSher",
+        "grade": [
+            9,
+            10,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/vertigo",
+        "release": "Vertigo",
+        "artist": "Ollane",
+        "grade": [
+            9,
+            8,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/album/emingread-around-da-world",
+        "release": "AROUND DA WORLD",
+        "artist": "emingread",
+        "grade": [
+            6,
+            7,
+            6,
+            5,
+            5
+        ]
+    },
+    {
+        "link": "/track/wateri-fasho",
+        "release": "fasho",
+        "artist": "wateri",
+        "grade": [
+            7,
+            7,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/album/trevozhnyj-tip-privyazannosti",
+        "release": "Тревожный тип привязанности",
+        "artist": "Mirèle",
+        "grade": [
+            9,
+            10,
+            9,
+            10,
+            9
+        ]
+    },
+    {
+        "link": "/album/04-00-p-m",
+        "release": "04:00 p.m.",
+        "artist": "Gruppa Skryptonite",
+        "grade": [
+            9,
+            9,
+            8,
+            10,
+            9
+        ]
+    },
+    {
+        "link": "/album/party-elf-online",
+        "release": "PARTY ELF ONLINE",
+        "artist": "маленький ярче",
+        "grade": [
+            6,
+            7,
+            8,
+            9,
+            7
+        ]
+    },
+    {
+        "link": "/track/naked",
+        "release": "Naked",
+        "artist": "LIL KRYSTALLL, The Limba",
+        "grade": [
+            8,
+            8,
+            9,
+            9,
+            8
+        ]
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "link": "/track/up-down",
+        "release": "UP & DOWN",
+        "artist": "Aquakey",
+        "grade": [
+            8,
+            9,
+            8,
+            7,
+            9
+        ]
+    },
+    {
+        "link": "/album/midix-x-midix",
+        "release": "Midix x Midix",
+        "artist": "Midix",
+        "grade": [
+            9,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/enemy",
+        "release": "ENEMY",
+        "artist": "NEWLIGHTCHILD",
+        "grade": [
+            6,
+            9,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/zhalko-ih",
+        "release": "Жалко их",
+        "artist": "OG Buda",
+        "grade": [
+            8,
+            10,
+            9,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/me2",
+        "release": "ME2",
+        "artist": "OBLADAET",
+        "grade": [
+            7,
+            7,
+            9,
+            7,
+            7
+        ]
+    },
+    {
+        "link": "/track/zakroj-glaza",
+        "release": "ЗАКРОЙ ГЛАЗА",
+        "artist": "DJ SMASH, Lida",
+        "grade": [
+            8,
+            10,
+            9,
+            8,
+            9
+        ]
+    },
+    {
+        "link": "/track/qainty-durochka",
+        "release": "Дурочка",
+        "artist": "Qainty",
+        "grade": [
+            6,
+            5,
+            4,
+            3,
+            3
+        ]
+    },
+    {
+        "link": "/track/bgnina-whyti-pfizer",
+        "release": "Pfizer",
+        "artist": "Bgnina, Whyti",
+        "grade": [
+            6,
+            7,
+            5,
+            6,
+            5
+        ]
+    },
+    {
+        "link": "/track/rayett-high",
+        "release": "high",
+        "artist": "rayett",
+        "grade": [
+            5,
+            6,
+            4,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/zhorzhik-tikaet-tajmer",
+        "release": "Тикает таймер",
+        "artist": "Жоржик",
+        "grade": [
+            8,
+            8,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/exxtinct-beskonechnost-dinamizma",
+        "release": "Бесконечность Динамизма",
+        "artist": "Exxtinct",
+        "grade": [
+            10,
+            7,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/album/gosha-pik-g-pik",
+        "release": "G Pik",
+        "artist": "GOSHA PIK",
+        "grade": [
+            6,
+            6,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "link": "/track/majvl-do-konechnoj",
+        "release": "До конечной",
+        "artist": "Майвл",
+        "grade": [
+            7,
+            7,
+            6,
+            7,
+            6
+        ]
+    }
+]

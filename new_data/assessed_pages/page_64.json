@@ -1,0 +1,266 @@
+[
+    {
+        "link": "/album/princessa-amp-robot",
+        "release": "Принцесса &amp; Робот",
+        "artist": "FEDUK",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/gosha-pik-dasha-chu",
+        "release": "Dasha Chu",
+        "artist": "GOSHA PIK",
+        "grade": [
+            7,
+            4,
+            3,
+            6,
+            8
+        ]
+    },
+    {
+        "link": "/track/toxi-opustoshjon",
+        "release": "ОПУСТОШЁН",
+        "artist": "Toxi$",
+        "grade": [
+            7,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/mzlff-porovnu",
+        "release": "поровну",
+        "artist": "mzlff",
+        "grade": [
+            10,
+            8,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/poshlaya-molli-radio-zhazhda",
+        "release": "Радио Жажда",
+        "artist": "Пошлая Молли",
+        "grade": [
+            9,
+            8,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/og-buda-klonirovali",
+        "release": "Клонировали",
+        "artist": "OG Buda",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/slava-kpss-chudovishhe-pogubivshee-mir",
+        "release": "ЧУДОВИЩЕ ПОГУБИВШЕЕ МИР",
+        "artist": "Слава КПСС",
+        "grade": [
+            10,
+            8,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/slava-kpss-solnce-mjortvyh",
+        "release": "Солнце мёртвых",
+        "artist": "Слава КПСС",
+        "grade": [
+            10,
+            9,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/antigeroj",
+        "release": "Антигерой",
+        "artist": "1.Kla$",
+        "grade": [
+            5,
+            8,
+            7,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/album/stray-dogs",
+        "release": "STRAY DOGS",
+        "artist": "VELIAL SQUAD",
+        "grade": [
+            10,
+            7,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/album/rossiya34",
+        "release": "Россия34",
+        "artist": "Слава КПСС",
+        "grade": [
+            5,
+            4,
+            6,
+            6,
+            4
+        ]
+    },
+    {
+        "link": "/album/lovesongs",
+        "release": "LOVESONGS",
+        "artist": "Дора",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/album/iznutri",
+        "release": "ИЗНУТРИ",
+        "artist": "Toxi$",
+        "grade": [
+            6,
+            8,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/zamer",
+        "release": "Замер",
+        "artist": "Heronwater",
+        "grade": [
+            10,
+            9,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/autumn-blues",
+        "release": "AUTUMN BLUES",
+        "artist": "Pepel Nahudi",
+        "grade": [
+            6,
+            7,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/tp",
+        "release": "ТП",
+        "artist": "huzzy b",
+        "grade": [
+            7,
+            9,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/kak-dela",
+        "release": "Как дела?",
+        "artist": "17 SEVENTEEN",
+        "grade": [
+            8,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/youngstaffi-mazda",
+        "release": "мазда",
+        "artist": "Youngstaffi",
+        "grade": [
+            6,
+            5,
+            5,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/mud4chi-i-m-up",
+        "release": "I’M UP",
+        "artist": "MUD4CHI",
+        "grade": [
+            3,
+            6,
+            4,
+            3,
+            2
+        ]
+    },
+    {
+        "link": "/track/gekyum-neudachnik",
+        "release": "Неудачник",
+        "artist": "GEKYUM",
+        "grade": [
+            8,
+            7,
+            6,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/original-facka-aloe",
+        "release": "Алоэ",
+        "artist": "ORIGINAL FACKA",
+        "grade": [
+            8,
+            7,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/moishe-mojo",
+        "release": "Моё",
+        "artist": "Moishe",
+        "grade": [
+            7,
+            6,
+            6,
+            6,
+            4
+        ]
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "link": "/track/grand-blju",
+        "release": "гранд блю",
+        "artist": "dragociy",
+        "grade": [
+            7,
+            9,
+            6,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/halloween-2",
+        "release": "Halloween",
+        "artist": "GOSHA PIK",
+        "grade": [
+            5,
+            6,
+            4,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/ronald-taksi-iz-kosmosa",
+        "release": "такси из космоса",
+        "artist": "РОНАЛЬД",
+        "grade": [
+            8,
+            8,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/gernika",
+        "release": "Герника",
+        "artist": "ЭХОС",
+        "grade": [
+            9,
+            8,
+            7,
+            7,
+            7
+        ]
+    },
+    {
+        "link": "/album/numb-2",
+        "release": "NUMB 2",
+        "artist": "РОНАЛЬД",
+        "grade": [
+            6,
+            7,
+            6,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/track/epilog",
+        "release": "эпилог",
+        "artist": "mzlff",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    }
+]

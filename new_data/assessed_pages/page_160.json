@@ -1,0 +1,434 @@
+[
+    {
+        "link": "/track/aarne-bushido-zho-anikv-tesno",
+        "release": "Тесно",
+        "artist": "Aarne, ANIKV, BUSHIDO ZHO",
+        "grade": [
+            8,
+            10,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/heronwater-project-x",
+        "release": "Project X",
+        "artist": "Heronwater",
+        "grade": [
+            10,
+            9,
+            8,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/midix-dissociativy",
+        "release": "Диссоциативы",
+        "artist": "Midix",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/quin3d-mayot-tom4t",
+        "release": "TOM4T",
+        "artist": "MAYOT, Quin3D!",
+        "grade": [
+            8,
+            10,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/feduk-stilnyj-aj",
+        "release": "Стильный Ай",
+        "artist": "FEDUK",
+        "grade": [
+            8,
+            6,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/lsp-hiona",
+        "release": "Хиона",
+        "artist": "ЛСП",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/mejbi-bejbi-mejbilend",
+        "release": "МЭЙБИЛЭНД",
+        "artist": "Мэйби Бэйби",
+        "grade": [
+            10,
+            9,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/album/xxxmanera-man-of-era",
+        "release": "Man Of Era",
+        "artist": "xxxmanera",
+        "grade": [
+            6,
+            6,
+            6,
+            9,
+            6
+        ]
+    },
+    {
+        "link": "/track/slame-molodym",
+        "release": "МОЛОДЫМ",
+        "artist": "Slame",
+        "grade": [
+            8,
+            10,
+            10,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/album/yanix-g-o-a-t-uslugi",
+        "release": "g.o.a.t uslugi",
+        "artist": "Yanix",
+        "grade": [
+            7,
+            7,
+            5,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/lil-morty-trep-dvizheniya",
+        "release": "ТРЭП ДВИЖЕНИЯ",
+        "artist": "LIL MORTY",
+        "grade": [
+            7,
+            8,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/pussykiller-prygaj-na-menya",
+        "release": "Прыгай на меня",
+        "artist": "PUSSYKILLER",
+        "grade": [
+            7,
+            10,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/album/niman-black-friday",
+        "release": "Black Friday",
+        "artist": "Niman",
+        "grade": [
+            9,
+            7,
+            7,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/kali-malcolm-kush-feat-truwer-filki",
+        "release": "FILKI",
+        "artist": "Kali, Malcolm Kush, Truwer",
+        "grade": [
+            6,
+            6,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/sagath-pautina-pauka",
+        "release": "Паутина паука",
+        "artist": "Sagath",
+        "grade": [
+            8,
+            7,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/egor-nats-h-nikita-kiosse-h-rajs-melanholiya",
+        "release": "меланхолия",
+        "artist": "ЕГОР НАТС, Никита Киоссе, Райс",
+        "grade": [
+            7,
+            9,
+            9,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/mejbi-bejbi-dakimakura",
+        "release": "Дакимакура",
+        "artist": "Мэйби Бэйби",
+        "grade": [
+            10,
+            9,
+            10,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/lil-morty-g",
+        "release": "G",
+        "artist": "LIL MORTY",
+        "grade": [
+            7,
+            8,
+            9,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/the-limba-kiki",
+        "release": "Kiki",
+        "artist": "The Limba",
+        "grade": [
+            8,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/zxcursed-quinque",
+        "release": "quinque",
+        "artist": "zxcursed",
+        "grade": [
+            5,
+            8,
+            6,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/hood-rich-luka-yayo",
+        "release": "YAYO",
+        "artist": "Hood Rich Luka",
+        "grade": [
+            7,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/hood-rich-luka-monopoliya",
+        "release": "МОНОПОЛИЯ",
+        "artist": "Hood Rich Luka",
+        "grade": [
+            6,
+            9,
+            7,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/scally-milano-uglystephan-zaberu",
+        "release": "Заберу",
+        "artist": "Scally Milano, uglystephan",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/lovv66-feat-platina-valyna",
+        "release": "Валына",
+        "artist": "LOVV66, Платина",
+        "grade": [
+            7,
+            9,
+            10,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/dose-feduk-ty",
+        "release": "Ты",
+        "artist": "Dose, FEDUK",
+        "grade": [
+            9,
+            9,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/dead-blonde-tu-lu-la",
+        "release": "ТУ-ЛУ-ЛА",
+        "artist": "DEAD BLONDE",
+        "grade": [
+            4,
+            7,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/lovv66-anya-chemi-eshhjo-chas",
+        "release": "ЕЩЁ ЧАС",
+        "artist": "LOVV66, Аня Чеми",
+        "grade": [
+            8,
+            10,
+            7,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/andro-feat-mayot-telefon",
+        "release": "Телефон",
+        "artist": "Andro, MAYOT",
+        "grade": [
+            8,
+            10,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/dzhizus-avtomat",
+        "release": "Автомат",
+        "artist": "Джизус",
+        "grade": [
+            8,
+            9,
+            6,
+            7,
+            4
+        ]
+    },
+    {
+        "link": "/track/zaraza-put-k-samomu-sebe",
+        "release": "Путь к самому себе",
+        "artist": "Зараза",
+        "grade": [
+            8,
+            10,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/zaraza-smeshannye-chuvstva",
+        "release": "Смешанные чувства",
+        "artist": "Зараза",
+        "grade": [
+            6,
+            7,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/instasamka-go-go",
+        "release": "GO GO",
+        "artist": "INSTASAMKA",
+        "grade": [
+            7,
+            9,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/album/instasamka-queen-of-rap",
+        "release": "QUEEN OF RAP",
+        "artist": "INSTASAMKA",
+        "grade": [
+            5,
+            8,
+            7,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/limbo-og-buda-judo",
+        "release": "JUDO!",
+        "artist": "Limbö, OG Buda",
+        "grade": [
+            8,
+            10,
+            8,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/bloodpuff-vetements",
+        "release": "Vetements",
+        "artist": "Bloodpuff",
+        "grade": [
+            8,
+            10,
+            8,
+            6,
+            8
+        ]
+    },
+    {
+        "link": "/track/cakeboy-podojdi-blizhe",
+        "release": "Подойди ближе",
+        "artist": "CAKEBOY",
+        "grade": [
+            8,
+            9,
+            9,
+            7,
+            8
+        ]
+    }
+]

@@ -1,0 +1,434 @@
+[
+    {
+        "link": "/album/psihotravma",
+        "release": "Психотравма",
+        "artist": "ТРАВМА",
+        "grade": [
+            8,
+            8,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/coffin",
+        "release": "Coffin",
+        "artist": "Sagath",
+        "grade": [
+            8,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/drill-ru-4",
+        "release": "Drill Ru 4",
+        "artist": "opt, tsb",
+        "grade": [
+            8,
+            8,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/grustno",
+        "release": "Грустно",
+        "artist": "ENTYPE",
+        "grade": [
+            8,
+            8,
+            8,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/mimo-tvoih-poceluev",
+        "release": "Мимо твоих поцелуев",
+        "artist": "Экси",
+        "grade": [
+            8,
+            8,
+            7,
+            6,
+            4
+        ]
+    },
+    {
+        "link": "/track/vzglyad",
+        "release": "ВЗГЛЯД",
+        "artist": "Yung Trappa",
+        "grade": [
+            2,
+            4,
+            4,
+            4,
+            2
+        ]
+    },
+    {
+        "link": "/track/hejtery",
+        "release": "Хейтеры",
+        "artist": "Серега Пират",
+        "grade": [
+            3,
+            5,
+            4,
+            4,
+            2
+        ]
+    },
+    {
+        "link": "/track/prestupnik",
+        "release": "Преступник",
+        "artist": "Каспийский Груз",
+        "grade": [
+            10,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/ostorozhno-okrasheno",
+        "release": "Осторожно Окрашено",
+        "artist": "Каспийский Груз",
+        "grade": [
+            10,
+            5,
+            8,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/govori-srazu",
+        "release": "Говори сразу",
+        "artist": "Sимптом, T-Fest",
+        "grade": [
+            8,
+            8,
+            7,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/zovi-menya",
+        "release": "Зови меня",
+        "artist": "The Chemodan",
+        "grade": [
+            9,
+            7,
+            8,
+            10,
+            6
+        ]
+    },
+    {
+        "link": "/track/princami-stanovyatsya",
+        "release": "Принцами становятся",
+        "artist": "Жак Энтони",
+        "grade": [
+            7,
+            7,
+            7,
+            7,
+            5
+        ]
+    },
+    {
+        "link": "/track/kak-ty-dyshish",
+        "release": "КАК ТЫ ДЫШИШЬ",
+        "artist": "ЕГОР НАТС, М",
+        "grade": [
+            8,
+            9,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/marina-obojkina",
+        "release": "Марина Обойкина",
+        "artist": "Кишлак",
+        "grade": [
+            9,
+            8,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/v-nadezhde-na-chudo",
+        "release": "В надежде на чудо",
+        "artist": "МУККА",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/punkthed",
+        "release": "Punkthed",
+        "artist": "rizza",
+        "grade": [
+            7,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/hoodak-mp3",
+        "release": "HOODAK MP3",
+        "artist": "Aarne, Big Baby Tape",
+        "grade": [
+            6,
+            8,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/rodnik-montana",
+        "release": "Родник Монтана",
+        "artist": "DJ Nik One, Словетский",
+        "grade": [
+            10,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/montana-iii",
+        "release": "MONTANA III",
+        "artist": "DJ Nik One, Словетский",
+        "grade": [
+            9,
+            7,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/mishlen",
+        "release": "МИШЛЕН",
+        "artist": "Смоки Мо",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/alpha",
+        "release": "ALPHA",
+        "artist": "Смоки Мо",
+        "grade": [
+            9,
+            8,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/najdu",
+        "release": "Найду",
+        "artist": "OFFMi",
+        "grade": [
+            6,
+            8,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/kapkany",
+        "release": "Капканы",
+        "artist": "HLOY, Эндшпиль",
+        "grade": [
+            10,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/s-ljubovju-iz-tilta",
+        "release": "с любовью из тильта",
+        "artist": "playingtheangel",
+        "grade": [
+            9,
+            8,
+            10,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/tvoya-vina",
+        "release": "Твоя вина",
+        "artist": "Freaky $ho, Putik, sverkai",
+        "grade": [
+            7,
+            7,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/northern-cult",
+        "release": "NORTHERN CULT",
+        "artist": "VELIAL SQUAD",
+        "grade": [
+            9,
+            10,
+            9,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/neverbalno",
+        "release": "НЕВЕРБАЛЬНО",
+        "artist": "Jessie Vatutin",
+        "grade": [
+            7,
+            7,
+            8,
+            8,
+            5
+        ]
+    },
+    {
+        "link": "/track/lilly3227",
+        "release": "Lilly3227",
+        "artist": "кровь из носа",
+        "grade": [
+            10,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/california-rocket-fuel-part-1",
+        "release": "california rocket fuel: part 1",
+        "artist": "кровь из носа",
+        "grade": [
+            10,
+            10,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/kazhdyj-raz",
+        "release": "Каждый раз",
+        "artist": "JizzyB",
+        "grade": [
+            10,
+            9,
+            9,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/gasoline",
+        "release": "Gasoline",
+        "artist": "ТРАВМА",
+        "grade": [
+            8,
+            7,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/schastlivy-vmeste",
+        "release": "счастливы вместе",
+        "artist": "нексюша, ПОЛМАТЕРИ",
+        "grade": [
+            10,
+            9,
+            8,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/avtograf",
+        "release": "Автограф",
+        "artist": "Tenderlybae",
+        "grade": [
+            7,
+            9,
+            8,
+            6,
+            8
+        ]
+    },
+    {
+        "link": "/track/die4u",
+        "release": "die4u ​",
+        "artist": "drowsyy, Sqwore",
+        "grade": [
+            8,
+            8,
+            9,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/album/nwb",
+        "release": "nwb+",
+        "artist": "drowsyy",
+        "grade": [
+            7,
+            6,
+            6,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/kosyaka",
+        "release": "Косяка",
+        "artist": "Милиан О’Войд",
+        "grade": [
+            7,
+            8,
+            7,
+            7,
+            8
+        ]
+    }
+]

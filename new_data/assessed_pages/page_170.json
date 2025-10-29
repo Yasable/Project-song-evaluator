@@ -1,0 +1,434 @@
+[
+    {
+        "link": "/track/mnogoznaal-bez-obid",
+        "release": "Без обид",
+        "artist": "Mnogoznaal",
+        "grade": [
+            10,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/lildrughill-pomnju",
+        "release": "Помню",
+        "artist": "LILDRUGHILL",
+        "grade": [
+            7,
+            9,
+            9,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/thrill-pill-tima-belorusskih-derevo",
+        "release": "Дерево",
+        "artist": "THRILL PILL, Тима Белорусских",
+        "grade": [
+            7,
+            7,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/atl-yashhik",
+        "release": "Ящик",
+        "artist": "ATL",
+        "grade": [
+            10,
+            8,
+            9,
+            10,
+            6
+        ]
+    },
+    {
+        "link": "/track/bumble-beezy-vasabi-5",
+        "release": "Васаби 5",
+        "artist": "Bumble Beezy",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/white-punk-adrenalin",
+        "release": "Адреналин",
+        "artist": "White Punk",
+        "grade": [
+            9,
+            9,
+            10,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/album/white-punk-sirius-2-0",
+        "release": "Сириус 2.0",
+        "artist": "White Punk",
+        "grade": [
+            9,
+            9,
+            8,
+            9,
+            6
+        ]
+    },
+    {
+        "link": "/track/lil-morty-wigga-wigga",
+        "release": "Wigga wigga",
+        "artist": "LIL MORTY",
+        "grade": [
+            5,
+            9,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/lil-morty-born-from-shyne",
+        "release": "BORN FROM SHYNE",
+        "artist": "LIL MORTY",
+        "grade": [
+            5,
+            9,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/album/uglystephan-fuckuglystephan",
+        "release": "#fuckuglystephan",
+        "artist": "uglystephan",
+        "grade": [
+            4,
+            6,
+            5,
+            8,
+            4
+        ]
+    },
+    {
+        "link": "/track/lida-holoda",
+        "release": "Холода",
+        "artist": "Lida",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/lida-moe-imya-lida",
+        "release": "Мое Имя Лида",
+        "artist": "Lida",
+        "grade": [
+            9,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/slohku-drowsyy-backrooms",
+        "release": "Backrooms",
+        "artist": "drowsyy, slohku",
+        "grade": [
+            9,
+            10,
+            9,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/raj-ne-segodnya-x-17-seventeen-kassa",
+        "release": "Касса",
+        "artist": "17 SEVENTEEN, рай не сегодня",
+        "grade": [
+            8,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/barz-t-fest-hurakan",
+        "release": "Хуракан",
+        "artist": "Barz, T-Fest",
+        "grade": [
+            7,
+            9,
+            9,
+            9,
+            7
+        ]
+    },
+    {
+        "link": "/track/may-wave-nekuda-pojti",
+        "release": "Некуда пойти",
+        "artist": "May Wave$",
+        "grade": [
+            4,
+            5,
+            9,
+            8,
+            4
+        ]
+    },
+    {
+        "link": "/track/leanje-gryaz",
+        "release": "Грязь",
+        "artist": "LeanJe",
+        "grade": [
+            9,
+            9,
+            9,
+            9,
+            6
+        ]
+    },
+    {
+        "link": "/track/anikv-vacio-vpnp",
+        "release": "ВПНП",
+        "artist": "ANIKV, VACÍO",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/egor-nats-tolko-dlya-tebya",
+        "release": "ТОЛЬКО ДЛЯ ТЕБЯ",
+        "artist": "ЕГОР НАТС",
+        "grade": [
+            8,
+            10,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/shtern-organ-malo",
+        "release": "МАЛО",
+        "artist": "ORGAN, SHTERN",
+        "grade": [
+            4,
+            7,
+            5,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/track/m-dee-skriptonit-peterburg",
+        "release": "Петербург",
+        "artist": "M'Dee, Скриптонит",
+        "grade": [
+            9,
+            9,
+            10,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/cakeboy-cheki-cepi-treki",
+        "release": "ЧЕКИ ЦЕПИ ТРЕКИ",
+        "artist": "CAKEBOY",
+        "grade": [
+            9,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/blago-white-nebaskryobi",
+        "release": "NEBASKRYOBI",
+        "artist": "blago white",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/andro-rakhim-blago-white-chokopaj",
+        "release": "Чокопай",
+        "artist": "Andro, blago white, Rakhim",
+        "grade": [
+            6,
+            8,
+            9,
+            9,
+            6
+        ]
+    },
+    {
+        "link": "/track/dzharahov-noyabr",
+        "release": "Ноябрь",
+        "artist": "Джарахов",
+        "grade": [
+            9,
+            9,
+            10,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/molodoj-platon-devstvennik",
+        "release": "Девственник",
+        "artist": "Молодой Платон",
+        "grade": [
+            8,
+            10,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/flesh-pinq-lovv66-galaxy",
+        "release": "Galaxy",
+        "artist": "FLESH, LOVV66, PINQ",
+        "grade": [
+            10,
+            10,
+            10,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/lovv66-ah",
+        "release": "АХ!",
+        "artist": "LOVV66",
+        "grade": [
+            4,
+            8,
+            8,
+            9,
+            6
+        ]
+    },
+    {
+        "link": "/track/oxxxymiron-koleso",
+        "release": "Колесо",
+        "artist": "Oxxxymiron",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/matriks-midix-3-am",
+        "release": "3+AM",
+        "artist": "Midix, Матрикс",
+        "grade": [
+            8,
+            10,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/plagueinside-feat-svetokron-ljubovnyi-prigovor",
+        "release": "любовный приговор",
+        "artist": "plagueinside, Svetokron",
+        "grade": [
+            8,
+            8,
+            8,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/august-allilujya",
+        "release": "Аллилуйя",
+        "artist": "August",
+        "grade": [
+            9,
+            10,
+            10,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/lizer-svoboda-2",
+        "release": "Свобода",
+        "artist": "Lizer",
+        "grade": [
+            10,
+            8,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/sidodzhi-duboshit-warning",
+        "release": "Warning",
+        "artist": "SIDODGI DUBOSHIT",
+        "grade": [
+            9,
+            10,
+            10,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/lil-krystalll-mazzaleen",
+        "release": "Mazzaleen",
+        "artist": "LIL KRYSTALLL",
+        "grade": [
+            8,
+            7,
+            7,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/oxxxymiron-cunami",
+        "release": "Цунами",
+        "artist": "Oxxxymiron",
+        "grade": [
+            9,
+            7,
+            6,
+            8,
+            4
+        ]
+    }
+]

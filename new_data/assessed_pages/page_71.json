@@ -1,0 +1,146 @@
+[
+    {
+        "link": "/album/rep-mir",
+        "release": "РЭП МИР",
+        "artist": "Mosquit",
+        "grade": [
+            3,
+            5,
+            4,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/album/heavy-metal-2",
+        "release": "Heavy Metal 2",
+        "artist": "9mice, Kai Angel",
+        "grade": [
+            8,
+            10,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/txc-2",
+        "release": "TXC 2",
+        "artist": "SEEMEE",
+        "grade": [
+            9,
+            9,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/lazer-slava",
+        "release": "LAZER SLAVA",
+        "artist": "OG Buda, Слава КПСС",
+        "grade": [
+            10,
+            8,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/snova",
+        "release": "SNOVA",
+        "artist": "Biicla, FEDUK, Элджей",
+        "grade": [
+            8,
+            10,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/mi-amor",
+        "release": "Mi Amor",
+        "artist": "Ollane, Эндшпиль",
+        "grade": [
+            10,
+            9,
+            9,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/metal-flexin",
+        "release": "METAL FLEXIN",
+        "artist": "VELIAL SQUAD",
+        "grade": [
+            9,
+            8,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/ego-trip-ii",
+        "release": "ЭГО ТРИП II",
+        "artist": "dekma",
+        "grade": [
+            9,
+            9,
+            7,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/kapitonov-forget-about-wounds",
+        "release": "FORGET ABOUT WOUNDS",
+        "artist": "Kapitonov",
+        "grade": [
+            7,
+            7,
+            4,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/erzzy-7273",
+        "release": "7273",
+        "artist": "Erzzy",
+        "grade": [
+            9,
+            7,
+            7,
+            7,
+            7
+        ]
+    },
+    {
+        "link": "/album/erzzy-treasure-island",
+        "release": "Treasure Island",
+        "artist": "Erzzy",
+        "grade": [
+            10,
+            7,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/prostuzhen",
+        "release": "Простужен",
+        "artist": "FORTUNA 812, madk1d",
+        "grade": [
+            7,
+            6,
+            6,
+            7,
+            6
+        ]
+    }
+]

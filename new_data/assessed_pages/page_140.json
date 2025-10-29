@@ -1,0 +1,434 @@
+[
+    {
+        "link": "/track/po-moryam",
+        "release": "ПО МОРЯМ",
+        "artist": "ЕГОР НАТС",
+        "grade": [
+            8,
+            9,
+            10,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/kajfolodzhi",
+        "release": "КАЙФОЛОДЖИ",
+        "artist": "GSPD",
+        "grade": [
+            8,
+            5,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/legenda-o-bogine-mechej",
+        "release": "Легенда о Богине Мечей",
+        "artist": "pyrokinesis",
+        "grade": [
+            10,
+            6,
+            7,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/sezon-ohoty",
+        "release": "Сезон охоты",
+        "artist": "KEMO NO, woee33",
+        "grade": [
+            7,
+            8,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/krest",
+        "release": "КРЕСТ",
+        "artist": "DECRY LAV",
+        "grade": [
+            7,
+            8,
+            5,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/taskmaster",
+        "release": "TASKMASTER",
+        "artist": "Ноби",
+        "grade": [
+            9,
+            8,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/ha-ha",
+        "release": "Ха-ха",
+        "artist": "CAPTOWN",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/winamp",
+        "release": "WINAMP",
+        "artist": "CAPTOWN",
+        "grade": [
+            8,
+            8,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/ap",
+        "release": "AP",
+        "artist": "Молодой Платон",
+        "grade": [
+            8,
+            8,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/shimmy-shimmy-ya",
+        "release": "Shimmy Shimmy Ya!",
+        "artist": "Мэйби Бэйби",
+        "grade": [
+            10,
+            10,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/zhvachka",
+        "release": "Жвачка",
+        "artist": "Джизус",
+        "grade": [
+            8,
+            8,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/ya-tupoj",
+        "release": "Я тупой",
+        "artist": "BUSTER, Frame Tamer, lixxx, Rostik",
+        "grade": [
+            7,
+            9,
+            5,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/sterva",
+        "release": "Стерва",
+        "artist": "Nekid",
+        "grade": [
+            8,
+            9,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/wake-up",
+        "release": "Wake up",
+        "artist": "Ful1House",
+        "grade": [
+            4,
+            8,
+            5,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/grap",
+        "release": "Grap",
+        "artist": "opt, tsb",
+        "grade": [
+            8,
+            8,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/shinra-tensei",
+        "release": "Shinra Tensei",
+        "artist": "opt, tsb",
+        "grade": [
+            8,
+            6,
+            7,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/bless",
+        "release": "Bless",
+        "artist": "Yanix",
+        "grade": [
+            10,
+            8,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/dom-s-privideniyami",
+        "release": "Дом С Привидениями",
+        "artist": "FRIENDLY THUG 52 NGG, OBLADAET",
+        "grade": [
+            8,
+            7,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/premium",
+        "release": "Премиум",
+        "artist": "валюта скуратов",
+        "grade": [
+            9,
+            8,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/zerkalo-2",
+        "release": "Зеркало",
+        "artist": "kizaru",
+        "grade": [
+            7,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/net-nikogo",
+        "release": "Нет никого",
+        "artist": "Синдром Саламандры",
+        "grade": [
+            10,
+            5,
+            4,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/m-m-oxxxymiron-diss",
+        "release": "M&M (Oxxxymiron Diss)",
+        "artist": "SCHOKK",
+        "grade": [
+            10,
+            9,
+            8,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/vynos-tela-2",
+        "release": "Вынос тела 2",
+        "artist": "Fatal-M, Sagath",
+        "grade": [
+            9,
+            8,
+            8,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/suter",
+        "release": "Сутер",
+        "artist": "PUSSYKILLER",
+        "grade": [
+            8,
+            10,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/i-ya-tam-i-ya-tut",
+        "release": "И я там И я тут",
+        "artist": "Haiiro tenshi",
+        "grade": [
+            4,
+            7,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/poh",
+        "release": "ПОХ",
+        "artist": "BUSTER, Егор Крид",
+        "grade": [
+            7,
+            8,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/viski",
+        "release": "Виски",
+        "artist": "Вадяра Блюз",
+        "grade": [
+            9,
+            8,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/zhivotvoryashhij-slem",
+        "release": "Животворящий слэм",
+        "artist": "Fatal-M, Sagath",
+        "grade": [
+            9,
+            9,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/in-my-head",
+        "release": "In My Head",
+        "artist": "⁣ghostwalker",
+        "grade": [
+            9,
+            7,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/album/jug-808",
+        "release": "ЮГ 808",
+        "artist": "BOOKER, ЮГ 404",
+        "grade": [
+            9,
+            7,
+            7,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/nina",
+        "release": "NINA",
+        "artist": "YA DIGG KAPUSTU!",
+        "grade": [
+            9,
+            7,
+            5,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/ochen-gryaznyj-rep-v-stile-detrojt",
+        "release": "ОЧЕНЬ ГРЯЗНЫЙ РЕП В СТИЛЕ ДЕТРОЙТ",
+        "artist": "Bezzubik Drago",
+        "grade": [
+            6,
+            5,
+            5,
+            3,
+            4
+        ]
+    },
+    {
+        "link": "/track/coupe",
+        "release": "Coupe",
+        "artist": "Блинк",
+        "grade": [
+            5,
+            8,
+            6,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/track/vajb",
+        "release": "Вайб",
+        "artist": "VACÍO",
+        "grade": [
+            7,
+            8,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/nikolay-vasilev",
+        "release": "NIKOLAY VASILEV",
+        "artist": "VACÍO",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/prosto-govorit",
+        "release": "Просто говорить",
+        "artist": "БЭХА",
+        "grade": [
+            7,
+            8,
+            8,
+            7,
+            8
+        ]
+    }
+]

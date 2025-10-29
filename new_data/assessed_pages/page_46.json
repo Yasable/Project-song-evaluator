@@ -1,0 +1,170 @@
+[
+    {
+        "link": "/track/lane-noire-zavisli",
+        "release": "Зависли",
+        "artist": "Lane Noire",
+        "grade": [
+            8,
+            9,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/imaqo-skyfall",
+        "release": "Skyfall",
+        "artist": "IMAQO",
+        "grade": [
+            5,
+            7,
+            5,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/estanger-novyj-god",
+        "release": "Новый Год",
+        "artist": "ESTANGER",
+        "grade": [
+            3,
+            4,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "link": "/track/estanger-fevralskij-moroz",
+        "release": "Февральский мороз",
+        "artist": "ESTANGER",
+        "grade": [
+            4,
+            2,
+            2,
+            2,
+            1
+        ]
+    },
+    {
+        "link": "/track/corso-friendsonly",
+        "release": "FriendsOnly",
+        "artist": "Corso",
+        "grade": [
+            3,
+            7,
+            5,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/kondrashin-lottery-billz-xzibit-stop-invest",
+        "release": "STOP INVEST",
+        "artist": "KONDRASHIN, Lottery Billz, Xzibit",
+        "grade": [
+            6,
+            5,
+            6,
+            6,
+            4
+        ]
+    },
+    {
+        "link": "/track/sasha-krokers-pokidaju-neverlend",
+        "release": "Покидаю Неверленд",
+        "artist": "Саша Крокерс",
+        "grade": [
+            5,
+            7,
+            4,
+            3,
+            2
+        ]
+    },
+    {
+        "link": "/track/velite-t1v1-str",
+        "release": "t1v1 str!.",
+        "artist": "velite",
+        "grade": [
+            4,
+            5,
+            5,
+            3,
+            3
+        ]
+    },
+    {
+        "link": "/track/shateka-bol",
+        "release": "Боль",
+        "artist": "SHATEKA",
+        "grade": [
+            6,
+            6,
+            5,
+            5,
+            5
+        ]
+    },
+    {
+        "link": "/track/junkie-sosedi-sosite",
+        "release": "соседи sosite",
+        "artist": "Junkie",
+        "grade": [
+            5,
+            4,
+            3,
+            3,
+            4
+        ]
+    },
+    {
+        "link": "/track/jmyname-renzen-skuchaju-silno",
+        "release": "Скучаю сильно",
+        "artist": "JmyName, RENZEN",
+        "grade": [
+            8,
+            9,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/atl-ka-tet-vykljuchatel",
+        "release": "Выключатель",
+        "artist": "ATL, Ка тет",
+        "grade": [
+            10,
+            8,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/dzhejlo-moshp-t",
+        "release": "MOSHP!T",
+        "artist": "ДЖЕЙЛО",
+        "grade": [
+            8,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/xxxmanera-usb",
+        "release": "usb",
+        "artist": "xxxmanera",
+        "grade": [
+            8,
+            9,
+            10,
+            9,
+            10
+        ]
+    }
+]

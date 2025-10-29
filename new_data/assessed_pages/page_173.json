@@ -1,0 +1,434 @@
+[
+    {
+        "link": "/track/feduk-nebo",
+        "release": "Небо",
+        "artist": "FEDUK",
+        "grade": [
+            10,
+            8,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/feduk-zanovo",
+        "release": "заново",
+        "artist": "FEDUK",
+        "grade": [
+            9,
+            8,
+            10,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/qurt-krasti",
+        "release": "Krasti",
+        "artist": "qurt",
+        "grade": [
+            8,
+            7,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/uniqe-nkeeei-artem-shilovets-tolpy-krichat",
+        "release": "ТОЛПЫ КРИЧАТ",
+        "artist": "ARTEM SHILOVETS, nkeeei, uniqe",
+        "grade": [
+            8,
+            10,
+            8,
+            6,
+            8
+        ]
+    },
+    {
+        "link": "/track/prosto-lera-ostav-menya-odnu",
+        "release": "Оставь меня одну",
+        "artist": "просто Лера",
+        "grade": [
+            8,
+            10,
+            10,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/shajni-goat",
+        "release": "Goat",
+        "artist": "Шайни",
+        "grade": [
+            4,
+            8,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/call-me-karizma-tri-dnya-dozhdya-part-of-me",
+        "release": "Part of me",
+        "artist": "Call Me Karizma, Три дня дождя",
+        "grade": [
+            7,
+            8,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/tru47-kurt92-banzaj",
+        "release": "БАНЗАЙ",
+        "artist": "KURT92, TRU47",
+        "grade": [
+            7,
+            10,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/slame-anet-saj-sozvezdie",
+        "release": "Созвездие",
+        "artist": "Slame, Анет Сай",
+        "grade": [
+            7,
+            9,
+            10,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/zatochka-feat-noize-mc-demka",
+        "release": "Демка",
+        "artist": "Noize MC, Заточка",
+        "grade": [
+            10,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/sagath-feat-subhadra-ya-segodnya-ochen-zloj",
+        "release": "Я сегодня очень злой",
+        "artist": "Sagath, Subhadra",
+        "grade": [
+            9,
+            9,
+            9,
+            9,
+            7
+        ]
+    },
+    {
+        "link": "/track/tanir-tyomcha-telo",
+        "release": "Тело",
+        "artist": "Tanir, Tyomcha",
+        "grade": [
+            7,
+            9,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/tipsi-tip-melodeklamator",
+        "release": "Мелодекламатор",
+        "artist": "Типси Тип",
+        "grade": [
+            10,
+            9,
+            9,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/dino-ex-triada-kinopremery",
+        "release": "Кинопремьеры",
+        "artist": "Дино (ex. Триада)",
+        "grade": [
+            10,
+            8,
+            9,
+            9,
+            6
+        ]
+    },
+    {
+        "link": "/track/nlo-mir-holodnyj",
+        "release": "Мир холодный",
+        "artist": "NLO",
+        "grade": [
+            5,
+            8,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/lowlife-shah-i-mat",
+        "release": "шах и мат",
+        "artist": "lowlife",
+        "grade": [
+            8,
+            8,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/riley-baby-4n-way-kosmicheskij-dzhem",
+        "release": "Космический Джем",
+        "artist": "4n Way, RILEY BABY",
+        "grade": [
+            7,
+            9,
+            9,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/sted-d-carpe-diem",
+        "release": "CARPE DIEM",
+        "artist": "STED.D",
+        "grade": [
+            10,
+            9,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/redo-rizzla",
+        "release": "RIZZLA",
+        "artist": "REDO",
+        "grade": [
+            8,
+            7,
+            6,
+            6,
+            4
+        ]
+    },
+    {
+        "link": "/track/josodo-lajfstajl",
+        "release": "Лайфстайл",
+        "artist": "Josodo",
+        "grade": [
+            6,
+            9,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/kuok-corrida",
+        "release": "CORRIDA",
+        "artist": "КУОК",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/17-seventeen-kapli",
+        "release": "Капли",
+        "artist": "17 SEVENTEEN",
+        "grade": [
+            8,
+            9,
+            9,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/jony-the-limba-boss",
+        "release": "Босс",
+        "artist": "JONY, The Limba",
+        "grade": [
+            8,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/slava-marlow-hammali-navai-brillianty-vvs",
+        "release": "БРИЛЛИАНТЫ VVS",
+        "artist": "HammAli, NAVAI, SLAVA MARLOW",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/lildrughill-blizko",
+        "release": "БЛИЗКО",
+        "artist": "LILDRUGHILL",
+        "grade": [
+            6,
+            5,
+            8,
+            10,
+            4
+        ]
+    },
+    {
+        "link": "/track/buster-bolshie-bossy",
+        "release": "Большие Боссы",
+        "artist": "BUSTER",
+        "grade": [
+            7,
+            8,
+            8,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/egor-krid-dzharahov-buster-samyj-hudshij-trek",
+        "release": "САМЫЙ ХУДШИЙ ТРЕК",
+        "artist": "BUSTER, Джарахов, Егор Крид",
+        "grade": [
+            9,
+            9,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/visagangbeatz-mayot-seemee-163onmyneck-biznes",
+        "release": "БИЗНЕС",
+        "artist": "163ONMYNECK, MAYOT, SEEMEE, VisaGangBeatz",
+        "grade": [
+            6,
+            6,
+            5,
+            6,
+            4
+        ]
+    },
+    {
+        "link": "/track/og-buda-blago-white-fem",
+        "release": "Фэм",
+        "artist": "blago white, OG Buda",
+        "grade": [
+            9,
+            8,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/10age-zoopark",
+        "release": "Зоопарк",
+        "artist": "10AGE",
+        "grade": [
+            8,
+            9,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/booker-cadillac-hublot",
+        "release": "CADILLAC &amp; HUBLOT",
+        "artist": "BOOKER",
+        "grade": [
+            7,
+            6,
+            7,
+            6,
+            4
+        ]
+    },
+    {
+        "link": "/track/loc-dog-podgruzilo-2021",
+        "release": "Подгрузило 2021",
+        "artist": "Loc-Dog",
+        "grade": [
+            10,
+            6,
+            10,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/velial-squad-sapfir",
+        "release": "Сапфир",
+        "artist": "VELIAL SQUAD",
+        "grade": [
+            9,
+            10,
+            7,
+            6,
+            4
+        ]
+    },
+    {
+        "link": "/track/lida-liza",
+        "release": "Лиза",
+        "artist": "Lida",
+        "grade": [
+            8,
+            9,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/poshlaya-molli-eldzhej-don-perinon",
+        "release": "Дом Периньон",
+        "artist": "Пошлая Молли, Элджей",
+        "grade": [
+            6,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/quickhuntik-n3cklace-malye",
+        "release": "малые",
+        "artist": "n3cklace, quickhuntik",
+        "grade": [
+            8,
+            7,
+            6,
+            3,
+            4
+        ]
+    }
+]

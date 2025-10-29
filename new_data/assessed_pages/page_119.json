@@ -1,0 +1,374 @@
+[
+    {
+        "link": "/track/obladaet-proklyatie",
+        "release": "Проклятие",
+        "artist": "OBLADAET",
+        "grade": [
+            10,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/obladaet-players-club-2",
+        "release": "PLAYERS CLUB 2",
+        "artist": "OBLADAET",
+        "grade": [
+            8,
+            7,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/roki-vedma",
+        "release": "ВЕДЬМА",
+        "artist": "Роки",
+        "grade": [
+            9,
+            9,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/keer-myqeed-skandal",
+        "release": "Скандал",
+        "artist": "KEER, Myqeed",
+        "grade": [
+            8,
+            10,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/lil-evian-sodium-laureth-sulfate",
+        "release": "Sodium Laureth Sulfate",
+        "artist": "Lil Evian",
+        "grade": [
+            4,
+            7,
+            5,
+            5,
+            5
+        ]
+    },
+    {
+        "link": "/track/binarniat-luka-ssadina",
+        "release": "Ссадина",
+        "artist": "Бинарниат Лука",
+        "grade": [
+            10,
+            8,
+            3,
+            3,
+            4
+        ]
+    },
+    {
+        "link": "/track/loc-dog-ty-pojmesh-nas",
+        "release": "Ты Поймешь Нас",
+        "artist": "Loc-Dog",
+        "grade": [
+            10,
+            8,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/malenkij-yarche-fire",
+        "release": "FIRE",
+        "artist": "маленький ярче",
+        "grade": [
+            8,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/jmyname-granuly",
+        "release": "Гранулы",
+        "artist": "JmyName",
+        "grade": [
+            8,
+            7,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/dope17-odinoko",
+        "release": "одиноко",
+        "artist": "dope17",
+        "grade": [
+            7,
+            6,
+            6,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/bogdan-kiyashko-bratishka",
+        "release": "Братишка",
+        "artist": "Bogdan Kiyashko",
+        "grade": [
+            9,
+            8,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/pavel-golotin-moj-duh",
+        "release": "Мой дух",
+        "artist": "Павел Голотин",
+        "grade": [
+            9,
+            5,
+            3,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/album/pasha-tehnik-chto-to-s-chem-to",
+        "release": "Что-то с чем-то",
+        "artist": "Паша Техник",
+        "grade": [
+            8,
+            8,
+            7,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/kuok-reshaj-za-menya",
+        "release": "Решай за меня",
+        "artist": "КУОК",
+        "grade": [
+            8,
+            8,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/kuok-dzhangl-album",
+        "release": "ДЖАНГЛ",
+        "artist": "КУОК",
+        "grade": [
+            7,
+            9,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/feduk-klava-koka-kaby-ne-bylo-tebya",
+        "release": "Кабы не было тебя",
+        "artist": "FEDUK, Клава Кока",
+        "grade": [
+            9,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/voskresenskii-taunhaus",
+        "release": "Таунхаус",
+        "artist": "Voskresenskii",
+        "grade": [
+            8,
+            8,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/glovv-trip-seller-vip-club",
+        "release": "VIP CLUB",
+        "artist": "GLOVV, TRIP SELLER",
+        "grade": [
+            8,
+            7,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/kreeshnah-ocb-smoking-raw",
+        "release": "OCB Smoking Raw",
+        "artist": "Kreeshnah",
+        "grade": [
+            8,
+            7,
+            4,
+            6,
+            4
+        ]
+    },
+    {
+        "link": "/track/1017-phoenix-kljosh",
+        "release": "Klёsh",
+        "artist": "1017 Phoenix",
+        "grade": [
+            5,
+            8,
+            5,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/friendly-thug-52-ngg-lost-angeles",
+        "release": "Lost Angeles",
+        "artist": "FRIENDLY THUG 52 NGG",
+        "grade": [
+            9,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/friendly-thug-52-ngg-cristoforo-colombo",
+        "release": "Cristoforo Colombo",
+        "artist": "FRIENDLY THUG 52 NGG",
+        "grade": [
+            8,
+            8,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/yungway-odin-doma",
+        "release": "Один дома",
+        "artist": "YUNGWAY",
+        "grade": [
+            9,
+            10,
+            10,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/serega-pirat-dengimenyajut",
+        "release": "#деньгименяют",
+        "artist": "Серега Пират",
+        "grade": [
+            5,
+            9,
+            5,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/buster-g-class",
+        "release": "G-CLASS",
+        "artist": "BUSTER",
+        "grade": [
+            6,
+            6,
+            7,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/track/mopok-zaplutal",
+        "release": "Заплутал",
+        "artist": "МОРОК",
+        "grade": [
+            10,
+            9,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/corso-jennifer-daytona-no-heart",
+        "release": "No Heart",
+        "artist": "Corso, Jennifer Daytona",
+        "grade": [
+            7,
+            7,
+            5,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/xcvmode-farxad",
+        "release": "FARXAD",
+        "artist": "xcvmode",
+        "grade": [
+            7,
+            7,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/off-i-hejter-fanat",
+        "release": "Хейтер фанат",
+        "artist": "ОФФ’I",
+        "grade": [
+            7,
+            8,
+            7,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/album/malenkij-yarche-anderful-elf",
+        "release": "ANDERFUL ELF",
+        "artist": "маленький ярче",
+        "grade": [
+            9,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/loc-dog-mostalgia",
+        "release": "MOSTALGIA",
+        "artist": "Loc-Dog",
+        "grade": [
+            9,
+            9,
+            8,
+            9,
+            8
+        ]
+    }
+]

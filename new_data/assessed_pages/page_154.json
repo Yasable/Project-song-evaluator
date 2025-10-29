@@ -1,0 +1,434 @@
+[
+    {
+        "link": "/album/vacio-otec",
+        "release": "Отец",
+        "artist": "VACÍO",
+        "grade": [
+            6,
+            5,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/soda-luv-prettyboii",
+        "release": "Prettyboii",
+        "artist": "SODA LUV",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/soda-luv-nichego-lichnogo-2",
+        "release": "НИЧЕГО ЛИЧНОГО 2",
+        "artist": "SODA LUV",
+        "grade": [
+            9,
+            9,
+            8,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/pharaoh-vecherinka-v-holmah",
+        "release": "Вечеринка В Холмах",
+        "artist": "PHARAOH",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/pharaoh-philarmonia",
+        "release": "PHILARMONIA",
+        "artist": "PHARAOH",
+        "grade": [
+            9,
+            10,
+            8,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/zhak-entoni-plag",
+        "release": "Плаг",
+        "artist": "Жак Энтони",
+        "grade": [
+            7,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/rvmzes-maladoy-prince-g6",
+        "release": "G6",
+        "artist": "Maladoy Prince, RVMZES",
+        "grade": [
+            9,
+            7,
+            9,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/cakeboy-tupoj",
+        "release": "ТУПОЙ",
+        "artist": "CAKEBOY",
+        "grade": [
+            6,
+            9,
+            9,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/nkeeei-tenderlybae-letaju",
+        "release": "Летаю",
+        "artist": "nkeeei, Tenderlybae",
+        "grade": [
+            8,
+            10,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/shortparis-polkovnik-nikomu-ne-pishet",
+        "release": "Полковник никому не пишет",
+        "artist": "Shortparis",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/sbornik-pokolenie-brat",
+        "release": "\"Поколение Брат\"",
+        "artist": "",
+        "grade": [
+            10,
+            8,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/jaysame-podnyalsya",
+        "release": "ПОДНЯЛСЯ",
+        "artist": "JAYSAME",
+        "grade": [
+            4,
+            9,
+            7,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/album/the-chemodan-konec-eto-nachalo",
+        "release": "Конец это начало",
+        "artist": "The Chemodan",
+        "grade": [
+            10,
+            10,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/basta-feduk-vremeni-net",
+        "release": "Времени нет",
+        "artist": "FEDUK, Баста",
+        "grade": [
+            8,
+            7,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/klava-koka-sqwoz-bab-dzharahov-rozovaya-luna",
+        "release": "Розовая Луна",
+        "artist": "SQWOZ BAB, Джарахов, Клава Кока",
+        "grade": [
+            8,
+            10,
+            10,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/yungway-zhara",
+        "release": "Жара",
+        "artist": "YUNGWAY",
+        "grade": [
+            7,
+            8,
+            9,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/pashik-gromkiy-stamina",
+        "release": "Стамина",
+        "artist": "Gromkiy, pashik",
+        "grade": [
+            8,
+            8,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/album/ram-kommo-delirium",
+        "release": "DELIRIUM",
+        "artist": "KOMMO, RAM",
+        "grade": [
+            10,
+            9,
+            9,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/album/schokk-l-o-n",
+        "release": "Л.О.Н.",
+        "artist": "SCHOKK",
+        "grade": [
+            7,
+            8,
+            7,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/friendly-thug-52-ngg-poke",
+        "release": "Poke",
+        "artist": "FRIENDLY THUG 52 NGG",
+        "grade": [
+            7,
+            6,
+            9,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/mary-gu-mayot-dva-vystrela",
+        "release": "Два выстрела",
+        "artist": "Mary Gu, MAYOT",
+        "grade": [
+            8,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/eldzhej-forrest-gamp",
+        "release": "Форрест Гамп",
+        "artist": "Элджей",
+        "grade": [
+            8,
+            7,
+            7,
+            9,
+            6
+        ]
+    },
+    {
+        "link": "/track/uglystephan-hellou-kitti",
+        "release": "Хэллоу Китти",
+        "artist": "uglystephan",
+        "grade": [
+            7,
+            7,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/soda-luv-dtf",
+        "release": "DTF",
+        "artist": "SODA LUV",
+        "grade": [
+            10,
+            9,
+            9,
+            10,
+            6
+        ]
+    },
+    {
+        "link": "/track/heronwater-v-minore",
+        "release": "В миноре",
+        "artist": "Heronwater",
+        "grade": [
+            10,
+            10,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/milian-o-vojd-milian-delaet-million",
+        "release": "Милиан делает миллион",
+        "artist": "Милиан О’Войд",
+        "grade": [
+            7,
+            9,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/hanifedya-limita",
+        "release": "лимитА",
+        "artist": "ханифедя",
+        "grade": [
+            9,
+            9,
+            6,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/kizaru-get-money-fuck-fame",
+        "release": "Get Money Fuck Fame",
+        "artist": "kizaru",
+        "grade": [
+            7,
+            10,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/kizaru-tebya-ljubyat-tam-gde-menya-net",
+        "release": "Тебя любят там где меня нет",
+        "artist": "kizaru",
+        "grade": [
+            7,
+            9,
+            8,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/pharaoh-philarmonia",
+        "release": "PHILARMONIA (макси-сингл)",
+        "artist": "PHARAOH",
+        "grade": [
+            7,
+            9,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/morgenshtern-kizary-double-cup",
+        "release": "Double Cup",
+        "artist": "kizary, MORGENSHTERN",
+        "grade": [
+            9,
+            9,
+            8,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/billioninair-party",
+        "release": "PARTY",
+        "artist": "Billioninair",
+        "grade": [
+            7,
+            8,
+            7,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/hugo-loud-walkin545",
+        "release": "Walkin545",
+        "artist": "Hugo Loud",
+        "grade": [
+            6,
+            8,
+            9,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/travma-agressivnoe-povedenie",
+        "release": "Агрессивное Поведение",
+        "artist": "ТРАВМА",
+        "grade": [
+            6,
+            9,
+            10,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/tonysouljah-daj-mne-skazat",
+        "release": "Дай мне сказать",
+        "artist": "TonySouljah",
+        "grade": [
+            5,
+            9,
+            4,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/dead-blonde-vintazh-bez-shansov",
+        "release": "Без шансов",
+        "artist": "DEAD BLONDE, Винтаж",
+        "grade": [
+            6,
+            7,
+            9,
+            8,
+            4
+        ]
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "link": "/track/whole-lotta-swag-milliony",
+        "release": "Миллионы",
+        "artist": "Whole Lotta Swag",
+        "grade": [
+            8,
+            8,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/mirele-peremotka-son",
+        "release": "Сон",
+        "artist": "Mirèle, Перемотка",
+        "grade": [
+            8,
+            8,
+            8,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/mirele-xrustalic-kajus",
+        "release": "Каюсь",
+        "artist": "Mirèle, XRUSTALIC",
+        "grade": [
+            8,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/polmateri-nelovko",
+        "release": "неловко",
+        "artist": "ПОЛМАТЕРИ",
+        "grade": [
+            9,
+            10,
+            9,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/album/syroj-zvuk",
+        "release": "СЫРОЙ ЗВУК",
+        "artist": "0$",
+        "grade": [
+            8,
+            9,
+            9,
+            8,
+            9
+        ]
+    },
+    {
+        "link": "/track/baby-melo-p-o-r-sh-e",
+        "release": "П О Р Ш Е",
+        "artist": "Baby Melo",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/gruppa-skryptonite-izzamuzzic-do-rassveta",
+        "release": "до рассвета",
+        "artist": "Gruppa Skryptonite, Izzamuzzic",
+        "grade": [
+            9,
+            9,
+            9,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/163onmyneck-mayot-polyana-delat-veshhi",
+        "release": "Делать Вещи",
+        "artist": "163ONMYNECK, MAYOT, Polyana",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/macan-yasmi-jet",
+        "release": "Jet",
+        "artist": "MACAN, YASMI",
+        "grade": [
+            9,
+            8,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/sabu-saluki-locked",
+        "release": "LOCKED",
+        "artist": "SABU, SALUKI",
+        "grade": [
+            9,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/eldzhej-gameboy",
+        "release": "GAMEBOY",
+        "artist": "Элджей",
+        "grade": [
+            8,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/mayday",
+        "release": "MAYDAY",
+        "artist": "Мэйби Бэйби",
+        "grade": [
+            10,
+            9,
+            10,
+            10,
+            9
+        ]
+    },
+    {
+        "link": "/track/welcome-to-forever",
+        "release": "welcome to forever",
+        "artist": "Kai Angel",
+        "grade": [
+            8,
+            10,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/more-2",
+        "release": "Море",
+        "artist": "Егор Крид",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/album/the-europe-tapes",
+        "release": "The Europe Tapes",
+        "artist": "T-Fest",
+        "grade": [
+            9,
+            9,
+            8,
+            10,
+            9
+        ]
+    }
+]

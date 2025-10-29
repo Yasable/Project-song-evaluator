@@ -1,0 +1,314 @@
+[
+    {
+        "link": "/album/oxana-radio",
+        "release": "OXANA RADIO",
+        "artist": "FENDIGLOCK",
+        "grade": [
+            8,
+            9,
+            8,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/sdelaj-mne-priyatno-shhas",
+        "release": "Сделай Мне Приятно Щас",
+        "artist": "OG Buda",
+        "grade": [
+            7,
+            9,
+            10,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/shoubiz",
+        "release": "ШОУБИЗ",
+        "artist": "Милиан О’Войд",
+        "grade": [
+            8,
+            9,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/glubokoe-pogruzhenie",
+        "release": "Глубокое погружение",
+        "artist": "IROH",
+        "grade": [
+            9,
+            10,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/inaya",
+        "release": "ИNAЯ",
+        "artist": "JDFLAG",
+        "grade": [
+            9,
+            9,
+            8,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/dacoito-ya-kormil-svinej",
+        "release": "Я кормил свиней",
+        "artist": "Dacoito",
+        "grade": [
+            8,
+            9,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/dirty-punk-vrag-perebor",
+        "release": "Враг Перебор",
+        "artist": "dirty punk",
+        "grade": [
+            8,
+            9,
+            9,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/lollipop-karie-glaza",
+        "release": "Карие глаза",
+        "artist": "Lollipop",
+        "grade": [
+            7,
+            8,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/crylove-3-dnya-komy",
+        "release": "3 дня комы",
+        "artist": "CRYLOVE",
+        "grade": [
+            8,
+            8,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/karsee-volny",
+        "release": "Волны",
+        "artist": "KARSEE",
+        "grade": [
+            6,
+            7,
+            6,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/lil-comet-smenka",
+        "release": "Сменка",
+        "artist": "LIL COMET",
+        "grade": [
+            6,
+            6,
+            5,
+            4,
+            5
+        ]
+    },
+    {
+        "link": "/track/massai-svet-kamera",
+        "release": "Свет, камера",
+        "artist": "MASSAI",
+        "grade": [
+            5,
+            7,
+            5,
+            5,
+            5
+        ]
+    },
+    {
+        "link": "/track/liveandlove-pust-na-kazhdoj-ulice-cvetut-cvety",
+        "release": "ПУСТЬ НА КАЖДОЙ УЛИЦЕ ЦВЕТУТ ЦВЕТЫ",
+        "artist": "LIVEANDLOVE",
+        "grade": [
+            4,
+            4,
+            4,
+            3,
+            2
+        ]
+    },
+    {
+        "link": "/track/nate-rush-he-odinok",
+        "release": "Hе одинок",
+        "artist": "NATE RUSH",
+        "grade": [
+            7,
+            8,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/soda-luv-dusha",
+        "release": "Душа",
+        "artist": "SODA LUV",
+        "grade": [
+            10,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/dzhekpot",
+        "release": "Джекпот",
+        "artist": "ЛСП",
+        "grade": [
+            9,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/beach-rock-hotel",
+        "release": "BEACH ROCK HOTEL",
+        "artist": "SALUKI",
+        "grade": [
+            9,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/ty-znala",
+        "release": "Ты Знала",
+        "artist": "Scally Milano, uglystephan",
+        "grade": [
+            7,
+            10,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/flashback",
+        "release": "Flashback",
+        "artist": "CAKEBOY, GONE.Fludd, КлоуКома",
+        "grade": [
+            10,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/putevodnaya",
+        "release": "Путеводная",
+        "artist": "Miyagi, Эндшпиль",
+        "grade": [
+            10,
+            8,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/reminiscentia",
+        "release": "reminiscentia",
+        "artist": "LXNER",
+        "grade": [
+            8,
+            8,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/vospominaniya-2",
+        "release": "Воспоминания",
+        "artist": "DooMee, TonySouljah",
+        "grade": [
+            8,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/mir-razobet-tebe-serdce",
+        "release": "мир разобьет тебе сердце",
+        "artist": "playingtheangel",
+        "grade": [
+            10,
+            8,
+            10,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/poh-nah",
+        "release": "ПОХ + НАХ",
+        "artist": "dmtboy",
+        "grade": [
+            8,
+            9,
+            7,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/artem-shilovets-nkeeei-uniqe-shubka",
+        "release": "Шубка",
+        "artist": "ARTEM SHILOVETS, nkeeei, uniqe",
+        "grade": [
+            8,
+            8,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/alblak-52-zarya",
+        "release": "Заря",
+        "artist": "ALBLAK 52",
+        "grade": [
+            8,
+            8,
+            8,
+            9,
+            10
+        ]
+    }
+]

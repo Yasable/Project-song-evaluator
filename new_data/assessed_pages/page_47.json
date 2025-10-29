@@ -1,0 +1,278 @@
+[
+    {
+        "link": "/album/alisher",
+        "release": "ALISHER",
+        "artist": "MORGENSHTERN",
+        "grade": [
+            9,
+            10,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/provodnik",
+        "release": "Проводник",
+        "artist": "Джизус",
+        "grade": [
+            9,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/anora",
+        "release": "Anora",
+        "artist": "9mice",
+        "grade": [
+            8,
+            9,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/ju",
+        "release": "Ю",
+        "artist": "i61, OG Buda",
+        "grade": [
+            9,
+            8,
+            10,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/ejo-vljublennye-glaza",
+        "release": "её влюбленные глаза",
+        "artist": "pyrokinesis",
+        "grade": [
+            10,
+            8,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/na-dvoih",
+        "release": "На двоих",
+        "artist": "Кишлак",
+        "grade": [
+            8,
+            9,
+            8,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/ak-47",
+        "release": "АК-47",
+        "artist": "FORTUNA 812",
+        "grade": [
+            7,
+            8,
+            7,
+            7,
+            7
+        ]
+    },
+    {
+        "link": "/track/shramy-2",
+        "release": "шрамы",
+        "artist": "Pepel Nahudi",
+        "grade": [
+            7,
+            9,
+            8,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/ne-vernus",
+        "release": "Не вернусь",
+        "artist": "uglystephan",
+        "grade": [
+            7,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/ufimskij-rejv-kartinki-nakolki",
+        "release": "картинки наколки",
+        "artist": "уфимский рейв",
+        "grade": [
+            8,
+            9,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/yula-zapadnya",
+        "release": "западня",
+        "artist": "yulá",
+        "grade": [
+            9,
+            4,
+            3,
+            3,
+            3
+        ]
+    },
+    {
+        "link": "/track/gosha-pik-dasha-chu-forever",
+        "release": "Dasha Chu Forever",
+        "artist": "GOSHA PIK",
+        "grade": [
+            5,
+            5,
+            5,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/feelwchoppa-bl0o0m-onion",
+        "release": "BL0O0M.onion",
+        "artist": "Feelwchoppa",
+        "grade": [
+            4,
+            8,
+            5,
+            4,
+            8
+        ]
+    },
+    {
+        "link": "/track/bez-zhivyh-ne-naberu",
+        "release": "Не наберу",
+        "artist": "Без живых",
+        "grade": [
+            6,
+            5,
+            4,
+            6,
+            5
+        ]
+    },
+    {
+        "link": "/track/paradise-vip",
+        "release": "VIP",
+        "artist": "Paradise",
+        "grade": [
+            8,
+            6,
+            3,
+            4,
+            3
+        ]
+    },
+    {
+        "link": "/track/paradise-posh-boy",
+        "release": "Posh Boy",
+        "artist": "Paradise",
+        "grade": [
+            8,
+            6,
+            4,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/yo-brook-luiziana",
+        "release": "Луизиана",
+        "artist": "Yo BROOK",
+        "grade": [
+            6,
+            6,
+            6,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/kiiddi-biguniq",
+        "release": "BIGUNIQ",
+        "artist": "kiiddi",
+        "grade": [
+            6,
+            6,
+            2,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/uglyzh-inhale",
+        "release": "INHALE",
+        "artist": "Uglyzh",
+        "grade": [
+            5,
+            6,
+            3,
+            4,
+            3
+        ]
+    },
+    {
+        "link": "/track/peercosettt-backwoods",
+        "release": "BACKWOODS",
+        "artist": "Peercosettt.",
+        "grade": [
+            8,
+            9,
+            6,
+            7,
+            7
+        ]
+    },
+    {
+        "link": "/track/kweetee-tenda-maryy-lomaj-menya",
+        "release": "ломай меня",
+        "artist": "kweetee, тенда, ​maryy",
+        "grade": [
+            6,
+            9,
+            7,
+            7,
+            7
+        ]
+    },
+    {
+        "link": "/track/birya-dorian-grej",
+        "release": "Дориан Грей",
+        "artist": "BIRYA",
+        "grade": [
+            7,
+            8,
+            6,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/track/dirty-punk-vizitka-xd",
+        "release": "Визитка xD",
+        "artist": "dirty punk",
+        "grade": [
+            9,
+            10,
+            8,
+            9,
+            10
+        ]
+    }
+]

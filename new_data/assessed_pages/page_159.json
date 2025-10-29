@@ -1,0 +1,434 @@
+[
+    {
+        "link": "/track/kosta-lakosta-eldzhej-bronezhilet",
+        "release": "Бронежилет",
+        "artist": "Коста Лакоста, Элджей",
+        "grade": [
+            8,
+            8,
+            9,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/oxxxymiron-sdelano-v-rossii",
+        "release": "Сделано в России",
+        "artist": "Oxxxymiron",
+        "grade": [
+            10,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/sqwore-17-seventeen-nlo",
+        "release": "Нло",
+        "artist": "17 SEVENTEEN, Sqwore",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/sqwore-432hz",
+        "release": "432hz",
+        "artist": "Sqwore",
+        "grade": [
+            9,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/koresh-nkeeei-uniqe-artem-shilovets-proshhaj",
+        "release": "Прощай",
+        "artist": "ARTEM SHILOVETS, nkeeei, uniqe, Кореш",
+        "grade": [
+            7,
+            8,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/lida-slava-kpss-smokish",
+        "release": "Смокиш",
+        "artist": "Lida, Слава КПСС",
+        "grade": [
+            8,
+            8,
+            7,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/boulevard-depo-ayoj",
+        "release": "АYОЙ",
+        "artist": "Boulevard Depo",
+        "grade": [
+            8,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/pinq-soda-luv-noch",
+        "release": "Ночь",
+        "artist": "PINQ, SODA LUV",
+        "grade": [
+            7,
+            9,
+            7,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/obladaet-lil-krystalll-mb",
+        "release": "MB",
+        "artist": "LIL KRYSTALLL, OBLADAET",
+        "grade": [
+            10,
+            8,
+            9,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/album/2kizz-00-00-0000",
+        "release": "00.00.0000",
+        "artist": "2kizz",
+        "grade": [
+            8,
+            8,
+            6,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/album/august-365",
+        "release": "365",
+        "artist": "August",
+        "grade": [
+            9,
+            9,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/swa-empire-skugga",
+        "release": "SKUGGA",
+        "artist": "SWA EMPIRE",
+        "grade": [
+            10,
+            9,
+            7,
+            6,
+            8
+        ]
+    },
+    {
+        "link": "/album/ram-kommo-starscream",
+        "release": "Starscream",
+        "artist": "KOMMO, RAM",
+        "grade": [
+            9,
+            10,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/pyrokinesis-geometriya-tmy",
+        "release": "геометрия тьмы",
+        "artist": "pyrokinesis",
+        "grade": [
+            10,
+            9,
+            8,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/figlav-kozlik",
+        "release": "KOZLIK",
+        "artist": "FIGLAV",
+        "grade": [
+            4,
+            9,
+            6,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/album/kuok-imago-album",
+        "release": "IMAGO (Deluxe)",
+        "artist": "КУОК",
+        "grade": [
+            10,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/aarne-aa-language",
+        "release": "AA LANGUAGE",
+        "artist": "Aarne",
+        "grade": [
+            7,
+            8,
+            7,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/treepside-feat-17-seventeen-dozhd",
+        "release": "Дождь",
+        "artist": "17 SEVENTEEN, treepside",
+        "grade": [
+            7,
+            10,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/showbiz-school-all-day",
+        "release": "All Day",
+        "artist": "Showbiz School",
+        "grade": [
+            8,
+            9,
+            9,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/blago-white-vnaturi",
+        "release": "VNATURI",
+        "artist": "blago white",
+        "grade": [
+            9,
+            10,
+            9,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/quiizzzmeow-feat-lil-17th-krd",
+        "release": "КРД",
+        "artist": "lil 17th, quiizzzmeow",
+        "grade": [
+            9,
+            10,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/rvmzes-aaaaa",
+        "release": "АаАаА",
+        "artist": "RVMZES",
+        "grade": [
+            9,
+            9,
+            10,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/album/rvmzes-italyanec-2",
+        "release": "Итальянец 2",
+        "artist": "RVMZES",
+        "grade": [
+            9,
+            7,
+            10,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/pablotheflare-kotoryj-god",
+        "release": "КОТОРЫЙ ГОД",
+        "artist": "PabloTheFlare",
+        "grade": [
+            6,
+            7,
+            6,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/track/dose-na-lunu",
+        "release": "На Луну",
+        "artist": "Dose",
+        "grade": [
+            8,
+            9,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/august-afk",
+        "release": "AFK",
+        "artist": "August",
+        "grade": [
+            7,
+            7,
+            8,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/pyrokinesis-otkazyvaju-nebu",
+        "release": "отказываю небу",
+        "artist": "pyrokinesis",
+        "grade": [
+            10,
+            8,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/vacio-poshlaya-molli-uu-huu",
+        "release": "Уу-хуу",
+        "artist": "VACÍO, Пошлая Молли",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/saluki-ognej",
+        "release": "ОГНЕЙ",
+        "artist": "SALUKI",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/may-wave-rage-boi-wavy",
+        "release": "RAGE BOI WAVY",
+        "artist": "May Wave$",
+        "grade": [
+            8,
+            7,
+            7,
+            9,
+            6
+        ]
+    },
+    {
+        "link": "/track/lxner-spasi-menya",
+        "release": "Спаси меня",
+        "artist": "LXNER",
+        "grade": [
+            7,
+            9,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/album/lxner-bipolar",
+        "release": "bipolar",
+        "artist": "LXNER",
+        "grade": [
+            5,
+            9,
+            8,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/lil-morty-flexing-finessing",
+        "release": "FLEXING FINESSING",
+        "artist": "LIL MORTY",
+        "grade": [
+            8,
+            9,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/koresh-treepside-tolpa",
+        "release": "Толпа",
+        "artist": "treepside, Кореш",
+        "grade": [
+            6,
+            10,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/markul-tosya-chajkina-strely",
+        "release": "Стрелы",
+        "artist": "MARKUL, Тося Чайкина",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/morgenshtern-the-limba-niletto-boombl4-skolko-stoit-ljubov",
+        "release": "Сколько стоит любовь",
+        "artist": "Boombl4, MORGENSHTERN, NILETTO, The Limba",
+        "grade": [
+            9,
+            8,
+            8,
+            8,
+            6
+        ]
+    }
+]

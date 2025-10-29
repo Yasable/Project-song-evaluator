@@ -1,0 +1,410 @@
+[
+    {
+        "link": "/track/pepel-nahudi-celuju",
+        "release": "Целую",
+        "artist": "Pepel Nahudi",
+        "grade": [
+            8,
+            9,
+            9,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/gornyj-problemy",
+        "release": "Проблемы",
+        "artist": "Горный",
+        "grade": [
+            9,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/bolin-d-woo-don-t-cry",
+        "release": "Don’t Cry",
+        "artist": "Bolin, D.Woo",
+        "grade": [
+            8,
+            8,
+            9,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/akkiemi-silent-in-loss",
+        "release": "Silent In Loss",
+        "artist": "akkiemi",
+        "grade": [
+            9,
+            8,
+            5,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/estanger-odinok",
+        "release": "ODINOK",
+        "artist": "ESTANGER",
+        "grade": [
+            4,
+            8,
+            3,
+            3,
+            2
+        ]
+    },
+    {
+        "link": "/track/fonetic-ne-budi",
+        "release": "Не буди",
+        "artist": "Fonetic",
+        "grade": [
+            8,
+            8,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/passmour-baby",
+        "release": "BABY",
+        "artist": "PASSMOUR",
+        "grade": [
+            8,
+            10,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/album/elyaplugg-rizz-music",
+        "release": "rizz music",
+        "artist": "elyaplugg!",
+        "grade": [
+            9,
+            7,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/aeonswings-kaj",
+        "release": "Кай",
+        "artist": "Aeonswings",
+        "grade": [
+            6,
+            9,
+            6,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/album/aeonswings-grustnyj-klub",
+        "release": "Грустный Клуб",
+        "artist": "Aeonswings",
+        "grade": [
+            5,
+            6,
+            5,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/egrrr-pull-up",
+        "release": "Pull up",
+        "artist": "EGRRR",
+        "grade": [
+            7,
+            9,
+            7,
+            7,
+            7
+        ]
+    },
+    {
+        "link": "/track/4n-way-kinderlil-tubik",
+        "release": "TUBIK",
+        "artist": "4n Way, Kinderlil",
+        "grade": [
+            7,
+            5,
+            6,
+            6,
+            4
+        ]
+    },
+    {
+        "link": "/track/yumagucci-4pm",
+        "release": "4PM",
+        "artist": "Yumagucci",
+        "grade": [
+            8,
+            8,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/bleeznets-handra",
+        "release": "Хандра",
+        "artist": "BLEEZNETS",
+        "grade": [
+            8,
+            7,
+            5,
+            3,
+            4
+        ]
+    },
+    {
+        "link": "/track/sakron-ottava",
+        "release": "Оттава",
+        "artist": "SAKRON",
+        "grade": [
+            6,
+            7,
+            7,
+            6,
+            8
+        ]
+    },
+    {
+        "link": "/track/retroyse-glaza",
+        "release": "Глаза",
+        "artist": "retroyse",
+        "grade": [
+            8,
+            10,
+            9,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/migrant-1000",
+        "release": "1000",
+        "artist": "Migrant",
+        "grade": [
+            8,
+            7,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/vladidzhi-carolina-reaper",
+        "release": "Carolina Reaper",
+        "artist": "владиджи",
+        "grade": [
+            7,
+            8,
+            6,
+            6,
+            8
+        ]
+    },
+    {
+        "link": "/track/blink-dal-zazu",
+        "release": "Дал зазу",
+        "artist": "Блинк",
+        "grade": [
+            7,
+            8,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/bez-obid-heppi-end",
+        "release": "хеппи-энд",
+        "artist": "без обид",
+        "grade": [
+            10,
+            9,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/takaia-pyanyj-gorod",
+        "release": "Пьяный город",
+        "artist": "Takaia",
+        "grade": [
+            10,
+            9,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/doomlack-tyanet",
+        "release": "Тянет",
+        "artist": "DOOMLACK",
+        "grade": [
+            8,
+            9,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/bezotvetna-vremya",
+        "release": "Время",
+        "artist": "безответна",
+        "grade": [
+            9,
+            6,
+            5,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/famous-killa-son",
+        "release": "Сон",
+        "artist": "FAMOUS KILLA",
+        "grade": [
+            9,
+            9,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/eksi-24block",
+        "release": "24Block",
+        "artist": "Экси",
+        "grade": [
+            8,
+            9,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/clout-vampirism",
+        "release": "Vampirism",
+        "artist": "clout",
+        "grade": [
+            7,
+            8,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/nikeas-aya-yaj",
+        "release": "Ая-яй",
+        "artist": "Nikeas",
+        "grade": [
+            7,
+            4,
+            4,
+            3,
+            4
+        ]
+    },
+    {
+        "link": "/track/kondrashin-shaul-marina-bay",
+        "release": "Marina Bay",
+        "artist": "KONDRASHIN, SHAUL",
+        "grade": [
+            8,
+            8,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/sted-d-odin-iz-nas",
+        "release": "Один из нас",
+        "artist": "STED.D",
+        "grade": [
+            10,
+            8,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/blockkid-hellabandzzz",
+        "release": "Hellabandzzz",
+        "artist": "Blockkid",
+        "grade": [
+            7,
+            9,
+            7,
+            6,
+            8
+        ]
+    },
+    {
+        "link": "/track/mania-white-gallows-krispi-frazami",
+        "release": "Фразами",
+        "artist": "Mania, WHITE GALLOWS, КРИСПИ",
+        "grade": [
+            9,
+            8,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/album/pereuchet-semejnyj-albom",
+        "release": "Семейный альбом",
+        "artist": "ПЕРЕУЧЕТ",
+        "grade": [
+            8,
+            8,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/spal-navas-half-life",
+        "release": "Half life",
+        "artist": "Spal Navas",
+        "grade": [
+            10,
+            10,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/spal-navas-ya-sovremennyj-pisatel",
+        "release": "Я современный писатель",
+        "artist": "Spal Navas",
+        "grade": [
+            10,
+            10,
+            7,
+            9,
+            10
+        ]
+    }
+]

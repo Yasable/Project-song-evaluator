@@ -1,0 +1,434 @@
+[
+    {
+        "link": "/track/redo-bato-ram-petrol",
+        "release": "PETROL",
+        "artist": "BATO, RAM, REDO",
+        "grade": [
+            8,
+            8,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/eldzhej-murakami",
+        "release": "Мураками",
+        "artist": "Элджей",
+        "grade": [
+            8,
+            7,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/t-fest-feat-feduk-izmenchivyj-mir",
+        "release": "Изменчивый мир",
+        "artist": "FEDUK, T-Fest",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/atl-adrenohrom",
+        "release": "Адренохром",
+        "artist": "ATL",
+        "grade": [
+            10,
+            9,
+            9,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/sqwoz-bab-dzharahov-hipihap",
+        "release": "ХИПИХАП",
+        "artist": "SQWOZ BAB, Джарахов",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/mmf-sopli",
+        "release": "Сопли",
+        "artist": "ммф.",
+        "grade": [
+            10,
+            7,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/vorovskaya-lapa-egor-creed",
+        "release": "Егор Creed",
+        "artist": "Воровская Лапа",
+        "grade": [
+            10,
+            10,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/vorovskaya-lapa-freehova",
+        "release": "FREEHOVA",
+        "artist": "Воровская Лапа",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/zavet-fluffy-biscuits-with-vanilla-kisses",
+        "release": "FLUFFY BISCUITS WITH VANILLA KISSES",
+        "artist": "zavet",
+        "grade": [
+            8,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/zavet-gotika",
+        "release": "gotika",
+        "artist": "zavet",
+        "grade": [
+            8,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/velial-squad-selskij-klub",
+        "release": "Сельский клуб",
+        "artist": "VELIAL SQUAD",
+        "grade": [
+            10,
+            10,
+            9,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/album/velial-squad-ugly-stylezz",
+        "release": "UGLY STYLEZZ",
+        "artist": "VELIAL SQUAD",
+        "grade": [
+            9,
+            9,
+            5,
+            6,
+            4
+        ]
+    },
+    {
+        "link": "/track/thrill-pill-izdevatelstvo",
+        "release": "Издевательство",
+        "artist": "THRILL PILL",
+        "grade": [
+            8,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/thrill-pill-birthday-mix-2021",
+        "release": "BIRTHDAY MIX 2021",
+        "artist": "THRILL PILL",
+        "grade": [
+            6,
+            9,
+            10,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/maslo-chernogo-tmina-lts",
+        "release": "Lts",
+        "artist": "масло черного тмина",
+        "grade": [
+            9,
+            5,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/13kai-vokrug-temnota",
+        "release": "Вокруг темнота",
+        "artist": "13Kai",
+        "grade": [
+            8,
+            9,
+            6,
+            7,
+            4
+        ]
+    },
+    {
+        "link": "/track/vacio-osen",
+        "release": "Осень",
+        "artist": "VACÍO",
+        "grade": [
+            8,
+            8,
+            8,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/big-mama-blago-white-the-ritz-carlton",
+        "release": "The Ritz-Carlton",
+        "artist": "BIG MAMA, blago white",
+        "grade": [
+            8,
+            10,
+            10,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/magnum-opus-feat-seemee-og-buda-pacany",
+        "release": "Пацаны",
+        "artist": "Magnum Opus, OG Buda, SEEMEE",
+        "grade": [
+            8,
+            10,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/lovv66-ona-zabyla-ego",
+        "release": "ОНА ЗАБЫЛА ЕГО",
+        "artist": "LOVV66",
+        "grade": [
+            8,
+            7,
+            8,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/slava-marlow-aarne-biznes-vumen",
+        "release": "БИЗНЕС ВУМЕН",
+        "artist": "Aarne, SLAVA MARLOW",
+        "grade": [
+            7,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/klywoodjeb-bebra",
+        "release": "Bebra",
+        "artist": "Klywoodjeb",
+        "grade": [
+            6,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/rudboj-oxxxymiron-skazka-o-poteryannom-vremeni",
+        "release": "СКАЗКА О ПОТЕРЯННОМ ВРЕМЕНИ",
+        "artist": "Oxxxymiron, рудбой",
+        "grade": [
+            10,
+            9,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/big-baby-tape-kizaru-5-nights-crazy",
+        "release": "5 Nights Crazy",
+        "artist": "Big Baby Tape, kizaru",
+        "grade": [
+            7,
+            8,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/big-baby-tape-kizaru-bandana-l",
+        "release": "BANDANA l",
+        "artist": "Big Baby Tape, kizaru",
+        "grade": [
+            7,
+            8,
+            7,
+            9,
+            6
+        ]
+    },
+    {
+        "link": "/track/miyagi-x-andy-panda-x-mav-d-temnota",
+        "release": "ТЕМНОТА",
+        "artist": "Andy Panda, Mav-d, Miyagi",
+        "grade": [
+            9,
+            7,
+            8,
+            9,
+            4
+        ]
+    },
+    {
+        "link": "/track/dorofeeva-ft-skriptonit-nevesta",
+        "release": "Невеста",
+        "artist": "DOROFEEVA, Скриптонит",
+        "grade": [
+            9,
+            10,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/yungway-doomee-ip",
+        "release": "IP",
+        "artist": "DooMee, YUNGWAY",
+        "grade": [
+            10,
+            10,
+            10,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/malenkij-yarche-mayot-pomnju",
+        "release": "Помню",
+        "artist": "MAYOT, маленький ярче",
+        "grade": [
+            7,
+            10,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/egor-krid-lambo-urus",
+        "release": "Lambo Urus",
+        "artist": "Егор Крид",
+        "grade": [
+            8,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/pharaoh-x-39-blessd",
+        "release": "БЛЭССД",
+        "artist": "39, PHARAOH",
+        "grade": [
+            3,
+            7,
+            6,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/album/markul-sense-of-human",
+        "release": "Sense Of Human",
+        "artist": "MARKUL",
+        "grade": [
+            10,
+            10,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/loc-dog-vyshel-iz-chata",
+        "release": "Вышел из чата",
+        "artist": "Loc-Dog",
+        "grade": [
+            10,
+            7,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/loc-dog-schaste-v-prostom",
+        "release": "Счастье в простом",
+        "artist": "Loc-Dog",
+        "grade": [
+            10,
+            8,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/playingtheangel-rory-bonus-uroven",
+        "release": "Бонус уровень",
+        "artist": "playingtheangel, RORY",
+        "grade": [
+            10,
+            9,
+            6,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/whybaby-paypass",
+        "release": "PayPass",
+        "artist": "WhyBaby?",
+        "grade": [
+            7,
+            10,
+            10,
+            9,
+            10
+        ]
+    }
+]

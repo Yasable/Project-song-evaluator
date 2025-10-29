@@ -1,0 +1,434 @@
+[
+    {
+        "link": "/album/in-my-dna",
+        "release": "IN MY DNA",
+        "artist": "NEWLIGHTCHILD",
+        "grade": [
+            4,
+            6,
+            6,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/kogda-ty-vidish-svet",
+        "release": "Когда Ты Видишь Свет",
+        "artist": "Marni",
+        "grade": [
+            9,
+            8,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/album/glebasta-gde-progress",
+        "release": "глебаста где прогресс",
+        "artist": "GLEBASTA SPAL",
+        "grade": [
+            7,
+            3,
+            3,
+            3,
+            4
+        ]
+    },
+    {
+        "link": "/track/balenci",
+        "release": "Balenci",
+        "artist": "frozz!",
+        "grade": [
+            8,
+            8,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/loverider",
+        "release": "LOVERIDER",
+        "artist": "ENTYPE, RVMZES",
+        "grade": [
+            8,
+            8,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/arcteryx",
+        "release": "Arcteryx",
+        "artist": "SAKRON",
+        "grade": [
+            7,
+            7,
+            6,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/zabyvaj",
+        "release": "Забывай",
+        "artist": "MAYOT, Серёжа Аверин",
+        "grade": [
+            8,
+            8,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/zharko",
+        "release": "ЖАРКО",
+        "artist": "uglykidd, ​skai",
+        "grade": [
+            7,
+            6,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/album/who-is-melo",
+        "release": "Who Is Melo?",
+        "artist": "Baby Melo",
+        "grade": [
+            7,
+            7,
+            6,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/murder-on-my-mind",
+        "release": "Murder On My Mind",
+        "artist": "MARSI",
+        "grade": [
+            10,
+            8,
+            6,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/bipolyarnaya-zvezda",
+        "release": "БИПОЛЯРНАЯ ЗВЕЗДА",
+        "artist": "GSPD, МУККА",
+        "grade": [
+            10,
+            8,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/isterika",
+        "release": "Истерика",
+        "artist": "SUNAMI, КРИСПИ",
+        "grade": [
+            9,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/xan",
+        "release": "Xan",
+        "artist": "NIKMESTY",
+        "grade": [
+            6,
+            8,
+            6,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/track/besporyadok",
+        "release": "БЕСПОРЯДОК",
+        "artist": "ЕГОР НАТС",
+        "grade": [
+            10,
+            10,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/melting",
+        "release": "Melting",
+        "artist": "Hoshirama",
+        "grade": [
+            4,
+            2,
+            3,
+            4,
+            2
+        ]
+    },
+    {
+        "link": "/track/dzhanki",
+        "release": "Джанки",
+        "artist": "MAYOT, YUNGWAY",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/non-autotune-tape-vol-1",
+        "release": "NON AUTOTUNE TAPE VOL.1",
+        "artist": "YUNGWAY",
+        "grade": [
+            8,
+            9,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/biznes-klass",
+        "release": "Бизнес класс",
+        "artist": "INSTASAMKA",
+        "grade": [
+            6,
+            6,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/zabud",
+        "release": "Забудь",
+        "artist": "Guram D, Toxi$",
+        "grade": [
+            6,
+            6,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/odna",
+        "release": "Одна",
+        "artist": "Yoh",
+        "grade": [
+            6,
+            6,
+            4,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/if-i-ever",
+        "release": "IF I EVER",
+        "artist": "MORGENSHTERN, Onative, Rich The Kid",
+        "grade": [
+            8,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/pompeii",
+        "release": "Pompeii",
+        "artist": "Synthes!s",
+        "grade": [
+            6,
+            6,
+            5,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/track/bo-y-out",
+        "release": "BO Y OUT!",
+        "artist": "WHY, BERRY",
+        "grade": [
+            6,
+            8,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/proch-s-dorogi",
+        "release": "Прочь съ дороги",
+        "artist": "FEOFILOV",
+        "grade": [
+            7,
+            9,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/boleju-toboj",
+        "release": "Болею тобой",
+        "artist": "Кишлак, семьсот семь",
+        "grade": [
+            8,
+            10,
+            9,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/sofiya",
+        "release": "СОФИЯ",
+        "artist": "STOPBAN",
+        "grade": [
+            8,
+            6,
+            6,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/track/hoodrichmelo",
+        "release": "HOODRICHMELO",
+        "artist": "Baby Melo, Hood Rich Luka",
+        "grade": [
+            9,
+            10,
+            7,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/myaso-2",
+        "release": "МЯСО",
+        "artist": "Black Gypsy",
+        "grade": [
+            8,
+            9,
+            4,
+            3,
+            6
+        ]
+    },
+    {
+        "link": "/track/shibari",
+        "release": "Шибари",
+        "artist": "Панкмодернисты",
+        "grade": [
+            8,
+            9,
+            8,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/slp-_-mp3",
+        "release": "Slp[-_-].mp3",
+        "artist": "T;o*-/kē-n°2",
+        "grade": [
+            8,
+            7,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/album/california-rocket-fuel-part-2",
+        "release": "california rocket fuel: part 2",
+        "artist": "кровь из носа",
+        "grade": [
+            10,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/samyj-pyanyj-okrug-v-mire",
+        "release": "Самый пьяный округ в мире",
+        "artist": "MACAN",
+        "grade": [
+            8,
+            9,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/eksperiment",
+        "release": "Эксперимент",
+        "artist": "КИБЕРСЛЁЗЫ",
+        "grade": [
+            8,
+            8,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/bounty",
+        "release": "Bounty",
+        "artist": "Miyagi, Эндшпиль",
+        "grade": [
+            9,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/kiss-you-know",
+        "release": "Kiss You Know",
+        "artist": "Devins0ul",
+        "grade": [
+            7,
+            7,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/horoshij-paren",
+        "release": "ХОРОШИЙ ПАРЕНЬ",
+        "artist": "ЛСП, прыгай киска",
+        "grade": [
+            7,
+            8,
+            8,
+            8,
+            8
+        ]
+    }
+]

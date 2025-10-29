@@ -1,0 +1,410 @@
+[
+    {
+        "link": "/track/spoj",
+        "release": "Спой",
+        "artist": "A.V.G., MACAN",
+        "grade": [
+            8,
+            7,
+            9,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/marco-9-u",
+        "release": "U",
+        "artist": "MARCO-9",
+        "grade": [
+            6,
+            9,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/konec-solnechnyh-dnej-molodoj-avangardist",
+        "release": "молодой авангардист",
+        "artist": "конец солнечных дней",
+        "grade": [
+            8,
+            9,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/sagath-frankenshtejn",
+        "release": "Франкенштейн",
+        "artist": "Sagath",
+        "grade": [
+            9,
+            7,
+            9,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/fifteensaw-zabud-pzh",
+        "release": "Забудь пж!",
+        "artist": "Fifteensaw",
+        "grade": [
+            4,
+            6,
+            5,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/blandekaj-the-devil-does",
+        "release": "THE DEVIL DOES",
+        "artist": "Бландекай",
+        "grade": [
+            8,
+            8,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/babo4ka-fashion-brand",
+        "release": "FASHION BRAND",
+        "artist": "BABO4KA",
+        "grade": [
+            7,
+            8,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/album/the-curator-sluhi-i-fakty",
+        "release": "СЛУХИ И ФАКТЫ",
+        "artist": "КУРАТОР",
+        "grade": [
+            4,
+            7,
+            3,
+            3,
+            4
+        ]
+    },
+    {
+        "link": "/track/hammali-navai-zapadnya",
+        "release": "Западня",
+        "artist": "HammAli, NAVAI",
+        "grade": [
+            8,
+            8,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/akulich-ne-manipuliruj",
+        "release": "Не манипулируй",
+        "artist": "АКУЛИЧ",
+        "grade": [
+            9,
+            8,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/mopok-81",
+        "release": "81",
+        "artist": "МОРОК",
+        "grade": [
+            10,
+            7,
+            7,
+            6,
+            8
+        ]
+    },
+    {
+        "link": "/track/passmour-na-mne",
+        "release": "НА МНЕ",
+        "artist": "PASSMOUR",
+        "grade": [
+            8,
+            9,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/lee-fate-welcome-to-polyany",
+        "release": "Welcome to Polyany",
+        "artist": "LEE FATE",
+        "grade": [
+            7,
+            6,
+            4,
+            3,
+            2
+        ]
+    },
+    {
+        "link": "/track/lee-fate-way",
+        "release": "Путь",
+        "artist": "LEE FATE",
+        "grade": [
+            5,
+            6,
+            5,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/quantumq-tearsmaker-paren-s-okrain",
+        "release": "Парень с окраин",
+        "artist": "QuantumQ",
+        "grade": [
+            7,
+            8,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/quantumq-snow",
+        "release": "SNÖW",
+        "artist": "QuantumQ",
+        "grade": [
+            7,
+            7,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/j-n-s-cveti",
+        "release": "Цвети",
+        "artist": "J.N.S.",
+        "grade": [
+            8,
+            7,
+            6,
+            6,
+            4
+        ]
+    },
+    {
+        "link": "/track/basha-two-k-m-city",
+        "release": "M City",
+        "artist": "Bаsha, TWO K",
+        "grade": [
+            7,
+            7,
+            5,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/emy-prosto-uhodi",
+        "release": "просто уходи",
+        "artist": "​emy",
+        "grade": [
+            8,
+            8,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/shaunti-twerk",
+        "release": "Twerk.",
+        "artist": "шаунти",
+        "grade": [
+            4,
+            6,
+            6,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/miu-miu",
+        "release": "Miu Miu",
+        "artist": "MAYOT, OG Buda, VisaGangBeatz",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/redroom",
+        "release": "REDROOM",
+        "artist": "IROH",
+        "grade": [
+            9,
+            9,
+            9,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/menya-net",
+        "release": "МЕНЯ НЕТ",
+        "artist": "dekma",
+        "grade": [
+            7,
+            8,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/point-blank",
+        "release": "Point Blank",
+        "artist": "RAM",
+        "grade": [
+            8,
+            8,
+            9,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/vvain-elixir",
+        "release": "ELIXIR",
+        "artist": "VVAIN",
+        "grade": [
+            8,
+            7,
+            6,
+            7,
+            7
+        ]
+    },
+    {
+        "link": "/album/vvain-usyplenie",
+        "release": "УСЫПЛЕНИЕ",
+        "artist": "VVAIN",
+        "grade": [
+            7,
+            7,
+            6,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/album/24",
+        "release": "24",
+        "artist": "Рыночные Отношения",
+        "grade": [
+            8,
+            7,
+            8,
+            9,
+            6
+        ]
+    },
+    {
+        "link": "/track/kiryushkin-piter-ne-moskva",
+        "release": "Питер не Москва",
+        "artist": "KIRYUSHKIN",
+        "grade": [
+            7,
+            7,
+            6,
+            4,
+            6
+        ]
+    },
+    {
+        "link": "/track/levickaya-otpuskaju",
+        "release": "Отпускаю",
+        "artist": "Левицкая",
+        "grade": [
+            8,
+            8,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/densticks-chaos-playa",
+        "release": "Chaos Playa",
+        "artist": "densticks",
+        "grade": [
+            3,
+            3,
+            1,
+            1,
+            2
+        ]
+    },
+    {
+        "link": "/track/kenvis-notype-cho-cho",
+        "release": "Cho-cho",
+        "artist": "KENVIS, NoType",
+        "grade": [
+            4,
+            8,
+            5,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/album/historia-morbi",
+        "release": "Historia Morbi",
+        "artist": "The Chemodan",
+        "grade": [
+            10,
+            8,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/lavbombing",
+        "release": "лавбомбинг",
+        "artist": "playingtheangel, гнилаялирика",
+        "grade": [
+            10,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/spat-s-toboj",
+        "release": "спать с тобой",
+        "artist": "retroyse",
+        "grade": [
+            7,
+            9,
+            8,
+            8,
+            10
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "link": "/track/cezar-group",
+        "release": "Цезарь group",
+        "artist": "A-THIS 52, ICEGERGERT",
+        "grade": [
+            8,
+            7,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/10",
+        "release": "10",
+        "artist": "Эндшпиль",
+        "grade": [
+            9,
+            8,
+            10,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/album/dramaturgiya",
+        "release": "DRAMAТУРГИЯ",
+        "artist": "GAVRILINA",
+        "grade": [
+            9,
+            8,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/stimul",
+        "release": "Стимул",
+        "artist": "MOTEL",
+        "grade": [
+            8,
+            8,
+            7,
+            7,
+            7
+        ]
+    }
+]

@@ -37,9 +37,9 @@ def parse_page_html(page_number: int) -> list[dict]:
                     releases.append(release)
             except Exception as e:
                 print(f"Ошибка при парсинге на странице {page_number}: {e}")
-        return releases
     finally:
         driver.quit()
+    return releases
 
 def parsing_links_one_page(page_number: int):
     releases = parse_page_html(page_number)

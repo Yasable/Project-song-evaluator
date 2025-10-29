@@ -14,9 +14,19 @@ DATA_DIR = "data/"
 NEW_DATA_DIR = "new_data/"
 ALL_PAGES_DIR = NEW_DATA_DIR + "all_pages/"
 SORTED_PAGES_DIR = NEW_DATA_DIR + "sorted_pages/"
+PAGES_WITH_GRADES = NEW_DATA_DIR + "assessed_pages/"
 PAGE_FILENAME = "page_{}.json"
 
 # Output files
 ALL_RELEASES_FILE = NEW_DATA_DIR + "all_relises.json"
 ALBUMS_FILE = NEW_DATA_DIR + "albums.json"
 TRACKS_FILE = NEW_DATA_DIR + "tracks.json"
+
+# Other
+GRADES_MARKER = [
+    ("Рифмы / образы", 84),
+    ("Структура / ритмика", 89), 
+    ("Реализация стиля", 86),
+    ("Индивидуальность / харизма", 96),
+    ("Атмосфера / вайб", 86)
+]

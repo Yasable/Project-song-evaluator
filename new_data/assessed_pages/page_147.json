@@ -1,0 +1,434 @@
+[
+    {
+        "link": "/track/ex",
+        "release": "EX",
+        "artist": "dsska",
+        "grade": [
+            5,
+            6,
+            5,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/track/weeping-dryads",
+        "release": "Weeping Dryads",
+        "artist": "commonvoice",
+        "grade": [
+            9,
+            6,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/2007",
+        "release": "2007",
+        "artist": "andzhelboy",
+        "grade": [
+            7,
+            7,
+            6,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/muza",
+        "release": "Муза",
+        "artist": "KAYOKI",
+        "grade": [
+            8,
+            9,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/rehab-2",
+        "release": "Rehab 2",
+        "artist": "SAIGA",
+        "grade": [
+            6,
+            4,
+            6,
+            4,
+            2
+        ]
+    },
+    {
+        "link": "/track/teni-x_x",
+        "release": "Тени x_x",
+        "artist": "ДЖЕЙЛО",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/grunge-bo-x",
+        "release": "GRUNGE BO! X)",
+        "artist": "ДЖЕЙЛО",
+        "grade": [
+            9,
+            9,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/tamam",
+        "release": "Tamam",
+        "artist": "AHPER, YMHB",
+        "grade": [
+            6,
+            9,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/kult",
+        "release": "КУЛЬТ",
+        "artist": "Matsby",
+        "grade": [
+            9,
+            9,
+            6,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/album/prometh-tears",
+        "release": "Prometh. Tears",
+        "artist": "Bigg D, MARCO-9",
+        "grade": [
+            5,
+            6,
+            3,
+            4,
+            2
+        ]
+    },
+    {
+        "link": "/track/myaso",
+        "release": "МЯСО",
+        "artist": "NATORO, O V L ! ! !",
+        "grade": [
+            9,
+            9,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/swag",
+        "release": "SWAG",
+        "artist": "3TERNITY, MAIIKI",
+        "grade": [
+            7,
+            8,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/grustno-i-tochka",
+        "release": "Грустно и точка",
+        "artist": "Mary Gu",
+        "grade": [
+            9,
+            10,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/jersey-club",
+        "release": "JERSEY CLUB",
+        "artist": "DIAMOND, Nizardo",
+        "grade": [
+            4,
+            5,
+            4,
+            2,
+            2
+        ]
+    },
+    {
+        "link": "/track/ya-znal",
+        "release": "Я знал",
+        "artist": "PUSSYKILLER, КРИСПИ",
+        "grade": [
+            7,
+            9,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/daj-mne-tolko-shans",
+        "release": "Дай мне только шанс",
+        "artist": "Andro",
+        "grade": [
+            7,
+            9,
+            10,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/za-tridevyat",
+        "release": "За тридевять",
+        "artist": "Fonetic, LeanJe",
+        "grade": [
+            10,
+            9,
+            9,
+            10,
+            6
+        ]
+    },
+    {
+        "link": "/track/hofmann",
+        "release": "HOFMANN",
+        "artist": "Ghostface Playa, KURT92",
+        "grade": [
+            8,
+            9,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/naoborot",
+        "release": "Наоборот",
+        "artist": "бросайменя!",
+        "grade": [
+            9,
+            8,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/trezvym",
+        "release": "ТРЕЗВЫМ",
+        "artist": "3333, Джарахов",
+        "grade": [
+            9,
+            9,
+            8,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/cybersurf",
+        "release": "Cybersurf",
+        "artist": "Brick Bazuka, VibeTGK",
+        "grade": [
+            8,
+            7,
+            9,
+            9,
+            6
+        ]
+    },
+    {
+        "link": "/album/bricks",
+        "release": "BRICKS",
+        "artist": "Mosquit",
+        "grade": [
+            2,
+            3,
+            2,
+            2,
+            2
+        ]
+    },
+    {
+        "link": "/album/ljubov-spasjot-mir",
+        "release": "ЛЮБОВЬ СПАСЁТ МИР",
+        "artist": "КРЕСТ",
+        "grade": [
+            7,
+            9,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/rezultat",
+        "release": "Результат",
+        "artist": "JAYSAME, Upskrtt",
+        "grade": [
+            6,
+            7,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/lov3-simons",
+        "release": "lov3 simons",
+        "artist": "sorry!",
+        "grade": [
+            6,
+            8,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/give-it-2-me",
+        "release": "Give it 2 me",
+        "artist": "RVMZES",
+        "grade": [
+            9,
+            8,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/aquafina",
+        "release": "AQUAFINA",
+        "artist": "9mice, Kai Angel",
+        "grade": [
+            9,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/heavy-metal",
+        "release": "HEAVY METAL",
+        "artist": "9mice, Kai Angel",
+        "grade": [
+            9,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/peredoz",
+        "release": "Передоз",
+        "artist": "CUPSIZE",
+        "grade": [
+            4,
+            4,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/prityazhenie",
+        "release": "Притяжение",
+        "artist": "GUMA, КУОК",
+        "grade": [
+            9,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/feelings",
+        "release": "Feelings",
+        "artist": "August, LOOFY",
+        "grade": [
+            6,
+            8,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/babochka",
+        "release": "БАБОЧКА",
+        "artist": "WMD",
+        "grade": [
+            9,
+            6,
+            4,
+            4,
+            2
+        ]
+    },
+    {
+        "link": "/track/sprajt",
+        "release": "Спрайт",
+        "artist": "CMH",
+        "grade": [
+            9,
+            9,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/antiwrld",
+        "release": "ANTIWRLD",
+        "artist": "CMH",
+        "grade": [
+            9,
+            8,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/winter-shiettt-2",
+        "release": "WINTER SHIETTT 2",
+        "artist": "ALBLAK 52, Скриптонит",
+        "grade": [
+            9,
+            7,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/provajder",
+        "release": "провайдер",
+        "artist": "Shot Amy",
+        "grade": [
+            7,
+            8,
+            8,
+            9,
+            8
+        ]
+    }
+]

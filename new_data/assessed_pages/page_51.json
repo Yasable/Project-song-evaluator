@@ -1,0 +1,206 @@
+[
+    {
+        "link": "/track/dresscode",
+        "release": "Dresscode",
+        "artist": "Честер Небро",
+        "grade": [
+            8,
+            8,
+            10,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/tabor-vernulsya-v-gorod",
+        "release": "Табор вернулся в город",
+        "artist": "Каспийский Груз",
+        "grade": [
+            10,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/vechnyj-dvigatel",
+        "release": "Вечный двигатель",
+        "artist": "ATL, Ка тет",
+        "grade": [
+            10,
+            9,
+            9,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/russkaya-kukla",
+        "release": "Русская Кукла",
+        "artist": "Scally Milano, Voskresenskii",
+        "grade": [
+            8,
+            8,
+            8,
+            8,
+            9
+        ]
+    },
+    {
+        "link": "/track/rolls-royce-phantom",
+        "release": "Rolls Royce Phantom",
+        "artist": "mzlff, Skurt, Слава КПСС",
+        "grade": [
+            9,
+            10,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/mne-zdes-ne-mesto-ya-prosto-hochu-domoj",
+        "release": "мне здесь не место я просто хочу домой",
+        "artist": "dekma",
+        "grade": [
+            9,
+            9,
+            9,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/blueface-kondrashin-moonwalking-in-moscow",
+        "release": "Moonwalking in Moscow",
+        "artist": "Blueface, KONDRASHIN",
+        "grade": [
+            6,
+            7,
+            6,
+            6,
+            5
+        ]
+    },
+    {
+        "link": "/track/vvain-paranoia-interlude",
+        "release": "Paranoia Interlude",
+        "artist": "VVAIN",
+        "grade": [
+            6,
+            8,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/giorgio-molly-m-c-c-m",
+        "release": "m.c.c.m.",
+        "artist": "giorgio molly",
+        "grade": [
+            6,
+            8,
+            4,
+            3,
+            3
+        ]
+    },
+    {
+        "link": "/track/ifltrppddd-k-mile-backseat",
+        "release": "BACKSEAT",
+        "artist": "Ifltrppddd, K’mile",
+        "grade": [
+            7,
+            8,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/yvng-dyxrd-hundred-on-my-wrist",
+        "release": "HUNDERD ON MY WRIST",
+        "artist": "YVNG DYXRD",
+        "grade": [
+            8,
+            9,
+            8,
+            8,
+            7
+        ]
+    },
+    {
+        "link": "/track/gosha-pik-i-love-dasha-chu",
+        "release": "I Love Dasha Chu",
+        "artist": "GOSHA PIK",
+        "grade": [
+            7,
+            5,
+            3,
+            5,
+            5
+        ]
+    },
+    {
+        "link": "/track/hash-tag-zarya",
+        "release": "Заря",
+        "artist": "Hash Tag",
+        "grade": [
+            8,
+            10,
+            9,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/album/szn",
+        "release": "SZN",
+        "artist": "OG Buda",
+        "grade": [
+            8,
+            10,
+            8,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/pauki-ost-smertelnyj-strim",
+        "release": "Пауки (OST Смертельный стрим)",
+        "artist": "9mice, Kai Angel",
+        "grade": [
+            7,
+            9,
+            7,
+            8,
+            7
+        ]
+    },
+    {
+        "link": "/track/podnyal-na-kripote",
+        "release": "ПОDNЯL NA KRИПОТЕ",
+        "artist": "JDFLAG",
+        "grade": [
+            8,
+            7,
+            8,
+            8,
+            7
+        ]
+    },
+    {
+        "link": "/album/liho",
+        "release": "ЛИХО",
+        "artist": "Jubilee",
+        "grade": [
+            10,
+            7,
+            7,
+            8,
+            7
+        ]
+    }
+]

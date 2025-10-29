@@ -1,0 +1,338 @@
+[
+    {
+        "link": "/track/erzzy-prince",
+        "release": "Prince",
+        "artist": "Erzzy",
+        "grade": [
+            10,
+            9,
+            7,
+            6,
+            8
+        ]
+    },
+    {
+        "link": "/album/erzzy-payday",
+        "release": "Payday",
+        "artist": "Erzzy",
+        "grade": [
+            9,
+            8,
+            6,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/album/pussykiller-dirty-angel",
+        "release": "DIRTY ANGEL",
+        "artist": "PUSSYKILLER",
+        "grade": [
+            7,
+            8,
+            7,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/seemee-tonysouljah-bloodsport",
+        "release": "Bloodsport",
+        "artist": "SEEMEE, TonySouljah",
+        "grade": [
+            8,
+            7,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/egor-nats-probely-v-pamyati-2",
+        "release": "ПРОБЕЛЫ В ПАМЯТИ",
+        "artist": "ЕГОР НАТС",
+        "grade": [
+            9,
+            9,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/instasamka-alfa-samka",
+        "release": "Альфа-Самка",
+        "artist": "INSTASAMKA",
+        "grade": [
+            6,
+            9,
+            6,
+            6,
+            4
+        ]
+    },
+    {
+        "link": "/album/mina-popolam",
+        "release": "пополам",
+        "artist": "мина",
+        "grade": [
+            4,
+            7,
+            6,
+            6,
+            4
+        ]
+    },
+    {
+        "link": "/track/bato-od-member",
+        "release": "OD Member",
+        "artist": "BATO",
+        "grade": [
+            9,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/bato-6lankname",
+        "release": "6lankname",
+        "artist": "BATO",
+        "grade": [
+            10,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/shajni-mnogo",
+        "release": "Много",
+        "artist": "Шайни",
+        "grade": [
+            7,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/pinq-fear",
+        "release": "Fear",
+        "artist": "PINQ",
+        "grade": [
+            8,
+            9,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/g4our-lovv66-in-yan",
+        "release": "Инь-Янь",
+        "artist": "G4OUR, LOVV66",
+        "grade": [
+            7,
+            8,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/seva-mraz-volna",
+        "release": "Волна",
+        "artist": "SEVA MRAZ",
+        "grade": [
+            8,
+            8,
+            6,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/track/0kiss-mne-b-uvidet-tebya",
+        "release": "Мне б увидеть тебя",
+        "artist": "0kiss",
+        "grade": [
+            6,
+            8,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/retroyse-pills",
+        "release": "PILLS",
+        "artist": "retroyse",
+        "grade": [
+            7,
+            10,
+            10,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/summersucks-prodolzhaju",
+        "release": "продолжаю",
+        "artist": "SummerSuckS",
+        "grade": [
+            7,
+            8,
+            7,
+            6,
+            7
+        ]
+    },
+    {
+        "link": "/track/i61-another-day-in-paradise",
+        "release": "ANOTHER DAY IN PARADISE",
+        "artist": "i61",
+        "grade": [
+            7,
+            7,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/album/i61-shelby-iiii",
+        "release": "SHELBY IIII",
+        "artist": "i61",
+        "grade": [
+            8,
+            8,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/obladaet-britney",
+        "release": "BRITNEY",
+        "artist": "OBLADAET",
+        "grade": [
+            9,
+            8,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/lida-seks",
+        "release": "Секс",
+        "artist": "Lida",
+        "grade": [
+            8,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/mina-trinadcat-karat-rastayali-dni-2",
+        "release": "растаяли дни",
+        "artist": "мина, тринадцать карат",
+        "grade": [
+            8,
+            8,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/stickyflow-triggery",
+        "release": "Триггеры",
+        "artist": "STICKYFLOW",
+        "grade": [
+            9,
+            8,
+            8,
+            7,
+            10
+        ]
+    },
+    {
+        "link": "/track/briddibie-wisiu-wip-psihi",
+        "release": "ПСИХИ",
+        "artist": "BRIDDIBIE, Wisiu wip",
+        "grade": [
+            6,
+            7,
+            4,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/bagirov-molitva",
+        "release": "Молитва",
+        "artist": "BAGIROV",
+        "grade": [
+            7,
+            7,
+            4,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/9mice-aarne-kai-angel-spray",
+        "release": "SPRAY",
+        "artist": "9mice, Aarne, Kai Angel",
+        "grade": [
+            8,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/aarne-aa-language-2",
+        "release": "AA LANGUAGE 2",
+        "artist": "Aarne",
+        "grade": [
+            8,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/nightinghetto-he-zapomnish",
+        "release": "Hе запомнишь",
+        "artist": "Nightinghetto",
+        "grade": [
+            8,
+            9,
+            8,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/jejo-etazhi-normalno",
+        "release": "Нормально",
+        "artist": "ЙЕЙО, Этажи.",
+        "grade": [
+            4,
+            9,
+            8,
+            6,
+            6
+        ]
+    }
+]

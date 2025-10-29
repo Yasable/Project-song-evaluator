@@ -1,0 +1,74 @@
+[
+    {
+        "link": "/album/735",
+        "release": "735",
+        "artist": "OBLADAET",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/quiet-turn-up",
+        "release": "quiet turn up",
+        "artist": "Kai Angel",
+        "grade": [
+            7,
+            8,
+            9,
+            8,
+            7
+        ]
+    },
+    {
+        "link": "/track/na-vashih-suk",
+        "release": "NA VAШИХ SУК",
+        "artist": "JDFLAG",
+        "grade": [
+            8,
+            7,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/dimsum-time",
+        "release": "Dimsum Time",
+        "artist": "STOPBAN",
+        "grade": [
+            7,
+            9,
+            9,
+            8,
+            9
+        ]
+    },
+    {
+        "link": "/track/molodye-rossiyane",
+        "release": "Молодые Россияне",
+        "artist": "Джон Гарик, Молодой Владимир",
+        "grade": [
+            8,
+            7,
+            7,
+            8,
+            7
+        ]
+    },
+    {
+        "link": "/track/podruzhka",
+        "release": "ПОДРУЖКА",
+        "artist": "Молодой Платон",
+        "grade": [
+            8,
+            9,
+            10,
+            9,
+            7
+        ]
+    }
+]

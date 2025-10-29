@@ -1,0 +1,122 @@
+[
+    {
+        "link": "/track/voron-cry",
+        "release": "Voron Cry",
+        "artist": "GOSHA PIK",
+        "grade": [
+            6,
+            3,
+            3,
+            4,
+            6
+        ]
+    },
+    {
+        "link": "/track/cenzura",
+        "release": "Цензура",
+        "artist": "kidswaga",
+        "grade": [
+            8,
+            7,
+            6,
+            6,
+            5
+        ]
+    },
+    {
+        "link": "/track/plohohorosho",
+        "release": "ПЛОХОХОРОШО",
+        "artist": "Denya8",
+        "grade": [
+            6,
+            6,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "link": "/track/who-is-poet",
+        "release": "Who Is Poet?",
+        "artist": "Hood Poet",
+        "grade": [
+            4,
+            3,
+            4,
+            4,
+            3
+        ]
+    },
+    {
+        "link": "/track/s0ld4t",
+        "release": "С0ЛД4Т",
+        "artist": "fever lie",
+        "grade": [
+            8,
+            9,
+            8,
+            8,
+            9
+        ]
+    },
+    {
+        "link": "/album/nightmortan",
+        "release": "nightmortan",
+        "artist": "deathmarried",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            9
+        ]
+    },
+    {
+        "link": "/track/zero-toler",
+        "release": "ZERO TOLER",
+        "artist": "GONE.Fludd",
+        "grade": [
+            10,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/kiss-my-diss",
+        "release": "KISS MY DISS",
+        "artist": "INSTASAMKA",
+        "grade": [
+            4,
+            9,
+            5,
+            4,
+            3
+        ]
+    },
+    {
+        "link": "/track/vse-hotyat-menya",
+        "release": "все хотят меня​",
+        "artist": "gotlibgotlibgotlib",
+        "grade": [
+            9,
+            9,
+            9,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/forks-amp-knives",
+        "release": "Forks &amp; Knives",
+        "artist": "OBLADAET",
+        "grade": [
+            8,
+            8,
+            10,
+            9,
+            9
+        ]
+    }
+]

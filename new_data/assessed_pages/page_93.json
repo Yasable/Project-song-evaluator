@@ -1,0 +1,230 @@
+[
+    {
+        "link": "/track/rizza-golosa",
+        "release": "голоса",
+        "artist": "rizza",
+        "grade": [
+            8,
+            8,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/bato-murcielago",
+        "release": "Murciélago",
+        "artist": "BATO",
+        "grade": [
+            9,
+            9,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/whole-lotta-swag-raznica",
+        "release": "Разница",
+        "artist": "Whole Lotta Swag",
+        "grade": [
+            9,
+            8,
+            8,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/rvmzes-m-aga",
+        "release": "М, АГА",
+        "artist": "RVMZES",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/difiramby",
+        "release": "ДИФИРАМБЫ",
+        "artist": "dekma",
+        "grade": [
+            10,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/nikto-ne-hochet",
+        "release": "НИКТО НЕ ХОЧЕТ",
+        "artist": "yeschapskii",
+        "grade": [
+            9,
+            9,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/album/murcielago",
+        "release": "Murciélago",
+        "artist": "BATO",
+        "grade": [
+            9,
+            8,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/storytell-intro",
+        "release": "STORYTELL INTRO",
+        "artist": "i61, OG Buda",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/dirty",
+        "release": "Dirty",
+        "artist": "PINQ",
+        "grade": [
+            7,
+            9,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/hell-star",
+        "release": "HELLSTAR",
+        "artist": "SIDODGI DUBOSHIT",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/like-supa-star",
+        "release": "Like Supa Star",
+        "artist": "LIL MORTY",
+        "grade": [
+            8,
+            9,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/nervami",
+        "release": "Нервами",
+        "artist": "MONRAU",
+        "grade": [
+            9,
+            10,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/lux",
+        "release": "lux",
+        "artist": "T-Fest, Скриптонит",
+        "grade": [
+            9,
+            8,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/heart8reak",
+        "release": "Heart8reak",
+        "artist": "Мэйби Бэйби",
+        "grade": [
+            8,
+            9,
+            8,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/deadshot-chto-takoe-rok",
+        "release": "ЧТО ТАКОЕ РОК?",
+        "artist": "Deadshot",
+        "grade": [
+            8,
+            9,
+            6,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/enso-never",
+        "release": "NEVER",
+        "artist": "​enso",
+        "grade": [
+            6,
+            8,
+            6,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/track/abby-sweet-ostansya",
+        "release": "Останься",
+        "artist": "ABBY SWEET",
+        "grade": [
+            7,
+            7,
+            6,
+            6,
+            4
+        ]
+    },
+    {
+        "link": "/track/kozlovskiy-kak-zhe-tak",
+        "release": "Как же так",
+        "artist": "Козловский",
+        "grade": [
+            7,
+            8,
+            6,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/gato-shammgod-training-day",
+        "release": "Training Day",
+        "artist": "Gato Shammgod",
+        "grade": [
+            7,
+            8,
+            4,
+            6,
+            4
+        ]
+    }
+]

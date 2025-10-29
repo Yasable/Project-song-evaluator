@@ -1,0 +1,434 @@
+[
+    {
+        "link": "/track/dzharahov-begu-po-krugu",
+        "release": "Бегу по кругу",
+        "artist": "Джарахов",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/horus-pryzhok-very",
+        "release": "Прыжок веры",
+        "artist": "Horus",
+        "grade": [
+            10,
+            7,
+            10,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/shajni-3ternity-sadness",
+        "release": "Sadness",
+        "artist": "3TERNITY, Шайни",
+        "grade": [
+            5,
+            8,
+            10,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/pyrokinesis-chapman-red",
+        "release": "Чапман ред",
+        "artist": "pyrokinesis",
+        "grade": [
+            10,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/gone-fludd-bolshaya-mama",
+        "release": "Большая мама",
+        "artist": "GONE.Fludd",
+        "grade": [
+            7,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/gone-fludd-digital-fantazy",
+        "release": "DIGITAL FANTAZY",
+        "artist": "GONE.Fludd",
+        "grade": [
+            8,
+            10,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/sqwoz-bab-gender",
+        "release": "GENDER",
+        "artist": "SQWOZ BAB",
+        "grade": [
+            10,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/drowsyy-sqwore-17-seventeen-ne-skroesh",
+        "release": "Не скроешь",
+        "artist": "17 SEVENTEEN, drowsyy, Sqwore",
+        "grade": [
+            6,
+            8,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/bbb-govori-gromche",
+        "release": "Говори громче",
+        "artist": "БББ",
+        "grade": [
+            9,
+            9,
+            8,
+            9,
+            6
+        ]
+    },
+    {
+        "link": "/track/dajmjo-govori-gromche",
+        "release": "Говори громче",
+        "artist": "ДАЙМЁ",
+        "grade": [
+            10,
+            9,
+            8,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/shtab-normalnogo-govori-gromche",
+        "release": "Говори громче",
+        "artist": "Штаб Нормального",
+        "grade": [
+            10,
+            8,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/l0ver-shozhu-s-uma",
+        "release": "Схожу с ума",
+        "artist": "l0ver",
+        "grade": [
+            8,
+            7,
+            8,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/cream-soda-king-cobras",
+        "release": "KING COBRAS",
+        "artist": "CREAM SODA",
+        "grade": [
+            5,
+            8,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/slame-pogovorim-mama",
+        "release": "Поговорим, мама",
+        "artist": "Slame",
+        "grade": [
+            8,
+            9,
+            9,
+            8,
+            7
+        ]
+    },
+    {
+        "link": "/album/dk-hypocrite",
+        "release": "Hypocrite EP",
+        "artist": "DK",
+        "grade": [
+            7,
+            8,
+            4,
+            3,
+            2
+        ]
+    },
+    {
+        "link": "/track/quiizzzmeow-aomine-daiki",
+        "release": "Aomine Daiki",
+        "artist": "quiizzzmeow",
+        "grade": [
+            6,
+            6,
+            7,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/track/cmh-disko-devochka",
+        "release": "ДИСКО ДЕВОЧКА",
+        "artist": "CMH",
+        "grade": [
+            7,
+            7,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/malenkij-yarche-kazhdyj-raz",
+        "release": "Каждый раз",
+        "artist": "маленький ярче",
+        "grade": [
+            5,
+            8,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/album/malenkij-yarche-pur3",
+        "release": "PUR3",
+        "artist": "маленький ярче",
+        "grade": [
+            4,
+            7,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/billy-milligan-kin-dza-dza",
+        "release": "кин-дза-дза",
+        "artist": "Billy Milligan",
+        "grade": [
+            10,
+            10,
+            8,
+            10,
+            6
+        ]
+    },
+    {
+        "link": "/track/sjuzanna-karavan",
+        "release": "Караван",
+        "artist": "Сюзанна",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/sagath-dushevnobolnoj",
+        "release": "Душевнобольной",
+        "artist": "Sagath",
+        "grade": [
+            7,
+            8,
+            9,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/fresco-feat-lildrughill-trap-mula",
+        "release": "Trap Mula",
+        "artist": "FRESCO, LILDRUGHILL",
+        "grade": [
+            7,
+            10,
+            9,
+            7,
+            10
+        ]
+    },
+    {
+        "link": "/album/fresco-flex-a-lot",
+        "release": "FLEX A LOT",
+        "artist": "FRESCO",
+        "grade": [
+            5,
+            8,
+            6,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/track/fendiglock-introvert",
+        "release": "Интроверт",
+        "artist": "FENDIGLOCK",
+        "grade": [
+            6,
+            9,
+            10,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/album/fendiglock-ecstasy",
+        "release": "ECSTASY",
+        "artist": "FENDIGLOCK",
+        "grade": [
+            4,
+            10,
+            9,
+            6,
+            8
+        ]
+    },
+    {
+        "link": "/track/rem-digga-sandali",
+        "release": "Сандали",
+        "artist": "Рем Дигга",
+        "grade": [
+            9,
+            10,
+            9,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/slava-marlow-hotel-tebe-skazat",
+        "release": "Хотел тебе сказать…",
+        "artist": "SLAVA MARLOW",
+        "grade": [
+            7,
+            10,
+            7,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/eldzhej-rakhim-urus",
+        "release": "URUS",
+        "artist": "Rakhim, Элджей",
+        "grade": [
+            6,
+            9,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/t-fest-chisto-dlya-opyta",
+        "release": "Чисто для опыта",
+        "artist": "T-Fest",
+        "grade": [
+            8,
+            8,
+            8,
+            8,
+            7
+        ]
+    },
+    {
+        "link": "/track/markul-zima-blue-2",
+        "release": "Zima Blue",
+        "artist": "MARKUL",
+        "grade": [
+            9,
+            10,
+            10,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/rynochnye-otnosheniya-gryaznye-repery",
+        "release": "Грязные рэперы",
+        "artist": "Рыночные Отношения",
+        "grade": [
+            9,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/rynochnye-otnosheniya-2021",
+        "release": "2021",
+        "artist": "Рыночные Отношения",
+        "grade": [
+            9,
+            8,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/aikko-glaza-steklyashki",
+        "release": "Глаза-стекляшки",
+        "artist": "aikko",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/aikko-temnye-delishki",
+        "release": "Тёмные делишки",
+        "artist": "aikko",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/frendzona-albomba",
+        "release": "АЛЬБОМБА",
+        "artist": "ФРЕНДЗОНА",
+        "grade": [
+            5,
+            8,
+            6,
+            5,
+            4
+        ]
+    }
+]

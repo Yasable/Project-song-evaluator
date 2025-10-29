@@ -1,0 +1,134 @@
+[
+    {
+        "link": "/album/bezmyatezhnost-exe",
+        "release": "безмятежность.exe",
+        "artist": "Скриптонит",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/rich-yung",
+        "release": "Rich &amp; Yung",
+        "artist": "Baby Melo",
+        "grade": [
+            7,
+            7,
+            7,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/yanvar-2",
+        "release": "Январь",
+        "artist": "Midix",
+        "grade": [
+            9,
+            10,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/izotop",
+        "release": "IZOTOP",
+        "artist": "NEWLIGHTCHILD",
+        "grade": [
+            7,
+            7,
+            7,
+            8,
+            5
+        ]
+    },
+    {
+        "link": "/track/hanoi",
+        "release": "Hanoi",
+        "artist": "STOPBAN",
+        "grade": [
+            7,
+            7,
+            6,
+            8,
+            7
+        ]
+    },
+    {
+        "link": "/track/christmas-night",
+        "release": "christmas night",
+        "artist": "Baby Cute",
+        "grade": [
+            7,
+            9,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/blade-of-tears",
+        "release": "blade of tears",
+        "artist": "zxcursed",
+        "grade": [
+            8,
+            9,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/twilight",
+        "release": "twilight",
+        "artist": "3TERNITY",
+        "grade": [
+            8,
+            9,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/sted-d-vot-i-vsjo",
+        "release": "Вот и всё",
+        "artist": "STED.D",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/17-seventeen-ne-zakryvaj-glaza",
+        "release": "Не закрывай глаза",
+        "artist": "17 SEVENTEEN",
+        "grade": [
+            8,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/miyagi-endshpil-aphrodisiac",
+        "release": "Aphrodisiac",
+        "artist": "Mav-d, Miyagi, Эндшпиль",
+        "grade": [
+            9,
+            9,
+            10,
+            10,
+            9
+        ]
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "link": "/album/rossiya24",
+        "release": "Россия24",
+        "artist": "Слава КПСС",
+        "grade": [
+            8,
+            7,
+            7,
+            8,
+            7
+        ]
+    },
+    {
+        "link": "/album/koshmar-pered-rozhdestvom",
+        "release": "Кошмар перед Рождеством",
+        "artist": "17 SEVENTEEN",
+        "grade": [
+            8,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/madam",
+        "release": "Madam",
+        "artist": "Kai Angel",
+        "grade": [
+            8,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/chuchuka",
+        "release": "Chuchuka",
+        "artist": "Big Baby Tape",
+        "grade": [
+            7,
+            9,
+            9,
+            8,
+            9
+        ]
+    },
+    {
+        "link": "/track/po-domam",
+        "release": "По Домам",
+        "artist": "MACAN, Элджей",
+        "grade": [
+            8,
+            10,
+            9,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/den-rozhdeniya-naoborot",
+        "release": "день рождения наоборот",
+        "artist": "pyrokinesis",
+        "grade": [
+            10,
+            8,
+            9,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/antihrist",
+        "release": "АНТИХРИСТ",
+        "artist": "ДЖЕЙЛО",
+        "grade": [
+            8,
+            8,
+            10,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/izba",
+        "release": "Изба",
+        "artist": "VELIAL SQUAD",
+        "grade": [
+            9,
+            8,
+            7,
+            7,
+            7
+        ]
+    },
+    {
+        "link": "/track/hlopya-letyat-naverh",
+        "release": "Хлопья летят наверх",
+        "artist": "FEDUK, Баста, Моя Мишель",
+        "grade": [
+            9,
+            9,
+            9,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/elyaplugg-i-love",
+        "release": "i love!!!",
+        "artist": "elyaplugg!",
+        "grade": [
+            8,
+            9,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/dzhon-garik-druzhba",
+        "release": "Дружба",
+        "artist": "Джон Гарик",
+        "grade": [
+            9,
+            7,
+            9,
+            8,
+            9
+        ]
+    },
+    {
+        "link": "/track/lyriq-guby",
+        "release": "Губы",
+        "artist": "LYRIQ",
+        "grade": [
+            8,
+            10,
+            10,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/mona-bonsaj",
+        "release": "Бонсай",
+        "artist": "MONA",
+        "grade": [
+            8,
+            8,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/sqwore-bardak",
+        "release": "бардак",
+        "artist": "Sqwore",
+        "grade": [
+            8,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/markul-schastlivaya-pesnya",
+        "release": "Счастливая песня",
+        "artist": "MARKUL",
+        "grade": [
+            10,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/9mice-kai-angel-egor-krid-hell",
+        "release": "HELL",
+        "artist": "9mice, Kai Angel, Егор Крид",
+        "grade": [
+            8,
+            10,
+            8,
+            8,
+            9
+        ]
+    },
+    {
+        "link": "/track/saluki-ice-age",
+        "release": "ICE AGE",
+        "artist": "SALUKI",
+        "grade": [
+            9,
+            10,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/kishlak-semsot-sem-klub-27",
+        "release": "Клуб 27",
+        "artist": "Кишлак, семьсот семь",
+        "grade": [
+            8,
+            8,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/kishlak-haushold",
+        "release": "Хаусхолд",
+        "artist": "Кишлак",
+        "grade": [
+            8,
+            8,
+            8,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/drill-ru-7",
+        "release": "Drill Ru 7",
+        "artist": "opt, tsb",
+        "grade": [
+            8,
+            8,
+            10,
+            10,
+            10
+        ]
+    }
+]

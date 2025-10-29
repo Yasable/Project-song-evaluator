@@ -1,0 +1,374 @@
+[
+    {
+        "link": "/track/aljona-shvec-rozami",
+        "release": "Розами",
+        "artist": "алёна швец.",
+        "grade": [
+            10,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/sekusharju-svedi-i-sohrani",
+        "release": "Сведи и сохрани",
+        "artist": "СЕКУШАРЮ",
+        "grade": [
+            7,
+            8,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/dima-tweak-going-next",
+        "release": "Going Next",
+        "artist": "Дима Tweak",
+        "grade": [
+            6,
+            7,
+            5,
+            6,
+            5
+        ]
+    },
+    {
+        "link": "/track/entype-ex",
+        "release": "EX",
+        "artist": "ENTYPE",
+        "grade": [
+            8,
+            9,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/entype-bruh",
+        "release": "BRUH",
+        "artist": "ENTYPE",
+        "grade": [
+            8,
+            7,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/honor",
+        "release": "HONOR",
+        "artist": "G4OUR, xxxmanera",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/newlightchild-triviatta",
+        "release": "TRIVIATTA",
+        "artist": "NEWLIGHTCHILD",
+        "grade": [
+            7,
+            8,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/woee33-illuminate-flow",
+        "release": "Illuminate Flow",
+        "artist": "woee33",
+        "grade": [
+            7,
+            8,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/hagurahak-tokyo-drift",
+        "release": "Tokyo Drift",
+        "artist": "Hagura",
+        "grade": [
+            2,
+            2,
+            1,
+            3,
+            2
+        ]
+    },
+    {
+        "link": "/track/micro-ice-princ",
+        "release": "Принц",
+        "artist": "Micro-ice",
+        "grade": [
+            8,
+            7,
+            4,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/reverse-got-more-flow",
+        "release": "GOT MORE FLOW",
+        "artist": "REVERSE",
+        "grade": [
+            3,
+            2,
+            2,
+            3,
+            2
+        ]
+    },
+    {
+        "link": "/track/ustala-kurit-being-you",
+        "release": "Being You",
+        "artist": "Устала курить",
+        "grade": [
+            5,
+            7,
+            7,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/album/skriptonit-yeahh-pt-1",
+        "release": "YEAHH, Pt. 1",
+        "artist": "Скриптонит",
+        "grade": [
+            10,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/og-buda-porsh",
+        "release": "Порш",
+        "artist": "OG Buda",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/9mice-kai-angel-stay-with-me",
+        "release": "STAY WITH ME",
+        "artist": "9mice, Kai Angel",
+        "grade": [
+            8,
+            10,
+            8,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/lovv66-vozmi-menya-na-nebo",
+        "release": "ВОЗЬМИ МЕНЯ НА НЕБО",
+        "artist": "LOVV66",
+        "grade": [
+            9,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/kali-malcolm-kush-skriptonit-kolca",
+        "release": "Кольца",
+        "artist": "Kali, Malcolm Kush, Скриптонит",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/molites-tatu",
+        "release": "Тату",
+        "artist": "МОЛИТЕСЬ",
+        "grade": [
+            3,
+            8,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/rayvrock-holodnyj",
+        "release": "Холодный",
+        "artist": "Rayvrock",
+        "grade": [
+            7,
+            6,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/happy-9mice-diss",
+        "release": "9MICE DISS",
+        "artist": "Happy",
+        "grade": [
+            9,
+            7,
+            5,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/bushido-zho-muzyka-gromche",
+        "release": "Музыка громче",
+        "artist": "BUSHIDO ZHO",
+        "grade": [
+            8,
+            8,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/og-buda-toxi-bb",
+        "release": "BB",
+        "artist": "OG Buda, Toxi$",
+        "grade": [
+            8,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/toxi-rickflo",
+        "release": "RICKFLO",
+        "artist": "Toxi$",
+        "grade": [
+            8,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/toxi-hotshot",
+        "release": "HOTSHOT",
+        "artist": "Toxi$",
+        "grade": [
+            8,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/bushido-zho-westgoths",
+        "release": "WESTGOTHS",
+        "artist": "BUSHIDO ZHO",
+        "grade": [
+            8,
+            8,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/ari-janaga-dzhiash-tajna",
+        "release": "Тайна",
+        "artist": "ARI, JANAGA, ДжиАш",
+        "grade": [
+            8,
+            10,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/14wav-arch-ve",
+        "release": "Arch!ve",
+        "artist": "14wav",
+        "grade": [
+            7,
+            8,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/marni-vnutri",
+        "release": "Внутри",
+        "artist": "Marni",
+        "grade": [
+            7,
+            10,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/meep-velial-squad-dead-walking",
+        "release": "Dead Walking",
+        "artist": "Meep, VELIAL SQUAD",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/meep-velial-squad-creepshow",
+        "release": "CREEPSHOW",
+        "artist": "Meep, VELIAL SQUAD",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/suziksss-ne-ta",
+        "release": "НЕ ТА",
+        "artist": "suziksss",
+        "grade": [
+            7,
+            10,
+            8,
+            7,
+            8
+        ]
+    }
+]

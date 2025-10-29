@@ -1,0 +1,134 @@
+[
+    {
+        "link": "/album/quazimodo",
+        "release": "QUAZIMODO",
+        "artist": "kizaru",
+        "grade": [
+            7,
+            8,
+            8,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/i-am",
+        "release": "I AM",
+        "artist": "MACAN",
+        "grade": [
+            8,
+            9,
+            8,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/meveriks",
+        "release": "МЭВЕРИКС",
+        "artist": "4n Way, OG Buda",
+        "grade": [
+            8,
+            9,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/privet-2",
+        "release": "Привет",
+        "artist": "mzlff",
+        "grade": [
+            9,
+            9,
+            10,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/rudeboys",
+        "release": "RudeBoys",
+        "artist": "Miyagi, Эндшпиль",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/bus",
+        "release": "BUS",
+        "artist": "BORIS REDWALL, MAYOT",
+        "grade": [
+            10,
+            9,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/esli-ne-usnut",
+        "release": "Если не уснуть",
+        "artist": "Крип-А-Крип, Скриптонит",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/memento-amor",
+        "release": "Memento Amor",
+        "artist": "PROOVY",
+        "grade": [
+            9,
+            10,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/lxner-pererozhdenie",
+        "release": "перерождение",
+        "artist": "LXNER",
+        "grade": [
+            7,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/saluki-beirut",
+        "release": "BEIRUT",
+        "artist": "SALUKI",
+        "grade": [
+            10,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/iskusstvo-album",
+        "release": "Искусство",
+        "artist": "Scally Milano, uglystephan",
+        "grade": [
+            8,
+            10,
+            8,
+            9,
+            8
+        ]
+    }
+]

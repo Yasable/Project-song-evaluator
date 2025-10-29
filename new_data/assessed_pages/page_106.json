@@ -1,0 +1,326 @@
+[
+    {
+        "link": "/track/allo-2",
+        "release": "Алле",
+        "artist": "opt, tsb, Скриптонит",
+        "grade": [
+            9,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/tandem",
+        "release": "Tandem",
+        "artist": "Miyagi, TumaniYO, Эндшпиль",
+        "grade": [
+            9,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/dyatel-vudi",
+        "release": "ДЯТЕЛ ВУДИ",
+        "artist": "ENTYPE",
+        "grade": [
+            7,
+            8,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/dffrntt-flower",
+        "release": "FLOWER",
+        "artist": "Dffrntt",
+        "grade": [
+            7,
+            7,
+            6,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/onilow-ya-slyshal",
+        "release": "Я слышал",
+        "artist": "Onilow",
+        "grade": [
+            6,
+            7,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/bapezayka-idntgvfck",
+        "release": "IDNTGVFCK",
+        "artist": "BAPEZAYKA",
+        "grade": [
+            8,
+            7,
+            6,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/album/alteration",
+        "release": "alteration",
+        "artist": "Jetty Gas",
+        "grade": [
+            7,
+            7,
+            4,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/chto-my-s-toboj-nadelali",
+        "release": "Что мы с тобой наделали?",
+        "artist": "Джизус",
+        "grade": [
+            10,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/vliyanie",
+        "release": "Влияние",
+        "artist": "FENDIGLOCK, White Punk",
+        "grade": [
+            8,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/tolstovka",
+        "release": "толстовка",
+        "artist": "Mary Gu, OG Buda",
+        "grade": [
+            8,
+            9,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/kayoki-rany",
+        "release": "Раны",
+        "artist": "KAYOKI",
+        "grade": [
+            8,
+            9,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/jabo-tom-ford",
+        "release": "Tom Ford",
+        "artist": "JABO",
+        "grade": [
+            8,
+            8,
+            8,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/pavel-golotin-russian-big-steppa",
+        "release": "Russian Big Steppa",
+        "artist": "Павел Голотин",
+        "grade": [
+            6,
+            7,
+            5,
+            4,
+            6
+        ]
+    },
+    {
+        "link": "/track/lastofdare-benihana",
+        "release": "БЕНИХАНА",
+        "artist": "Lastofdare",
+        "grade": [
+            7,
+            8,
+            6,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/album/1000-zhiznej",
+        "release": "1000 жизней",
+        "artist": "5opka",
+        "grade": [
+            8,
+            8,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/5opka-bugatti",
+        "release": "Bugatti",
+        "artist": "5opka",
+        "grade": [
+            8,
+            7,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/zapretit",
+        "release": "запретить",
+        "artist": "SLAVA MARLOW",
+        "grade": [
+            8,
+            10,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/vinovata-sama",
+        "release": "Виновата сама...",
+        "artist": "Платина",
+        "grade": [
+            6,
+            7,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/chsv",
+        "release": "ЧСВ",
+        "artist": "Lida, Серега Пират",
+        "grade": [
+            8,
+            9,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/ehos-ya-begu",
+        "release": "Я бегу",
+        "artist": "ЭХОС",
+        "grade": [
+            9,
+            8,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/radkevich-son-of-66",
+        "release": "Son of 66",
+        "artist": "RADKEVICH",
+        "grade": [
+            8,
+            8,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/marvin-royce-prosciutto",
+        "release": "PROSCIUTTO",
+        "artist": "Marvin Royce",
+        "grade": [
+            7,
+            7,
+            4,
+            4,
+            5
+        ]
+    },
+    {
+        "link": "/track/shkuubzzi-aromatnaya-sativa",
+        "release": "Ароматная сатива",
+        "artist": "SHKUUBZZI",
+        "grade": [
+            7,
+            7,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/tajnye-znaki-pryatki",
+        "release": "Прятки",
+        "artist": "Тайные знаки",
+        "grade": [
+            9,
+            8,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/crylove-veter",
+        "release": "Ветер",
+        "artist": "CRYLOVE",
+        "grade": [
+            9,
+            9,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/reflec710n-n3ver-4ev3r",
+        "release": "N3VER/4eV3R",
+        "artist": "reflec710N",
+        "grade": [
+            8,
+            6,
+            6,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/anonymous_ember-anothergreatday-freesyle2033",
+        "release": "ANOTHERGREATDAY #FREESYLE2033",
+        "artist": "Anonymous Ember",
+        "grade": [
+            6,
+            7,
+            7,
+            6,
+            6
+        ]
+    }
+]
