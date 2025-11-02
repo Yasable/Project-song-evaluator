@@ -2,8 +2,8 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
 from config_parser import (BASE_URL_RELEASE, GRADES_MARKER,
-                           SORTED_PAGES_DIR, PAGE_FILENAME,
-                           PAGES_WITH_GRADES)
+                                  SORTED_PAGES_DIR, PAGE_FILENAME,
+                                  PAGES_WITH_GRADES)
 from utils.file_io import read_json_file, make_json_file
 import os
 
@@ -56,10 +56,6 @@ def parsing_grades_for_page(number_page: int):
     for i in range(0, len(data)):
         data[i]["grade"] = grades[i]
     make_json_file(output_path, data)
-    # releases = parse_page_html(page_number)
-    # file_path = os.path.join(ALL_PAGES_DIR, PAGE_FILENAME.format(page_number))
-    # os.makedirs(ALL_PAGES_DIR, exist_ok=True)
-    # make_json_file(file_path, releases)
 
 def parsing_all_grades(first_page=1, last_page=182):
     for i in range(first_page, last_page + 1):
