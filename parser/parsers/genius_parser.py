@@ -41,5 +41,6 @@ def parsig_lyrics_for_tracks(first: int, last: int):
         curr = file.format(i)
         data = read_json_file(curr)
         lyrics = get_lyrics(data["genius_link"])
-        data["lyrics"] = lyrics[lyrics.find("Lyrics") + 7:]
+        lyrics = lyrics[lyrics.find("Lyrics") + 7:] if lyrics[lyrics.find("Lyrics") + 6 == '\n'] else lyrics[lyrics.find("Lyrics") + 6:]
+        data["lyrics"] = lyrics
         make_json_file(curr, data)
