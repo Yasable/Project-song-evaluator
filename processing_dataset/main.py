@@ -1,8 +1,34 @@
 from text_processing.embendding import embeddig_all_tracks
-from config_dataset import TRACKS_DIR
+from audio_processing.mfccs import mfcc_all_tracks
+from config_dataset import TRACK_FILE_TEMPOLATE, TRACKS_DIR
+
 
 def main():
-    embeddig_all_tracks(TRACKS_DIR)
+    # embeddig_all_tracks(TRACKS_DIR)
+    # pass
+    mfcc_all_tracks(TRACKS_DIR)
 
 if __name__ == "__main__":
     main()
+
+
+
+
+# import os
+# import shutil
+
+# def organize_tracks():
+#     base_dir = "data/tracks"
+    
+#     if not os.path.exists(base_dir):
+#         raise FileNotFoundError(f"Папка '{base_dir}' не найдена.")
+    
+#     for filename in os.listdir(base_dir):
+#         if filename.endswith(".json") and filename.startswith("track_"):
+#             name_without_ext = filename[:-5]  # убираем ".json"
+#             file_path = os.path.join(base_dir, filename)
+#             new_dir = os.path.join(base_dir, name_without_ext)
+#             os.makedirs(new_dir, exist_ok=True)
+#             shutil.move(file_path, os.path.join(new_dir, filename))
+
+# organize_tracks()
