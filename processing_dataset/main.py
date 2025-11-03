@@ -1,12 +1,13 @@
 from text_processing.embendding import embeddig_all_tracks
-from audio_processing.mfccs import mfcc_all_tracks
+from audio_processing.mfccs import mfcc_all_tracks, add_mfcc_to_json
 from config_dataset import TRACK_FILE_TEMPOLATE, TRACKS_DIR
 
 
 def main():
     # embeddig_all_tracks(TRACKS_DIR)
     # pass
-    mfcc_all_tracks(TRACKS_DIR)
+    # mfcc_all_tracks(TRACKS_DIR)
+    add_mfcc_to_json("data/track/track_360/track_360.json", "data/track/track_360/track_360.mp3")
 
 if __name__ == "__main__":
     main()

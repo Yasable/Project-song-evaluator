@@ -183,11 +183,11 @@ def build_artist_link_map(json1_path, json2_path):
     
 def split_json_files():
     input_path = "release_with_link_{}.json"
-    output_path = "data/tracks/"
+    output_path = "data/track/"
 
-    file_counter = 1  # Общий счётчик для именования файлов
+    file_counter = 331  # Общий счётчик для именования файлов
 
-    for i in range(1, 7):
+    for i in range(7, 8):
         json_file = input_path.format(i)
         with open(json_file, "r", encoding="utf-8") as f:
             try:
@@ -204,8 +204,10 @@ def split_json_files():
             if not isinstance(item, dict):
                 print(f"Элемент в {json_file} не является словарём. Пропускаем.")
                 continue
-
-            output_file = output_path + "track_" + str(file_counter) + ".json"
+            
+            os.makedirs(output_path + "track_" + str(file_counter), exist_ok=True)
+            output_file = output_path + "track_" + str(file_counter) + "/track_" + str(file_counter) + ".json"
+            
             with open(output_file, "w", encoding="utf-8") as out_f:
                 json.dump(item, out_f, ensure_ascii=False, indent=4)
             file_counter += 1
@@ -213,7 +215,7 @@ def split_json_files():
 def get_links_to_genius():
     data = read_json_file("old_data/selection_releases_1000.json")
     new_data = []
-    for i in range(325, 350):
+    for i in range(350, 400):
         release = data[i]
         print(i, release["artist"], release["release"])
         link = input()

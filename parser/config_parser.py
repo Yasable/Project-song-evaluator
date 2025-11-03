@@ -5,6 +5,8 @@ BASE_URL_AUTORS_PAGES = "https://risazatvorchestvo.com/authors?page="
 BASE_URL_RELEASE = "https://risazatvorchestvo.com"
 BASE_GENIUS_URL = "https://genius.com/"
 BASE_GENIUS_ARTIST_URL = "https://genius.com/artists/"
+BASE_MP3PARTY_URL = "https://mp3party.net"
+DOWNLOAD_LIST_URL = "https://mp3party.net/search?q="
 
 # CSS risazatvorchestovo.com
 CARDS_DIV_CLASS = "hover:bg-white/[8%] bg-white/5 p-1 lg:p-3 overflow-hidden flex flex-col justify-start relative origin-bottom-left w-full h-full rounded-xl border border-zinc-800 group duration-300"
@@ -12,6 +14,12 @@ GRADE_INDICATOR_CLASS = "inline-flex size-7 text-xs items-center font-semibold j
 RELISE_NAME_CLASS = "text-sm w-full dark:text-white antialiased break-all leading-4 mt-2 block font-medium text-ellipsis max-w-full whitespace-nowrap overflow-hidden"
 ARTIST_NAME_CLASS = "flex flex-wrap leading-3 font-semibold mt-1.5 gap-y-1 text-[13px]"
 ARTIST_LINK_CLASS = "inline-flex items-center justify-center whitespace-nowrap cursor-pointer text-sm font-medium ring-offset-background transition-colors focus-visible:outline-hidden focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 hover:bg-accent hover:text-accent-foreground h-10 py-2 has-[>svg]:px-3 px-2 pl-1 lg:px-3 lg:py-0 lg:pl-2 rounded-full gap-x-1.5 lg:gap-x-2 flex items-center"
+
+# CSS mp3party
+SEARCH_DIV_CLASS = "search-result-text"
+PLAYLIST_DIV_CLASS = "playlist"
+TRACK_ITEM = "track__user-panel"
+DOWNLOAD_BUTTON_A_CLASS = "c-button c-button_download js-dw-btn"
 
 # CSS genius.com
 NOT_FOUND_DIV_CLASS = "render_404"

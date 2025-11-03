@@ -14,7 +14,7 @@
 
 from utils.data_processing import get_links_to_genius, split_json_files
 from parsers.genius_parser import parsig_lyrics_for_tracks, get_lyrics
-# from parsers.audio_parser import download_mp3_to_track
+from parsers.audio_parser import parsing_mp3
 # def main():
     # parsing_all_links()
 
@@ -46,45 +46,44 @@ from parsers.genius_parser import parsig_lyrics_for_tracks, get_lyrics
     # check_correct_link_artist()
     # build_artist_link_map(SELECTION_2, "correct.json")
     # pass
-
-#  StyledLink-sc-15c685a-0 iHsqUq SongBioPreview__Wrapper-sc-d13d64be-1 evQSSo
-
 import os
-import json
-import requests
+import shutil
 from pathlib import Path
+#  StyledLink-sc-15c685a-0 iHsqUq SongBioPreview__Wrapper-sc-d13d64be-1 evQSSo
+# def remove_track_folders_without_mp3(base_dir="data/track", dry_run=False):
+#     base_path = Path(base_dir)
 
-def download_mp3_to_track(mp3_url, track_id, base_dir="data/track"):
-    folder_path = Path(base_dir) / f"track_{track_id}"
-    mp3_path = folder_path / f"track_{track_id}.mp3"
+#     if not base_path.exists():
+#         print(f"Директория {base_dir} не существует.")
+#         return
 
-    # Создаём папку, если её нет
-    folder_path.mkdir(parents=True, exist_ok=True)
+#     for folder in base_path.iterdir():
+#         if not folder.is_dir():
+#             continue
+#         if not folder.name.startswith("track_"):
+#             continue
 
-    try:
-        print(f"Скачивание {mp3_url} → {mp3_path}")
-        response = requests.get(mp3_url, stream=True)
-        response.raise_for_status()
-
-        with open(mp3_path, 'wb') as f:
-            for chunk in response.iter_content(chunk_size=8192):
-                f.write(chunk)
-        print(f"Успешно сохранено: {mp3_path}")
-        return mp3_path
-    except Exception as e:
-        print(f"Ошибка при скачивании {mp3_url}: {e}")
-        return None
-
-
+#         # Ищем любой .mp3 файл (регистронезависимо)
+#         mp3_files = list(folder.glob("*.mp3")) + list(folder.glob("*.MP3"))
+        
+#         if not mp3_files:
+#             if dry_run:
+#                 print(f"[Будет удалено] {folder}")
+#             else:
+#                 print(f"Удаляем {folder}")
+#                 shutil.rmtree(folder)
 def main():
     # get_links_to_genius()
-    # split_json_files()
+    parsig_lyrics_for_tracks("data/track")
 
     # print(get_lyrics("https://genius.com/Lowkeyme-french-75-lyrics"))
 
 # https://dl2.mp3party.net/download/11443528
-    download_mp3_to_track("https://dl2.mp3party.net/download/11443528", 1)
+    # print(read_all_tracks_info())
+    # download_mp3_to_track("https://dl2.mp3party.net/download/11443528", 1)
     # parsig_lyrics_for_tracks(1, 334)
+    # remove_track_folders_without_mp3()
+    # parsing_url_to_dowload(["madk1d"], "дырки в штанах")
     # pass
 
 if __name__ == "__main__":
