@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head><title>Оценка песни</title></head>
+<body>
+  <h1>Загрузите песню</h1>
+  {% with messages = get_flashed_messages() %}
+    {% if messages %}
+      <ul>
+      {% for msg in messages %}<li style="color:red">{{ msg }}</li>{% endfor %}
+      </ul>
+    {% endif %}
+  {% endwith %}
+
+  <form method="POST" enctype="multipart/form-data">
+    Название песни: <input name="song_title" required><br><br>
+    Исполнитель: <input name="artist" required><br><br>
+    Ссылка на текст: <input name="lyrics_url" type="url" required><br><br>
+    Аудиофайл (MP3/WAV): <input name="audio_file" type="file" accept=".mp3,.wav" required><br><br>
+    <label>
+      <input type="checkbox" name="use_db"> Использовать данные из базы (если уже оценивалась)
+    </label><br><br>
+    <button type="submit">Оценить</button>
+  </form>
+</body>
+</html>

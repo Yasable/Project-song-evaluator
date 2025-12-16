@@ -1,12 +1,9 @@
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
 import requests
 import re
 import os
 
-from utils.file_io import read_json_file, make_json_file
-from utils.genius_links import create_genius_link
+from parser.utils.file_io import read_json_file, make_json_file
 
 def get_lyrics(song_url):
     song_url = song_url.strip()
@@ -36,15 +33,6 @@ def get_lyrics(song_url):
     return full_text
 
 def parsig_lyrics_for_tracks(folder_path: str):
-    # file = "data/tracks/track_{}.json"
-    # for i in range(first, last + 1):
-    #     print(i)
-    #     curr = file.format(i)
-    #     data = read_json_file(curr)
-    #     lyrics = get_lyrics(data["genius_link"])
-    #     lyrics = lyrics[lyrics.find("Lyrics") + 7:] if lyrics[lyrics.find("Lyrics") + 6 == '\n'] else lyrics[lyrics.find("Lyrics") + 6:]
-    #     data["lyrics"] = lyrics
-    #     make_json_file(curr, data)
     if not os.path.isdir(folder_path):
         raise ValueError(f"Папка не найдена: {folder_path}")
 
@@ -57,13 +45,20 @@ def parsig_lyrics_for_tracks(folder_path: str):
     print(f"Найдено {len(json_paths)} JSON-файлов. Начинаю обработку...")
 
     updated = 0
-    for filename in json_paths:
-        print(f"Обработка файла {filename}")
-        filepath = os.path.join(folder_path, filename + "/" + filename + ".json")
-        data = read_json_file(filepath)
+    for file_name in json_paths:
+        print(f"Обработка файла {file_name}")
+        file_path = os.path.join(folder_path, file_name + "/" + file_name + ".json")
+        data = read_json_file(file_path)
         if "lyrics" in data:
             continue
-        data["lyrics"] = get_lyrics(data["genius_link"])
-        make_json_file(filepath, data)
+        lyrics = get_lyrics(data["genius_link"])
+        try:
+            id_lyric = lyrics.find("Lyrics")
+
+            data["lyrics"] = lyrics[id_lyric + 1:] if id_lyric != -1 else lyrics
+            make_json_file(file_path, data)
+        except Exception as e:
+            print(f"Ошибка при обработке")
+            data["lyrics"] = lyrics
         updated += 1
-    print(f"\n Завершено. Добавлено текстов: {updated} из {len(json_paths)} файлов.")
+    print(f"\nЗавершено. Добавлено текстов: {updated} из {len(json_paths)} файлов.\n")

@@ -2,8 +2,8 @@ import os
 import numpy as np
 import librosa
 
-from utils.file_io import read_json_file, make_json_file
-from config_dataset import N_MFCC
+from processing_dataset.utils.file_io import read_json_file, make_json_file
+from processing_dataset.config_dataset import N_MFCC
 
 def extract_mfccs_from_mp3(mp3_path: str) -> np.ndarray:
     try:
@@ -44,16 +44,7 @@ def extract_mfccs_from_mp3(mp3_path: str) -> np.ndarray:
     features.append(float(zcr.mean()))
     features.append(float(zcr.std()))
 
-    # 7. Tempo
-    y_harmonic, y_percussive = librosa.effects.hpss(y)
-    try:
-        tempo, beat_frames = librosa.beat.beat_track(y=y_percussive, sr=sr, start_bpm=120.0)
-        tempo = float(tempo)
-    except Exception:
-        tempo = 0.0
-    features.append(tempo)
-
-    expecte_lenght = 2 * N_MFCC + 2 * 12 + 2 * 7 + 2 + 2 + 2 + 1
+    expecte_lenght = 2 * N_MFCC + 2 * 12 + 2 * 7 + 2 + 2 + 2
     if len(features) != expecte_lenght:
         raise ValueError(f"Неверная длина признаков: {len(features)} != {expecte_lenght}")    
     return np.array(features)

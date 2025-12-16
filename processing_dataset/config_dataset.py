@@ -6,6 +6,9 @@ DATA_TRACK_DIR = TRACKS_DIR + "track_{}/"
 
 TRACK_FILE_TEMPOLATE = "track_{}.json"
 
+# analysis info path
+ANALYSIS_DIR = "processing_dataset/result/"
+
 # settings fot mfss
 N_MFCC = 20
 
@@ -28,16 +31,54 @@ FEATURES_TAGS = {
         "contrast_0_std", "contrast_1_std", "contrast_2_std", "contrast_3_std", "contrast_4_std", "contrast_5_std", "contrast_6_std", 
         "centroid_mean", "centroid_std",
         "bandwidth_mean", "bandwidth_std",
-        "zcr_mean", "zcr_std",
-        "tempo"
+        "zcr_mean", "zcr_std"
     ],
     "groups": {
-        "mfcc": [0, 39],
+        "mfcc": [7, 46],
+        "chroma": [47, 70],
+        "contrast": [71, 84],
+        "centroid": [85, 86],
+        "bandwidth": [87, 88],
+        "zcr": [89, 90]
+    },
+    "groups_2": {
+        "mfcc": [1, 39],
         "chroma": [40, 63],
         "contrast": [64, 77],
         "centroid": [78, 79],
         "bandwidth": [80, 81],
-        "zcr": [82, 83],
-        "tempo": [84]
+        "zcr": [82, 83]
     }
 }
+
+# labels name
+LABELS_NAME = {
+    "labels_name": [
+        "grade_0", "grade_1", "grade_2", "grade_3", "grade_4",
+        "grade_mean", "grade_std"
+    ],
+    "groups": {
+        "grade_0": 0,
+        "grade_1": 1,
+        "grade_2": 2,
+        "grade_3": 3,
+        "grade_4": 4,
+        "grade_mean": 5,
+        "grade_std": 6
+    }
+}
+
+# vibe multimetry
+VIBE_MULTIMETRY = {
+    1: 1.0000,
+    2: 1.0675,
+    3: 1.1349,
+    4: 1.2024,
+    5: 1.2699,
+    6: 1.3373,
+    7: 1.4048,
+    8: 1.4723,
+    9: 1.5397,
+    10: 1.6072
+}
+

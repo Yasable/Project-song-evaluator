@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head><title>Результат</title></head>
+<body>
+  <h1>Результат оценки</h1>
+  <p><b>Песня:</b> {{ song.title }} — {{ song.artist }}</p>
+  <p><b>Ссылка на текст:</b> <a href="{{ song.lyrics_url }}" target="_blank">{{ song.lyrics_url }}</a></p>
+
+  <h3>Оценки:</h3>
+  <ul>
+    {% for g in grades %}
+      <li>Критерий {{ loop.index0 }}: {{ g }}</li>
+    {% endfor %}
+  </ul>
+
+  <p><b>Итоговая оценка:</b> {{ "%.2f"|format(song.final_score) }}</p>
+
+  <a href="/">← Назад</a>
+</body>
+</html>
