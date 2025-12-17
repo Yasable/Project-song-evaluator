@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/track/trankwill-kasanie",
+        "release": "Касание",
+        "artist": "TrankWill",
+        "grade": true
+    },
+    {
+        "link": "/track/trankwill-ri",
+        "release": "Ri",
+        "artist": "TrankWill",
+        "grade": true
+    },
+    {
+        "link": "/track/sevn-sep-sy4ki",
+        "release": "SY4KI",
+        "artist": "SEVN Sep",
+        "grade": true
+    },
+    {
+        "link": "/track/vinetta-bystree",
+        "release": "БЫСТРЕЕ",
+        "artist": "Vinetta",
+        "grade": true
+    },
+    {
+        "link": "/track/00santi-mesto",
+        "release": "место",
+        "artist": "00santi",
+        "grade": true
+    },
+    {
+        "link": "/track/00santi-my",
+        "release": "мы",
+        "artist": "00santi",
+        "grade": true
+    },
+    {
+        "link": "/track/nikita-polosin-da-zdravstvuet",
+        "release": "Да здравствует",
+        "artist": "Никита Полосин",
+        "grade": true
+    },
+    {
+        "link": "/track/in8inityme-ysl",
+        "release": "YSL",
+        "artist": "In8inityMe",
+        "grade": true
+    },
+    {
+        "link": "/track/merccifuul-a-chto-esli-sdohnem",
+        "release": "А ЧТО ЕСЛИ СДОХНЕМ?",
+        "artist": "Merccifuul",
+        "grade": true
+    },
+    {
+        "link": "/track/lexx-neversleep-devil",
+        "release": "DEVIL",
+        "artist": "Lexx NeverSleep",
+        "grade": true
+    },
+    {
+        "link": "/track/shout-out",
+        "release": "SHOUT OUT",
+        "artist": "shadowraze",
+        "grade": true
+    },
+    {
+        "link": "/track/postuchitsya",
+        "release": "постучится",
+        "artist": "дина мар, КОСМОНАВТОВ НЕТ",
+        "grade": false
+    },
+    {
+        "link": "/track/hromirovannye-pokemony",
+        "release": "ХРОМИРОВАННЫЕ ПОКЕМОНЫ",
+        "artist": "ДЕТИ RAVE",
+        "grade": false
+    },
+    {
+        "link": "/track/vahu",
+        "release": "ВАХУ",
+        "artist": "10AGE",
+        "grade": false
+    },
+    {
+        "link": "/track/krov",
+        "release": "кровь ;(",
+        "artist": "deyezaxo, Kleff",
+        "grade": false
+    },
+    {
+        "link": "/track/bejbi",
+        "release": "Бэйби",
+        "artist": "Антоха МС",
+        "grade": false
+    },
+    {
+        "link": "/track/nokia-callin-12-am",
+        "release": "NOKIA CALLIN 12 AM",
+        "artist": "КРЕСТ",
+        "grade": false
+    },
+    {
+        "link": "/track/krome-tebya",
+        "release": "КРОМЕ ТЕБЯ",
+        "artist": "ARUSTAMOV",
+        "grade": false
+    },
+    {
+        "link": "/track/bardak",
+        "release": "Бардак",
+        "artist": "JUGHEAD",
+        "grade": false
+    },
+    {
+        "link": "/album/postelnye-razgovory-s-samim-soboj",
+        "release": "постельные разговоры с самим собой",
+        "artist": "2kizz",
+        "grade": false
+    },
+    {
+        "link": "/album/6-prichin-brosit-rep",
+        "release": "6 причин бросить рэп",
+        "artist": "dabbackwood",
+        "grade": false
+    },
+    {
+        "link": "/track/bogorodskie-golubi",
+        "release": "Богородские Голуби",
+        "artist": "Metox",
+        "grade": false
+    },
+    {
+        "link": "/track/firmennyj-recept",
+        "release": "Фирменный рецепт",
+        "artist": "Murovei",
+        "grade": false
+    },
+    {
+        "link": "/track/son-3",
+        "release": "Сон",
+        "artist": "polnalyubvi, TRITIA",
+        "grade": false
+    },
+    {
+        "link": "/track/pohoroshela",
+        "release": "Похорошела",
+        "artist": "The Limba",
+        "grade": false
+    },
+    {
+        "link": "/track/malenkij-yarche-densish",
+        "release": "Денсишь",
+        "artist": "маленький ярче",
+        "grade": true
+    },
+    {
+        "link": "/album/molodye-rossiyane",
+        "release": "Молодые Россияне",
+        "artist": "Молодой Владимир",
+        "grade": false
+    },
+    {
+        "link": "/track/baby-eto-jos",
+        "release": "Baby Это Jos",
+        "artist": "Josodo",
+        "grade": false
+    },
+    {
+        "link": "/track/lunacy",
+        "release": "LUNACY",
+        "artist": "PROOVY",
+        "grade": false
+    },
+    {
+        "link": "/track/no-makeup",
+        "release": "no makeup",
+        "artist": "daryana",
+        "grade": false
+    },
+    {
+        "link": "/track/metch",
+        "release": "МЭТЧ",
+        "artist": "КРИСПИ",
+        "grade": false
+    },
+    {
+        "link": "/album/angely-i-ne-ochen",
+        "release": "Ангелы и не очень",
+        "artist": "Моя Мишель",
+        "grade": false
+    },
+    {
+        "link": "/track/zadyhajus",
+        "release": "Задыхаюсь",
+        "artist": "aikko, Роки",
+        "grade": false
+    },
+    {
+        "link": "/track/miami-96",
+        "release": "Miami 96",
+        "artist": "AQYLA, BORIS REDWALL",
+        "grade": true
+    },
+    {
+        "link": "/track/straw-face",
+        "release": "STRAW FACE",
+        "artist": "Failure, SHTRIHCOD",
+        "grade": false
+    },
+    {
+        "link": "/track/kopitsya",
+        "release": "копится",
+        "artist": "семьсот семь",
+        "grade": false
+    }
+]

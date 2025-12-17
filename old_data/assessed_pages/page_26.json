@@ -1,0 +1,146 @@
+[
+    {
+        "link": "/track/polmateri-bov",
+        "release": "БОВЬ",
+        "artist": "ПОЛМАТЕРИ",
+        "grade": [
+            8,
+            9,
+            8,
+            8,
+            9
+        ]
+    },
+    {
+        "link": "/track/birya-exxtinct-mne-nuzhno",
+        "release": "Мне нужно",
+        "artist": "BIRYA, Exxtinct",
+        "grade": [
+            8,
+            8,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/zidane",
+        "release": "ZIDANE",
+        "artist": "OBLADAET",
+        "grade": [
+            9,
+            8,
+            9,
+            10,
+            9
+        ]
+    },
+    {
+        "link": "/album/stay-hella",
+        "release": "STAY HELLA",
+        "artist": "JEEMBO",
+        "grade": [
+            7,
+            8,
+            9,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/delaj-chto-mozhesh",
+        "release": "Делай Что Можешь",
+        "artist": "PHARAOH, Диана Арбенина",
+        "grade": [
+            5,
+            6,
+            4,
+            6,
+            3
+        ]
+    },
+    {
+        "link": "/track/presidential-majestic",
+        "release": "Presidential (Majestic)",
+        "artist": "kizaru",
+        "grade": [
+            6,
+            6,
+            8,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/kak-rabotaet-ljubov",
+        "release": "Как работает любовь?",
+        "artist": "5opka, СТИНТ",
+        "grade": [
+            7,
+            8,
+            6,
+            6,
+            7
+        ]
+    },
+    {
+        "link": "/track/aga",
+        "release": "Ага",
+        "artist": "YASMI, Полка",
+        "grade": [
+            9,
+            8,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/album/provincial",
+        "release": "PROVINCIAL",
+        "artist": "Maladoy Prince",
+        "grade": [
+            9,
+            9,
+            8,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/bolnoj-2",
+        "release": "БОЛЬНОЙ",
+        "artist": "Hood Rich Luka, молодой калуга",
+        "grade": [
+            7,
+            7,
+            7,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/ukrashenie",
+        "release": "Украшение",
+        "artist": "pyrokinesis, Золотое Перо",
+        "grade": [
+            9,
+            7,
+            10,
+            9,
+            7
+        ]
+    },
+    {
+        "link": "/album/vysshie-sily-deluxe",
+        "release": "Высшие силы (Deluxe)",
+        "artist": "ANNA ASTI",
+        "grade": [
+            7,
+            8,
+            9,
+            10,
+            8
+        ]
+    }
+]

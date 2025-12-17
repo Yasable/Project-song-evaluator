@@ -1,0 +1,434 @@
+[
+    {
+        "link": "/album/internet-numbers",
+        "release": "internet numbers",
+        "artist": "LXNER",
+        "grade": [
+            8,
+            7,
+            5,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/album/dak-teils-3",
+        "release": "Дак Теилс 3",
+        "artist": "Lida",
+        "grade": [
+            8,
+            8,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/mansplain",
+        "release": "Mansplain",
+        "artist": "ROCKET",
+        "grade": [
+            7,
+            5,
+            6,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/pesnya-dvuh-romantikov",
+        "release": "Песня двух романтиков",
+        "artist": "VACÍO, Дима Билан",
+        "grade": [
+            6,
+            6,
+            7,
+            6,
+            4
+        ]
+    },
+    {
+        "link": "/track/ya-zvezda",
+        "release": "Я ЗВЕЗДА!",
+        "artist": "THRILL PILL",
+        "grade": [
+            8,
+            8,
+            9,
+            10,
+            6
+        ]
+    },
+    {
+        "link": "/track/haunt",
+        "release": "haunt",
+        "artist": "MUPP, zxcursed",
+        "grade": [
+            9,
+            8,
+            4,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/dom-v-sietle",
+        "release": "Дом в Сиэтле",
+        "artist": "Marni",
+        "grade": [
+            9,
+            10,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/thrilleya",
+        "release": "THRILLEЯ",
+        "artist": "9mice, Kai Angel",
+        "grade": [
+            7,
+            9,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/osminogi",
+        "release": "осьминоги",
+        "artist": "wateri",
+        "grade": [
+            8,
+            9,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/dyrachyo",
+        "release": "Dyrachyo",
+        "artist": "0 похвал 9 репортов, phantom",
+        "grade": [
+            9,
+            10,
+            3,
+            3,
+            4
+        ]
+    },
+    {
+        "link": "/track/on-sajt",
+        "release": "Он сайт",
+        "artist": "Beescus",
+        "grade": [
+            7,
+            8,
+            6,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/track/kmnd",
+        "release": "КМНД",
+        "artist": "Beid, Jelyh, LEYA",
+        "grade": [
+            8,
+            9,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/balbesy",
+        "release": "Балбесы",
+        "artist": "Rekkorize",
+        "grade": [
+            8,
+            7,
+            5,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/raiv",
+        "release": "RaiV",
+        "artist": "IVYSOLLL, Quin3D!",
+        "grade": [
+            8,
+            7,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/na-arbate",
+        "release": "На арбате",
+        "artist": "YG Onyx",
+        "grade": [
+            7,
+            8,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/all-i-want",
+        "release": "All I Want",
+        "artist": "LUV3MEMORE",
+        "grade": [
+            8,
+            10,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/inogda",
+        "release": "Иногда",
+        "artist": "VOYT, ЙЕЙО, Этажи.",
+        "grade": [
+            7,
+            8,
+            9,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/ultraturbochiller",
+        "release": "Ультратурбочиллер",
+        "artist": "V1ADEG",
+        "grade": [
+            8,
+            9,
+            7,
+            6,
+            8
+        ]
+    },
+    {
+        "link": "/track/ymirau",
+        "release": "YMIRAU",
+        "artist": "9mice",
+        "grade": [
+            9,
+            10,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/asphalt",
+        "release": "ASPHALT",
+        "artist": "9mice",
+        "grade": [
+            9,
+            9,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/monolit",
+        "release": "Монолит",
+        "artist": "ATL, Loc-Dog",
+        "grade": [
+            10,
+            7,
+            6,
+            8,
+            4
+        ]
+    },
+    {
+        "link": "/track/vystrel",
+        "release": "ВЫСТРЕЛ",
+        "artist": "CAKEBOY",
+        "grade": [
+            7,
+            8,
+            8,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/cel",
+        "release": "Цель",
+        "artist": "PRISYAZNYUK, ЭКСО",
+        "grade": [
+            3,
+            5,
+            2,
+            3,
+            2
+        ]
+    },
+    {
+        "link": "/track/son",
+        "release": "Сон",
+        "artist": "HLOY, Mav-d, Эндшпиль",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/ladon",
+        "release": "Ладонь",
+        "artist": "Jessie Vatutin",
+        "grade": [
+            10,
+            8,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/ex-2",
+        "release": "Ex",
+        "artist": "АДЛИН",
+        "grade": [
+            9,
+            9,
+            9,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/still-lovin",
+        "release": "Still lovin’",
+        "artist": "LOOFY",
+        "grade": [
+            8,
+            4,
+            6,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/nft",
+        "release": "NFT",
+        "artist": "quiizzzmeow",
+        "grade": [
+            10,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/albom-kotoryj-vy-ne-zhdali",
+        "release": "Альбом, который вы не ждали",
+        "artist": "quiizzzmeow",
+        "grade": [
+            9,
+            9,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/apnoe",
+        "release": "Апноэ",
+        "artist": "Кишлак",
+        "grade": [
+            8,
+            8,
+            7,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/solo",
+        "release": "SOLO",
+        "artist": "J. ROUH, SALUKI",
+        "grade": [
+            8,
+            5,
+            7,
+            9,
+            6
+        ]
+    },
+    {
+        "link": "/track/skyline-ryodan",
+        "release": "skyline ​ryodan",
+        "artist": "jzxdx, shadowraze",
+        "grade": [
+            8,
+            10,
+            6,
+            6,
+            8
+        ]
+    },
+    {
+        "link": "/track/pps",
+        "release": "ППС",
+        "artist": "тёма сиппин",
+        "grade": [
+            8,
+            8,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/moei-lubvi",
+        "release": "MOEI LUBVI",
+        "artist": "BORIS REDWALL, LOVV66, Turbosh",
+        "grade": [
+            6,
+            7,
+            9,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/smotri",
+        "release": "Смотри",
+        "artist": "Рельсы",
+        "grade": [
+            8,
+            8,
+            8,
+            7,
+            10
+        ]
+    },
+    {
+        "link": "/album/duh-mira",
+        "release": "Дух Мира",
+        "artist": "Джизус",
+        "grade": [
+            9,
+            9,
+            8,
+            10,
+            10
+        ]
+    }
+]

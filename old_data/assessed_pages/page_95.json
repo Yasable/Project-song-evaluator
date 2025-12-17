@@ -1,0 +1,386 @@
+[
+    {
+        "link": "/track/rapsodiya",
+        "release": "RAPSODIYA",
+        "artist": "NEWLIGHTCHILD",
+        "grade": [
+            9,
+            9,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/butterfly-effect",
+        "release": "BUTTERFLY EFFECT",
+        "artist": "NEWLIGHTCHILD",
+        "grade": [
+            8,
+            8,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/gdagdegdagdagdo",
+        "release": "Gdagdegdagdagdo",
+        "artist": "STOPBAN, Шайни",
+        "grade": [
+            8,
+            7,
+            9,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/ne-sej-ljubov",
+        "release": "Не сей любовь",
+        "artist": "DK, TheBrianMaps",
+        "grade": [
+            7,
+            9,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/album/pluto",
+        "release": "PLUTO",
+        "artist": "RVMZES",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/marshrutki",
+        "release": "Маршрутки",
+        "artist": "Тима Белорусских",
+        "grade": [
+            8,
+            8,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/pyatyj-kak-ona-tancuet",
+        "release": "Как она танцует",
+        "artist": "Пятый",
+        "grade": [
+            10,
+            4,
+            4,
+            3,
+            4
+        ]
+    },
+    {
+        "link": "/track/tsudavi-sirota",
+        "release": "Сирота",
+        "artist": "TsuDaVi",
+        "grade": [
+            9,
+            8,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/trilari-tishina",
+        "release": "Тишина",
+        "artist": "Трилари",
+        "grade": [
+            7,
+            7,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/bronte-aldridge-zamok",
+        "release": "ЗАМОК",
+        "artist": "Bronte Aldridge",
+        "grade": [
+            4,
+            6,
+            5,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/kisee-vampirinysh-v-klube",
+        "release": "В клубе",
+        "artist": "Kisee, vampirinysh",
+        "grade": [
+            7,
+            7,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/lil-evian-tilted-depressed-well-dressed",
+        "release": "Tilted+DepressedWell Dressed",
+        "artist": "Lil Evian",
+        "grade": [
+            7,
+            8,
+            7,
+            6,
+            5
+        ]
+    },
+    {
+        "link": "/album/lil-evian-love",
+        "release": "Love Addict",
+        "artist": "Lil Evian",
+        "grade": [
+            7,
+            10,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/lil-evian-cursed-flowers",
+        "release": "Cursed Flowers",
+        "artist": "Lil Evian",
+        "grade": [
+            7,
+            8,
+            6,
+            6,
+            5
+        ]
+    },
+    {
+        "link": "/track/6lockmyheart-worthwhile",
+        "release": "Worthwhile",
+        "artist": "6LOCKMYHEART",
+        "grade": [
+            6,
+            8,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/mirfon-banknota",
+        "release": "Банкнота",
+        "artist": "Мирфон",
+        "grade": [
+            8,
+            7,
+            6,
+            7,
+            7
+        ]
+    },
+    {
+        "link": "/track/highswag-oracle-sglaz",
+        "release": "сглаз",
+        "artist": "HighSwag, oracle",
+        "grade": [
+            6,
+            9,
+            6,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/fonetic-svobodnym",
+        "release": "Свободным",
+        "artist": "Fonetic",
+        "grade": [
+            10,
+            9,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/dead-blonde-adrenalinovyj-ukol",
+        "release": "Адреналиновый укол",
+        "artist": "DEAD BLONDE",
+        "grade": [
+            7,
+            8,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/glocki52-tec-racks-tax",
+        "release": "Tec Racks Tax",
+        "artist": "Glocki52",
+        "grade": [
+            7,
+            7,
+            7,
+            6,
+            4
+        ]
+    },
+    {
+        "link": "/track/platina-zavidujut",
+        "release": "Завидуют",
+        "artist": "Платина",
+        "grade": [
+            7,
+            8,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/lastofdare-destroy",
+        "release": "Destroy",
+        "artist": "Lastofdare",
+        "grade": [
+            8,
+            8,
+            6,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/track/shaul-teqi-odin-doma",
+        "release": "Один дома",
+        "artist": "SHAUL, Teqi",
+        "grade": [
+            6,
+            7,
+            6,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/track/liney-i-vsjo",
+        "release": "И всё",
+        "artist": "Liney",
+        "grade": [
+            7,
+            9,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/crylove-model",
+        "release": "Модель",
+        "artist": "CRYLOVE",
+        "grade": [
+            7,
+            7,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/sobachij-lie-luv",
+        "release": "Luv",
+        "artist": "Собачий Lie",
+        "grade": [
+            9,
+            8,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/beescus-glazami-ya-prosto-plyvu",
+        "release": "Я просто плыву",
+        "artist": "Beescus, GLAZAMI",
+        "grade": [
+            7,
+            9,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/mdxx-nepobedimyj",
+        "release": "Непобедимый",
+        "artist": "MDXX",
+        "grade": [
+            8,
+            7,
+            5,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/yung-dolor-real",
+        "release": "Real",
+        "artist": "Yung Dolor",
+        "grade": [
+            7,
+            8,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/apcloud-swag",
+        "release": "Swag",
+        "artist": "Apcloud",
+        "grade": [
+            8,
+            8,
+            5,
+            4,
+            6
+        ]
+    },
+    {
+        "link": "/track/doflamingo-humble",
+        "release": "Humble",
+        "artist": "Doflamingo",
+        "grade": [
+            8,
+            8,
+            8,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/track/fonetic-mmf-do-bombeya",
+        "release": "До Бомбея",
+        "artist": "Fonetic, ммф.",
+        "grade": [
+            10,
+            9,
+            9,
+            9,
+            8
+        ]
+    }
+]

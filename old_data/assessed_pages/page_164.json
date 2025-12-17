@@ -1,0 +1,434 @@
+[
+    {
+        "link": "/track/kai-angel-silver-cp",
+        "release": "SILVER CP",
+        "artist": "Kai Angel",
+        "grade": [
+            5,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/bumble-beezy-regular",
+        "release": "Regular",
+        "artist": "Bumble Beezy",
+        "grade": [
+            9,
+            9,
+            10,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/cmh-x-dzharahov-rubl",
+        "release": "Рубль",
+        "artist": "CMH, Джарахов",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/pinq-status",
+        "release": "Status",
+        "artist": "PINQ",
+        "grade": [
+            8,
+            8,
+            10,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/danchainz-mayot-blago-white-v-takt",
+        "release": "В такт",
+        "artist": "blago white, danchainz, MAYOT",
+        "grade": [
+            8,
+            9,
+            10,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/g4our-mayot-poblizhe",
+        "release": "Поближе",
+        "artist": "G4OUR, MAYOT",
+        "grade": [
+            8,
+            8,
+            8,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/lida-utomilsya",
+        "release": "Утомился",
+        "artist": "Lida",
+        "grade": [
+            8,
+            9,
+            10,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/morgenshtern-selyavi",
+        "release": "Селяви",
+        "artist": "MORGENSHTERN",
+        "grade": [
+            7,
+            9,
+            8,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/pyrokinesis-oko",
+        "release": "око",
+        "artist": "pyrokinesis",
+        "grade": [
+            10,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/malenkij-yarche-munbut-feat-mayot",
+        "release": "Мунбут",
+        "artist": "MAYOT, маленький ярче",
+        "grade": [
+            7,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/malenkij-yarche-dripskii",
+        "release": "Dripskii",
+        "artist": "маленький ярче",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/album/kloukoma-help",
+        "release": "HELP",
+        "artist": "КлоуКома",
+        "grade": [
+            8,
+            10,
+            8,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/pussykiller-tolko-mne",
+        "release": "Только мне",
+        "artist": "PUSSYKILLER",
+        "grade": [
+            8,
+            9,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/seemee-hlopya",
+        "release": "Хлопья",
+        "artist": "SEEMEE",
+        "grade": [
+            7,
+            7,
+            9,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/scally-milano-uglystephan-ya-hochu-tebya-trahat",
+        "release": "Я хочу тебя трахать",
+        "artist": "Scally Milano, uglystephan",
+        "grade": [
+            4,
+            9,
+            6,
+            9,
+            4
+        ]
+    },
+    {
+        "link": "/album/sqwoz-bab-zapiski-o-ljubvi",
+        "release": "Записки о любви",
+        "artist": "SQWOZ BAB",
+        "grade": [
+            10,
+            9,
+            9,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/lil-the-neel-zavyazyvaju",
+        "release": "Завязываю",
+        "artist": "LIL THE NEEL",
+        "grade": [
+            9,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/lil-the-neel-trap-pap-dad-sad",
+        "release": "trap pap dad sad",
+        "artist": "LIL THE NEEL",
+        "grade": [
+            9,
+            10,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/bushido-zho-kataus-po-gorodu-s-setom-ft-163onmyneck-blago-white",
+        "release": "Kataus po gorodu s setom",
+        "artist": "163ONMYNECK, blago white, BUSHIDO ZHO",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/bushido-zho-no-bang-hold-on",
+        "release": "NO BANG! HOLD ON!",
+        "artist": "BUSHIDO ZHO",
+        "grade": [
+            8,
+            8,
+            8,
+            9,
+            6
+        ]
+    },
+    {
+        "link": "/track/krest-sekrety",
+        "release": "Секреты",
+        "artist": "КРЕСТ",
+        "grade": [
+            7,
+            8,
+            6,
+            6,
+            4
+        ]
+    },
+    {
+        "link": "/track/hochuspat-sqwore-17-seventeen-akkumulyator",
+        "release": "АККУМУЛЯТОР",
+        "artist": "17 SEVENTEEN, Sqwore, хочуспать",
+        "grade": [
+            10,
+            7,
+            9,
+            9,
+            6
+        ]
+    },
+    {
+        "link": "/track/cmh-milf-money-jug-404-frik-pati",
+        "release": "milf money",
+        "artist": "CMH, ФРИК ПАТИ, ЮГ 404",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/cmh-mudblood",
+        "release": "MUDBLOOD",
+        "artist": "CMH",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/krov-iz-nosa-so-sedated",
+        "release": "so sedated",
+        "artist": "кровь из носа",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/noize-mc-ekrannoe-vremya",
+        "release": "Экранное время",
+        "artist": "Noize MC",
+        "grade": [
+            10,
+            8,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/ulwu-nite-17-seventeen-prosti",
+        "release": "Прости",
+        "artist": "17 SEVENTEEN, ulwu.nite",
+        "grade": [
+            6,
+            6,
+            8,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/lovv66-bylo",
+        "release": "БЫЛО",
+        "artist": "LOVV66",
+        "grade": [
+            8,
+            8,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/shadowraze-showdown",
+        "release": "showdown",
+        "artist": "shadowraze",
+        "grade": [
+            8,
+            9,
+            5,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/track/morgenshtern-12",
+        "release": "12",
+        "artist": "MORGENSHTERN",
+        "grade": [
+            9,
+            10,
+            9,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/gataski-andromeda",
+        "release": "Андромеда",
+        "artist": "GATASKI",
+        "grade": [
+            8,
+            10,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/tri-dnya-dozhdya-zivert-vydyhaj",
+        "release": "Выдыхай",
+        "artist": "Zivert, Три дня дождя",
+        "grade": [
+            8,
+            8,
+            10,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/instasamka-shake",
+        "release": "SHAKE",
+        "artist": "INSTASAMKA",
+        "grade": [
+            4,
+            9,
+            6,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/cakeboy-mne-ne-nuzhna-ljubov",
+        "release": "МНЕ НЕ НУЖНА ЛЮБОВЬ",
+        "artist": "CAKEBOY",
+        "grade": [
+            8,
+            10,
+            8,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/dzhizus-don-t-kill",
+        "release": "don't kill",
+        "artist": "Джизус",
+        "grade": [
+            9,
+            9,
+            10,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/blago-white-mir",
+        "release": "МИР",
+        "artist": "blago white",
+        "grade": [
+            8,
+            8,
+            9,
+            9,
+            6
+        ]
+    }
+]

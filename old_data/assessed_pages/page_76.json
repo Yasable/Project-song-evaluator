@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/track/dve-tochki-otkrytaya-skobka",
+        "release": "ДВЕ ТОЧКИ ОТКРЫТАЯ СКОБКА",
+        "artist": "dekma",
+        "grade": [
+            9,
+            8,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/moi-roboty",
+        "release": "МОИ РОБОТЫ",
+        "artist": "КУОК",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/5400",
+        "release": "5400",
+        "artist": "4n Way",
+        "grade": [
+            8,
+            8,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/1n3y-tak-hochu",
+        "release": "так хочу",
+        "artist": "1N3Y",
+        "grade": [
+            7,
+            8,
+            6,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/bapezayka-kudokushi-chisla",
+        "release": "Числа",
+        "artist": "BAPEZAYKA, KUDOKUSHI",
+        "grade": [
+            5,
+            6,
+            4,
+            6,
+            4
+        ]
+    },
+    {
+        "link": "/track/mnogo-wu-obrechennye-angely",
+        "release": "Обреченные ангелы",
+        "artist": "mnogo wu",
+        "grade": [
+            8,
+            9,
+            4,
+            6,
+            4
+        ]
+    },
+    {
+        "link": "/track/bad-murz-shake-it",
+        "release": "SHAKE IT",
+        "artist": "BAD Murz",
+        "grade": [
+            6,
+            6,
+            4,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/index-dennoch",
+        "release": "ДеньНочь",
+        "artist": "INDEX",
+        "grade": [
+            7,
+            8,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/amura-nekogo-ljubit",
+        "release": "Некого любить",
+        "artist": "Амура",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/mathway-hello-world",
+        "release": "Hello World",
+        "artist": "MathWAY",
+        "grade": [
+            3,
+            6,
+            3,
+            3,
+            2
+        ]
+    },
+    {
+        "link": "/track/run-it-up",
+        "release": "Run It Up",
+        "artist": "Dee Aura, LILDRUGHILL",
+        "grade": [
+            8,
+            7,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/album/molodoj-bishkek-lp",
+        "release": "МОЛОДОЙ БИШКЕК LP",
+        "artist": "ЗАМАЙ",
+        "grade": [
+            8,
+            7,
+            5,
+            6,
+            4
+        ]
+    },
+    {
+        "link": "/album/pop-empire",
+        "release": "POP EMPIRE",
+        "artist": "daryana",
+        "grade": [
+            6,
+            7,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/album/family-first",
+        "release": "FAMILY FIRST",
+        "artist": "J. ROUH",
+        "grade": [
+            9,
+            9,
+            8,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/album/we-live-only-once",
+        "release": "WE LIVE ONLY ONCE",
+        "artist": "Aarne, BUSHIDO ZHO",
+        "grade": [
+            7,
+            9,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/album/sekret",
+        "release": "секрет",
+        "artist": "ooes",
+        "grade": [
+            9,
+            8,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/turbo-majestic",
+        "release": "Turbo (Majestic)",
+        "artist": "Big Baby Tape",
+        "grade": [
+            7,
+            8,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/tryasi",
+        "release": "ТРЯСИ",
+        "artist": "Lida, Toxi$",
+        "grade": [
+            7,
+            10,
+            10,
+            9,
+            10
+        ]
+    }
+]

@@ -1,0 +1,434 @@
+[
+    {
+        "link": "/track/v-ture",
+        "release": "В ТУРЕ",
+        "artist": "Whywe",
+        "grade": [
+            7,
+            8,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/za-dengi-da",
+        "release": "За деньги да",
+        "artist": "Милиан О’Войд",
+        "grade": [
+            9,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/love-stars-mili",
+        "release": "LOVE STARS MILI",
+        "artist": "Милиан О’Войд",
+        "grade": [
+            9,
+            9,
+            8,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/na-na-na",
+        "release": "На-на-на",
+        "artist": "Lida, ФРИК ПАТИ",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/sorry",
+        "release": "Sorry",
+        "artist": "Nekid",
+        "grade": [
+            6,
+            7,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/lajki",
+        "release": "Лайки",
+        "artist": "ARTEM SHILOVETS, nkeeei, SODA LUV, uniqe",
+        "grade": [
+            8,
+            7,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/u-menya-vse-normalno",
+        "release": "У меня все нормально",
+        "artist": "EGRRR",
+        "grade": [
+            8,
+            6,
+            6,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/album/teenland",
+        "release": "TEENLAND",
+        "artist": "Молодой Платон",
+        "grade": [
+            9,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/motyljok",
+        "release": "Мотылёк",
+        "artist": "MAYOT",
+        "grade": [
+            8,
+            8,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/padonok",
+        "release": "Падонок",
+        "artist": "Шайни",
+        "grade": [
+            8,
+            10,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/krylya",
+        "release": "Крылья",
+        "artist": "GSmiiit",
+        "grade": [
+            4,
+            6,
+            8,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/legit-check",
+        "release": "Legit Check",
+        "artist": "FRIENDLY THUG 52 NGG",
+        "grade": [
+            8,
+            8,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/ne-vyvezesh",
+        "release": "Не вывезешь",
+        "artist": "BLASTT, X FEL",
+        "grade": [
+            10,
+            10,
+            4,
+            3,
+            4
+        ]
+    },
+    {
+        "link": "/track/sveti",
+        "release": "Свети",
+        "artist": "PINQ",
+        "grade": [
+            8,
+            8,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/luna-segodnya-krasivaya-pravda",
+        "release": "Луна сегодня красивая, правда?",
+        "artist": "PINQ",
+        "grade": [
+            8,
+            8,
+            9,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/vandal",
+        "release": "VANDAL",
+        "artist": "Toxi$",
+        "grade": [
+            8,
+            8,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/album/jazz-do-it",
+        "release": "JAZZ DO IT",
+        "artist": "Toxi$",
+        "grade": [
+            6,
+            8,
+            7,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/fake-love",
+        "release": "Fake Love",
+        "artist": "EverEnd",
+        "grade": [
+            1,
+            3,
+            4,
+            4,
+            2
+        ]
+    },
+    {
+        "link": "/track/szhigaya-ostatki-nesovershennogo",
+        "release": "Сжигая остатки несовершенного",
+        "artist": "Gateiam",
+        "grade": [
+            9,
+            4,
+            3,
+            4,
+            2
+        ]
+    },
+    {
+        "link": "/track/to-li-eshhjo-budet",
+        "release": "То ли ещё будет",
+        "artist": "ALBLAK 52, kizaru",
+        "grade": [
+            7,
+            8,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/album/long-live-812",
+        "release": "LONG LIVE 812",
+        "artist": "ALBLAK 52",
+        "grade": [
+            7,
+            7,
+            6,
+            9,
+            6
+        ]
+    },
+    {
+        "link": "/track/fuf",
+        "release": "ФуФ",
+        "artist": "Loqiemean",
+        "grade": [
+            10,
+            8,
+            10,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/mejk-ap",
+        "release": "МЭЙК АП",
+        "artist": "Молодой Платон",
+        "grade": [
+            8,
+            9,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/avans",
+        "release": "Аванс",
+        "artist": "Скриптонит",
+        "grade": [
+            8,
+            8,
+            10,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/paris-2008",
+        "release": "PARIS 2008",
+        "artist": "Kai Angel",
+        "grade": [
+            7,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/angel-may-cry",
+        "release": "ANGEL MAY CRY",
+        "artist": "Kai Angel",
+        "grade": [
+            8,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/igrushki",
+        "release": "игрушки",
+        "artist": "mzlff",
+        "grade": [
+            10,
+            9,
+            9,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/life-of-a-popstar",
+        "release": "Life of a popstar",
+        "artist": "Sqwore",
+        "grade": [
+            8,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/kilimandzharo",
+        "release": "КИЛИМАНДЖАРО",
+        "artist": "LOVV66",
+        "grade": [
+            7,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/aromat",
+        "release": "AROMAT",
+        "artist": "ESTANGER",
+        "grade": [
+            3,
+            4,
+            4,
+            2,
+            2
+        ]
+    },
+    {
+        "link": "/track/ne-ljubila",
+        "release": "Не любила",
+        "artist": "Nekid",
+        "grade": [
+            5,
+            6,
+            6,
+            6,
+            4
+        ]
+    },
+    {
+        "link": "/track/splash",
+        "release": "Splash!",
+        "artist": "HARKONE ATTANO",
+        "grade": [
+            5,
+            5,
+            4,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/na-svojom",
+        "release": "На своём",
+        "artist": "CARAPACEE",
+        "grade": [
+            9,
+            9,
+            9,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/sobachij-oshejnik",
+        "release": "Собачий ошейник",
+        "artist": "CARAPACEE",
+        "grade": [
+            9,
+            8,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/joker",
+        "release": "JOKER",
+        "artist": "Christiana Mergan",
+        "grade": [
+            5,
+            4,
+            5,
+            3,
+            4
+        ]
+    },
+    {
+        "link": "/track/uletaj",
+        "release": "Улетай",
+        "artist": "Лилая",
+        "grade": [
+            9,
+            10,
+            7,
+            8,
+            8
+        ]
+    }
+]

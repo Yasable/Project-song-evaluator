@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/track/perestroika",
+        "release": "PERESTROIKA",
+        "artist": "UMSY",
+        "grade": false
+    },
+    {
+        "link": "/track/8-2",
+        "release": "8",
+        "artist": "ЮГ 404",
+        "grade": false
+    },
+    {
+        "link": "/track/dni-goryat",
+        "release": "дни горят",
+        "artist": "cold carti, GATASKI, Бикей Декада",
+        "grade": false
+    },
+    {
+        "link": "/track/ne-speshi",
+        "release": "Не спеши",
+        "artist": "Честер Небро",
+        "grade": false
+    },
+    {
+        "link": "/album/ty-vsegda-v-proigryshe",
+        "release": "ТЫ ВСЕГДА В ПРОИГРЫШЕ",
+        "artist": "GRILLYAZH",
+        "grade": false
+    },
+    {
+        "link": "/track/kazoo-2",
+        "release": "KAZOO! 2",
+        "artist": "BSWEEDY, Chensky, Ernest Merkel, JackLooney, KASKAD, Ksenon, R1Fmabes, Ver$ace, нейролептик, СОВЕРГОН",
+        "grade": false
+    },
+    {
+        "link": "/track/din-don",
+        "release": "Динь Дон",
+        "artist": "Крип-А-Крип",
+        "grade": false
+    },
+    {
+        "link": "/track/hit-hit",
+        "release": "Hit Hit",
+        "artist": "Blockkid",
+        "grade": false
+    },
+    {
+        "link": "/track/static",
+        "release": "STATIC",
+        "artist": "Missu, КРЕСТ",
+        "grade": false
+    },
+    {
+        "link": "/album/visholding",
+        "release": "Висхолдинг",
+        "artist": "Три дня дождя",
+        "grade": true
+    },
+    {
+        "link": "/album/angel-may-cry-2",
+        "release": "ANGEL MAY CRY 2",
+        "artist": "Kai Angel",
+        "grade": true
+    },
+    {
+        "link": "/album/accept-all-cookies",
+        "release": "ACCEPT ALL COOKIES",
+        "artist": "Loqiemean",
+        "grade": true
+    },
+    {
+        "link": "/track/neo",
+        "release": "НЕО",
+        "artist": "Платина",
+        "grade": true
+    },
+    {
+        "link": "/track/dlya-svoih",
+        "release": "Для Своих",
+        "artist": "MC Кальмар, OG Buda",
+        "grade": false
+    },
+    {
+        "link": "/track/futfetish",
+        "release": "Футфетиш",
+        "artist": "MC Кальмар, OG Buda",
+        "grade": true
+    },
+    {
+        "link": "/track/wrong",
+        "release": "WRONG",
+        "artist": "Baby Melo, CMH",
+        "grade": true
+    },
+    {
+        "link": "/track/aeroflot-143",
+        "release": "AEROFLOT 143",
+        "artist": "NAVAI, Элджей",
+        "grade": true
+    },
+    {
+        "link": "/album/v-moih-legkih-vyrosli-cvety",
+        "release": "в моих легких выросли цветы",
+        "artist": "CUPSIZE",
+        "grade": true
+    },
+    {
+        "link": "/album/not-for-you",
+        "release": "NOT FOR YOU",
+        "artist": "daryana",
+        "grade": false
+    },
+    {
+        "link": "/track/diler-gr4ve-d4nc3",
+        "release": "ДИЛЕР (gr4vE d4nc3)",
+        "artist": "clout",
+        "grade": false
+    },
+    {
+        "link": "/track/elektronnyj",
+        "release": "ЭлЕктРоНный",
+        "artist": "clout",
+        "grade": true
+    },
+    {
+        "link": "/track/djurasell-9",
+        "release": "ДюРаСэлЛ%)9)",
+        "artist": "clout",
+        "grade": false
+    },
+    {
+        "link": "/track/shin-shin",
+        "release": "shin (ШИН)",
+        "artist": "elyaplugg!",
+        "grade": true
+    },
+    {
+        "link": "/track/pomnish-2",
+        "release": "ПОМНИШЬ",
+        "artist": "i61",
+        "grade": true
+    },
+    {
+        "link": "/track/parizh",
+        "release": "Париж",
+        "artist": "FEDUK, Джарахов",
+        "grade": false
+    },
+    {
+        "link": "/track/bylo-letom",
+        "release": "Было летом",
+        "artist": "CODE80, THRILL PILL",
+        "grade": false
+    },
+    {
+        "link": "/track/na-kraju-obryva",
+        "release": "На краю обрыва",
+        "artist": "MellSher",
+        "grade": false
+    },
+    {
+        "link": "/track/tokyoragepill",
+        "release": "tokyoragepill",
+        "artist": "Shiny Ruby",
+        "grade": false
+    },
+    {
+        "link": "/track/baba-gabba",
+        "release": "БАБА ГАББА",
+        "artist": "ДЕТИ RAVE",
+        "grade": false
+    },
+    {
+        "link": "/track/lomaju",
+        "release": "ломаю",
+        "artist": "ТОМА",
+        "grade": false
+    },
+    {
+        "link": "/track/hmuryj",
+        "release": "Хмурый",
+        "artist": "The Hatters",
+        "grade": false
+    },
+    {
+        "link": "/track/tweak-oblaka",
+        "release": "Облака",
+        "artist": "TWEAK",
+        "grade": true
+    },
+    {
+        "link": "/track/human-being-trxstr-kolyan-boryan-mc-luchnik-2025",
+        "release": "2025",
+        "artist": "human Being, TRXSTR, Колян Борян, МЦ Лучник",
+        "grade": true
+    },
+    {
+        "link": "/track/kust-zaza-pack",
+        "release": "ZaZa Pack",
+        "artist": "kust",
+        "grade": true
+    },
+    {
+        "link": "/track/firaya-odinokaya-luna",
+        "release": "Одинокая луна",
+        "artist": "Firaya",
+        "grade": true
+    },
+    {
+        "link": "/track/mirfon-sansara",
+        "release": "Сансара",
+        "artist": "Мирфон",
+        "grade": true
+    }
+]

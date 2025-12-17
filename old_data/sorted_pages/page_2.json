@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/album/9mm",
+        "release": "9mm",
+        "artist": "9mice",
+        "grade": true
+    },
+    {
+        "link": "/album/vrednye-sovety",
+        "release": "Вредные советы",
+        "artist": "5opka",
+        "grade": true
+    },
+    {
+        "link": "/album/ya-predskazyvaju",
+        "release": "Я предсказываю",
+        "artist": "YASMI",
+        "grade": true
+    },
+    {
+        "link": "/album/dom",
+        "release": "Дом",
+        "artist": "Бонд с кнопкой",
+        "grade": true
+    },
+    {
+        "link": "/track/durochka",
+        "release": "Дурочка",
+        "artist": "Дора",
+        "grade": true
+    },
+    {
+        "link": "/track/miu-miu-2",
+        "release": "MIU MIU",
+        "artist": "Baby Melo",
+        "grade": true
+    },
+    {
+        "link": "/track/tipok",
+        "release": "Типок",
+        "artist": "PLOHOYPAREN",
+        "grade": true
+    },
+    {
+        "link": "/track/nezabudki",
+        "release": "Незабудки",
+        "artist": "Егор Крид",
+        "grade": true
+    },
+    {
+        "link": "/track/agent-girl",
+        "release": "AGENT GIRL",
+        "artist": "INSTASAMKA",
+        "grade": true
+    },
+    {
+        "link": "/track/ya-obyavlyaju-vam-vojnu",
+        "release": "Я объявляю вам войну",
+        "artist": "Хаски",
+        "grade": true
+    }
+]

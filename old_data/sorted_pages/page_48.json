@@ -1,0 +1,122 @@
+[
+    {
+        "link": "/track/privet-3",
+        "release": "Привет",
+        "artist": "Три дня дождя",
+        "grade": true
+    },
+    {
+        "link": "/track/diamond-tears",
+        "release": "Diamond Tears",
+        "artist": "FRIENDLY THUG 52 NGG, kizaru",
+        "grade": true
+    },
+    {
+        "link": "/track/nothing",
+        "release": "NOTHING",
+        "artist": "Toxi$",
+        "grade": true
+    },
+    {
+        "link": "/track/oops",
+        "release": "Oops!",
+        "artist": "daryana, Мэйби Бэйби",
+        "grade": true
+    },
+    {
+        "link": "/album/dj-august",
+        "release": "DJ AUGUST",
+        "artist": "August",
+        "grade": true
+    },
+    {
+        "link": "/track/slomana",
+        "release": "Сломана",
+        "artist": "Baby Melo, FADE031",
+        "grade": true
+    },
+    {
+        "link": "/track/provocateur",
+        "release": "Provocateur",
+        "artist": "YASMI",
+        "grade": true
+    },
+    {
+        "link": "/track/edvan-impro",
+        "release": "Impro",
+        "artist": "Edvan",
+        "grade": true
+    },
+    {
+        "link": "/track/6less6oy-flappy-bird",
+        "release": "Flappy Bird",
+        "artist": "6less6oy",
+        "grade": true
+    },
+    {
+        "link": "/track/prequtie-drag-on-dragon",
+        "release": "Drag on Dragon",
+        "artist": "Prequtie",
+        "grade": true
+    },
+    {
+        "link": "/track/krim-plin-granicy",
+        "release": "Границы",
+        "artist": "КРИМ ПЛИН",
+        "grade": true
+    },
+    {
+        "link": "/track/index-paris",
+        "release": "PARIS",
+        "artist": "INDEX",
+        "grade": true
+    },
+    {
+        "link": "/track/batina-kozhanka-mne-segodnya-20",
+        "release": "Мне сегодня 20",
+        "artist": "Батина Кожанка",
+        "grade": true
+    },
+    {
+        "link": "/track/gozlat-sankt-peterburg-hasla",
+        "release": "Санкт-Петербург хасла",
+        "artist": "GOZLAT",
+        "grade": true
+    },
+    {
+        "link": "/track/fazzovskqq-snegopadom",
+        "release": "Снегопадом",
+        "artist": "FazzovskQQ",
+        "grade": true
+    },
+    {
+        "link": "/track/killadg-black-amigo",
+        "release": "BLACK AMIGO",
+        "artist": "KILLADG",
+        "grade": true
+    },
+    {
+        "link": "/track/beid-apotheosis",
+        "release": "APOTHEOSIS",
+        "artist": "Beid",
+        "grade": true
+    },
+    {
+        "link": "/track/sd3k-rost",
+        "release": "Рост",
+        "artist": "sd3k",
+        "grade": true
+    },
+    {
+        "link": "/track/moetwee-finnkun-podmeshal",
+        "release": "подмешал",
+        "artist": "moetwee, Финнкун",
+        "grade": true
+    },
+    {
+        "link": "/track/yeenee-finnkun-zhjostko",
+        "release": "Жёстко",
+        "artist": "YEENEE, Финнкун",
+        "grade": true
+    }
+]

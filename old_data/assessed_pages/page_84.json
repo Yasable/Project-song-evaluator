@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/album/enigma",
+        "release": "ENIGMA",
+        "artist": "FRESCO",
+        "grade": [
+            8,
+            8,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/album/hroniki-kajfa",
+        "release": "Хроники Кайфа",
+        "artist": "blago white",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/tuda-sjuda-millioner",
+        "release": "Туда Сюда Миллионер",
+        "artist": "Scally Milano, uglystephan",
+        "grade": [
+            9,
+            8,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/zakrytaya-dver",
+        "release": "Закрытая дверь",
+        "artist": "LOVV66",
+        "grade": [
+            9,
+            9,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/zakryvaju-glaza",
+        "release": "закрываю глаза",
+        "artist": "тринадцать карат",
+        "grade": [
+            8,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/feduk-pokataj-remix",
+        "release": "Покатай (remix)",
+        "artist": "FEDUK",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/infinity-love-888",
+        "release": "INFINITY LOVE 888",
+        "artist": "Милиан О’Войд",
+        "grade": [
+            9,
+            10,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/don-t-stop",
+        "release": "don't stop",
+        "artist": "retroyse, whyspurky",
+        "grade": [
+            8,
+            8,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/album/soda-luv",
+        "release": "SODA LUV",
+        "artist": "SODA LUV",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/streets-echo-2052",
+        "release": "Streets Echo 2052",
+        "artist": "ALBLAK 52",
+        "grade": [
+            8,
+            8,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/album/jerk-shit-happens-2",
+        "release": "JERK SHIT HAPPENS 2",
+        "artist": "unki",
+        "grade": [
+            9,
+            8,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/i-got-u",
+        "release": "I GOT U",
+        "artist": "Toxi$",
+        "grade": [
+            8,
+            8,
+            7,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/waste",
+        "release": "waste",
+        "artist": "zxcursed",
+        "grade": [
+            4,
+            7,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "link": "/track/cupids-hand",
+        "release": "CUPIDS HAND",
+        "artist": "Pepel Nahudi",
+        "grade": [
+            8,
+            10,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/pokataj",
+        "release": "Покатай",
+        "artist": "FEDUK",
+        "grade": [
+            8,
+            8,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/razbudi-menya-2",
+        "release": "Разбуди меня",
+        "artist": "КУОК",
+        "grade": [
+            9,
+            10,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/skolko-stoyat-dengi",
+        "release": "Сколько стоят деньги?",
+        "artist": "Хаски",
+        "grade": [
+            10,
+            9,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/omega",
+        "release": "Omega",
+        "artist": "DooMee",
+        "grade": [
+            7,
+            8,
+            9,
+            8,
+            6
+        ]
+    }
+]

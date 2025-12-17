@@ -1,0 +1,434 @@
+[
+    {
+        "link": "/track/r3xred-heart",
+        "release": "Heart",
+        "artist": "R3xred",
+        "grade": [
+            8,
+            9,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/album/yung-trappa-forever",
+        "release": "FOREVER",
+        "artist": "Yung Trappa",
+        "grade": [
+            2,
+            5,
+            2,
+            3,
+            2
+        ]
+    },
+    {
+        "link": "/track/velial-squad-vampirskij-shhit",
+        "release": "Вампирский щит",
+        "artist": "VELIAL SQUAD",
+        "grade": [
+            7,
+            7,
+            4,
+            4,
+            2
+        ]
+    },
+    {
+        "link": "/track/bushido-zho-sluchajno",
+        "release": "случайно",
+        "artist": "BUSHIDO ZHO",
+        "grade": [
+            5,
+            9,
+            8,
+            7,
+            2
+        ]
+    },
+    {
+        "link": "/track/markul-vrednye-privychki",
+        "release": "Вредные привычки",
+        "artist": "MARKUL",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/rvmzes-dream-club-member",
+        "release": "DREAM CLUB MEMBER",
+        "artist": "RVMZES",
+        "grade": [
+            10,
+            8,
+            6,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/molodoj-platon-kozlina",
+        "release": "KOZLINA",
+        "artist": "Молодой Платон",
+        "grade": [
+            8,
+            9,
+            10,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/lovv66-short-lav",
+        "release": "ШОРТ ЛАВ",
+        "artist": "LOVV66",
+        "grade": [
+            6,
+            5,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/obladaet-jeembo-hella-players",
+        "release": "HELLA PLAYERS",
+        "artist": "JEEMBO, OBLADAET",
+        "grade": [
+            8,
+            10,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/slava-marlow-the-limba-eldzhej-ona-tebya-ljubit",
+        "release": "Она тебя любит",
+        "artist": "SLAVA MARLOW, The Limba, Элджей",
+        "grade": [
+            7,
+            8,
+            8,
+            9,
+            6
+        ]
+    },
+    {
+        "link": "/album/deti-rave-kachaet",
+        "release": "КАЧАЕТ",
+        "artist": "ДЕТИ RAVE",
+        "grade": [
+            5,
+            9,
+            5,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/vadyara-bljuz-rashn-kantri",
+        "release": "Рашн кантри",
+        "artist": "Вадяра Блюз",
+        "grade": [
+            9,
+            7,
+            8,
+            8,
+            7
+        ]
+    },
+    {
+        "link": "/album/egor-nats-dobro-pozhalovat-v-hyperpop",
+        "release": "ДОБРО ПОЖАЛОВАТЬ В HYPERPOP",
+        "artist": "ЕГОР НАТС",
+        "grade": [
+            9,
+            7,
+            6,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/chipachip-nybracho-glubina",
+        "release": "Глубина",
+        "artist": "ChipaChip, NyBracho",
+        "grade": [
+            7,
+            6,
+            8,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/rodionis-skriptonit-cygane-iz-parizha",
+        "release": "Цыгане из Парижа",
+        "artist": "Rodionis, Скриптонит",
+        "grade": [
+            9,
+            7,
+            9,
+            9,
+            6
+        ]
+    },
+    {
+        "link": "/track/karna-val-glupenkaya-devochka",
+        "release": "Глупенькая девочка",
+        "artist": "Karna.val",
+        "grade": [
+            7,
+            10,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/zavet-vot-ona",
+        "release": "вот она",
+        "artist": "zavet",
+        "grade": [
+            9,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/filipp-kirkorov-yeezy",
+        "release": "Yeezy",
+        "artist": "Филипп Киркоров",
+        "grade": [
+            3,
+            8,
+            4,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/ilich-da-sofya-feat-slava-marlow-oj-da-na-rejve",
+        "release": "Ой да на рейве",
+        "artist": "SLAVA MARLOW, Ильич да Софья",
+        "grade": [
+            4,
+            9,
+            3,
+            4,
+            6
+        ]
+    },
+    {
+        "link": "/track/bumble-beezy-baseface-moj-rok-n-roll",
+        "release": "Мой рок-н-ролл",
+        "artist": "BaseFace, Bumble Beezy",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            6
+        ]
+    },
+    {
+        "link": "/track/sidodzhi-duboshit-independent-kaskader",
+        "release": "INDEPENDENT (KASKADER)",
+        "artist": "SIDODGI DUBOSHIT",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/sidodzhi-duboshit-big-foot",
+        "release": "BIG FOOT",
+        "artist": "SIDODGI DUBOSHIT",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/famous-killa-thrill-pill-dlt",
+        "release": "ДЛТ",
+        "artist": "FAMOUS KILLA, THRILL PILL",
+        "grade": [
+            6,
+            9,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/lildrughill-no-uzhe",
+        "release": "Но уже",
+        "artist": "LILDRUGHILL",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/lildrughill-glow",
+        "release": "glow",
+        "artist": "LILDRUGHILL",
+        "grade": [
+            10,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/flesh-yungway-ostanovi-menya",
+        "release": "Останови меня",
+        "artist": "FLESH, YUNGWAY",
+        "grade": [
+            7,
+            6,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/platina-ft-plohoyparen-samyj-klassnyj-paren",
+        "release": "Самый классный парень",
+        "artist": "PLOHOYPAREN, Платина",
+        "grade": [
+            8,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/platina-sosa-muzik",
+        "release": "Sosa Muzik",
+        "artist": "Платина",
+        "grade": [
+            8,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/lovv66-skriptonit-mne-po-uj",
+        "release": "Мне по*уй",
+        "artist": "LOVV66, Скриптонит",
+        "grade": [
+            8,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/smoke-bush-x-qurt-cannabis-cup",
+        "release": "Cannabis Cup",
+        "artist": "qurt, Smoke Bush",
+        "grade": [
+            8,
+            9,
+            10,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/lildrughill-mario-kart",
+        "release": "Mario Kart",
+        "artist": "LILDRUGHILL",
+        "grade": [
+            9,
+            9,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/platina-serdce-dlya-shalav",
+        "release": "Сердце для шалав",
+        "artist": "Платина",
+        "grade": [
+            6,
+            8,
+            8,
+            10,
+            6
+        ]
+    },
+    {
+        "link": "/track/august-privychki",
+        "release": "Привычки",
+        "artist": "August",
+        "grade": [
+            9,
+            10,
+            10,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/album/august-pyatyj-element",
+        "release": "5 элемент",
+        "artist": "August",
+        "grade": [
+            10,
+            9,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/crep-r1fmabes-bol",
+        "release": "Боль",
+        "artist": "CreP, R1Fmabes",
+        "grade": [
+            10,
+            8,
+            9,
+            10,
+            4
+        ]
+    },
+    {
+        "link": "/track/13kai-x-prxfessor-patrick",
+        "release": "Patrick",
+        "artist": "13Kai, PRXFESSOR",
+        "grade": [
+            7,
+            8,
+            8,
+            8,
+            8
+        ]
+    }
+]

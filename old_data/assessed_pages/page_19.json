@@ -1,0 +1,110 @@
+[
+    {
+        "link": "/album/sabutage",
+        "release": "SABUTAGE",
+        "artist": "SABU",
+        "grade": [
+            9,
+            10,
+            10,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/dyhanie-tvoe",
+        "release": "Дыхание твое",
+        "artist": "МУККА",
+        "grade": [
+            9,
+            9,
+            9,
+            10,
+            9
+        ]
+    },
+    {
+        "link": "/track/na-bare-2",
+        "release": "На баре",
+        "artist": "БРЕДИШЬ, Кишлак",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/omut-manit-ulica-respubliki-bez-nazvaniya",
+        "release": "Без названия",
+        "artist": "omut manit, Улица Республики",
+        "grade": [
+            8,
+            8,
+            8,
+            7,
+            7
+        ]
+    },
+    {
+        "link": "/track/volish-kakoj-sjurpriz",
+        "release": "какой сюрприз",
+        "artist": "volish",
+        "grade": [
+            7,
+            7,
+            5,
+            7,
+            7
+        ]
+    },
+    {
+        "link": "/track/wackey-kak-dela",
+        "release": "КАК ДЕЛА",
+        "artist": "Wackey",
+        "grade": [
+            3,
+            3,
+            2,
+            3,
+            2
+        ]
+    },
+    {
+        "link": "/track/kupidon-gipnoz",
+        "release": "Гипноз",
+        "artist": "KUPIDON.",
+        "grade": [
+            7,
+            8,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/trankwill-artist",
+        "release": "Artist",
+        "artist": "TrankWill",
+        "grade": [
+            8,
+            9,
+            8,
+            8,
+            9
+        ]
+    },
+    {
+        "link": "/track/meli-k-loshadka",
+        "release": "ЛОШАДКА",
+        "artist": "Meli K",
+        "grade": [
+            4,
+            6,
+            4,
+            4,
+            5
+        ]
+    }
+]

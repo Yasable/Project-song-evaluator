@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/track/snova-2",
+        "release": "Снова",
+        "artist": "SKB",
+        "grade": false
+    },
+    {
+        "link": "/track/artist",
+        "release": "Артист",
+        "artist": "SKB",
+        "grade": true
+    },
+    {
+        "link": "/track/biografiya",
+        "release": "Биография",
+        "artist": "Ленинград",
+        "grade": false
+    },
+    {
+        "link": "/track/ogon-v-serdce",
+        "release": "Огонь в сердце",
+        "artist": "Экси",
+        "grade": false
+    },
+    {
+        "link": "/track/dlya-ulic",
+        "release": "Для улиц",
+        "artist": "MastHead",
+        "grade": false
+    },
+    {
+        "link": "/track/lowlife",
+        "release": "LOWLIFE",
+        "artist": "Avenuepluggg, DJ Cave, Murovei, Pastor Napas",
+        "grade": false
+    },
+    {
+        "link": "/track/ne-hochu-3",
+        "release": "Не хочу",
+        "artist": "saypink!",
+        "grade": false
+    },
+    {
+        "link": "/album/ne-vse-doma",
+        "release": "Не все дома",
+        "artist": "Noize MC",
+        "grade": false
+    },
+    {
+        "link": "/album/suck-it",
+        "release": "SUCK IT!",
+        "artist": "dmtboy",
+        "grade": true
+    },
+    {
+        "link": "/track/ya-ustal",
+        "release": "я устал",
+        "artist": "mzlff, наше последнее лето",
+        "grade": true
+    },
+    {
+        "link": "/track/ty-che-obidelas",
+        "release": "ты че обиделась",
+        "artist": "madk1d, тёмный принц",
+        "grade": false
+    },
+    {
+        "link": "/track/raspyat",
+        "release": "распять",
+        "artist": "greyrock, madk1d, tewiq",
+        "grade": false
+    },
+    {
+        "link": "/album/music",
+        "release": "MUSIC",
+        "artist": "Playboi Carti",
+        "grade": false
+    },
+    {
+        "link": "/album/1up",
+        "release": "+1up",
+        "artist": "5opka",
+        "grade": false
+    },
+    {
+        "link": "/track/ne-smotri",
+        "release": "Не смотри",
+        "artist": "SODA LUV",
+        "grade": false
+    },
+    {
+        "link": "/track/ruki-tyanutsya",
+        "release": "РУКИ ТЯНУТСЯ",
+        "artist": "LIL KRYSTALLL, КУОК",
+        "grade": true
+    },
+    {
+        "link": "/track/lady-slay",
+        "release": "Lady Slay",
+        "artist": "Мэйби Бэйби",
+        "grade": true
+    },
+    {
+        "link": "/track/dyshu",
+        "release": "Дышу",
+        "artist": "ALBLAK 52",
+        "grade": true
+    },
+    {
+        "link": "/track/agressor",
+        "release": "Агрессор",
+        "artist": "DK",
+        "grade": true
+    },
+    {
+        "link": "/track/lobotomiya",
+        "release": "Лоботомия",
+        "artist": "FENDIGLOCK",
+        "grade": false
+    },
+    {
+        "link": "/album/no-type",
+        "release": "NO TYPE",
+        "artist": "Whole Lotta Swag",
+        "grade": true
+    },
+    {
+        "link": "/album/from-sparta-to-padre",
+        "release": "From Sparta to Padre",
+        "artist": "ICEGERGERT",
+        "grade": true
+    },
+    {
+        "link": "/track/fisheye",
+        "release": "FISHEYE",
+        "artist": "КлоуКома",
+        "grade": false
+    },
+    {
+        "link": "/track/homealone",
+        "release": "HOMEALONE",
+        "artist": "FENDIGLOCK, маленький ярче",
+        "grade": false
+    },
+    {
+        "link": "/track/vichhaus",
+        "release": "Вичхаус",
+        "artist": "Воскресная школа, Плакин М., Слава КПСС",
+        "grade": false
+    },
+    {
+        "link": "/track/fortuna",
+        "release": "FORTUNA",
+        "artist": "TVETH, Чёрная экономика",
+        "grade": false
+    },
+    {
+        "link": "/track/ottepel",
+        "release": "ОТТЕПЕЛЬ",
+        "artist": "DEAD BLONDE, GSPD",
+        "grade": true
+    },
+    {
+        "link": "/album/too-extreme-for-mainstream",
+        "release": "TOO EXTREME FOR MAINSTREAM",
+        "artist": "SLAVE",
+        "grade": false
+    },
+    {
+        "link": "/track/aeon",
+        "release": "Aeon",
+        "artist": "shortomi, STOPBAN",
+        "grade": false
+    },
+    {
+        "link": "/track/sejlor-mun",
+        "release": "СЕЙЛОР МУН",
+        "artist": "B soul",
+        "grade": false
+    },
+    {
+        "link": "/track/spojler",
+        "release": "Спойлер",
+        "artist": "Adamant, Даниил Ким",
+        "grade": false
+    },
+    {
+        "link": "/track/nolove2004",
+        "release": "NOLOVE2004",
+        "artist": "COLDCLOUD, GRILLYAZH",
+        "grade": false
+    },
+    {
+        "link": "/track/restart",
+        "release": "Restart",
+        "artist": "JOLLO, RAM",
+        "grade": false
+    },
+    {
+        "link": "/track/zabud-2",
+        "release": "Забудь",
+        "artist": "WHITE GALLOWS, Криминальный бит",
+        "grade": false
+    },
+    {
+        "link": "/track/zaberet",
+        "release": "заберет",
+        "artist": "Basic Boy",
+        "grade": false
+    },
+    {
+        "link": "/track/prosti-2",
+        "release": "Прости",
+        "artist": "HOLLYFLAME, Кравц",
+        "grade": false
+    }
+]

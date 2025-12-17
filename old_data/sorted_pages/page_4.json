@@ -1,0 +1,32 @@
+[
+    {
+        "link": "/track/vodka-3",
+        "release": "Водка 3",
+        "artist": "Джон Гарик",
+        "grade": true
+    },
+    {
+        "link": "/track/na-juge",
+        "release": "НА ЮГЕ",
+        "artist": "GERICH",
+        "grade": true
+    },
+    {
+        "link": "/album/branch-out",
+        "release": "branch out",
+        "artist": "giggle",
+        "grade": true
+    },
+    {
+        "link": "/track/martine-rose",
+        "release": "MARTINE ROSE",
+        "artist": "greyrock, madk1d, tewiq",
+        "grade": true
+    },
+    {
+        "link": "/track/filki",
+        "release": "Филки",
+        "artist": "PLOHOYPAREN, Платина",
+        "grade": true
+    }
+]

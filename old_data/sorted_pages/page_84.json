@@ -1,0 +1,110 @@
+[
+    {
+        "link": "/album/enigma",
+        "release": "ENIGMA",
+        "artist": "FRESCO",
+        "grade": true
+    },
+    {
+        "link": "/album/hroniki-kajfa",
+        "release": "Хроники Кайфа",
+        "artist": "blago white",
+        "grade": true
+    },
+    {
+        "link": "/track/tuda-sjuda-millioner",
+        "release": "Туда Сюда Миллионер",
+        "artist": "Scally Milano, uglystephan",
+        "grade": true
+    },
+    {
+        "link": "/track/zakrytaya-dver",
+        "release": "Закрытая дверь",
+        "artist": "LOVV66",
+        "grade": true
+    },
+    {
+        "link": "/track/zakryvaju-glaza",
+        "release": "закрываю глаза",
+        "artist": "тринадцать карат",
+        "grade": true
+    },
+    {
+        "link": "/track/feduk-pokataj-remix",
+        "release": "Покатай (remix)",
+        "artist": "FEDUK",
+        "grade": true
+    },
+    {
+        "link": "/album/infinity-love-888",
+        "release": "INFINITY LOVE 888",
+        "artist": "Милиан О’Войд",
+        "grade": true
+    },
+    {
+        "link": "/track/don-t-stop",
+        "release": "don't stop",
+        "artist": "retroyse, whyspurky",
+        "grade": true
+    },
+    {
+        "link": "/album/soda-luv",
+        "release": "SODA LUV",
+        "artist": "SODA LUV",
+        "grade": true
+    },
+    {
+        "link": "/album/streets-echo-2052",
+        "release": "Streets Echo 2052",
+        "artist": "ALBLAK 52",
+        "grade": true
+    },
+    {
+        "link": "/album/jerk-shit-happens-2",
+        "release": "JERK SHIT HAPPENS 2",
+        "artist": "unki",
+        "grade": true
+    },
+    {
+        "link": "/track/i-got-u",
+        "release": "I GOT U",
+        "artist": "Toxi$",
+        "grade": true
+    },
+    {
+        "link": "/track/waste",
+        "release": "waste",
+        "artist": "zxcursed",
+        "grade": true
+    },
+    {
+        "link": "/track/cupids-hand",
+        "release": "CUPIDS HAND",
+        "artist": "Pepel Nahudi",
+        "grade": true
+    },
+    {
+        "link": "/track/pokataj",
+        "release": "Покатай",
+        "artist": "FEDUK",
+        "grade": true
+    },
+    {
+        "link": "/track/razbudi-menya-2",
+        "release": "Разбуди меня",
+        "artist": "КУОК",
+        "grade": true
+    },
+    {
+        "link": "/track/skolko-stoyat-dengi",
+        "release": "Сколько стоят деньги?",
+        "artist": "Хаски",
+        "grade": true
+    },
+    {
+        "link": "/track/omega",
+        "release": "Omega",
+        "artist": "DooMee",
+        "grade": true
+    }
+]

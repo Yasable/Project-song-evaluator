@@ -1,0 +1,290 @@
+[
+    {
+        "link": "/track/mirfon-shorty",
+        "release": "Шорты",
+        "artist": "Мирфон",
+        "grade": [
+            6,
+            6,
+            4,
+            3,
+            6
+        ]
+    },
+    {
+        "link": "/track/nokio-cheat",
+        "release": "Cheat",
+        "artist": "Nokio",
+        "grade": [
+            6,
+            9,
+            6,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/rieza-warszawa-freestyle",
+        "release": "Warszawa Freestyle",
+        "artist": "RIEZA",
+        "grade": [
+            6,
+            6,
+            4,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/rieza-vivi",
+        "release": "ViVi",
+        "artist": "RIEZA",
+        "grade": [
+            7,
+            8,
+            6,
+            6,
+            5
+        ]
+    },
+    {
+        "link": "/track/rieza-indika",
+        "release": "Индика",
+        "artist": "RIEZA",
+        "grade": [
+            5,
+            6,
+            5,
+            4,
+            5
+        ]
+    },
+    {
+        "link": "/track/bouvrd-vintazh",
+        "release": "Винтаж",
+        "artist": "Bouvrd",
+        "grade": [
+            8,
+            8,
+            5,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/queiman-doeternamente-nocturne",
+        "release": "Nocturne",
+        "artist": "Queiman Doeternamente",
+        "grade": [
+            5,
+            5,
+            4,
+            3,
+            4
+        ]
+    },
+    {
+        "link": "/track/sekusharju-fakty",
+        "release": "Факты",
+        "artist": "СЕКУШАРЮ",
+        "grade": [
+            7,
+            9,
+            8,
+            7,
+            10
+        ]
+    },
+    {
+        "link": "/track/apcloud-blik",
+        "release": "Блик",
+        "artist": "Apcloud",
+        "grade": [
+            8,
+            9,
+            4,
+            3,
+            4
+        ]
+    },
+    {
+        "link": "/track/valjuta-skuratov-ppp",
+        "release": "ППП",
+        "artist": "валюта скуратов",
+        "grade": [
+            6,
+            7,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/album/bezumiya-bezdny",
+        "release": "безумия бездны",
+        "artist": "rizza",
+        "grade": [
+            8,
+            8,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/poslednyaya-ljubov",
+        "release": "Последняя Любовь",
+        "artist": "MORGENSHTERN",
+        "grade": [
+            8,
+            10,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/show-off",
+        "release": "SHOW OFF",
+        "artist": "Kai Angel",
+        "grade": [
+            7,
+            8,
+            9,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/ya-govno",
+        "release": "Я ГОВНО",
+        "artist": "THRILL PILL, Шайни",
+        "grade": [
+            8,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/moya-vselennaya",
+        "release": "Моя Вселенная",
+        "artist": "WHITE GALLOWS, Баста",
+        "grade": [
+            9,
+            8,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/detka-killer",
+        "release": "Детка Киллер",
+        "artist": "DEAD BLONDE",
+        "grade": [
+            9,
+            7,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/esli-ne-ti",
+        "release": "ESLI NE TI",
+        "artist": "BORIS REDWALL, LOVV66",
+        "grade": [
+            8,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/rodnichok",
+        "release": "Родничок",
+        "artist": "Ежемесячные",
+        "grade": [
+            10,
+            7,
+            6,
+            6,
+            4
+        ]
+    },
+    {
+        "link": "/track/sudeal-vodoy",
+        "release": "VODOY",
+        "artist": "SUDEAL",
+        "grade": [
+            8,
+            8,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/igor-dar",
+        "release": "Дар",
+        "artist": "IGOR",
+        "grade": [
+            10,
+            8,
+            7,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/fckmsoji-ne-po-ljubvi",
+        "release": "Не по любви",
+        "artist": "Fckmsoji",
+        "grade": [
+            7,
+            7,
+            6,
+            6,
+            5
+        ]
+    },
+    {
+        "link": "/track/sakelly-routine",
+        "release": "Routine",
+        "artist": "SAKELLY",
+        "grade": [
+            8,
+            4,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/ah-rep-kofe",
+        "release": "Кофе",
+        "artist": "Ах.Реп",
+        "grade": [
+            6,
+            5,
+            4,
+            4,
+            6
+        ]
+    },
+    {
+        "link": "/track/shaul-teqi-sim",
+        "release": "СИМ",
+        "artist": "SHAUL, Teqi",
+        "grade": [
+            8,
+            8,
+            6,
+            6,
+            6
+        ]
+    }
+]

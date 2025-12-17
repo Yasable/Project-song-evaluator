@@ -1,0 +1,434 @@
+[
+    {
+        "link": "/track/trafik",
+        "release": "Трафик",
+        "artist": "Jaix$",
+        "grade": [
+            6,
+            7,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/500",
+        "release": "500",
+        "artist": "Draem",
+        "grade": [
+            8,
+            7,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/blizhe",
+        "release": "Ближе",
+        "artist": "llonelly",
+        "grade": [
+            8,
+            7,
+            7,
+            5,
+            8
+        ]
+    },
+    {
+        "link": "/track/letnij-dozhd",
+        "release": "Летний дождь",
+        "artist": "rapper sonah, ДЖЕЙЛО",
+        "grade": [
+            9,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/radical-kids-2",
+        "release": "Radical Kids 2",
+        "artist": "rapper sonah, ДЖЕЙЛО",
+        "grade": [
+            9,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/pepel",
+        "release": "ПЕПЕЛ",
+        "artist": "Nizardo",
+        "grade": [
+            4,
+            5,
+            5,
+            3,
+            2
+        ]
+    },
+    {
+        "link": "/track/golodnye-ulicy",
+        "release": "Голодные улицы",
+        "artist": "JABO",
+        "grade": [
+            8,
+            9,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/ah-kakaya-zhenshhina",
+        "release": "Ах, какая женщина",
+        "artist": "ALON",
+        "grade": [
+            8,
+            9,
+            6,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/alone-starzz",
+        "release": "ALONE STARZZ",
+        "artist": "44neverluv",
+        "grade": [
+            10,
+            10,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/album-tokyo",
+        "release": "Tokyo",
+        "artist": "44neverluv",
+        "grade": [
+            9,
+            9,
+            9,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/serdce",
+        "release": "Сердце",
+        "artist": "WHITE GALLOWS",
+        "grade": [
+            8,
+            8,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/wake-up-3",
+        "release": "WAKE UP",
+        "artist": "TumaniYO, Эндшпиль",
+        "grade": [
+            8,
+            8,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/traktor",
+        "release": "Трактор",
+        "artist": "BuzyBurger, ​visagehq",
+        "grade": [
+            7,
+            7,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/umestit-v-odno-slovo",
+        "release": "Уместить в одно слово",
+        "artist": "ЮГ 404",
+        "grade": [
+            7,
+            8,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/kem-by-ya-stal",
+        "release": "КЕМ БЫ Я СТАЛ",
+        "artist": "MEYAC",
+        "grade": [
+            6,
+            8,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/trapcitylife",
+        "release": "TRAPCITYLIFE",
+        "artist": "Милиан О’Войд",
+        "grade": [
+            8,
+            10,
+            9,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/v-temnote",
+        "release": "В Темноте",
+        "artist": "Wavez",
+        "grade": [
+            8,
+            7,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/nasekomoe",
+        "release": "НАСЕКОМОЕ",
+        "artist": "Boulevard Depo, прыгай киска",
+        "grade": [
+            8,
+            9,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/chasto",
+        "release": "Часто",
+        "artist": "Josodo, xxxmanera",
+        "grade": [
+            8,
+            8,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/iskry-2",
+        "release": "Искры",
+        "artist": "Jaix$",
+        "grade": [
+            8,
+            9,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/demon",
+        "release": "DEMON",
+        "artist": "kondachelo, OBLADAET",
+        "grade": [
+            8,
+            7,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/slava-marlow-diss-track",
+        "release": "Slava Marlow Diss Track",
+        "artist": "MR.ARAPE",
+        "grade": [
+            5,
+            8,
+            6,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/fristajl-2023",
+        "release": "ФРИСТАЙЛ 2023",
+        "artist": "НЕДРЫ",
+        "grade": [
+            9,
+            10,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/bang",
+        "release": "BANG",
+        "artist": "Джиган",
+        "grade": [
+            5,
+            6,
+            6,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/album/i-gryanul-grom",
+        "release": "И ГРЯНУЛ ГРОМ",
+        "artist": "НЕДРЫ",
+        "grade": [
+            8,
+            7,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/sladko",
+        "release": "Сладко",
+        "artist": "Егор Крид, Смоки Мо",
+        "grade": [
+            8,
+            7,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/nikto-ne-znaet",
+        "release": "Никто не знает",
+        "artist": "desaad",
+        "grade": [
+            10,
+            9,
+            6,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/track/7-952-812",
+        "release": "+7(952)812",
+        "artist": "ALBLAK 52",
+        "grade": [
+            7,
+            7,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/quite-a-minute",
+        "release": "Quite a Minute",
+        "artist": "FIILL’, Neymles",
+        "grade": [
+            7,
+            6,
+            5,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/track/vmeste",
+        "release": "ВМЕСТЕ",
+        "artist": "Aarne, BUSHIDO ZHO",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/skvoznoe",
+        "release": "Сквозное",
+        "artist": "Kinshu",
+        "grade": [
+            4,
+            7,
+            4,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/pravda",
+        "release": "ПРАВДА",
+        "artist": "BLASTT",
+        "grade": [
+            8,
+            9,
+            5,
+            3,
+            4
+        ]
+    },
+    {
+        "link": "/track/mosty",
+        "release": "МОСТЫ",
+        "artist": "Jessie Vatutin",
+        "grade": [
+            4,
+            7,
+            6,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/esli",
+        "release": "если",
+        "artist": "тима ищет свет",
+        "grade": [
+            9,
+            9,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/bottom",
+        "release": "BOTTOM",
+        "artist": "SHEEEZY",
+        "grade": [
+            7,
+            6,
+            7,
+            6,
+            8
+        ]
+    },
+    {
+        "link": "/track/fuckoff",
+        "release": "fuckoff",
+        "artist": "rizza",
+        "grade": [
+            6,
+            8,
+            8,
+            10,
+            8
+        ]
+    }
+]

@@ -1,0 +1,374 @@
+[
+    {
+        "link": "/track/madk1d-samyj-luchshij-trudovik",
+        "release": "самый лучший трудовик",
+        "artist": "madk1d",
+        "grade": [
+            8,
+            8,
+            8,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/album/on-skazal-poehali",
+        "release": "Он сказал поехали!",
+        "artist": "madk1d",
+        "grade": [
+            9,
+            8,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/novogodnyaya-2",
+        "release": "Новогодняя",
+        "artist": "BOOKER",
+        "grade": [
+            10,
+            8,
+            9,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/deshjovye-dramy",
+        "release": "Дешёвые драмы",
+        "artist": "Adamant, aikko",
+        "grade": [
+            9,
+            8,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/high-lvl",
+        "release": "high lvl",
+        "artist": "RVMZES",
+        "grade": [
+            8,
+            9,
+            9,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/free-oxy-oni-takie-skoka",
+        "release": "Они такие скока?",
+        "artist": "FREE OXY",
+        "grade": [
+            6,
+            7,
+            5,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/streepclubb-v0lum3",
+        "release": "V0LUM3",
+        "artist": "Streepclubb",
+        "grade": [
+            7,
+            7,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/vv4lt3r-snood",
+        "release": "snood",
+        "artist": "VV4LT3R",
+        "grade": [
+            8,
+            8,
+            4,
+            4,
+            5
+        ]
+    },
+    {
+        "link": "/track/vv4lt3r-tanuki",
+        "release": "tanuki",
+        "artist": "VV4LT3R",
+        "grade": [
+            7,
+            6,
+            4,
+            3,
+            4
+        ]
+    },
+    {
+        "link": "/album/for-my-b",
+        "release": "FOR MY B",
+        "artist": "JABO",
+        "grade": [
+            8,
+            9,
+            9,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/cvet-zolota",
+        "release": "Цвет Золота",
+        "artist": "PHARAOH",
+        "grade": [
+            9,
+            8,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/lovestory-x_x",
+        "release": "LOVESTORY X_x",
+        "artist": "Милиан О’Войд",
+        "grade": [
+            9,
+            10,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/arhangely",
+        "release": "архангелы",
+        "artist": "Pepel Nahudi",
+        "grade": [
+            7,
+            7,
+            6,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/malo1malo-mama-budet-zhdat",
+        "release": "МАМА БУДЕТ ЖДАТЬ",
+        "artist": "MALO1MALO",
+        "grade": [
+            6,
+            6,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/dari0-gde-tebya-iskat",
+        "release": "Где Тебя Искать",
+        "artist": "DARÍ0",
+        "grade": [
+            8,
+            8,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/romanovi4-pushkin",
+        "release": "Пушкин",
+        "artist": "Romanovi4",
+        "grade": [
+            9,
+            8,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/gozlat-ty-tak-hotel",
+        "release": "Ты так хотел",
+        "artist": "GOZLAT",
+        "grade": [
+            6,
+            7,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/miyagi-endshpil-golgofa",
+        "release": "Голгофа",
+        "artist": "Miyagi, Эндшпиль",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/narrative",
+        "release": "NARRATIVE",
+        "artist": "Miyagi, Эндшпиль",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/plachut-nebesa",
+        "release": "Плачут небеса",
+        "artist": "OG Buda, Доминик Джокер, Егор Крид",
+        "grade": [
+            8,
+            10,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/sneg-rastayal-na-plechah",
+        "release": "Снег растаял на плечах",
+        "artist": "DEAD BLONDE",
+        "grade": [
+            9,
+            9,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/halloween",
+        "release": "Halloween",
+        "artist": "Blazergosicko, woee33",
+        "grade": [
+            7,
+            8,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/luvissentence-last-dance-slowed",
+        "release": "Last Dance (slowed)",
+        "artist": "Luvissentence",
+        "grade": [
+            9,
+            8,
+            5,
+            3,
+            4
+        ]
+    },
+    {
+        "link": "/track/mewoe-svedeniem",
+        "release": "Сведением",
+        "artist": "MeWoe",
+        "grade": [
+            8,
+            7,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/dedface-gosha-rubchinskij-2",
+        "release": "Гоша Рубчинский 2",
+        "artist": "DedFACE",
+        "grade": [
+            3,
+            6,
+            3,
+            2,
+            2
+        ]
+    },
+    {
+        "link": "/track/ko21yak-pljus-vajb",
+        "release": "Плюс вайб",
+        "artist": "ko21yak",
+        "grade": [
+            6,
+            8,
+            6,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/platina-plyvut",
+        "release": "Плывут",
+        "artist": "Платина",
+        "grade": [
+            7,
+            8,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/mental-me-mayak",
+        "release": "маяк",
+        "artist": "MENTAL.ME",
+        "grade": [
+            8,
+            9,
+            6,
+            6,
+            8
+        ]
+    },
+    {
+        "link": "/track/fonetic-chto-tam-v-golove",
+        "release": "Что там в голове",
+        "artist": "Fonetic",
+        "grade": [
+            9,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/goose-slawniy-detka",
+        "release": "Детка",
+        "artist": "GOOSE, Slawniy",
+        "grade": [
+            7,
+            7,
+            5,
+            6,
+            4
+        ]
+    },
+    {
+        "link": "/track/famous-killa-memory",
+        "release": "Memory",
+        "artist": "FAMOUS KILLA",
+        "grade": [
+            7,
+            8,
+            7,
+            7,
+            8
+        ]
+    }
+]

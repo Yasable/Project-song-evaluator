@@ -1,0 +1,434 @@
+[
+    {
+        "link": "/track/mayot-otpustil",
+        "release": "Отпустил",
+        "artist": "MAYOT",
+        "grade": [
+            8,
+            10,
+            7,
+            9,
+            6
+        ]
+    },
+    {
+        "link": "/track/bushido-zho-makintosh-biznes-onli",
+        "release": "макинтош бизнес онли",
+        "artist": "BUSHIDO ZHO",
+        "grade": [
+            8,
+            7,
+            7,
+            9,
+            6
+        ]
+    },
+    {
+        "link": "/track/soda-luv-zhoriki",
+        "release": "Жорики",
+        "artist": "SODA LUV",
+        "grade": [
+            10,
+            9,
+            5,
+            6,
+            4
+        ]
+    },
+    {
+        "link": "/track/dzhizus-warlord",
+        "release": "WARLORD",
+        "artist": "Джизус",
+        "grade": [
+            6,
+            6,
+            10,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/morgenshtern-pochemu",
+        "release": "ПОЧЕМУ?",
+        "artist": "MORGENSHTERN",
+        "grade": [
+            9,
+            8,
+            9,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/drowsyy-callmydd-ujdi-iz-moih-snov",
+        "release": "Уйди из моих снов",
+        "artist": "CALLMYDD, drowsyy",
+        "grade": [
+            7,
+            5,
+            7,
+            8,
+            4
+        ]
+    },
+    {
+        "link": "/track/thomas-mraz-sdelaj-shag",
+        "release": "Сделай шаг",
+        "artist": "Thomas Mraz",
+        "grade": [
+            8,
+            8,
+            10,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/3ternity-magiya",
+        "release": "Магия",
+        "artist": "3TERNITY",
+        "grade": [
+            8,
+            8,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/3ternity-system-3rase",
+        "release": "SYSTEM 3RASE",
+        "artist": "3TERNITY",
+        "grade": [
+            8,
+            7,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/uncleflexxx-whybaby-boomerang",
+        "release": "Boomerang",
+        "artist": "UncleFlexxx, WhyBaby?",
+        "grade": [
+            8,
+            10,
+            9,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/brilliantovyj-ti-t-fest-barz-atlet",
+        "release": "АТЛЕТ",
+        "artist": "Barz, Бриллиантовый Ти",
+        "grade": [
+            8,
+            9,
+            8,
+            8,
+            7
+        ]
+    },
+    {
+        "link": "/track/visagangbeatz-feat-fendiglock-detoks",
+        "release": "Детокс",
+        "artist": "FENDIGLOCK, VisaGangBeatz",
+        "grade": [
+            7,
+            9,
+            8,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/lil-morty-golos-ulic",
+        "release": "Голос улиц",
+        "artist": "LIL MORTY",
+        "grade": [
+            8,
+            7,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/eldzhej-poshlaya-molli-chupa-chups",
+        "release": "Чупа Чупс",
+        "artist": "Пошлая Молли, Элджей",
+        "grade": [
+            7,
+            8,
+            7,
+            9,
+            6
+        ]
+    },
+    {
+        "link": "/track/uniqe-nkeeei-artem-shilovets-chel",
+        "release": "Чел",
+        "artist": "ARTEM SHILOVETS, nkeeei, uniqe",
+        "grade": [
+            8,
+            9,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/album/bushido-zho-nightmare-before-xmas",
+        "release": "NIGHTMARE BEFORE XMAS",
+        "artist": "BUSHIDO ZHO",
+        "grade": [
+            4,
+            8,
+            7,
+            6,
+            4
+        ]
+    },
+    {
+        "link": "/track/fresco-moon",
+        "release": "Moon",
+        "artist": "FRESCO",
+        "grade": [
+            5,
+            9,
+            10,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/album/fresco-equilibrium",
+        "release": "EQUILIBRIUM",
+        "artist": "FRESCO",
+        "grade": [
+            4,
+            9,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/album/noize-mc-vyhod-v-gorod-polnyj-albom",
+        "release": "Выход в город (полный альбом)",
+        "artist": "Noize MC",
+        "grade": [
+            10,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/soda-luv-clout",
+        "release": "Clout",
+        "artist": "SODA LUV",
+        "grade": [
+            6,
+            8,
+            7,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/album/cakeboy-iroh-akuly-v-bokale",
+        "release": "АКУЛЫ В БОКАЛЕ",
+        "artist": "CAKEBOY, IROH",
+        "grade": [
+            8,
+            9,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/maks-korzh-ulicy-bez-fonarej",
+        "release": "улицы без фонарей",
+        "artist": "Макс Корж",
+        "grade": [
+            7,
+            9,
+            9,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/album/maks-korzh-psihi-popadajut-v-top",
+        "release": "Психи попадают в топ",
+        "artist": "Макс Корж",
+        "grade": [
+            8,
+            6,
+            7,
+            9,
+            4
+        ]
+    },
+    {
+        "link": "/track/10age-kamery-vrut",
+        "release": "Камеры врут",
+        "artist": "10AGE",
+        "grade": [
+            10,
+            9,
+            10,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/midix-eksperimenty-lejn",
+        "release": "Эксперименты лейн",
+        "artist": "Midix",
+        "grade": [
+            10,
+            9,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/midix-hyperpop-attack",
+        "release": "HYPERPOP ATTACK",
+        "artist": "Midix",
+        "grade": [
+            10,
+            9,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/scally-milano-gnida",
+        "release": "Гнида",
+        "artist": "Scally Milano",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/scally-milano-money-counter-music",
+        "release": "MONEY COUNTER MUSIC",
+        "artist": "Scally Milano",
+        "grade": [
+            9,
+            9,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/monrau-devochka-peterburga",
+        "release": "Девочка Петербурга",
+        "artist": "MONRAU",
+        "grade": [
+            9,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/quiizzzmeow-seti",
+        "release": "сети",
+        "artist": "quiizzzmeow",
+        "grade": [
+            8,
+            8,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/sqwore-treepside-holodnoe-oruzhie",
+        "release": "Холодное оружие",
+        "artist": "Sqwore, treepside",
+        "grade": [
+            9,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/soda-luv-rakhim-slava-marlow-kto-skazal",
+        "release": "Кто сказал?",
+        "artist": "Rakhim, SLAVA MARLOW, SODA LUV",
+        "grade": [
+            8,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/lsp-ne-ubezhal",
+        "release": "Не убежал",
+        "artist": "ЛСП",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/big-baby-tape-molodoj-platon-vljubilas",
+        "release": "Влюбилась",
+        "artist": "Big Baby Tape, Молодой Платон",
+        "grade": [
+            8,
+            7,
+            9,
+            10,
+            6
+        ]
+    },
+    {
+        "link": "/track/og-buda-mayot-17-seventeen-vina",
+        "release": "Вина",
+        "artist": "17 SEVENTEEN, MAYOT, OG Buda",
+        "grade": [
+            9,
+            8,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/pharaoh-mnogoznaal-akid",
+        "release": "Акид",
+        "artist": "Mnogoznaal, PHARAOH",
+        "grade": [
+            9,
+            9,
+            8,
+            9,
+            8
+        ]
+    }
+]

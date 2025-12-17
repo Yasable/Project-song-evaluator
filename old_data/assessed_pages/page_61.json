@@ -1,0 +1,206 @@
+[
+    {
+        "link": "/album/odyssey",
+        "release": "ODYSSEY",
+        "artist": "Heronwater",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            9
+        ]
+    },
+    {
+        "link": "/track/zhuravli-2",
+        "release": "ЖУРАВЛИ",
+        "artist": "SCHOKK",
+        "grade": [
+            8,
+            7,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/est-u-nas",
+        "release": "Есть у нас",
+        "artist": "Loc-Dog",
+        "grade": [
+            9,
+            8,
+            9,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/overdoze",
+        "release": "OVERDOZE",
+        "artist": "BATO, OBLADAET",
+        "grade": [
+            9,
+            7,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/t-fest",
+        "release": "T-FEST",
+        "artist": "August, FENDIGLOCK",
+        "grade": [
+            9,
+            9,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/novye-dengi",
+        "release": "Новые Деньги",
+        "artist": "BUSHIDO ZHO, CODE80",
+        "grade": [
+            7,
+            8,
+            8,
+            8,
+            7
+        ]
+    },
+    {
+        "link": "/track/russkie-vpered",
+        "release": "Русские вперед",
+        "artist": "INSTASAMKA, Ленинград",
+        "grade": [
+            8,
+            10,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/bumery-i-zumery",
+        "release": "Бумеры и зумеры",
+        "artist": "INSTASAMKA, Ленинград",
+        "grade": [
+            7,
+            8,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/album/dnevnik-pamyati",
+        "release": "Дневник памяти",
+        "artist": "MONA",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/zitraks-mode",
+        "release": "zitraks mode",
+        "artist": "shadowraze",
+        "grade": [
+            7,
+            9,
+            6,
+            7,
+            7
+        ]
+    },
+    {
+        "link": "/track/svarovski",
+        "release": "Сваровски",
+        "artist": "Heronwater",
+        "grade": [
+            10,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/0-chudovishhe",
+        "release": "ЧУДОВИЩЕ",
+        "artist": "0$",
+        "grade": [
+            8,
+            9,
+            8,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/thrill-pill-bulimiya",
+        "release": "Булимия",
+        "artist": "THRILL PILL",
+        "grade": [
+            8,
+            8,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/cakeboy-kloukoma-ookkaayy",
+        "release": "OOKKAAYY",
+        "artist": "CAKEBOY, КлоуКома",
+        "grade": [
+            8,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/bakkara",
+        "release": "Баккара",
+        "artist": "4n Way",
+        "grade": [
+            8,
+            7,
+            9,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/telekinez",
+        "release": "Телекинез",
+        "artist": "FEDUK",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/besy-2",
+        "release": "БЕСЫ",
+        "artist": "VELIAL SQUAD",
+        "grade": [
+            9,
+            8,
+            8,
+            8,
+            8
+        ]
+    }
+]

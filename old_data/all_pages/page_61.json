@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/album/odyssey",
+        "release": "ODYSSEY",
+        "artist": "Heronwater",
+        "grade": true
+    },
+    {
+        "link": "/track/zhuravli-2",
+        "release": "ЖУРАВЛИ",
+        "artist": "SCHOKK",
+        "grade": true
+    },
+    {
+        "link": "/track/est-u-nas",
+        "release": "Есть у нас",
+        "artist": "Loc-Dog",
+        "grade": true
+    },
+    {
+        "link": "/track/overdoze",
+        "release": "OVERDOZE",
+        "artist": "BATO, OBLADAET",
+        "grade": true
+    },
+    {
+        "link": "/track/t-fest",
+        "release": "T-FEST",
+        "artist": "August, FENDIGLOCK",
+        "grade": true
+    },
+    {
+        "link": "/track/novye-dengi",
+        "release": "Новые Деньги",
+        "artist": "BUSHIDO ZHO, CODE80",
+        "grade": true
+    },
+    {
+        "link": "/track/russkie-vpered",
+        "release": "Русские вперед",
+        "artist": "INSTASAMKA, Ленинград",
+        "grade": true
+    },
+    {
+        "link": "/album/bumery-i-zumery",
+        "release": "Бумеры и зумеры",
+        "artist": "INSTASAMKA, Ленинград",
+        "grade": true
+    },
+    {
+        "link": "/album/dorogaya-bol",
+        "release": "ДОРОГАЯ, БОЛЬ!",
+        "artist": "ARUSTAMOV",
+        "grade": false
+    },
+    {
+        "link": "/album/zhelezo",
+        "release": "Железо",
+        "artist": "Сюзанна",
+        "grade": false
+    },
+    {
+        "link": "/track/ampir",
+        "release": "Ампир",
+        "artist": "PROOVY",
+        "grade": false
+    },
+    {
+        "link": "/track/vsjo-okej",
+        "release": "Всё окей",
+        "artist": "Josodo",
+        "grade": false
+    },
+    {
+        "link": "/track/parislove",
+        "release": "ParisLove",
+        "artist": "FORTUNA 812",
+        "grade": false
+    },
+    {
+        "link": "/track/perezaryadka-2",
+        "release": "ПЕРЕЗАРЯДКА 2",
+        "artist": "dmtboy",
+        "grade": false
+    },
+    {
+        "link": "/track/tvoya-umnica",
+        "release": "твоя умница",
+        "artist": "daryana",
+        "grade": false
+    },
+    {
+        "link": "/album/pnr19-ch-2",
+        "release": "#PNR19, Ч. 2",
+        "artist": "Nikitsunami",
+        "grade": false
+    },
+    {
+        "link": "/album/dnevnik-pamyati",
+        "release": "Дневник памяти",
+        "artist": "MONA",
+        "grade": true
+    },
+    {
+        "link": "/album/night-b3fore",
+        "release": "NIGHT B3FORE",
+        "artist": "3TERNITY",
+        "grade": false
+    },
+    {
+        "link": "/track/noubadi",
+        "release": "Ноубади",
+        "artist": "YUNGWAY",
+        "grade": false
+    },
+    {
+        "link": "/track/zitraks-mode",
+        "release": "zitraks mode",
+        "artist": "shadowraze",
+        "grade": true
+    },
+    {
+        "link": "/track/osadki",
+        "release": "Осадки",
+        "artist": "MARKUL",
+        "grade": false
+    },
+    {
+        "link": "/track/svarovski",
+        "release": "Сваровски",
+        "artist": "Heronwater",
+        "grade": true
+    },
+    {
+        "link": "/track/30510",
+        "release": "...",
+        "artist": "dekma, SHTRIHCOD",
+        "grade": false
+    },
+    {
+        "link": "/track/secrets",
+        "release": "SECRETS",
+        "artist": "b3brina, mafanya, ЮГ 404",
+        "grade": false
+    },
+    {
+        "link": "/track/0-chudovishhe",
+        "release": "ЧУДОВИЩЕ",
+        "artist": "0$",
+        "grade": true
+    },
+    {
+        "link": "/track/thrill-pill-bulimiya",
+        "release": "Булимия",
+        "artist": "THRILL PILL",
+        "grade": true
+    },
+    {
+        "link": "/track/cakeboy-kloukoma-ookkaayy",
+        "release": "OOKKAAYY",
+        "artist": "CAKEBOY, КлоуКома",
+        "grade": true
+    },
+    {
+        "link": "/track/bakkara",
+        "release": "Баккара",
+        "artist": "4n Way",
+        "grade": true
+    },
+    {
+        "link": "/track/telekinez",
+        "release": "Телекинез",
+        "artist": "FEDUK",
+        "grade": true
+    },
+    {
+        "link": "/track/besy-2",
+        "release": "БЕСЫ",
+        "artist": "VELIAL SQUAD",
+        "grade": true
+    },
+    {
+        "link": "/album/amalgama",
+        "release": "Амальгама",
+        "artist": "БРЕДИШЬ",
+        "grade": false
+    },
+    {
+        "link": "/album/dolgij-yashhik",
+        "release": "Долгий ящик",
+        "artist": "Зараза",
+        "grade": false
+    },
+    {
+        "link": "/album/gazovyj-dush",
+        "release": "Газовый душ",
+        "artist": "DenDerty",
+        "grade": false
+    },
+    {
+        "link": "/album/digiboy",
+        "release": "DIGIBOY",
+        "artist": "Flavless",
+        "grade": false
+    },
+    {
+        "link": "/track/avtomobil",
+        "release": "Автомобиль",
+        "artist": "22 РАЗА",
+        "grade": false
+    },
+    {
+        "link": "/track/tru",
+        "release": "тру",
+        "artist": "Truwer, кухня",
+        "grade": false
+    }
+]

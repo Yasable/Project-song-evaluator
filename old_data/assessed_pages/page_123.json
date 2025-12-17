@@ -1,0 +1,302 @@
+[
+    {
+        "link": "/album/lildrughill-test-drive-archive",
+        "release": "test drive: archive",
+        "artist": "LILDRUGHILL",
+        "grade": [
+            10,
+            10,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/gone-fludd-hudrich",
+        "release": "ХУДРИЧ",
+        "artist": "GONE.Fludd",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/alblak-52-big-baby-tape-m11",
+        "release": "M11",
+        "artist": "ALBLAK 52, Big Baby Tape",
+        "grade": [
+            7,
+            7,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/entype-morgenshtern-onative-schitalochka",
+        "release": "СЧИТАЛОЧКА",
+        "artist": "ENTYPE, MORGENSHTERN, Onative",
+        "grade": [
+            9,
+            9,
+            8,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/iluv-kovaal-sjuzhety",
+        "release": "Сюжеты",
+        "artist": "iluv, KOVAAL",
+        "grade": [
+            7,
+            7,
+            4,
+            3,
+            2
+        ]
+    },
+    {
+        "link": "/track/famous-killa-shag",
+        "release": "Шаг",
+        "artist": "FAMOUS KILLA",
+        "grade": [
+            7,
+            8,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/wave-lajfstajl-mob",
+        "release": "лайфстайл mob",
+        "artist": "wave",
+        "grade": [
+            3,
+            6,
+            3,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/ato-woody-ernest-risk",
+        "release": "Риск",
+        "artist": "Ato Woody, ERNEST",
+        "grade": [
+            4,
+            8,
+            6,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/album/pepel-nahudi-kingdom-made",
+        "release": "KINGDOM MADE",
+        "artist": "Pepel Nahudi",
+        "grade": [
+            7,
+            7,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/booker-moj-mentalitet",
+        "release": "Мой менталитет",
+        "artist": "BOOKER",
+        "grade": [
+            9,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/mzlff-snezhinka-2",
+        "release": "снежинка",
+        "artist": "mzlff",
+        "grade": [
+            10,
+            9,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/ic3peak-hey",
+        "release": "Hey",
+        "artist": "IC3PEAK",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/granee-slomal-sebe-bashku",
+        "release": "Сломал себе башку",
+        "artist": "GRANEE",
+        "grade": [
+            8,
+            8,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/whyalive-vse-dlya-tebya",
+        "release": "все для тебя",
+        "artist": "whyalive",
+        "grade": [
+            7,
+            8,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/seeyaside-rihanna",
+        "release": "Rihanna",
+        "artist": "SEEYASIDE",
+        "grade": [
+            8,
+            9,
+            8,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/elox1m-koshmary",
+        "release": "кошмары",
+        "artist": "elox1m",
+        "grade": [
+            8,
+            8,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/album/baby-melo-still-speaken-2",
+        "release": "STILL SPEAKEN",
+        "artist": "Baby Melo",
+        "grade": [
+            7,
+            8,
+            6,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/malenkij-yarche-fiji-water",
+        "release": "FIJI WATER",
+        "artist": "маленький ярче",
+        "grade": [
+            9,
+            8,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/bato-billion",
+        "release": "Billion",
+        "artist": "BATO",
+        "grade": [
+            7,
+            9,
+            10,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/g4our-seemee-perelom",
+        "release": "Перелом",
+        "artist": "G4OUR, SEEMEE",
+        "grade": [
+            8,
+            10,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/album/sputnik-waves-otpuskaj",
+        "release": "Отпускай",
+        "artist": "sputnik waves",
+        "grade": [
+            7,
+            6,
+            4,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/album/sqwoz-bab-out-of-bounds",
+        "release": "OUT OF BOUNDS",
+        "artist": "SQWOZ BAB",
+        "grade": [
+            10,
+            10,
+            10,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/elyaplugg-stopban-gafer",
+        "release": "Гафер",
+        "artist": "elyaplugg!, STOPBAN",
+        "grade": [
+            8,
+            9,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/lida-ira",
+        "release": "Ира",
+        "artist": "Lida",
+        "grade": [
+            8,
+            9,
+            10,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/rizza-insaniac",
+        "release": "insaniac",
+        "artist": "rizza",
+        "grade": [
+            8,
+            9,
+            9,
+            10,
+            10
+        ]
+    }
+]

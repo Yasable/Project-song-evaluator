@@ -1,0 +1,122 @@
+[
+    {
+        "link": "/track/markul-pervyj-raz",
+        "release": "Первый раз",
+        "artist": "MARKUL",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/lildrughill-public-enemy-1",
+        "release": "public enemy №1",
+        "artist": "LILDRUGHILL",
+        "grade": [
+            9,
+            9,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/egor-krid-dubtsova",
+        "release": "DUBTSOVA",
+        "artist": "Егор Крид",
+        "grade": [
+            9,
+            10,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/saluki-sumki",
+        "release": "SUMKI",
+        "artist": "SALUKI",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/eve-2",
+        "release": "Eve 2",
+        "artist": "Sqwore",
+        "grade": [
+            8,
+            10,
+            10,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/album/pacanskij-emo-rep-2",
+        "release": "Пацанский эмо рэп 2",
+        "artist": "Кишлак, семьсот семь",
+        "grade": [
+            7,
+            7,
+            7,
+            8,
+            7
+        ]
+    },
+    {
+        "link": "/album/elya-viral-season",
+        "release": "ELYA VIRAL SEASON!!!",
+        "artist": "elyaplugg!",
+        "grade": [
+            8,
+            9,
+            8,
+            7,
+            7
+        ]
+    },
+    {
+        "link": "/track/dengi-moego-kvartala",
+        "release": "Деньги моего квартала",
+        "artist": "YASMI",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/dj-pumpkin",
+        "release": "dj pumpkin",
+        "artist": "deathmarried",
+        "grade": [
+            8,
+            8,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/album/klassika-2",
+        "release": "Классика",
+        "artist": "Джон Гарик",
+        "grade": [
+            9,
+            7,
+            8,
+            8,
+            8
+        ]
+    }
+]

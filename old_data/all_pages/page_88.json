@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/track/tada-kiite-gollum",
+        "release": "Голлум",
+        "artist": "Tada kiite",
+        "grade": true
+    },
+    {
+        "link": "/track/mirfon-samolet",
+        "release": "Самолет",
+        "artist": "Мирфон",
+        "grade": true
+    },
+    {
+        "link": "/track/inyasoul-turandot-dinner",
+        "release": "Turandot Dinner",
+        "artist": "InyaSoul",
+        "grade": true
+    },
+    {
+        "link": "/track/reki-veli",
+        "release": "Реки вели",
+        "artist": "JONY",
+        "grade": true
+    },
+    {
+        "link": "/album/no-dopamine",
+        "release": "no dopamine",
+        "artist": "ayomarkiz, кровь из носа",
+        "grade": true
+    },
+    {
+        "link": "/album/spokojnoj-nochi-malyshi-ch-2",
+        "release": "Спокойной ночи, малыши ч.2",
+        "artist": "SLIMUS",
+        "grade": false
+    },
+    {
+        "link": "/album/monastery-2",
+        "release": "Monastery 2",
+        "artist": "Sagath",
+        "grade": false
+    },
+    {
+        "link": "/album/rutina",
+        "release": "РУТИНА",
+        "artist": "Цинк Уродов",
+        "grade": false
+    },
+    {
+        "link": "/album/son-v-kotorom-ya-smog",
+        "release": "Сон, в котором я смог",
+        "artist": "CALLMYDD",
+        "grade": false
+    },
+    {
+        "link": "/track/sedmoj-lepestok",
+        "release": "Седьмой лепесток",
+        "artist": "WhyBaby?",
+        "grade": false
+    },
+    {
+        "link": "/track/bronevik",
+        "release": "Броневик",
+        "artist": "Птаха, Слава КПСС",
+        "grade": false
+    },
+    {
+        "link": "/track/chb",
+        "release": "ЧБ",
+        "artist": "The Narcissus",
+        "grade": false
+    },
+    {
+        "link": "/track/marafet",
+        "release": "Марафет",
+        "artist": "The Narcissus",
+        "grade": false
+    },
+    {
+        "link": "/track/neprigovor",
+        "release": "Неприговор",
+        "artist": "Мутант Ъхвлам, Слава КПСС",
+        "grade": false
+    },
+    {
+        "link": "/track/tvp-shit",
+        "release": "TVP-SHIT",
+        "artist": "Овсянкин",
+        "grade": false
+    },
+    {
+        "link": "/track/mayot-34n",
+        "release": "34N",
+        "artist": "MAYOT",
+        "grade": true
+    },
+    {
+        "link": "/track/mayot-poh",
+        "release": "Пох",
+        "artist": "MAYOT",
+        "grade": true
+    },
+    {
+        "link": "/album/pyatnica-14",
+        "release": "ПЯТНИЦА 14",
+        "artist": "КРЕСТ",
+        "grade": true
+    },
+    {
+        "link": "/track/vagabund",
+        "release": "ВАГАБУНД",
+        "artist": "SCHOKK",
+        "grade": true
+    },
+    {
+        "link": "/track/black-n-white",
+        "release": "BLACK N WHITE",
+        "artist": "VELIAL SQUAD",
+        "grade": true
+    },
+    {
+        "link": "/track/non-official",
+        "release": "Non Official",
+        "artist": "opt, tsb",
+        "grade": true
+    },
+    {
+        "link": "/track/more-obnimet",
+        "release": "Море Обнимет",
+        "artist": "WHITE GALLOWS, Ева Барац",
+        "grade": false
+    },
+    {
+        "link": "/track/itd",
+        "release": "ITD",
+        "artist": "Pepel Nahudi, SUDEAL",
+        "grade": false
+    },
+    {
+        "link": "/track/letaet",
+        "release": "Летает",
+        "artist": "G4OUR",
+        "grade": false
+    },
+    {
+        "link": "/track/vazhnee",
+        "release": "Важнее",
+        "artist": "КРИСПИ, Экси",
+        "grade": true
+    },
+    {
+        "link": "/track/lekarstvo",
+        "release": "Лекарство",
+        "artist": "3TERNITY",
+        "grade": true
+    },
+    {
+        "link": "/track/zvezda-na-bloke",
+        "release": "Звезда на блоке",
+        "artist": "Mag Luzi, whyspurky",
+        "grade": false
+    },
+    {
+        "link": "/track/muzyka-sfer",
+        "release": "Музыка сфер",
+        "artist": "GONE.Fludd",
+        "grade": true
+    },
+    {
+        "link": "/track/no-diddy",
+        "release": "NO DIDDY",
+        "artist": "Big Baby Tape",
+        "grade": true
+    },
+    {
+        "link": "/track/your-love",
+        "release": "Your Love",
+        "artist": "9mice",
+        "grade": true
+    },
+    {
+        "link": "/track/99",
+        "release": "99",
+        "artist": "OBLADAET",
+        "grade": true
+    },
+    {
+        "link": "/track/kenny",
+        "release": "KENNY",
+        "artist": "unki",
+        "grade": true
+    },
+    {
+        "link": "/album/dialogue",
+        "release": "DIALOGUE",
+        "artist": "MONRAU",
+        "grade": true
+    },
+    {
+        "link": "/track/ty-i-ya",
+        "release": "Ты и я",
+        "artist": "INSTASAMKA",
+        "grade": true
+    },
+    {
+        "link": "/track/utro",
+        "release": "Утро",
+        "artist": "17 SEVENTEEN",
+        "grade": true
+    },
+    {
+        "link": "/track/rozovye-ochki",
+        "release": "РОЗОВЫЕ ОЧКИ",
+        "artist": "Молодой Платон",
+        "grade": true
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "link": "/track/privet-3",
+        "release": "Привет",
+        "artist": "Три дня дождя",
+        "grade": [
+            10,
+            8,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/diamond-tears",
+        "release": "Diamond Tears",
+        "artist": "FRIENDLY THUG 52 NGG, kizaru",
+        "grade": [
+            6,
+            6,
+            8,
+            8,
+            5
+        ]
+    },
+    {
+        "link": "/track/nothing",
+        "release": "NOTHING",
+        "artist": "Toxi$",
+        "grade": [
+            6,
+            7,
+            7,
+            6,
+            5
+        ]
+    },
+    {
+        "link": "/track/oops",
+        "release": "Oops!",
+        "artist": "daryana, Мэйби Бэйби",
+        "grade": [
+            9,
+            10,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/album/dj-august",
+        "release": "DJ AUGUST",
+        "artist": "August",
+        "grade": [
+            6,
+            7,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/slomana",
+        "release": "Сломана",
+        "artist": "Baby Melo, FADE031",
+        "grade": [
+            7,
+            8,
+            7,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/provocateur",
+        "release": "Provocateur",
+        "artist": "YASMI",
+        "grade": [
+            8,
+            8,
+            9,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/edvan-impro",
+        "release": "Impro",
+        "artist": "Edvan",
+        "grade": [
+            10,
+            8,
+            7,
+            7,
+            9
+        ]
+    },
+    {
+        "link": "/track/6less6oy-flappy-bird",
+        "release": "Flappy Bird",
+        "artist": "6less6oy",
+        "grade": [
+            7,
+            7,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/prequtie-drag-on-dragon",
+        "release": "Drag on Dragon",
+        "artist": "Prequtie",
+        "grade": [
+            5,
+            6,
+            4,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/krim-plin-granicy",
+        "release": "Границы",
+        "artist": "КРИМ ПЛИН",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/index-paris",
+        "release": "PARIS",
+        "artist": "INDEX",
+        "grade": [
+            7,
+            8,
+            8,
+            7,
+            7
+        ]
+    },
+    {
+        "link": "/track/batina-kozhanka-mne-segodnya-20",
+        "release": "Мне сегодня 20",
+        "artist": "Батина Кожанка",
+        "grade": [
+            4,
+            5,
+            4,
+            3,
+            3
+        ]
+    },
+    {
+        "link": "/track/gozlat-sankt-peterburg-hasla",
+        "release": "Санкт-Петербург хасла",
+        "artist": "GOZLAT",
+        "grade": [
+            7,
+            7,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/fazzovskqq-snegopadom",
+        "release": "Снегопадом",
+        "artist": "FazzovskQQ",
+        "grade": [
+            5,
+            6,
+            5,
+            4,
+            3
+        ]
+    },
+    {
+        "link": "/track/killadg-black-amigo",
+        "release": "BLACK AMIGO",
+        "artist": "KILLADG",
+        "grade": [
+            6,
+            7,
+            6,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/beid-apotheosis",
+        "release": "APOTHEOSIS",
+        "artist": "Beid",
+        "grade": [
+            3,
+            7,
+            4,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/sd3k-rost",
+        "release": "Рост",
+        "artist": "sd3k",
+        "grade": [
+            4,
+            8,
+            7,
+            7,
+            7
+        ]
+    },
+    {
+        "link": "/track/moetwee-finnkun-podmeshal",
+        "release": "подмешал",
+        "artist": "moetwee, Финнкун",
+        "grade": [
+            7,
+            8,
+            6,
+            7,
+            7
+        ]
+    },
+    {
+        "link": "/track/yeenee-finnkun-zhjostko",
+        "release": "Жёстко",
+        "artist": "YEENEE, Финнкун",
+        "grade": [
+            6,
+            7,
+            4,
+            6,
+            5
+        ]
+    }
+]

@@ -1,0 +1,434 @@
+[
+    {
+        "link": "/album/iskrenne-ya",
+        "release": "ИСКРЕННЕ Я",
+        "artist": "THRILL PILL",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/o-ljubvi",
+        "release": "О любви",
+        "artist": "Хаски",
+        "grade": [
+            9,
+            8,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/lap-dance",
+        "release": "Lap dance",
+        "artist": "Lida",
+        "grade": [
+            7,
+            9,
+            10,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/playstation",
+        "release": "PLAYSTATION",
+        "artist": "Matsby",
+        "grade": [
+            5,
+            6,
+            6,
+            6,
+            3
+        ]
+    },
+    {
+        "link": "/track/ulybatsya",
+        "release": "УЛЫБАТЬСЯ",
+        "artist": "КРИМИ КРАЙ",
+        "grade": [
+            8,
+            6,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/tyagi",
+        "release": "Тяги",
+        "artist": "INSTASAMKA",
+        "grade": [
+            5,
+            8,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/album/wild-ea-t",
+        "release": "WILD EA$T",
+        "artist": "SALUKI",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/moskvichka",
+        "release": "MOSKVICHKA",
+        "artist": "SALUKI, Найк Борзов",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/vechnaya-vesna",
+        "release": "Вечная весна",
+        "artist": "ЛСП",
+        "grade": [
+            9,
+            9,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/vechnaya-bessonnica",
+        "release": "Вечная бессонница",
+        "artist": "GRILLYAZH, Myqeed",
+        "grade": [
+            9,
+            10,
+            8,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/za-kraj",
+        "release": "За край",
+        "artist": "Три дня дождя",
+        "grade": [
+            8,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/soboj",
+        "release": "Собой",
+        "artist": "Marni",
+        "grade": [
+            8,
+            10,
+            9,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/everything-is-fine",
+        "release": "Everything Is Fine",
+        "artist": "LILDRUGHILL, ROCKET",
+        "grade": [
+            9,
+            6,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/ne-hochu",
+        "release": "НЕ ХОЧУ",
+        "artist": "ZeeKey",
+        "grade": [
+            7,
+            8,
+            7,
+            7,
+            5
+        ]
+    },
+    {
+        "link": "/album/skuchaju-no-rabotaju",
+        "release": "Скучаю, Но Работаю",
+        "artist": "OG Buda",
+        "grade": [
+            7,
+            7,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/zakryl-glaza",
+        "release": "закрыл глаза",
+        "artist": "cold carti",
+        "grade": [
+            8,
+            8,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/tebe-zhal-eto-slyshat",
+        "release": "тебе жаль это слышать",
+        "artist": "cold carti",
+        "grade": [
+            7,
+            7,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/eta-noch",
+        "release": "Эта Ночь",
+        "artist": "Экси",
+        "grade": [
+            8,
+            8,
+            9,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/ne-mojo",
+        "release": "Не моё",
+        "artist": "Dima Roux",
+        "grade": [
+            7,
+            8,
+            9,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/nevynosimye",
+        "release": "Невыносимые",
+        "artist": "MONRAU",
+        "grade": [
+            8,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/cvety-i-kosti",
+        "release": "ЦВЕТЫ И КОСТИ",
+        "artist": "PROOVY",
+        "grade": [
+            7,
+            7,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/album/123lfg",
+        "release": "123LFG",
+        "artist": "Basic Boy",
+        "grade": [
+            6,
+            6,
+            7,
+            7,
+            4
+        ]
+    },
+    {
+        "link": "/track/pacan",
+        "release": "Пацан",
+        "artist": "LeanJe",
+        "grade": [
+            10,
+            7,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/don-t-play-w-me",
+        "release": "Don’t Play W Me",
+        "artist": "elyaplugg!, Nikitsunami",
+        "grade": [
+            7,
+            9,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/blejd",
+        "release": "блэйд",
+        "artist": "Lord Dremus",
+        "grade": [
+            7,
+            8,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/vogue",
+        "release": "Vogue",
+        "artist": "FLESH",
+        "grade": [
+            6,
+            7,
+            8,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/lonely",
+        "release": "LONELY",
+        "artist": "MARKUSPHOENIX",
+        "grade": [
+            8,
+            10,
+            8,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/odna-noch",
+        "release": "Одна ночь",
+        "artist": "Johnyboy, THRILL PILL",
+        "grade": [
+            9,
+            6,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/tusa",
+        "release": "ТУСА",
+        "artist": "MASSAI, O V L ! ! !",
+        "grade": [
+            3,
+            5,
+            4,
+            5,
+            3
+        ]
+    },
+    {
+        "link": "/track/suave-flow",
+        "release": "Suave Flow",
+        "artist": "4n Way",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/mir-hanny",
+        "release": "МИР ХАННЫ",
+        "artist": "4n Way",
+        "grade": [
+            8,
+            8,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/po-polyam",
+        "release": "По полям",
+        "artist": "Miyagi, Эндшпиль",
+        "grade": [
+            8,
+            8,
+            10,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/sosala",
+        "release": "Sosala",
+        "artist": "Lida, Skurt",
+        "grade": [
+            8,
+            8,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/disnej",
+        "release": "Дисней",
+        "artist": "PINQ, Tenderlybae",
+        "grade": [
+            8,
+            9,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/wednesday",
+        "release": "Wednesday",
+        "artist": "EGRRR",
+        "grade": [
+            8,
+            8,
+            7,
+            6,
+            8
+        ]
+    },
+    {
+        "link": "/album/shkjorps",
+        "release": "ШКЁРПС",
+        "artist": "EGRRR",
+        "grade": [
+            8,
+            8,
+            6,
+            6,
+            6
+        ]
+    }
+]

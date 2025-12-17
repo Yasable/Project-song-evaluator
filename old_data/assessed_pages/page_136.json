@@ -1,0 +1,434 @@
+[
+    {
+        "link": "/album/limbo",
+        "release": "limbo",
+        "artist": "rizza",
+        "grade": [
+            5,
+            6,
+            7,
+            10,
+            6
+        ]
+    },
+    {
+        "link": "/track/impact",
+        "release": "Impact",
+        "artist": "RAM",
+        "grade": [
+            9,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/adrenalin",
+        "release": "Адреналин",
+        "artist": "Dose, LYRIQ",
+        "grade": [
+            10,
+            10,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/just-love-you",
+        "release": "Just Love You",
+        "artist": "Кэстл, Экси",
+        "grade": [
+            8,
+            6,
+            6,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/sheck-wes",
+        "release": "SHECK WES",
+        "artist": "Mark Skinner",
+        "grade": [
+            9,
+            7,
+            6,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/track/v-pitere",
+        "release": "В Питере",
+        "artist": "The Hatters, Джарахов",
+        "grade": [
+            8,
+            10,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/pod-zontom",
+        "release": "Под зонтом",
+        "artist": "Benz, МИЧЕЛЗ",
+        "grade": [
+            8,
+            7,
+            6,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/album/rajonnoe",
+        "release": "РАЙОННОЕ",
+        "artist": "SKB, THRILL PILL",
+        "grade": [
+            9,
+            9,
+            9,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/pautina",
+        "release": "Паутина",
+        "artist": "blago white, QONTRAST, Джиган",
+        "grade": [
+            6,
+            8,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/zhazhda",
+        "release": "жажда",
+        "artist": "playingtheangel",
+        "grade": [
+            10,
+            9,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/wake-up-2",
+        "release": "Wake Up!",
+        "artist": "dirty punk",
+        "grade": [
+            8,
+            10,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/v-moej-golove",
+        "release": "В моей голове",
+        "artist": "INSTASAMKA",
+        "grade": [
+            7,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/kino",
+        "release": "KINO",
+        "artist": "THE DAWLESS, КАССЕТА",
+        "grade": [
+            6,
+            7,
+            9,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/smozhem-li-my",
+        "release": "Сможем ли Мы",
+        "artist": "MAYOT",
+        "grade": [
+            9,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/kollektiv-avantjuristov",
+        "release": "Коллектив Авантюристов",
+        "artist": "BLAKAP",
+        "grade": [
+            5,
+            5,
+            4,
+            3,
+            4
+        ]
+    },
+    {
+        "link": "/track/ty-mne-vresh",
+        "release": "ты мне врешь",
+        "artist": "Purple",
+        "grade": [
+            7,
+            8,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/cveta-alogo-zakata",
+        "release": "Цвета алого заката",
+        "artist": "Ksenon, МНЕ ЛЕНЬ",
+        "grade": [
+            7,
+            9,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/grustnyj-vypusknoj",
+        "release": "Грустный выпускной",
+        "artist": "Сова",
+        "grade": [
+            7,
+            8,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/ne-smejsya-nad-zemljoj",
+        "release": "не смейся над землёй",
+        "artist": "масло черного тмина",
+        "grade": [
+            8,
+            7,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/k-o",
+        "release": "K.O.",
+        "artist": "BAYWAY",
+        "grade": [
+            7,
+            10,
+            8,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/ya-tebya-tozhe",
+        "release": "Я тебя тоже",
+        "artist": "Mary Gu, Wildways",
+        "grade": [
+            10,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/gudki",
+        "release": "гудки",
+        "artist": "ooes",
+        "grade": [
+            9,
+            10,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/bronezhilet",
+        "release": "Бронежилет",
+        "artist": "Dyce, GUMA",
+        "grade": [
+            8,
+            7,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/monika-belluchchi",
+        "release": "Моника Беллуччи",
+        "artist": "DEAD BLONDE",
+        "grade": [
+            8,
+            10,
+            9,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/goyard",
+        "release": "GOYARD",
+        "artist": "HURTLOVE",
+        "grade": [
+            8,
+            7,
+            5,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/kogda-ty-umresh",
+        "release": "Когда ты умрешь",
+        "artist": "нексюша",
+        "grade": [
+            10,
+            8,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/astoria",
+        "release": "Astoria",
+        "artist": "Nezy",
+        "grade": [
+            9,
+            9,
+            5,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/hrust-deneg",
+        "release": "хруст денег",
+        "artist": "elyaplugg!",
+        "grade": [
+            8,
+            8,
+            8,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/album/dont-make-it-viral",
+        "release": "DONT MAKE IT VIRAL!!!",
+        "artist": "elyaplugg!",
+        "grade": [
+            9,
+            8,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/say-my-name",
+        "release": "Say my name",
+        "artist": "The Chemodan",
+        "grade": [
+            10,
+            8,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/ochen-skuchaju",
+        "release": "ОЧЕНЬ СКУЧАЮ",
+        "artist": "ЕГОР НАТС",
+        "grade": [
+            9,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/celuj",
+        "release": "Целуй",
+        "artist": "PUSSYKILLER, КРИСПИ",
+        "grade": [
+            7,
+            9,
+            8,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/ya-krasneju-pri-tebe-kak",
+        "release": "я краснею при тебе как…",
+        "artist": "pyrokinesis",
+        "grade": [
+            10,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/zakroj",
+        "release": "Закрой",
+        "artist": "EGRRR",
+        "grade": [
+            9,
+            9,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/ballare",
+        "release": "Ballare",
+        "artist": "YARO",
+        "grade": [
+            7,
+            7,
+            5,
+            3,
+            4
+        ]
+    },
+    {
+        "link": "/track/on-da-map",
+        "release": "ON DA MAP",
+        "artist": "ROCKET",
+        "grade": [
+            8,
+            8,
+            9,
+            10,
+            10
+        ]
+    }
+]

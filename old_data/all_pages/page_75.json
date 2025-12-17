@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/track/ajs",
+        "release": "айс",
+        "artist": "Mary Gu, MAYOT",
+        "grade": false
+    },
+    {
+        "link": "/track/nedostatochno",
+        "release": "Недостаточно",
+        "artist": "YUNGWAY",
+        "grade": true
+    },
+    {
+        "link": "/track/tak-hochu",
+        "release": "Так хочу",
+        "artist": "INSTASAMKA",
+        "grade": false
+    },
+    {
+        "link": "/track/noch-2",
+        "release": "Ночь",
+        "artist": "DK",
+        "grade": true
+    },
+    {
+        "link": "/track/kazhdyj-den-kak-den-rozhdeniya",
+        "release": "Каждый День как День Рождения",
+        "artist": "Baby Melo",
+        "grade": false
+    },
+    {
+        "link": "/track/mne-horosho",
+        "release": "Мне хорошо",
+        "artist": "MellSher",
+        "grade": false
+    },
+    {
+        "link": "/track/ahahah123kill",
+        "release": "АХАХАХ123KILL",
+        "artist": "MAYOT, OG Buda, Slatt Savage",
+        "grade": true
+    },
+    {
+        "link": "/track/aarne-bushido-zho-liza-evans-revnuju",
+        "release": "РЕВНУЮ",
+        "artist": "Aarne, BUSHIDO ZHO, Liza Evans",
+        "grade": true
+    },
+    {
+        "link": "/album/beskonechnyj-otelnyj-otdyh",
+        "release": "Бесконечный отельный отдых",
+        "artist": "Овсянкин",
+        "grade": false
+    },
+    {
+        "link": "/album/pozhar",
+        "release": "POZHAR",
+        "artist": "FlameBaby",
+        "grade": false
+    },
+    {
+        "link": "/album/jtim",
+        "release": "jtim",
+        "artist": "jtim",
+        "grade": false
+    },
+    {
+        "link": "/album/keraz-vision",
+        "release": "KERAZ VISION",
+        "artist": "LIL KAVKAZ, OG MINAY",
+        "grade": false
+    },
+    {
+        "link": "/track/leningradskie-nochi",
+        "release": "Ленинградские ночи",
+        "artist": "Влад Лифарь, ФРИК ПАТИ",
+        "grade": false
+    },
+    {
+        "link": "/track/kazhduju-pyatnicu",
+        "release": "Каждую пятницу",
+        "artist": "Bahh Tee, Loc-Dog",
+        "grade": false
+    },
+    {
+        "link": "/track/uber-black",
+        "release": "Uber Black",
+        "artist": "Цинк Уродов",
+        "grade": false
+    },
+    {
+        "link": "/track/gde-ty-2",
+        "release": "Где ты",
+        "artist": "BAbyBoi, WhyBaby?, Инфинити",
+        "grade": false
+    },
+    {
+        "link": "/track/ljubit-ne-ljubit",
+        "release": "Любит не любит",
+        "artist": "Честер Небро",
+        "grade": false
+    },
+    {
+        "link": "/album/semejnye-cennosti",
+        "release": "СЕМЕЙНЫЕ ЦЕННОСТИ",
+        "artist": "нексюша, ПОЛМАТЕРИ",
+        "grade": false
+    },
+    {
+        "link": "/track/s-ulicy-na-ulicu",
+        "release": "С улицы на улицу",
+        "artist": "КРИСПИ, Экси",
+        "grade": false
+    },
+    {
+        "link": "/track/doch-millionera",
+        "release": "Дочь миллионера",
+        "artist": "Baby Melo, молодой калуга",
+        "grade": true
+    },
+    {
+        "link": "/track/odna-noch-2",
+        "release": "ОДНА НОЧЬ!",
+        "artist": "ARUSTAMOV, MAYOT",
+        "grade": false
+    },
+    {
+        "link": "/track/kino-2",
+        "release": "Кино",
+        "artist": "DooMee, G4OUR",
+        "grade": false
+    },
+    {
+        "link": "/track/vse-ravno-ljublju",
+        "release": "Все равно люблю",
+        "artist": "kondachelo",
+        "grade": false
+    },
+    {
+        "link": "/track/rosomaha",
+        "release": "РОСОМАХА",
+        "artist": "Lover",
+        "grade": false
+    },
+    {
+        "link": "/track/freekartofel",
+        "release": "#freeкартофель",
+        "artist": "Maladoy Prince",
+        "grade": false
+    },
+    {
+        "link": "/track/slushaj-net-ya-ne-kurju",
+        "release": "Слушай нет я не курю",
+        "artist": "nyan.mp3",
+        "grade": false
+    },
+    {
+        "link": "/track/toksin-2",
+        "release": "Токсин-2",
+        "artist": "BORIS REDWALL, RAM",
+        "grade": true
+    },
+    {
+        "link": "/track/okraina",
+        "release": "Окраина",
+        "artist": "Whole Lotta Swag, Скриптонит",
+        "grade": true
+    },
+    {
+        "link": "/track/sovri-mne",
+        "release": "Соври мне",
+        "artist": "T-Fest",
+        "grade": false
+    },
+    {
+        "link": "/track/smak",
+        "release": "Смак",
+        "artist": "OG Buda",
+        "grade": true
+    },
+    {
+        "link": "/track/music-is-love",
+        "release": "Music Is Love",
+        "artist": "Mav-d, Miyagi, Ollane",
+        "grade": true
+    },
+    {
+        "link": "/track/bb",
+        "release": "BB",
+        "artist": "LIL KRYSTALLL",
+        "grade": true
+    },
+    {
+        "link": "/track/kak-veter",
+        "release": "КАК ВЕТЕР",
+        "artist": "kizaru",
+        "grade": true
+    },
+    {
+        "link": "/track/hellboy-6-6-6",
+        "release": "HELLBOY 6+6+6",
+        "artist": "huzzy b",
+        "grade": true
+    },
+    {
+        "link": "/track/trvphouse",
+        "release": "trvphouse",
+        "artist": "huzzy b",
+        "grade": false
+    },
+    {
+        "link": "/track/mybloodyvalentine-3",
+        "release": "#mybloodyvalentine <3",
+        "artist": "huzzy b",
+        "grade": false
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "link": "/track/artist",
+        "release": "Артист",
+        "artist": "SKB",
+        "grade": [
+            8,
+            9,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/album/suck-it",
+        "release": "SUCK IT!",
+        "artist": "dmtboy",
+        "grade": [
+            10,
+            10,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/ya-ustal",
+        "release": "я устал",
+        "artist": "mzlff, наше последнее лето",
+        "grade": [
+            9,
+            9,
+            8,
+            7,
+            5
+        ]
+    },
+    {
+        "link": "/track/ruki-tyanutsya",
+        "release": "РУКИ ТЯНУТСЯ",
+        "artist": "LIL KRYSTALLL, КУОК",
+        "grade": [
+            7,
+            8,
+            9,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/lady-slay",
+        "release": "Lady Slay",
+        "artist": "Мэйби Бэйби",
+        "grade": [
+            9,
+            9,
+            9,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/dyshu",
+        "release": "Дышу",
+        "artist": "ALBLAK 52",
+        "grade": [
+            7,
+            7,
+            7,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/agressor",
+        "release": "Агрессор",
+        "artist": "DK",
+        "grade": [
+            8,
+            8,
+            8,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/album/no-type",
+        "release": "NO TYPE",
+        "artist": "Whole Lotta Swag",
+        "grade": [
+            8,
+            9,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/album/from-sparta-to-padre",
+        "release": "From Sparta to Padre",
+        "artist": "ICEGERGERT",
+        "grade": [
+            6,
+            7,
+            7,
+            9,
+            7
+        ]
+    },
+    {
+        "link": "/track/ottepel",
+        "release": "ОТТЕПЕЛЬ",
+        "artist": "DEAD BLONDE, GSPD",
+        "grade": [
+            9,
+            10,
+            9,
+            8,
+            9
+        ]
+    }
+]

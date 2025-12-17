@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/track/moya-vselenskaya-pechal",
+        "release": "моя вселенская печаль",
+        "artist": "Стрелиция",
+        "grade": true
+    },
+    {
+        "link": "/track/ubej-menya",
+        "release": "убей меня",
+        "artist": "bipolar radiance",
+        "grade": true
+    },
+    {
+        "link": "/track/sgori",
+        "release": "СГОРИ",
+        "artist": "Егор Моторкин",
+        "grade": true
+    },
+    {
+        "link": "/track/tokyo-3",
+        "release": "TOKYO",
+        "artist": "Blurry",
+        "grade": true
+    },
+    {
+        "link": "/track/usiki",
+        "release": "USIKI",
+        "artist": "ХУЛИЧ",
+        "grade": true
+    },
+    {
+        "link": "/track/fu",
+        "release": "FU",
+        "artist": "DooMee, OG Buda",
+        "grade": true
+    },
+    {
+        "link": "/track/sushhestvo",
+        "release": "Существо",
+        "artist": "Бонд с кнопкой, Кишлак",
+        "grade": true
+    },
+    {
+        "link": "/track/zhizn-budet-dolgoj",
+        "release": "жизнь будет долгой",
+        "artist": "cold carti",
+        "grade": true
+    },
+    {
+        "link": "/track/sicko",
+        "release": "Sicko",
+        "artist": "LIL MORTY",
+        "grade": false
+    },
+    {
+        "link": "/track/summer-time",
+        "release": "Summer time",
+        "artist": "Miyagi, Эндшпиль",
+        "grade": true
+    },
+    {
+        "link": "/track/gorod-grehov",
+        "release": "город грехов",
+        "artist": "тринадцать карат",
+        "grade": true
+    },
+    {
+        "link": "/track/zavisimost",
+        "release": "Зависимость",
+        "artist": "ARUSTAMOV, Джарахов",
+        "grade": false
+    },
+    {
+        "link": "/track/zvezdopad-iz-slez",
+        "release": "Звездопад из слëз",
+        "artist": "ДЖЕЙЛО",
+        "grade": false
+    },
+    {
+        "link": "/album/ne-flagstrik",
+        "release": "NE FLAГSTRИК",
+        "artist": "JDFLAG",
+        "grade": true
+    },
+    {
+        "link": "/album/xie-xie",
+        "release": "XiE XiE",
+        "artist": "PINQ",
+        "grade": true
+    },
+    {
+        "link": "/album/blackout",
+        "release": "BLACKOUT",
+        "artist": "J. ROUH, SENSEE",
+        "grade": true
+    },
+    {
+        "link": "/album/volga-religion",
+        "release": "VOLGA RELIGION",
+        "artist": "lil Kidd",
+        "grade": false
+    },
+    {
+        "link": "/track/vivienne",
+        "release": "VIVIENNE",
+        "artist": "паранойя",
+        "grade": false
+    },
+    {
+        "link": "/track/zvjozdy-3",
+        "release": "Звёзды",
+        "artist": "Полка",
+        "grade": false
+    },
+    {
+        "link": "/track/dorogo",
+        "release": "Дорого",
+        "artist": "Loc-Dog, NILETTO, Джиган",
+        "grade": false
+    },
+    {
+        "link": "/track/she-knows",
+        "release": "SHE KNOWS",
+        "artist": "Slattcrank",
+        "grade": false
+    },
+    {
+        "link": "/track/akula",
+        "release": "Акула",
+        "artist": "SaintPrince 52",
+        "grade": false
+    },
+    {
+        "link": "/track/510",
+        "release": "510",
+        "artist": "JUGHEAD",
+        "grade": false
+    },
+    {
+        "link": "/album/dzhoni-i-ya",
+        "release": "Джони и я",
+        "artist": "VTORNIK",
+        "grade": false
+    },
+    {
+        "link": "/track/otpustilo",
+        "release": "Отпустило",
+        "artist": "aikko, Эсчевский",
+        "grade": false
+    },
+    {
+        "link": "/track/kraski",
+        "release": "Краски",
+        "artist": "2hug, NIKER",
+        "grade": false
+    },
+    {
+        "link": "/track/holod-2",
+        "release": "ХОЛОД 2",
+        "artist": "КРЕСТ",
+        "grade": false
+    },
+    {
+        "link": "/track/kalyvan-klyajn",
+        "release": "Калыван Кляйн",
+        "artist": "HELLOVERCAVI, mortalxo",
+        "grade": false
+    },
+    {
+        "link": "/track/pticy",
+        "release": "Птицы",
+        "artist": "noa",
+        "grade": false
+    },
+    {
+        "link": "/track/don-t-smoke",
+        "release": "Don't smoke",
+        "artist": "Bakr, Truwer",
+        "grade": false
+    },
+    {
+        "link": "/track/ona-ne-pojmet",
+        "release": "Она не поймет",
+        "artist": "INDEX",
+        "grade": false
+    },
+    {
+        "link": "/track/propaganda-3",
+        "release": "PROPAGANDA",
+        "artist": "UMSY",
+        "grade": false
+    },
+    {
+        "link": "/track/nikita-snow-g1k1",
+        "release": "g1k1",
+        "artist": "NIKITA SNOW",
+        "grade": true
+    },
+    {
+        "link": "/track/beescus-igor-ten-stimorol-ajs",
+        "release": "Стиморол айс",
+        "artist": "Beescus, Igor Ten",
+        "grade": true
+    },
+    {
+        "link": "/track/lamantion-russian-radar",
+        "release": "Russian Radar",
+        "artist": "LAMANTION",
+        "grade": true
+    },
+    {
+        "link": "/track/eng1neer-nn-bossco-yard",
+        "release": "ЯРД",
+        "artist": "ENG1NEER, NN BOSSCO",
+        "grade": true
+    }
+]

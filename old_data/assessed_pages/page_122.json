@@ -1,0 +1,410 @@
+[
+    {
+        "link": "/track/kloukoma-noch-2",
+        "release": "Ночь",
+        "artist": "КлоуКома",
+        "grade": [
+            7,
+            8,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/kloukoma-signal-161",
+        "release": "Сигнал 161",
+        "artist": "КлоуКома",
+        "grade": [
+            6,
+            9,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/pyataya-nedelya-ya-pomnju-noyabr",
+        "release": "я помню ноябрь",
+        "artist": "пятая неделя",
+        "grade": [
+            9,
+            6,
+            4,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/vampirinysh-turn-me-up",
+        "release": "Turn Me Up",
+        "artist": "vampirinysh",
+        "grade": [
+            8,
+            10,
+            6,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/trankwill-vremya",
+        "release": "Время",
+        "artist": "TrankWill",
+        "grade": [
+            9,
+            9,
+            8,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/14wav-ultramarine",
+        "release": "Ultramarine",
+        "artist": "14wav",
+        "grade": [
+            6,
+            6,
+            7,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/sadie-wicked-phoenix",
+        "release": "Phoenix",
+        "artist": "Sadie Wicked",
+        "grade": [
+            10,
+            9,
+            8,
+            7,
+            10
+        ]
+    },
+    {
+        "link": "/track/bezmaner-papahapa",
+        "release": "Papahapa",
+        "artist": "BEZMANER",
+        "grade": [
+            8,
+            3,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/anny-superzvezda",
+        "release": "Суперзвезда",
+        "artist": "Anny",
+        "grade": [
+            8,
+            8,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/managa-weekend",
+        "release": "Weekend",
+        "artist": "Managa",
+        "grade": [
+            7,
+            8,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/neverlove-slayer-2",
+        "release": "SLAYER",
+        "artist": "Neverlove",
+        "grade": [
+            8,
+            8,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/august-my-bad-a-love-song",
+        "release": "My Bad (A Love Song)",
+        "artist": "August",
+        "grade": [
+            9,
+            10,
+            9,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/33black-trap",
+        "release": "Trap Check",
+        "artist": "33black",
+        "grade": [
+            7,
+            6,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/de-nichi-drop-of-god-holyboond-muv",
+        "release": "Мув.",
+        "artist": "DE Nichi, Drop of God, HOLYBOOND",
+        "grade": [
+            5,
+            6,
+            6,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/album/booker-zlachnoe-mesto",
+        "release": "Злачное место",
+        "artist": "BOOKER",
+        "grade": [
+            10,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/lizer-zhizni-sueta-2",
+        "release": "жизни суета",
+        "artist": "Lizer",
+        "grade": [
+            10,
+            9,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/4n-way-comme-des-garcons",
+        "release": "COMME des GARCONS",
+        "artist": "4n Way",
+        "grade": [
+            9,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/folkpro-seemee-ole-ola",
+        "release": "OLE OLA",
+        "artist": "FOLKPRO, SEEMEE",
+        "grade": [
+            7,
+            8,
+            8,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/pussykiller-klub",
+        "release": "Клуб",
+        "artist": "PUSSYKILLER",
+        "grade": [
+            9,
+            8,
+            6,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/astroboii-jetlag",
+        "release": "JETLAG",
+        "artist": "ASTROBOII",
+        "grade": [
+            7,
+            9,
+            8,
+            7,
+            10
+        ]
+    },
+    {
+        "link": "/track/ayri-twenty3-iloveihateu-julius-micky-mell-r-ejo-zovut-barbi",
+        "release": "Её зовут Барби!",
+        "artist": "Ayri Twenty3, ILOVEIHATEU, Julius, Micky Mell R’",
+        "grade": [
+            8,
+            6,
+            5,
+            6,
+            5
+        ]
+    },
+    {
+        "link": "/track/ernest-v-takt",
+        "release": "В такт",
+        "artist": "ERNEST",
+        "grade": [
+            8,
+            9,
+            9,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/fendiglock-shans",
+        "release": "Шанс",
+        "artist": "FENDIGLOCK",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/fendiglock-malenkij-yarche-goofy",
+        "release": "Goofy",
+        "artist": "FENDIGLOCK, маленький ярче",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/fendiglock-trendsetter",
+        "release": "TRENDSETTER",
+        "artist": "FENDIGLOCK",
+        "grade": [
+            10,
+            10,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/i61-thomas-mraz-okean-pustota",
+        "release": "Океан/Пустота",
+        "artist": "i61, Thomas Mraz",
+        "grade": [
+            9,
+            7,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/cmh-ubej",
+        "release": "УБЕЙ",
+        "artist": "CMH",
+        "grade": [
+            10,
+            9,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/newlightchild-geshtalt",
+        "release": "GESHTALT",
+        "artist": "NEWLIGHTCHILD",
+        "grade": [
+            8,
+            8,
+            6,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/angeldustt-mmo",
+        "release": "mmo",
+        "artist": "angeldustt",
+        "grade": [
+            7,
+            8,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/lostboysparadise-williams",
+        "release": "Williams",
+        "artist": "Lostboysparadise",
+        "grade": [
+            10,
+            5,
+            4,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/lover-rolso-kak-u-niki",
+        "release": "КАК У НИКИ",
+        "artist": "Lover, Rolso",
+        "grade": [
+            9,
+            10,
+            7,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/ernest-zoddy-santos-de-cartier",
+        "release": "Santos de Cartier",
+        "artist": "ERNEST, Zoddy",
+        "grade": [
+            8,
+            10,
+            8,
+            7,
+            10
+        ]
+    },
+    {
+        "link": "/track/meep-velial-squad-brutto-desyatiletie",
+        "release": "Десятилетие",
+        "artist": "Meep, VELIAL SQUAD, Брутто",
+        "grade": [
+            10,
+            9,
+            9,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/lildrughill-update",
+        "release": "​update",
+        "artist": "LILDRUGHILL",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    }
+]

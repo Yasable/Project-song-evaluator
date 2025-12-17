@@ -1,0 +1,290 @@
+[
+    {
+        "link": "/track/vonjuchij-chel",
+        "release": "Вонючий чел",
+        "artist": "PLOHOYPAREN",
+        "grade": [
+            6,
+            7,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/album/onna-badvibes",
+        "release": "onna badvibes",
+        "artist": "onna badvibes",
+        "grade": [
+            9,
+            8,
+            8,
+            7,
+            7
+        ]
+    },
+    {
+        "link": "/track/den-noch",
+        "release": "ДЕНЬ/НОЧЬ",
+        "artist": "A$THMA BOYS",
+        "grade": [
+            7,
+            9,
+            7,
+            7,
+            7
+        ]
+    },
+    {
+        "link": "/album/elf-1",
+        "release": "ЭЛЬФ 1",
+        "artist": "SLAVA MARLOW",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/always",
+        "release": "Always",
+        "artist": "Lida, madk1d",
+        "grade": [
+            9,
+            10,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/album/mrachnye-tredy",
+        "release": "мрачные треды",
+        "artist": "тёмный принц",
+        "grade": [
+            9,
+            8,
+            7,
+            8,
+            9
+        ]
+    },
+    {
+        "link": "/track/signal-2",
+        "release": "СИГНАЛ",
+        "artist": "OG Buda, Toxi$",
+        "grade": [
+            7,
+            9,
+            9,
+            9,
+            7
+        ]
+    },
+    {
+        "link": "/track/za-bolshie-dengi-da",
+        "release": "За большие деньги да",
+        "artist": "Scally Milano, Voskresenskii",
+        "grade": [
+            7,
+            7,
+            8,
+            9,
+            6
+        ]
+    },
+    {
+        "link": "/track/nu-ka-snimaj",
+        "release": "Ну-ка снимай",
+        "artist": "MAYOT",
+        "grade": [
+            9,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/balenci-2",
+        "release": "Balenci",
+        "artist": "YASMI, Экси",
+        "grade": [
+            8,
+            7,
+            8,
+            8,
+            7
+        ]
+    },
+    {
+        "link": "/track/y",
+        "release": "Y",
+        "artist": "dekma",
+        "grade": [
+            9,
+            8,
+            8,
+            9,
+            5
+        ]
+    },
+    {
+        "link": "/track/kis-kis",
+        "release": "Кис-кис",
+        "artist": "5opka, MellSher",
+        "grade": [
+            8,
+            9,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/album/hyperpunk",
+        "release": "HYPERPUNK",
+        "artist": "SENSEE",
+        "grade": [
+            9,
+            8,
+            8,
+            8,
+            9
+        ]
+    },
+    {
+        "link": "/track/backham-obladaet-diss",
+        "release": "BACKHAM (OBLADAET DISS)",
+        "artist": "BUSTER",
+        "grade": [
+            7,
+            7,
+            8,
+            7,
+            7
+        ]
+    },
+    {
+        "link": "/track/oculus-macallan",
+        "release": "MACALLAN",
+        "artist": "Oculus",
+        "grade": [
+            4,
+            6,
+            5,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/misha-makkofe-shaurma",
+        "release": "Шаурма",
+        "artist": "Миша Маккофе",
+        "grade": [
+            8,
+            7,
+            6,
+            6,
+            8
+        ]
+    },
+    {
+        "link": "/track/tsudavi-ty-ne-pojmjosh",
+        "release": "Ты не поймёшь",
+        "artist": "TsuDaVi",
+        "grade": [
+            7,
+            7,
+            6,
+            7,
+            7
+        ]
+    },
+    {
+        "link": "/track/21ace-ne-pojmesh",
+        "release": "не поймешь",
+        "artist": "21Ace",
+        "grade": [
+            7,
+            8,
+            6,
+            7,
+            9
+        ]
+    },
+    {
+        "link": "/track/nuar-holodno",
+        "release": "Холодно",
+        "artist": "Нуар",
+        "grade": [
+            9,
+            7,
+            5,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/soju-ogon",
+        "release": "Огонь",
+        "artist": "Soju",
+        "grade": [
+            6,
+            6,
+            5,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/fever-lie-z4r4z4",
+        "release": "З4Р4З4",
+        "artist": "fever lie",
+        "grade": [
+            8,
+            9,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/korsa-killa-high",
+        "release": "HIGH",
+        "artist": "КОРСА КИЛЛА",
+        "grade": [
+            5,
+            7,
+            5,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/iwytsi-kak-dela",
+        "release": "Как дела",
+        "artist": "IWYTSI",
+        "grade": [
+            5,
+            7,
+            4,
+            4,
+            3
+        ]
+    },
+    {
+        "link": "/track/pauch-radiovolna",
+        "release": "Радиоволна",
+        "artist": "ПАУЧ",
+        "grade": [
+            7,
+            6,
+            3,
+            4,
+            6
+        ]
+    }
+]

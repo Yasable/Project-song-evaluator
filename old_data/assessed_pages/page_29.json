@@ -1,0 +1,182 @@
+[
+    {
+        "link": "/album/6lankname-2",
+        "release": "6lankname 2",
+        "artist": "BATO",
+        "grade": [
+            9,
+            9,
+            9,
+            10,
+            9
+        ]
+    },
+    {
+        "link": "/album/twins",
+        "release": "TWINS",
+        "artist": "LDMA, SIDODGI DUBOSHIT",
+        "grade": [
+            9,
+            9,
+            10,
+            10,
+            9
+        ]
+    },
+    {
+        "link": "/track/spotykajus-na-nej",
+        "release": "Спотыкаюсь на ней",
+        "artist": "MAYOT",
+        "grade": [
+            8,
+            8,
+            10,
+            9,
+            7
+        ]
+    },
+    {
+        "link": "/track/merci-mersi",
+        "release": "merci (мерси)",
+        "artist": "BUSHIDO ZHO, elyaplugg!",
+        "grade": [
+            8,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/eto-pank-rok",
+        "release": "это панк рок,",
+        "artist": "Серега Пират, Слава КПСС",
+        "grade": [
+            6,
+            8,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/album/el",
+        "release": "Эл",
+        "artist": "Джарахов",
+        "grade": [
+            9,
+            8,
+            9,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/album/bolshoj-glebovski",
+        "release": "Большой Глебовски",
+        "artist": "Крип-А-Крип",
+        "grade": [
+            10,
+            7,
+            8,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/mne-tak-zhal",
+        "release": "мне так жаль",
+        "artist": "LXNER",
+        "grade": [
+            8,
+            8,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/sequoia-termite-cugcvang",
+        "release": "Цугцванг",
+        "artist": "Sequoia termite",
+        "grade": [
+            9,
+            7,
+            6,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/paradise-outro",
+        "release": "Outro",
+        "artist": "Paradise",
+        "grade": [
+            7,
+            5,
+            4,
+            6,
+            7
+        ]
+    },
+    {
+        "link": "/track/black-paper-moon-fotkaj-take-photos",
+        "release": "фоткай",
+        "artist": "Black Paper Moon",
+        "grade": [
+            8,
+            7,
+            4,
+            5,
+            5
+        ]
+    },
+    {
+        "link": "/track/tada-kiite-sumka",
+        "release": "sumka",
+        "artist": "Tada kiite",
+        "grade": [
+            8,
+            8,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/cardio-killer-tak-blizko",
+        "release": "Так близко",
+        "artist": "CARDIO KILLER",
+        "grade": [
+            7,
+            5,
+            7,
+            7,
+            5
+        ]
+    },
+    {
+        "link": "/track/slawdrag-watanabe",
+        "release": "watanabe",
+        "artist": "slawdrag",
+        "grade": [
+            6,
+            7,
+            3,
+            3,
+            4
+        ]
+    },
+    {
+        "link": "/track/iammind-novyj-zavet",
+        "release": "Новый Завет.",
+        "artist": "IAMMIND",
+        "grade": [
+            7,
+            7,
+            7,
+            6,
+            6
+        ]
+    }
+]

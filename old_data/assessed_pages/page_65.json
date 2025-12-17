@@ -1,0 +1,146 @@
+[
+    {
+        "link": "/album/takova-zhizn",
+        "release": "Такова жизнь",
+        "artist": "СТИНТ",
+        "grade": [
+            8,
+            9,
+            8,
+            6,
+            8
+        ]
+    },
+    {
+        "link": "/track/beescus-vvsyardie-vision",
+        "release": "VISION",
+        "artist": "Beescus, VVSYARDIE",
+        "grade": [
+            5,
+            5,
+            5,
+            5,
+            5
+        ]
+    },
+    {
+        "link": "/track/eterni-imboga-nazad",
+        "release": "Назад",
+        "artist": "ETERNI, ImBoga",
+        "grade": [
+            8,
+            7,
+            6,
+            6,
+            5
+        ]
+    },
+    {
+        "link": "/track/overlave-ray-mamoru-creepy-trap",
+        "release": "Creepy Trap",
+        "artist": "Overlave, Ray Mamoru",
+        "grade": [
+            3,
+            4,
+            3,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/in8inityme-in8inityflow",
+        "release": "IN8INITYFLOW",
+        "artist": "In8inityMe",
+        "grade": [
+            8,
+            8,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/gozlat-vot-ona-muzyka",
+        "release": "Вот она музыка",
+        "artist": "GOZLAT",
+        "grade": [
+            8,
+            8,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/zaichkovskii-chikatilo",
+        "release": "чикатило",
+        "artist": "zaichkovskii",
+        "grade": [
+            9,
+            7,
+            7,
+            6,
+            8
+        ]
+    },
+    {
+        "link": "/track/esaulov-bashka",
+        "release": "БАШКА",
+        "artist": "есаулов",
+        "grade": [
+            7,
+            9,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/killadg-quart3rback",
+        "release": "QUART3RBACK",
+        "artist": "KILLADG",
+        "grade": [
+            4,
+            6,
+            3,
+            5,
+            2
+        ]
+    },
+    {
+        "link": "/track/bez-tebya-2",
+        "release": "без тебя",
+        "artist": "маломира",
+        "grade": [
+            9,
+            9,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/poletaem-n30n-k1ng",
+        "release": "пОлЕтАеМ? (n30N k1nG)",
+        "artist": "clout",
+        "grade": [
+            9,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/freerio-3",
+        "release": "FREERIO 3",
+        "artist": "OG Buda",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    }
+]

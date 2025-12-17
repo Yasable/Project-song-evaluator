@@ -1,0 +1,230 @@
+[
+    {
+        "link": "/track/lalala",
+        "release": "lalala",
+        "artist": "9mice, LILDRUGHILL",
+        "grade": [
+            8,
+            8,
+            9,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/1st-day-smoke",
+        "release": "1ST DAY SMOKE",
+        "artist": "Heronwater",
+        "grade": [
+            10,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/fake-id",
+        "release": "Fake ID",
+        "artist": "ICEGERGERT, kizaru",
+        "grade": [
+            8,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/swjorve",
+        "release": "SWЁRVE",
+        "artist": "OG Buda, revvboy",
+        "grade": [
+            9,
+            10,
+            9,
+            10,
+            9
+        ]
+    },
+    {
+        "link": "/track/glock17",
+        "release": "GLOCK17",
+        "artist": "BUSHIDO ZHO, Yanix",
+        "grade": [
+            9,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/vo-dvore",
+        "release": "во дворе",
+        "artist": "mzlff",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/mnogo-deneg",
+        "release": "Много денег",
+        "artist": "LOVV66",
+        "grade": [
+            9,
+            8,
+            9,
+            10,
+            9
+        ]
+    },
+    {
+        "link": "/track/sharady",
+        "release": "Шарады",
+        "artist": "MOT, Егор Крид",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/kazino",
+        "release": "Казино",
+        "artist": "5opka",
+        "grade": [
+            7,
+            10,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/azbuka",
+        "release": "АЗБУКА",
+        "artist": "BATO, TVETH",
+        "grade": [
+            9,
+            8,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/vernis-domoj",
+        "release": "Вернись домой",
+        "artist": "Mirèle, ЛСП",
+        "grade": [
+            9,
+            10,
+            9,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/obladaet-yasmi-claus",
+        "release": "CLAUS",
+        "artist": "OBLADAET, YASMI",
+        "grade": [
+            8,
+            8,
+            9,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/dmtboy-dg",
+        "release": "DG",
+        "artist": "dmtboy",
+        "grade": [
+            9,
+            9,
+            8,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/whole-lotta-swag-formalnost",
+        "release": "Формальность",
+        "artist": "Whole Lotta Swag",
+        "grade": [
+            10,
+            8,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/fendiglock-balenguyaga",
+        "release": "Баленгуяга",
+        "artist": "FENDIGLOCK",
+        "grade": [
+            8,
+            8,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/fendiglock-dark-souls",
+        "release": "Dark Souls",
+        "artist": "FENDIGLOCK",
+        "grade": [
+            8,
+            8,
+            8,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/meep-velial-squad-balaklava",
+        "release": "Балаклава",
+        "artist": "Meep, VELIAL SQUAD",
+        "grade": [
+            9,
+            9,
+            9,
+            10,
+            9
+        ]
+    },
+    {
+        "link": "/track/madk1d-tak-po",
+        "release": "так по***",
+        "artist": "madk1d",
+        "grade": [
+            10,
+            8,
+            8,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/icegergert-syn-ot-chjornyh-korolev",
+        "release": "Сын от чёрных королев",
+        "artist": "ICEGERGERT",
+        "grade": [
+            8,
+            9,
+            8,
+            9,
+            9
+        ]
+    }
+]

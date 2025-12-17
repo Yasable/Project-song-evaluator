@@ -1,0 +1,86 @@
+[
+    {
+        "link": "/track/jabo-letmeknow",
+        "release": "letmeknow",
+        "artist": "JABO",
+        "grade": [
+            7,
+            8,
+            10,
+            6,
+            8
+        ]
+    },
+    {
+        "link": "/track/eldzhej-krestiki-noliki",
+        "release": "Крестики Нолики",
+        "artist": "Элджей",
+        "grade": [
+            4,
+            5,
+            10,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/st1m-x-johnyboy-zhivoj",
+        "release": "Живой",
+        "artist": "Johnyboy, ST1M",
+        "grade": [
+            10,
+            10,
+            6,
+            7,
+            4
+        ]
+    },
+    {
+        "link": "/track/the-limba-skriptonit-ronin",
+        "release": "Ронин",
+        "artist": "The Limba, Скриптонит",
+        "grade": [
+            7,
+            8,
+            7,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/dj-smash-poet-t-fest-po-mozgam",
+        "release": "По Мозгам",
+        "artist": "DJ SMASH, Poët, T-Fest",
+        "grade": [
+            5,
+            7,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/yanix-og-buda-163onmyneck-stejk",
+        "release": "Стейк",
+        "artist": "163ONMYNECK, OG Buda, Yanix",
+        "grade": [
+            7,
+            8,
+            8,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/album/prilunenie",
+        "release": "ПРИЛУНЕНИЕ",
+        "artist": "GONE.Fludd, m00nchild",
+        "grade": [
+            10,
+            10,
+            8,
+            8,
+            10
+        ]
+    }
+]

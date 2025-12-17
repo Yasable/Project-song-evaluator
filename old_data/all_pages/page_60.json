@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/track/besy",
+        "release": "Бесы",
+        "artist": "КРИМ ПЛИН",
+        "grade": true
+    },
+    {
+        "link": "/track/everyday",
+        "release": "Everyday",
+        "artist": "Lexx NeverSleep",
+        "grade": true
+    },
+    {
+        "link": "/track/slyshish-menya",
+        "release": "Слышишь Меня",
+        "artist": "Крыша Парижа",
+        "grade": true
+    },
+    {
+        "link": "/track/bomba-bumba",
+        "release": "Бомба Бумба",
+        "artist": "ORIGINAL FACKA, SKAIA",
+        "grade": true
+    },
+    {
+        "link": "/track/prosti",
+        "release": "Прости",
+        "artist": "Странное исполнение",
+        "grade": true
+    },
+    {
+        "link": "/track/specialno-dlya-rzt",
+        "release": "Специально для рзт",
+        "artist": "333ggger",
+        "grade": true
+    },
+    {
+        "link": "/track/vechno",
+        "release": "ВЕЧНО",
+        "artist": "Эйти",
+        "grade": true
+    },
+    {
+        "link": "/track/30491",
+        "release": "Блестят Диаманды",
+        "artist": "Yo BROOK",
+        "grade": true
+    },
+    {
+        "link": "/track/ona",
+        "release": "она",
+        "artist": "00santi",
+        "grade": true
+    },
+    {
+        "link": "/track/gods",
+        "release": "Gods",
+        "artist": "Paradise",
+        "grade": true
+    },
+    {
+        "link": "/track/fullovyj",
+        "release": "фулловый",
+        "artist": "Doomian, джуниор",
+        "grade": true
+    },
+    {
+        "link": "/track/leti-so-mnoj",
+        "release": "Лети со мной!!",
+        "artist": "Теллер",
+        "grade": true
+    },
+    {
+        "link": "/track/more",
+        "release": "More",
+        "artist": "Hugo Loud",
+        "grade": true
+    },
+    {
+        "link": "/track/vverh-vniz-vlevo-vpravo",
+        "release": "Вверх, Вниз, Влево, Вправо",
+        "artist": "Baby Melo",
+        "grade": true
+    },
+    {
+        "link": "/album/burlak",
+        "release": "Burlak",
+        "artist": "opt, tsb",
+        "grade": true
+    },
+    {
+        "link": "/track/rodina",
+        "release": "Родина",
+        "artist": "LeanJe",
+        "grade": false
+    },
+    {
+        "link": "/track/davno",
+        "release": "давно",
+        "artist": "madk1d",
+        "grade": true
+    },
+    {
+        "link": "/album/done-4",
+        "release": "DONE [4]",
+        "artist": "KURT92",
+        "grade": false
+    },
+    {
+        "link": "/album/vse-psy-popadajut-v-raj",
+        "release": "все псы попадают в рай",
+        "artist": "кухня",
+        "grade": false
+    },
+    {
+        "link": "/track/superfly",
+        "release": "Superfly",
+        "artist": "TonySouljah",
+        "grade": false
+    },
+    {
+        "link": "/track/iz-brazilii",
+        "release": "ИЗ БРАЗИЛИИ",
+        "artist": "Lover",
+        "grade": false
+    },
+    {
+        "link": "/track/mood",
+        "release": "MOOD",
+        "artist": "haijin, Kinderlil",
+        "grade": false
+    },
+    {
+        "link": "/track/reveli-livni",
+        "release": "Ревели ливни",
+        "artist": "JONY",
+        "grade": false
+    },
+    {
+        "link": "/track/celuya-ih",
+        "release": "Целуя их",
+        "artist": "IGOR, Whywe",
+        "grade": false
+    },
+    {
+        "link": "/track/autumn",
+        "release": "Autumn",
+        "artist": "Blockkid",
+        "grade": false
+    },
+    {
+        "link": "/track/tleet-sigareta-cover",
+        "release": "Тлеет сигарета (cover)",
+        "artist": "Овсянкин",
+        "grade": false
+    },
+    {
+        "link": "/track/ugolovnik",
+        "release": "Уголовник",
+        "artist": "Они, Экси",
+        "grade": false
+    },
+    {
+        "link": "/track/oh-kakaya-bejbi",
+        "release": "ОХ КАКАЯ БЕЙБИ",
+        "artist": "ARTEM SHILOVETS, Wipo",
+        "grade": false
+    },
+    {
+        "link": "/track/v-adu",
+        "release": "В аду",
+        "artist": "Wildways, КлоуКома",
+        "grade": false
+    },
+    {
+        "link": "/track/ne-nuzhen",
+        "release": "не нужен",
+        "artist": "LXNER, mapt0v",
+        "grade": false
+    },
+    {
+        "link": "/track/gandikap",
+        "release": "ГАНДИКАП",
+        "artist": "Boulevard Depo",
+        "grade": true
+    },
+    {
+        "link": "/track/potreblyat",
+        "release": "Потреблять",
+        "artist": "ATL",
+        "grade": false
+    },
+    {
+        "link": "/track/lol",
+        "release": "lol!!!",
+        "artist": "elyaplugg!, Шайни",
+        "grade": false
+    },
+    {
+        "link": "/track/save",
+        "release": "save",
+        "artist": "Шайни",
+        "grade": true
+    },
+    {
+        "link": "/track/freeriotypeintro-rzt-3-0-diss",
+        "release": "FreeRioTypeIntro (RZT 3.0 Diss)",
+        "artist": "Слава КПСС",
+        "grade": false
+    },
+    {
+        "link": "/album/bolshie-kurtki",
+        "release": "BOLSHIE KURTKI",
+        "artist": "SALUKI",
+        "grade": true
+    }
+]

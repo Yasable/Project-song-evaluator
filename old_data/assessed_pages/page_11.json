@@ -1,0 +1,206 @@
+[
+    {
+        "link": "/track/moya-vselenskaya-pechal",
+        "release": "моя вселенская печаль",
+        "artist": "Стрелиция",
+        "grade": [
+            8,
+            8,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/ubej-menya",
+        "release": "убей меня",
+        "artist": "bipolar radiance",
+        "grade": [
+            7,
+            7,
+            2,
+            3,
+            2
+        ]
+    },
+    {
+        "link": "/track/sgori",
+        "release": "СГОРИ",
+        "artist": "Егор Моторкин",
+        "grade": [
+            7,
+            7,
+            5,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/tokyo-3",
+        "release": "TOKYO",
+        "artist": "Blurry",
+        "grade": [
+            7,
+            8,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/usiki",
+        "release": "USIKI",
+        "artist": "ХУЛИЧ",
+        "grade": [
+            8,
+            7,
+            5,
+            5,
+            7
+        ]
+    },
+    {
+        "link": "/track/fu",
+        "release": "FU",
+        "artist": "DooMee, OG Buda",
+        "grade": [
+            9,
+            10,
+            9,
+            10,
+            9
+        ]
+    },
+    {
+        "link": "/track/sushhestvo",
+        "release": "Существо",
+        "artist": "Бонд с кнопкой, Кишлак",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/zhizn-budet-dolgoj",
+        "release": "жизнь будет долгой",
+        "artist": "cold carti",
+        "grade": [
+            10,
+            9,
+            9,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/summer-time",
+        "release": "Summer time",
+        "artist": "Miyagi, Эндшпиль",
+        "grade": [
+            8,
+            9,
+            10,
+            10,
+            7
+        ]
+    },
+    {
+        "link": "/track/gorod-grehov",
+        "release": "город грехов",
+        "artist": "тринадцать карат",
+        "grade": [
+            9,
+            10,
+            8,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/album/ne-flagstrik",
+        "release": "NE FLAГSTRИК",
+        "artist": "JDFLAG",
+        "grade": [
+            6,
+            7,
+            9,
+            9,
+            6
+        ]
+    },
+    {
+        "link": "/album/xie-xie",
+        "release": "XiE XiE",
+        "artist": "PINQ",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/album/blackout",
+        "release": "BLACKOUT",
+        "artist": "J. ROUH, SENSEE",
+        "grade": [
+            9,
+            10,
+            10,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/nikita-snow-g1k1",
+        "release": "g1k1",
+        "artist": "NIKITA SNOW",
+        "grade": [
+            4,
+            5,
+            4,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/beescus-igor-ten-stimorol-ajs",
+        "release": "Стиморол айс",
+        "artist": "Beescus, Igor Ten",
+        "grade": [
+            5,
+            5,
+            5,
+            5,
+            5
+        ]
+    },
+    {
+        "link": "/track/lamantion-russian-radar",
+        "release": "Russian Radar",
+        "artist": "LAMANTION",
+        "grade": [
+            6,
+            6,
+            6,
+            6,
+            5
+        ]
+    },
+    {
+        "link": "/track/eng1neer-nn-bossco-yard",
+        "release": "ЯРД",
+        "artist": "ENG1NEER, NN BOSSCO",
+        "grade": [
+            5,
+            8,
+            6,
+            6,
+            6
+        ]
+    }
+]

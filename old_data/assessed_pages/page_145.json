@@ -1,0 +1,434 @@
+[
+    {
+        "link": "/track/peremennymi",
+        "release": "Переменными",
+        "artist": "MONRAU",
+        "grade": [
+            9,
+            10,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/shumodav",
+        "release": "Шумодав",
+        "artist": "LOUISDIOO",
+        "grade": [
+            8,
+            8,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/tolko-ty-nikogda-ne-uznaesh",
+        "release": "только ты никогда не узнаешь",
+        "artist": "тринадцать карат",
+        "grade": [
+            7,
+            8,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/bystrej-zemli",
+        "release": "БЫСТРЕЙ ЗЕМЛИ",
+        "artist": "Matsby",
+        "grade": [
+            8,
+            6,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/sunder",
+        "release": "sunder",
+        "artist": "shadowraze",
+        "grade": [
+            8,
+            7,
+            6,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/bugimen",
+        "release": "Бугимен",
+        "artist": "Dacoito",
+        "grade": [
+            8,
+            10,
+            8,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/zajka",
+        "release": "Зайка",
+        "artist": "Мэйби Бэйби",
+        "grade": [
+            10,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/ideal",
+        "release": "Идеал",
+        "artist": "desaad",
+        "grade": [
+            7,
+            7,
+            5,
+            6,
+            5
+        ]
+    },
+    {
+        "link": "/track/maj-maj",
+        "release": "МАЙ МАЙ",
+        "artist": "LOVV66",
+        "grade": [
+            8,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/aokigahara",
+        "release": "Аокигахара",
+        "artist": "goldtbk",
+        "grade": [
+            9,
+            8,
+            7,
+            6,
+            8
+        ]
+    },
+    {
+        "link": "/track/blickrig",
+        "release": "Блицкриг",
+        "artist": "Neverlove, Sagath",
+        "grade": [
+            7,
+            9,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/album/dobro-pozhalovat-na-bal",
+        "release": "Добро пожаловать на бал",
+        "artist": "Neverlove",
+        "grade": [
+            5,
+            8,
+            6,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/cry-me-a-river",
+        "release": "Cry me a river",
+        "artist": "JojoHF",
+        "grade": [
+            4,
+            8,
+            6,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/track/uhodya-uhodi",
+        "release": "Уходя уходи",
+        "artist": "RAVANNA, МУККА",
+        "grade": [
+            9,
+            8,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/vspominat",
+        "release": "Вспоминать",
+        "artist": "N.MASTEROFF",
+        "grade": [
+            8,
+            9,
+            8,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/album/formula-schastya",
+        "release": "Формула счастья",
+        "artist": "N.MASTEROFF",
+        "grade": [
+            8,
+            8,
+            6,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/million-2",
+        "release": "Миллион 2",
+        "artist": "RAIJIN, Thomas Mraz",
+        "grade": [
+            7,
+            8,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/mamacita",
+        "release": "MAMACITA",
+        "artist": "PabloTheFlare",
+        "grade": [
+            5,
+            4,
+            4,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/mne-nuzhno",
+        "release": "Мне нужно",
+        "artist": "BUDNI",
+        "grade": [
+            8,
+            10,
+            10,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/creepy-boss",
+        "release": "CREEPY BOSS",
+        "artist": "BATO, TVETH",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/mountain-buffalo",
+        "release": "MOUNTAIN BUFFALO",
+        "artist": "BATO",
+        "grade": [
+            9,
+            8,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/mountain-buffalo-album",
+        "release": "MOUNTAIN BUFFALO",
+        "artist": "BATO",
+        "grade": [
+            9,
+            8,
+            7,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/zhara",
+        "release": "Жара",
+        "artist": "INSTASAMKA",
+        "grade": [
+            7,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/carapka",
+        "release": "царапка",
+        "artist": "mzlff",
+        "grade": [
+            9,
+            9,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/what-u-think-about-dat",
+        "release": "What U Think About Dat!?",
+        "artist": "splashy.check",
+        "grade": [
+            5,
+            6,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/family-97",
+        "release": "Family 97",
+        "artist": "bodhocker",
+        "grade": [
+            4,
+            3,
+            3,
+            4,
+            2
+        ]
+    },
+    {
+        "link": "/track/esli-zavtra-ya-umru",
+        "release": "если завтра я умру",
+        "artist": "aikko",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/predannye",
+        "release": "Преданные",
+        "artist": "aikko",
+        "grade": [
+            10,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/novogodnyaya",
+        "release": "новогодняя",
+        "artist": "pyrokinesis",
+        "grade": [
+            10,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/sejchas",
+        "release": "Сейчас",
+        "artist": "NORAYR",
+        "grade": [
+            5,
+            8,
+            5,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/track/daylor-leshh-go",
+        "release": "ЛЕЩ ГО",
+        "artist": "Daylor",
+        "grade": [
+            8,
+            6,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/dni-do-nashej-vstrechi",
+        "release": "дни до нашей встречи",
+        "artist": "elyaplugg!",
+        "grade": [
+            8,
+            8,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/manikjur",
+        "release": "Маникюр",
+        "artist": "FENDIGLOCK",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/egoist",
+        "release": "Эгоист",
+        "artist": "FENDIGLOCK, MAYOT",
+        "grade": [
+            8,
+            8,
+            9,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/album/pill-party",
+        "release": "PILL PARTY",
+        "artist": "FENDIGLOCK",
+        "grade": [
+            8,
+            9,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/armageddon",
+        "release": "ARMAGEDDON",
+        "artist": "ARUSTAMOV, ENTYPE, xxxmanera",
+        "grade": [
+            7,
+            8,
+            7,
+            8,
+            8
+        ]
+    }
+]

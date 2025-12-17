@@ -1,0 +1,290 @@
+[
+    {
+        "link": "/track/lil-comet-drip4ik",
+        "release": "ДРИП4ИК",
+        "artist": "LIL COMET",
+        "grade": [
+            7,
+            7,
+            4,
+            4,
+            5
+        ]
+    },
+    {
+        "link": "/track/kupidon-nikogo-ne-budet-ryadom",
+        "release": "Никого не будет рядом",
+        "artist": "KUPIDON.",
+        "grade": [
+            7,
+            7,
+            6,
+            7,
+            7
+        ]
+    },
+    {
+        "link": "/track/ownr-propadu",
+        "release": "Пропаду",
+        "artist": "OWNR",
+        "grade": [
+            7,
+            7,
+            6,
+            6,
+            5
+        ]
+    },
+    {
+        "link": "/track/senluriz-vernymi",
+        "release": "Верными",
+        "artist": "Сенлуриз",
+        "grade": [
+            4,
+            6,
+            4,
+            3,
+            4
+        ]
+    },
+    {
+        "link": "/track/dedface-bog-repa",
+        "release": "Бог Рэпа",
+        "artist": "DedFACE",
+        "grade": [
+            3,
+            6,
+            3,
+            4,
+            6
+        ]
+    },
+    {
+        "link": "/track/berssserk-zaza",
+        "release": "Zaza",
+        "artist": "BERSSSERK",
+        "grade": [
+            7,
+            6,
+            5,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/6less6oy-tour-eiffel",
+        "release": "Tour Eiffel",
+        "artist": "6less6oy",
+        "grade": [
+            6,
+            7,
+            6,
+            7,
+            4
+        ]
+    },
+    {
+        "link": "/track/soda-luv-legit-chek",
+        "release": "Легит чек",
+        "artist": "SODA LUV",
+        "grade": [
+            9,
+            9,
+            9,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/cupsize-minus-pljus",
+        "release": "минус, плюс",
+        "artist": "CUPSIZE",
+        "grade": [
+            9,
+            8,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/kai-angel-laperouse",
+        "release": "laperouse",
+        "artist": "Kai Angel",
+        "grade": [
+            8,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/pharaoh-moskva-ne-pro",
+        "release": "Москва (Не Про)",
+        "artist": "PHARAOH",
+        "grade": [
+            8,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/friendly-thug-52-ngg-graf-monte-cristo",
+        "release": "Graf Monte-Cristo",
+        "artist": "FRIENDLY THUG 52 NGG",
+        "grade": [
+            9,
+            8,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/kuok-travma-avariya",
+        "release": "АВАРИЯ",
+        "artist": "КУОК, ТРАВМА",
+        "grade": [
+            8,
+            10,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/ashley-mudblood-my-psycho-lullaby",
+        "release": "My Psycho Lullaby",
+        "artist": "Ashley Mudblood",
+        "grade": [
+            4,
+            6,
+            5,
+            6,
+            5
+        ]
+    },
+    {
+        "link": "/track/candy-mackplaya-chain-of-person",
+        "release": "CHAIN OF PERSON",
+        "artist": "Candy Mackplaya",
+        "grade": [
+            4,
+            6,
+            4,
+            5,
+            5
+        ]
+    },
+    {
+        "link": "/track/dedface-vipper",
+        "release": "Vipper",
+        "artist": "DedFACE",
+        "grade": [
+            4,
+            4,
+            2,
+            4,
+            6
+        ]
+    },
+    {
+        "link": "/track/remini-bandiga",
+        "release": "Бандига",
+        "artist": "REMINI",
+        "grade": [
+            5,
+            6,
+            4,
+            3,
+            4
+        ]
+    },
+    {
+        "link": "/track/original-facka-potancuem-show",
+        "release": "Потанцуем show",
+        "artist": "ORIGINAL FACKA",
+        "grade": [
+            4,
+            6,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "link": "/track/original-facka-kinder",
+        "release": "Киндер",
+        "artist": "ORIGINAL FACKA",
+        "grade": [
+            8,
+            7,
+            6,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/shorio-ulica-respubliki-sem-morej-1",
+        "release": "Семь морей 1",
+        "artist": "Shorio, Улица Республики",
+        "grade": [
+            6,
+            5,
+            4,
+            5,
+            3
+        ]
+    },
+    {
+        "link": "/track/eikko-enso-kontrol",
+        "release": "КОНТРОЛЬ",
+        "artist": "eikko, ​enso",
+        "grade": [
+            8,
+            9,
+            8,
+            8,
+            9
+        ]
+    },
+    {
+        "link": "/track/dontxlook-blesk-ejforii-7992",
+        "release": "блеск эйфории (+7992)",
+        "artist": "dontxlook",
+        "grade": [
+            9,
+            8,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/real-fraud-zhiraf",
+        "release": "Жираф",
+        "artist": "Real.fraud",
+        "grade": [
+            4,
+            7,
+            5,
+            4,
+            3
+        ]
+    },
+    {
+        "link": "/track/wayward-zakhar-iordan-nabat",
+        "release": "Набат",
+        "artist": "Wayward., Zakhar Iordan",
+        "grade": [
+            9,
+            7,
+            6,
+            6,
+            5
+        ]
+    }
+]

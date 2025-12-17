@@ -1,0 +1,434 @@
+[
+    {
+        "link": "/track/anikv-tam-gde-horosho",
+        "release": "там, где хорошо",
+        "artist": "ANIKV",
+        "grade": [
+            8,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/zivert-del-mar",
+        "release": "Del Mar",
+        "artist": "Zivert",
+        "grade": [
+            9,
+            8,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/ulwu-nite-white-punk-holodnyj",
+        "release": "Холодный",
+        "artist": "ulwu.nite, White Punk",
+        "grade": [
+            5,
+            7,
+            10,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/jubilee-masha-hima-kilimandzharo",
+        "release": "КИЛИМАНДЖАРО",
+        "artist": "Jubilee, Masha Hima",
+        "grade": [
+            6,
+            6,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/kuok-vozduh",
+        "release": "Воздух",
+        "artist": "КУОК",
+        "grade": [
+            9,
+            8,
+            10,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/vacio-eldzhej-soda",
+        "release": "SODA",
+        "artist": "VACÍO, Элджей",
+        "grade": [
+            7,
+            7,
+            9,
+            10,
+            6
+        ]
+    },
+    {
+        "link": "/track/spejskid-feat-blago-white-ernst-kak-nado",
+        "release": "Как надо",
+        "artist": "blago white, Ernst, СПЭЙСКИД",
+        "grade": [
+            7,
+            8,
+            6,
+            8,
+            4
+        ]
+    },
+    {
+        "link": "/track/the-limba-inside",
+        "release": "Инсайд",
+        "artist": "The Limba",
+        "grade": [
+            6,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/tveth-lil-smooky-boulevard-depo-dom",
+        "release": "Дом",
+        "artist": "Boulevard Depo, LIL SMOOKY, TVETH",
+        "grade": [
+            10,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/feduk-cream-soda-poni",
+        "release": "Пони",
+        "artist": "CREAM SODA, FEDUK",
+        "grade": [
+            5,
+            7,
+            7,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/track/instasamka-vitya-ak-ak-47-terminal",
+        "release": "TERMINAL",
+        "artist": "INSTASAMKA, Витя АК",
+        "grade": [
+            3,
+            7,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/mayot-v-moih-myslyah",
+        "release": "В моих мыслях",
+        "artist": "MAYOT",
+        "grade": [
+            7,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/egor-krid-feat-guf-avtomat",
+        "release": "Автомат",
+        "artist": "Гуф, Егор Крид",
+        "grade": [
+            7,
+            8,
+            7,
+            10,
+            6
+        ]
+    },
+    {
+        "link": "/track/kuok-blood",
+        "release": "Blood",
+        "artist": "КУОК",
+        "grade": [
+            10,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/kuok-love-blood-diamonds",
+        "release": "Love, Blood &amp; Diamonds",
+        "artist": "КУОК",
+        "grade": [
+            10,
+            8,
+            10,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/saluki-104-doski",
+        "release": "ДОСКИ",
+        "artist": "104, SALUKI",
+        "grade": [
+            9,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/saluki-104-styd-ili-slava",
+        "release": "СТЫД ИЛИ СЛАВА",
+        "artist": "104, SALUKI",
+        "grade": [
+            9,
+            9,
+            8,
+            10,
+            6
+        ]
+    },
+    {
+        "link": "/album/tri-dnya-dozhdya-kogda-ty-otkroesh-glaza",
+        "release": "Когда ты откроешь глаза",
+        "artist": "Три дня дождя",
+        "grade": [
+            8,
+            7,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/ooes-ispoved",
+        "release": "исповедь",
+        "artist": "ooes",
+        "grade": [
+            8,
+            8,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/ooes-moi-tvoi-tjomnye-zhelaniya",
+        "release": "мои (твои) тёмные желания",
+        "artist": "ooes",
+        "grade": [
+            7,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/eksi-boss",
+        "release": "БОСС",
+        "artist": "Экси",
+        "grade": [
+            5,
+            8,
+            8,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/album/eksi-long-ride",
+        "release": "Long Ride",
+        "artist": "Экси",
+        "grade": [
+            4,
+            7,
+            6,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/dead-blonde-4-shota",
+        "release": "4 шота",
+        "artist": "DEAD BLONDE",
+        "grade": [
+            6,
+            8,
+            10,
+            7,
+            10
+        ]
+    },
+    {
+        "link": "/album/dead-blonde-knyazhna-iz-hrushhjovki",
+        "release": "Княжна из хрущёвки",
+        "artist": "DEAD BLONDE",
+        "grade": [
+            6,
+            8,
+            9,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/rasa-kavabanga-depo-kolibri-cunami",
+        "release": "Цунами",
+        "artist": "Depo, Kavabanga, Kolibri, RASA",
+        "grade": [
+            6,
+            7,
+            9,
+            6,
+            8
+        ]
+    },
+    {
+        "link": "/track/verbee-vsjo-projdjot",
+        "release": "Всё пройдёт",
+        "artist": "VERBEE",
+        "grade": [
+            6,
+            7,
+            8,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/johnyboy-destroit",
+        "release": "DEsTROIT",
+        "artist": "Johnyboy",
+        "grade": [
+            9,
+            8,
+            3,
+            5,
+            2
+        ]
+    },
+    {
+        "link": "/track/poslednij-serafim-zaglyani",
+        "release": "Загляни",
+        "artist": "Последний Серафим",
+        "grade": [
+            6,
+            8,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/pyrokinesis-dakooka-31006",
+        "release": "31006",
+        "artist": "DAKOOKA, pyrokinesis",
+        "grade": [
+            5,
+            4,
+            3,
+            9,
+            2
+        ]
+    },
+    {
+        "link": "/track/plc-feat-anacondaz-boeviki",
+        "release": "Боевики",
+        "artist": "Anacondaz, PLC",
+        "grade": [
+            8,
+            7,
+            7,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/maslo-chernogo-tmina-w-p",
+        "release": "w.p",
+        "artist": "масло черного тмина",
+        "grade": [
+            8,
+            6,
+            9,
+            8,
+            2
+        ]
+    },
+    {
+        "link": "/track/h1gh-kogda-ty-bogat",
+        "release": "Между мировой и войной",
+        "artist": "H1GH",
+        "grade": [
+            7,
+            9,
+            8,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/molodoj-platon-big-lil",
+        "release": "BIG LIL",
+        "artist": "Молодой Платон",
+        "grade": [
+            7,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/molodoj-platon-son-of-trap",
+        "release": "SON OF TRAP",
+        "artist": "Молодой Платон",
+        "grade": [
+            7,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/dzhizus-ya-tam-gde-ty",
+        "release": "Я там где ты",
+        "artist": "Джизус",
+        "grade": [
+            7,
+            8,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/white-punk-ya-vse-eshhjo-zdes",
+        "release": "Я всё ещё здесь",
+        "artist": "White Punk",
+        "grade": [
+            6,
+            9,
+            9,
+            9,
+            10
+        ]
+    }
+]

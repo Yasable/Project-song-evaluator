@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/track/nashe-leto-2",
+        "release": "Наше лето",
+        "artist": "sputnik waves",
+        "grade": true
+    },
+    {
+        "link": "/track/shkola-ne-nuzhna",
+        "release": "Школа не нужна",
+        "artist": "uglystephan",
+        "grade": true
+    },
+    {
+        "link": "/album/hooray",
+        "release": "HOORAY",
+        "artist": "Трофант",
+        "grade": true
+    },
+    {
+        "link": "/track/yng",
+        "release": "YNG",
+        "artist": "KAKZOWOOT",
+        "grade": true
+    },
+    {
+        "link": "/track/cursed-mark",
+        "release": "Cursed Mark",
+        "artist": "Gato Shammgod",
+        "grade": true
+    },
+    {
+        "link": "/track/em0-g1rl",
+        "release": "EM0 G1RL",
+        "artist": "Vinetta",
+        "grade": true
+    },
+    {
+        "link": "/track/sogret-zvezdoj-po-imeni-solnce",
+        "release": "Согрет звездой по имени Солнце",
+        "artist": "HIRO",
+        "grade": true
+    },
+    {
+        "link": "/album/5luv5",
+        "release": "-5LUV5",
+        "artist": "SODA LUV",
+        "grade": true
+    },
+    {
+        "link": "/track/plastyr",
+        "release": "пластырь",
+        "artist": "mzlff, N.MASTEROFF",
+        "grade": false
+    },
+    {
+        "link": "/track/stand-up",
+        "release": "STAND UP",
+        "artist": "Мэйби Бэйби",
+        "grade": true
+    },
+    {
+        "link": "/track/leto",
+        "release": "Лето",
+        "artist": "MAYOT",
+        "grade": true
+    },
+    {
+        "link": "/track/papi-chulo",
+        "release": "Papi Chulo",
+        "artist": "OG Buda",
+        "grade": false
+    },
+    {
+        "link": "/track/trooper",
+        "release": "TROOPER",
+        "artist": "kizaru",
+        "grade": true
+    },
+    {
+        "link": "/track/odinokimi",
+        "release": "Одинокими",
+        "artist": "Андрей Катиков, ЛСП",
+        "grade": true
+    },
+    {
+        "link": "/track/pepel-3",
+        "release": "Пепел",
+        "artist": "Григорий Лепс, Егор Крид",
+        "grade": true
+    },
+    {
+        "link": "/album/untitled",
+        "release": "untitled",
+        "artist": "паранойя",
+        "grade": false
+    },
+    {
+        "link": "/album/live-2025",
+        "release": "Live 2025",
+        "artist": "Монеточка",
+        "grade": false
+    },
+    {
+        "link": "/track/pati-feat-straniza",
+        "release": "пати feat. STRANIZA",
+        "artist": "STRANIZA, TonySouljah",
+        "grade": false
+    },
+    {
+        "link": "/track/istoriya-plavit-ljod",
+        "release": "История плавит лёд",
+        "artist": "Женя Трофимов, Комната культуры",
+        "grade": false
+    },
+    {
+        "link": "/track/smysl-zhit",
+        "release": "смысл жить",
+        "artist": "TonySouljah",
+        "grade": false
+    },
+    {
+        "link": "/track/fu-dat",
+        "release": "Fu Dat",
+        "artist": "DooMee",
+        "grade": false
+    },
+    {
+        "link": "/track/teleport",
+        "release": "Телепорт",
+        "artist": "СТИНТ",
+        "grade": false
+    },
+    {
+        "link": "/track/mamapapa",
+        "release": "МамаПапа",
+        "artist": "ENTYPE",
+        "grade": false
+    },
+    {
+        "link": "/track/esli-nado-budet",
+        "release": "Если надо будет",
+        "artist": "PUSSYKILLER",
+        "grade": false
+    },
+    {
+        "link": "/track/sochinenie",
+        "release": "СОЧИНЕНИЕ",
+        "artist": "Metox, VELIAL SQUAD",
+        "grade": false
+    },
+    {
+        "link": "/album/memory-hard-deluxe-version",
+        "release": "Memory Hard (Deluxe Version)",
+        "artist": "гнилаялирика",
+        "grade": false
+    },
+    {
+        "link": "/album/pesni-pesnej",
+        "release": "ПЕСНИ ПЕСНЕЙ",
+        "artist": "Ilya Konoplev",
+        "grade": false
+    },
+    {
+        "link": "/track/krylya-3",
+        "release": "крылья",
+        "artist": "greyrock",
+        "grade": false
+    },
+    {
+        "link": "/track/mne-za-30",
+        "release": "мне за 30",
+        "artist": "семьсот семь",
+        "grade": false
+    },
+    {
+        "link": "/track/gotham",
+        "release": "gotham",
+        "artist": "WARYKID",
+        "grade": false
+    },
+    {
+        "link": "/track/iz-myasa-i-peska",
+        "release": "из мяса и песка",
+        "artist": "WARYKID",
+        "grade": false
+    },
+    {
+        "link": "/track/rare",
+        "release": "rare",
+        "artist": "BASEDGOD, FORTUNA 812",
+        "grade": false
+    },
+    {
+        "link": "/track/pryachet-lico",
+        "release": "Прячет лицо",
+        "artist": "Тима Белорусских",
+        "grade": false
+    },
+    {
+        "link": "/track/glaza-2",
+        "release": "глаза",
+        "artist": "маломира",
+        "grade": false
+    },
+    {
+        "link": "/track/do-konca",
+        "release": "До конца",
+        "artist": "Slatt Savage",
+        "grade": false
+    },
+    {
+        "link": "/track/fomo",
+        "release": "FOMO",
+        "artist": "Illumate, JmyName",
+        "grade": false
+    }
+]

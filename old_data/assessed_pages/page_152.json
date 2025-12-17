@@ -1,0 +1,434 @@
+[
+    {
+        "link": "/track/mukka-pustota",
+        "release": "Пустота",
+        "artist": "МУККА",
+        "grade": [
+            9,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/mukka-mertvye-cvety",
+        "release": "Мертвые цветы",
+        "artist": "МУККА",
+        "grade": [
+            10,
+            9,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/apollo-50-kupjur",
+        "release": "50 купюр",
+        "artist": "Apollo",
+        "grade": [
+            8,
+            8,
+            4,
+            3,
+            4
+        ]
+    },
+    {
+        "link": "/track/endemic-po-pabam",
+        "release": "По пабам",
+        "artist": "ENDEMIC",
+        "grade": [
+            7,
+            7,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/obladaet-monster-trakk",
+        "release": "MONSTER TRAKK",
+        "artist": "OBLADAET",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/egor-krid-vlad-a4-the-limba-jony-novogodnyaya",
+        "release": "Новогодняя",
+        "artist": "JONY, The Limba, Влад А4, Егор Крид",
+        "grade": [
+            7,
+            7,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/mayot-del-netu",
+        "release": "Дел нету",
+        "artist": "MAYOT",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/mayot-zapravka-kid-3",
+        "release": "ЗАПРАВКА КИД 3",
+        "artist": "MAYOT",
+        "grade": [
+            8,
+            8,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/album/macan-12",
+        "release": "12",
+        "artist": "MACAN",
+        "grade": [
+            7,
+            8,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/album/elyaplugg-spittinbars",
+        "release": "#spittinbars",
+        "artist": "elyaplugg!",
+        "grade": [
+            5,
+            7,
+            8,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/track/hellstar-stepe-21-god",
+        "release": "СТЕПЕ 21 ГОД",
+        "artist": "HELLSTAR",
+        "grade": [
+            2,
+            4,
+            3,
+            3,
+            2
+        ]
+    },
+    {
+        "link": "/album/instasamka-popstar",
+        "release": "POPSTAR",
+        "artist": "INSTASAMKA",
+        "grade": [
+            6,
+            9,
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/lida-ego",
+        "release": "Эго",
+        "artist": "Lida",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/lida-novaya-rok-zvezda",
+        "release": "Новая рок звезда",
+        "artist": "Lida",
+        "grade": [
+            9,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/milian-o-vojd-blju",
+        "release": "Блю",
+        "artist": "Милиан О’Войд",
+        "grade": [
+            9,
+            9,
+            9,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/scally-milano-telegram",
+        "release": "Телеграм",
+        "artist": "Scally Milano",
+        "grade": [
+            10,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/scally-milano-really-rich",
+        "release": "Really Rich",
+        "artist": "Scally Milano",
+        "grade": [
+            8,
+            8,
+            8,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/slava-marlow-o2",
+        "release": "О2",
+        "artist": "SLAVA MARLOW",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/slava-marlow-tuzik",
+        "release": "ТУЗИК",
+        "artist": "SLAVA MARLOW",
+        "grade": [
+            8,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/shiawase-trust-wallet",
+        "release": "trust wallet",
+        "artist": "shiawase",
+        "grade": [
+            6,
+            6,
+            6,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/track/rompeya-bonasera-oxxxymiron-morgenshtern-og-buda-diss",
+        "release": "BONASERA (OXXXYMIRON, MORGENSHTERN, OG Buda DISS)",
+        "artist": "ROMPEЯ",
+        "grade": [
+            6,
+            8,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/josodo-fetti",
+        "release": "Фэтти",
+        "artist": "DopeVvs, Josodo, xxxmanera",
+        "grade": [
+            9,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/kai-angel-101-prichina",
+        "release": "101 ПРИЧИНА",
+        "artist": "Kai Angel",
+        "grade": [
+            9,
+            7,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/nasha-tanya-tri-dnya-dozhdya-perezimuju",
+        "release": "Перезимую",
+        "artist": "Наша Таня, Три дня дождя",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/feduk-gorod-nesbyvshihsya-nadezhd",
+        "release": "Город Несбывшихся Надежд",
+        "artist": "FEDUK",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/dzhizus-ne-para",
+        "release": "Не пара",
+        "artist": "Джизус",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/buster-rozy",
+        "release": "РОЗЫ",
+        "artist": "BUSTER",
+        "grade": [
+            8,
+            6,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/saluki-hahaha",
+        "release": "HAHAHA",
+        "artist": "SALUKI",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/big-baby-tape-like-a-g6",
+        "release": "LIKE A G6",
+        "artist": "Big Baby Tape",
+        "grade": [
+            6,
+            8,
+            5,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/jetty-gas-quandor-lxster-17-seventeen-etti",
+        "release": "Этти",
+        "artist": "17 SEVENTEEN, Jetty Gas, lxster, quandor",
+        "grade": [
+            9,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/gloom-slezy",
+        "release": "Слезы",
+        "artist": "Gloom",
+        "grade": [
+            7,
+            7,
+            4,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/isiz-pervaya-i-poslednyaya",
+        "release": "Первая и последняя",
+        "artist": "Isiz",
+        "grade": [
+            6,
+            7,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/ghostface-playa-kurt92-half",
+        "release": "HALF",
+        "artist": "Ghostface Playa, KURT92",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/travma-ne-govori-mne-o-ljubvi",
+        "release": "Не говори мне о любви",
+        "artist": "ТРАВМА",
+        "grade": [
+            5,
+            8,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/ilya-konoplev-begi-ot-menya",
+        "release": "Беги от меня",
+        "artist": "Ilya Konoplev",
+        "grade": [
+            8,
+            7,
+            9,
+            9,
+            6
+        ]
+    },
+    {
+        "link": "/track/eksi-u-moih-bratev",
+        "release": "У моих братьев",
+        "artist": "Экси",
+        "grade": [
+            9,
+            9,
+            9,
+            9,
+            8
+        ]
+    }
+]

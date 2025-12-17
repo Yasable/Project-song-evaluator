@@ -1,0 +1,104 @@
+[
+    {
+        "link": "/track/dresscode",
+        "release": "Dresscode",
+        "artist": "Честер Небро",
+        "grade": true
+    },
+    {
+        "link": "/track/tabor-vernulsya-v-gorod",
+        "release": "Табор вернулся в город",
+        "artist": "Каспийский Груз",
+        "grade": true
+    },
+    {
+        "link": "/track/vechnyj-dvigatel",
+        "release": "Вечный двигатель",
+        "artist": "ATL, Ка тет",
+        "grade": true
+    },
+    {
+        "link": "/track/russkaya-kukla",
+        "release": "Русская Кукла",
+        "artist": "Scally Milano, Voskresenskii",
+        "grade": true
+    },
+    {
+        "link": "/track/rolls-royce-phantom",
+        "release": "Rolls Royce Phantom",
+        "artist": "mzlff, Skurt, Слава КПСС",
+        "grade": true
+    },
+    {
+        "link": "/track/mne-zdes-ne-mesto-ya-prosto-hochu-domoj",
+        "release": "мне здесь не место я просто хочу домой",
+        "artist": "dekma",
+        "grade": true
+    },
+    {
+        "link": "/track/blueface-kondrashin-moonwalking-in-moscow",
+        "release": "Moonwalking in Moscow",
+        "artist": "Blueface, KONDRASHIN",
+        "grade": true
+    },
+    {
+        "link": "/track/vvain-paranoia-interlude",
+        "release": "Paranoia Interlude",
+        "artist": "VVAIN",
+        "grade": true
+    },
+    {
+        "link": "/track/giorgio-molly-m-c-c-m",
+        "release": "m.c.c.m.",
+        "artist": "giorgio molly",
+        "grade": true
+    },
+    {
+        "link": "/track/ifltrppddd-k-mile-backseat",
+        "release": "BACKSEAT",
+        "artist": "Ifltrppddd, K’mile",
+        "grade": true
+    },
+    {
+        "link": "/track/yvng-dyxrd-hundred-on-my-wrist",
+        "release": "HUNDERD ON MY WRIST",
+        "artist": "YVNG DYXRD",
+        "grade": true
+    },
+    {
+        "link": "/track/gosha-pik-i-love-dasha-chu",
+        "release": "I Love Dasha Chu",
+        "artist": "GOSHA PIK",
+        "grade": true
+    },
+    {
+        "link": "/track/hash-tag-zarya",
+        "release": "Заря",
+        "artist": "Hash Tag",
+        "grade": true
+    },
+    {
+        "link": "/album/szn",
+        "release": "SZN",
+        "artist": "OG Buda",
+        "grade": true
+    },
+    {
+        "link": "/track/pauki-ost-smertelnyj-strim",
+        "release": "Пауки (OST Смертельный стрим)",
+        "artist": "9mice, Kai Angel",
+        "grade": true
+    },
+    {
+        "link": "/track/podnyal-na-kripote",
+        "release": "ПОDNЯL NA KRИПОТЕ",
+        "artist": "JDFLAG",
+        "grade": true
+    },
+    {
+        "link": "/album/liho",
+        "release": "ЛИХО",
+        "artist": "Jubilee",
+        "grade": true
+    }
+]

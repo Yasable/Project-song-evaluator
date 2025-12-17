@@ -1,0 +1,158 @@
+[
+    {
+        "link": "/track/nashe-leto-2",
+        "release": "Наше лето",
+        "artist": "sputnik waves",
+        "grade": [
+            6,
+            8,
+            5,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/shkola-ne-nuzhna",
+        "release": "Школа не нужна",
+        "artist": "uglystephan",
+        "grade": [
+            8,
+            8,
+            7,
+            10,
+            9
+        ]
+    },
+    {
+        "link": "/album/hooray",
+        "release": "HOORAY",
+        "artist": "Трофант",
+        "grade": [
+            8,
+            8,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/yng",
+        "release": "YNG",
+        "artist": "KAKZOWOOT",
+        "grade": [
+            7,
+            8,
+            6,
+            7,
+            7
+        ]
+    },
+    {
+        "link": "/track/cursed-mark",
+        "release": "Cursed Mark",
+        "artist": "Gato Shammgod",
+        "grade": [
+            7,
+            7,
+            6,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/em0-g1rl",
+        "release": "EM0 G1RL",
+        "artist": "Vinetta",
+        "grade": [
+            7,
+            9,
+            8,
+            7,
+            7
+        ]
+    },
+    {
+        "link": "/track/sogret-zvezdoj-po-imeni-solnce",
+        "release": "Согрет звездой по имени Солнце",
+        "artist": "HIRO",
+        "grade": [
+            9,
+            8,
+            9,
+            7,
+            5
+        ]
+    },
+    {
+        "link": "/album/5luv5",
+        "release": "-5LUV5",
+        "artist": "SODA LUV",
+        "grade": [
+            9,
+            9,
+            9,
+            8,
+            9
+        ]
+    },
+    {
+        "link": "/track/stand-up",
+        "release": "STAND UP",
+        "artist": "Мэйби Бэйби",
+        "grade": [
+            10,
+            9,
+            10,
+            10,
+            9
+        ]
+    },
+    {
+        "link": "/track/leto",
+        "release": "Лето",
+        "artist": "MAYOT",
+        "grade": [
+            9,
+            9,
+            9,
+            10,
+            9
+        ]
+    },
+    {
+        "link": "/track/trooper",
+        "release": "TROOPER",
+        "artist": "kizaru",
+        "grade": [
+            8,
+            9,
+            8,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/odinokimi",
+        "release": "Одинокими",
+        "artist": "Андрей Катиков, ЛСП",
+        "grade": [
+            10,
+            9,
+            9,
+            10,
+            9
+        ]
+    },
+    {
+        "link": "/track/pepel-3",
+        "release": "Пепел",
+        "artist": "Григорий Лепс, Егор Крид",
+        "grade": [
+            8,
+            9,
+            8,
+            9,
+            9
+        ]
+    }
+]

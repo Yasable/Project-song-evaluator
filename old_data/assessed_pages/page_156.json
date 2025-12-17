@@ -1,0 +1,434 @@
+[
+    {
+        "link": "/track/yungguest-5-00-rapchik",
+        "release": "5:00 RAPCHIK",
+        "artist": "YUNGGUEST",
+        "grade": [
+            8,
+            9,
+            4,
+            3,
+            4
+        ]
+    },
+    {
+        "link": "/track/big-baby-tape-feat-young-moscow-moj-belyj",
+        "release": "МОЙ БЕЛЫЙ",
+        "artist": "Big Baby Tape, Young Moscow",
+        "grade": [
+            8,
+            5,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/nezy-beauty",
+        "release": "Beauty",
+        "artist": "Nezy",
+        "grade": [
+            8,
+            6,
+            8,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/album/thrill-pill-chelsea-3",
+        "release": "CHELSEA 3",
+        "artist": "THRILL PILL",
+        "grade": [
+            9,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/endshpil-ollane-priyatnaya",
+        "release": "Приятная",
+        "artist": "Ollane, Эндшпиль",
+        "grade": [
+            8,
+            10,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/kashin-feat-bato-seemee-shoot",
+        "release": "Shoot",
+        "artist": "BATO, KASHIN, SEEMEE",
+        "grade": [
+            7,
+            10,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/myha-pavluchenko-na-rukah",
+        "release": "НА РУКАХ",
+        "artist": "MYHA, pavluchenko",
+        "grade": [
+            6,
+            7,
+            7,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/track/grillyazh-kishlak-dvinulsya-na-tebe",
+        "release": "Двинулся на тебе",
+        "artist": "GRILLYAZH, Кишлак",
+        "grade": [
+            9,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/kurt92-ghostface-playa-pedal-to-the-metal",
+        "release": "PEDAL TO THE METAL",
+        "artist": "Ghostface Playa, KURT92",
+        "grade": [
+            9,
+            10,
+            10,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/entype-kriket",
+        "release": "КРИКЕТ",
+        "artist": "ENTYPE",
+        "grade": [
+            8,
+            7,
+            8,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/zhak-entoni-trimmer",
+        "release": "Триммер",
+        "artist": "Жак Энтони",
+        "grade": [
+            9,
+            10,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/mukka-posle-tebya",
+        "release": "После тебя",
+        "artist": "МУККА",
+        "grade": [
+            9,
+            7,
+            10,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/fendiglock-poka",
+        "release": "Пока!",
+        "artist": "FENDIGLOCK",
+        "grade": [
+            7,
+            8,
+            9,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/shajni-krasivo",
+        "release": "Красиво",
+        "artist": "Шайни",
+        "grade": [
+            8,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/bushido-zho-halloween",
+        "release": "HALLOWEEN",
+        "artist": "BUSHIDO ZHO",
+        "grade": [
+            8,
+            10,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/mejhem-vossap",
+        "release": "Воссап!",
+        "artist": "Мэйхем!",
+        "grade": [
+            6,
+            10,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/miyagi-endshpil-vremenno",
+        "release": "Временно",
+        "artist": "Miyagi, Эндшпиль",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/miyagi-endshpil-hattori",
+        "release": "HATTORI",
+        "artist": "Miyagi, Эндшпиль",
+        "grade": [
+            9,
+            9,
+            8,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/oxxxymiron-bassline-business",
+        "release": "BASSLINE BUSINESS",
+        "artist": "Oxxxymiron",
+        "grade": [
+            10,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/jessie-vatutin-ankhi-punk-trahajsya-so-mnoj",
+        "release": "ТРАХАЙСЯ СО МНОЙ",
+        "artist": "ANKHi PUNK, Jessie Vatutin",
+        "grade": [
+            9,
+            8,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/rompeya-brand-new-single-wav",
+        "release": "Brand New Single.wav",
+        "artist": "ROMPEЯ",
+        "grade": [
+            6,
+            9,
+            7,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/eksi-jamik-pussykiller-prajs",
+        "release": "Прайс",
+        "artist": "Jamik, PUSSYKILLER, Экси",
+        "grade": [
+            7,
+            8,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/callmydd-drowsyy-real-vamp",
+        "release": "Real Vamp",
+        "artist": "CALLMYDD, drowsyy",
+        "grade": [
+            6,
+            8,
+            6,
+            7,
+            4
+        ]
+    },
+    {
+        "link": "/track/hood-rich-luka-s-pistoletom",
+        "release": "С ПИСТОЛЕТОМ",
+        "artist": "Hood Rich Luka",
+        "grade": [
+            6,
+            8,
+            7,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/kommo-pyrokinesis-na-kraju-galaktiki",
+        "release": "На краю галактики",
+        "artist": "KOMMO, pyrokinesis",
+        "grade": [
+            9,
+            9,
+            7,
+            9,
+            6
+        ]
+    },
+    {
+        "link": "/track/vacio-fotik",
+        "release": "Фотик",
+        "artist": "VACÍO",
+        "grade": [
+            5,
+            6,
+            8,
+            9,
+            6
+        ]
+    },
+    {
+        "link": "/album/tri-dnya-dozhdya-bajpolar",
+        "release": "Байполар",
+        "artist": "Три дня дождя",
+        "grade": [
+            8,
+            8,
+            9,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/dzhizus-na-udachu",
+        "release": "На Удачу",
+        "artist": "Джизус",
+        "grade": [
+            7,
+            7,
+            7,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/oxxxymiron-feat-eighteen-nlo",
+        "release": "НЛО",
+        "artist": "EIGHTEEN, Oxxxymiron",
+        "grade": [
+            9,
+            10,
+            8,
+            10,
+            8
+        ]
+    },
+    {
+        "link": "/track/heronwater-4-days-after-hb",
+        "release": "4 DAYS AFTER HB",
+        "artist": "Heronwater",
+        "grade": [
+            9,
+            6,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/lil-krystalll-feat-loya-5sta-family-ya-budu",
+        "release": "Я БУДУ",
+        "artist": "LIL KRYSTALLL, Лоя (5sta Family)",
+        "grade": [
+            7,
+            10,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/thrill-pill-narkotik",
+        "release": "Наркотик",
+        "artist": "THRILL PILL",
+        "grade": [
+            7,
+            9,
+            10,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/album/thrill-pill-birthday-mix-2022",
+        "release": "BIRTHDAY MIX 2022",
+        "artist": "THRILL PILL",
+        "grade": [
+            6,
+            8,
+            7,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/gevork-siuuu",
+        "release": "Siuuu",
+        "artist": "Gévork",
+        "grade": [
+            7,
+            6,
+            3,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/yumagucci-j4",
+        "release": "J4",
+        "artist": "Yumagucci",
+        "grade": [
+            9,
+            6,
+            5,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/morgenshtern-sheikh",
+        "release": "SHEIKH",
+        "artist": "MORGENSHTERN",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    }
+]

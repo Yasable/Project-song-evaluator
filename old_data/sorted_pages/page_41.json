@@ -1,0 +1,62 @@
+[
+    {
+        "link": "/track/artist",
+        "release": "Артист",
+        "artist": "SKB",
+        "grade": true
+    },
+    {
+        "link": "/album/suck-it",
+        "release": "SUCK IT!",
+        "artist": "dmtboy",
+        "grade": true
+    },
+    {
+        "link": "/track/ya-ustal",
+        "release": "я устал",
+        "artist": "mzlff, наше последнее лето",
+        "grade": true
+    },
+    {
+        "link": "/track/ruki-tyanutsya",
+        "release": "РУКИ ТЯНУТСЯ",
+        "artist": "LIL KRYSTALLL, КУОК",
+        "grade": true
+    },
+    {
+        "link": "/track/lady-slay",
+        "release": "Lady Slay",
+        "artist": "Мэйби Бэйби",
+        "grade": true
+    },
+    {
+        "link": "/track/dyshu",
+        "release": "Дышу",
+        "artist": "ALBLAK 52",
+        "grade": true
+    },
+    {
+        "link": "/track/agressor",
+        "release": "Агрессор",
+        "artist": "DK",
+        "grade": true
+    },
+    {
+        "link": "/album/no-type",
+        "release": "NO TYPE",
+        "artist": "Whole Lotta Swag",
+        "grade": true
+    },
+    {
+        "link": "/album/from-sparta-to-padre",
+        "release": "From Sparta to Padre",
+        "artist": "ICEGERGERT",
+        "grade": true
+    },
+    {
+        "link": "/track/ottepel",
+        "release": "ОТТЕПЕЛЬ",
+        "artist": "DEAD BLONDE, GSPD",
+        "grade": true
+    }
+]

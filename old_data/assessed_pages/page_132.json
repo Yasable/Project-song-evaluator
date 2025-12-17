@@ -1,0 +1,434 @@
+[
+    {
+        "link": "/track/berry-honey",
+        "release": "Berry & Honey",
+        "artist": "ШКЕТ",
+        "grade": [
+            8,
+            9,
+            5,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/famous-killa-odni",
+        "release": "Одни",
+        "artist": "FAMOUS KILLA",
+        "grade": [
+            7,
+            6,
+            6,
+            6,
+            4
+        ]
+    },
+    {
+        "link": "/track/kitya",
+        "release": "Китя",
+        "artist": "Social Kid",
+        "grade": [
+            5,
+            8,
+            7,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/track/bestseller",
+        "release": "Bestseller",
+        "artist": "PIT",
+        "grade": [
+            8,
+            9,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/luna",
+        "release": "луна",
+        "artist": "Daniel Amari",
+        "grade": [
+            7,
+            8,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/burning",
+        "release": "Burning",
+        "artist": "BABYSTEPPER",
+        "grade": [
+            8,
+            7,
+            5,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/ya-odin-ok",
+        "release": "Я ОДИН`ОК",
+        "artist": "МОЛИТЕСЬ",
+        "grade": [
+            6,
+            9,
+            4,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/dozhd",
+        "release": "Дождь",
+        "artist": "Рельсы",
+        "grade": [
+            8,
+            8,
+            9,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/oru",
+        "release": "ОРУ",
+        "artist": "FKUR",
+        "grade": [
+            9,
+            7,
+            7,
+            6,
+            8
+        ]
+    },
+    {
+        "link": "/track/odnoj-krovi",
+        "release": "Одной крови",
+        "artist": "Zox",
+        "grade": [
+            8,
+            5,
+            4,
+            7,
+            4
+        ]
+    },
+    {
+        "link": "/track/roboty",
+        "release": "Роботы",
+        "artist": "tet baby, изобрази",
+        "grade": [
+            9,
+            7,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/wok",
+        "release": "WOK",
+        "artist": "YNG Feaxch",
+        "grade": [
+            3,
+            4,
+            3,
+            3,
+            2
+        ]
+    },
+    {
+        "link": "/album/2005",
+        "release": "2005",
+        "artist": "Минин",
+        "grade": [
+            6,
+            5,
+            5,
+            7,
+            4
+        ]
+    },
+    {
+        "link": "/track/son-2",
+        "release": "Сон",
+        "artist": "АДЛИН",
+        "grade": [
+            8,
+            7,
+            7,
+            6,
+            8
+        ]
+    },
+    {
+        "link": "/track/coast",
+        "release": "coast",
+        "artist": "Curare",
+        "grade": [
+            9,
+            6,
+            6,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/ysl-goyard",
+        "release": "YSL & GOYARD",
+        "artist": "LIL MORTY, Индаблэк",
+        "grade": [
+            7,
+            8,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/delo-chesti",
+        "release": "Дело чести",
+        "artist": "BLESSED MAYSEE",
+        "grade": [
+            4,
+            5,
+            3,
+            5,
+            2
+        ]
+    },
+    {
+        "link": "/track/pretty-passenger",
+        "release": "Pretty Passenger",
+        "artist": "xxxmanera",
+        "grade": [
+            8,
+            10,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/early-morning",
+        "release": "Early Morning",
+        "artist": "kizaru",
+        "grade": [
+            7,
+            9,
+            8,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/gremlin",
+        "release": "Gremlin",
+        "artist": "kizaru",
+        "grade": [
+            7,
+            7,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/digital-sports",
+        "release": "DIGITAL SPORTS",
+        "artist": "SALUKI",
+        "grade": [
+            9,
+            9,
+            7,
+            8,
+            6
+        ]
+    },
+    {
+        "link": "/track/besplotnyj-duh",
+        "release": "Бесплотный дух",
+        "artist": "desaad",
+        "grade": [
+            9,
+            10,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/plohaya-devochka",
+        "release": "Плохая Девочка",
+        "artist": "DVRKLXGHT, SKIDRI, Винтаж, ТРАВМА",
+        "grade": [
+            9,
+            10,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/diversyti",
+        "release": "Diversity",
+        "artist": "icetick, vyrdaa",
+        "grade": [
+            5,
+            8,
+            4,
+            3,
+            4
+        ]
+    },
+    {
+        "link": "/track/chuzhie-pesni",
+        "release": "чужие песни",
+        "artist": "playingtheangel, pyrokinesis, STED.D, РЭЙДИ",
+        "grade": [
+            10,
+            8,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/tell-the-m",
+        "release": "TELL THE M!",
+        "artist": "i61, WHY, BERRY",
+        "grade": [
+            8,
+            7,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/do-sih-por",
+        "release": "до сих пор",
+        "artist": "MAYOT",
+        "grade": [
+            9,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/oba",
+        "release": "ОБА",
+        "artist": "MAYOT",
+        "grade": [
+            8,
+            10,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/pepelnye-mysli",
+        "release": "ПЕПЕЛЬНЫЕ МЫСЛИ",
+        "artist": "SWA EMPIRE",
+        "grade": [
+            7,
+            7,
+            7,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/140-90",
+        "release": "140/90<",
+        "artist": "ЛУНЛИ",
+        "grade": [
+            7,
+            8,
+            5,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/detstvo-s-toboj",
+        "release": "попробуем дважды",
+        "artist": "kweetee",
+        "grade": [
+            7,
+            7,
+            6,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/byt-soboj",
+        "release": "быть собой",
+        "artist": "STICKYFLOW",
+        "grade": [
+            6,
+            5,
+            7,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/ne-vyvihni-sheju",
+        "release": "Не вывихни шею",
+        "artist": "tsb, Скриптонит",
+        "grade": [
+            9,
+            9,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/iz-nee",
+        "release": "из нее&lt;3",
+        "artist": "YANFLORY",
+        "grade": [
+            4,
+            8,
+            6,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/ice-cube",
+        "release": "ICE CUBE",
+        "artist": "Mark Skinner",
+        "grade": [
+            8,
+            6,
+            4,
+            4,
+            4
+        ]
+    },
+    {
+        "link": "/track/idi-nahuj",
+        "release": "ИДИ НА***!",
+        "artist": "B soul",
+        "grade": [
+            6,
+            6,
+            5,
+            6,
+            6
+        ]
+    }
+]

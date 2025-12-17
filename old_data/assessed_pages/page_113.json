@@ -1,0 +1,386 @@
+[
+    {
+        "link": "/track/newlightchild-vip",
+        "release": "VIP",
+        "artist": "NEWLIGHTCHILD",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/newlightchild-night-for-ever",
+        "release": "NIGHT FOR EVER",
+        "artist": "NEWLIGHTCHILD",
+        "grade": [
+            7,
+            9,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/pyrokinesis-dvorcovyj-most",
+        "release": "Дворцовый мост",
+        "artist": "pyrokinesis",
+        "grade": [
+            10,
+            7,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/konfuz-molodoj-platon-po-vsem-klabam",
+        "release": "ПО ВСЕМ КЛАБАМ",
+        "artist": "Konfuz, Молодой Платон",
+        "grade": [
+            7,
+            9,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/seda-partiz-kuok-rassveta-ne-budet",
+        "release": "Рассвета не будет",
+        "artist": "SEDA PARTIZ, КУОК",
+        "grade": [
+            9,
+            10,
+            8,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/mirfon-na-pocelui-net-vremeni",
+        "release": "На поцелуи нет времени",
+        "artist": "Мирфон",
+        "grade": [
+            7,
+            7,
+            4,
+            2,
+            10
+        ]
+    },
+    {
+        "link": "/track/fluegxx-to-night",
+        "release": "To night",
+        "artist": "fluegxx",
+        "grade": [
+            5,
+            4,
+            3,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/anrake-amp-mereels-monolit",
+        "release": "Монолит",
+        "artist": "AnRake, Mereels",
+        "grade": [
+            6,
+            7,
+            5,
+            6,
+            4
+        ]
+    },
+    {
+        "link": "/track/rileyn-nikogda",
+        "release": "Никогда",
+        "artist": "RILEYN",
+        "grade": [
+            8,
+            9,
+            7,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/track/qantreez-x-chels-ram-satan-hussein-no-pasaran-prod-by-3-kota",
+        "release": "No pasaran! (prod. by 3 КОТА)",
+        "artist": "qantreez x челс, RAM, Satan Hussein",
+        "grade": [
+            9,
+            10,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/album/scally-milano-problemnyj-rebenok",
+        "release": "ПРОБЛЕМНЫЙ РЕБЕНОК",
+        "artist": "Scally Milano",
+        "grade": [
+            8,
+            8,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/gone-fludd-000-000-000",
+        "release": "000-000-000",
+        "artist": "GONE.Fludd",
+        "grade": [
+            9,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/tenderlybae-egor-krid-egorik-taro",
+        "release": "Таро",
+        "artist": "Tenderlybae, Егор Крид, ЕГОРИК",
+        "grade": [
+            7,
+            9,
+            9,
+            8,
+            8
+        ]
+    },
+    {
+        "link": "/track/josodo-xxxmanera-dumala",
+        "release": "Думала",
+        "artist": "Josodo, xxxmanera",
+        "grade": [
+            8,
+            9,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/redquill-long-way",
+        "release": "LONG WAY",
+        "artist": "Redquill",
+        "grade": [
+            8,
+            6,
+            6,
+            6,
+            4
+        ]
+    },
+    {
+        "link": "/track/mattokushi-feya",
+        "release": "Фея",
+        "artist": "Mattokushi",
+        "grade": [
+            7,
+            8,
+            6,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/track/fifteensaw-money-trip",
+        "release": "Money Trip",
+        "artist": "Fifteensaw",
+        "grade": [
+            7,
+            8,
+            4,
+            2,
+            2
+        ]
+    },
+    {
+        "link": "/track/lil-evian-vanilla-unicorn",
+        "release": "Vanilla Unicörn",
+        "artist": "Lil Evian",
+        "grade": [
+            7,
+            8,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/prosto-lera-vybratsya",
+        "release": "Выбраться",
+        "artist": "просто Лера",
+        "grade": [
+            9,
+            10,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/entype-pro-deda",
+        "release": "Про Деда",
+        "artist": "ENTYPE",
+        "grade": [
+            8,
+            7,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/opt-tsb-smoki-mo-drill-ru-6",
+        "release": "Drill Ru 6",
+        "artist": "opt, tsb, Смоки Мо",
+        "grade": [
+            9,
+            8,
+            8,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/the-chemodan-est-veshhi-na-poryadok-nizhe",
+        "release": "Есть вещи на порядок ниже",
+        "artist": "The Chemodan",
+        "grade": [
+            10,
+            8,
+            9,
+            9,
+            10
+        ]
+    },
+    {
+        "link": "/track/harmy-nw-m-gttng-hgh",
+        "release": "Nw m gttng hgh",
+        "artist": "HARMY",
+        "grade": [
+            6,
+            7,
+            6,
+            5,
+            4
+        ]
+    },
+    {
+        "link": "/track/bb-astap-erixon-lov3",
+        "release": "LOV3",
+        "artist": "BB ASTAP, erixon*",
+        "grade": [
+            7,
+            9,
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "link": "/track/g-turbo-karandashom",
+        "release": "Карандашом",
+        "artist": "G TURBO",
+        "grade": [
+            7,
+            6,
+            6,
+            5,
+            6
+        ]
+    },
+    {
+        "link": "/track/fonetic-fotoalbom",
+        "release": "Фотоальбом",
+        "artist": "Fonetic",
+        "grade": [
+            9,
+            8,
+            8,
+            8,
+            7
+        ]
+    },
+    {
+        "link": "/track/fendi-aj-aj-aj",
+        "release": "Ай-Ай-Ай",
+        "artist": "Фенди",
+        "grade": [
+            5,
+            6,
+            8,
+            7,
+            6
+        ]
+    },
+    {
+        "link": "/track/woee33-not-angel",
+        "release": "Not Angel",
+        "artist": "woee33",
+        "grade": [
+            8,
+            9,
+            9,
+            8,
+            10
+        ]
+    },
+    {
+        "link": "/album/malenkij-yarche-demon-flow",
+        "release": "DEMON FLOW",
+        "artist": "маленький ярче",
+        "grade": [
+            9,
+            8,
+            9,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/album/woee33-stay-young-the-vampire-way",
+        "release": "Stay Young the Vampire Way",
+        "artist": "woee33",
+        "grade": [
+            7,
+            8,
+            8,
+            7,
+            8
+        ]
+    },
+    {
+        "link": "/track/malenkij-yarche-demony",
+        "release": "ДЕМОНЫ",
+        "artist": "маленький ярче",
+        "grade": [
+            9,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/index-avtopati",
+        "release": "Автопати",
+        "artist": "INDEX",
+        "grade": [
+            7,
+            9,
+            8,
+            7,
+            8
+        ]
+    }
+]

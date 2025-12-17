@@ -1,0 +1,122 @@
+[
+    {
+        "link": "/album/9mm",
+        "release": "9mm",
+        "artist": "9mice",
+        "grade": [
+            8,
+            9,
+            8,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/album/vrednye-sovety",
+        "release": "Вредные советы",
+        "artist": "5opka",
+        "grade": [
+            7,
+            8,
+            7,
+            8,
+            7
+        ]
+    },
+    {
+        "link": "/album/ya-predskazyvaju",
+        "release": "Я предсказываю",
+        "artist": "YASMI",
+        "grade": [
+            9,
+            9,
+            9,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/album/dom",
+        "release": "Дом",
+        "artist": "Бонд с кнопкой",
+        "grade": [
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "link": "/track/durochka",
+        "release": "Дурочка",
+        "artist": "Дора",
+        "grade": [
+            8,
+            9,
+            10,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/miu-miu-2",
+        "release": "MIU MIU",
+        "artist": "Baby Melo",
+        "grade": [
+            7,
+            8,
+            7,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/tipok",
+        "release": "Типок",
+        "artist": "PLOHOYPAREN",
+        "grade": [
+            8,
+            9,
+            8,
+            9,
+            9
+        ]
+    },
+    {
+        "link": "/track/nezabudki",
+        "release": "Незабудки",
+        "artist": "Егор Крид",
+        "grade": [
+            9,
+            10,
+            10,
+            9,
+            8
+        ]
+    },
+    {
+        "link": "/track/agent-girl",
+        "release": "AGENT GIRL",
+        "artist": "INSTASAMKA",
+        "grade": [
+            6,
+            8,
+            7,
+            6,
+            5
+        ]
+    },
+    {
+        "link": "/track/ya-obyavlyaju-vam-vojnu",
+        "release": "Я объявляю вам войну",
+        "artist": "Хаски",
+        "grade": [
+            8,
+            8,
+            8,
+            9,
+            8
+        ]
+    }
+]

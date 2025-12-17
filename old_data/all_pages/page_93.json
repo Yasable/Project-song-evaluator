@@ -1,0 +1,218 @@
+[
+    {
+        "link": "/track/pihta",
+        "release": "Пихта",
+        "artist": "blago white",
+        "grade": false
+    },
+    {
+        "link": "/track/podokonnik",
+        "release": "Подоконник",
+        "artist": "Грязь",
+        "grade": false
+    },
+    {
+        "link": "/track/ya-ne-svyatoj-2",
+        "release": "Я не святой 2",
+        "artist": "Sagath",
+        "grade": false
+    },
+    {
+        "link": "/album/gorod-dorog",
+        "release": "Город Дорог",
+        "artist": "Гуф",
+        "grade": false
+    },
+    {
+        "link": "/track/rizza-golosa",
+        "release": "голоса",
+        "artist": "rizza",
+        "grade": true
+    },
+    {
+        "link": "/track/bato-murcielago",
+        "release": "Murciélago",
+        "artist": "BATO",
+        "grade": true
+    },
+    {
+        "link": "/track/whole-lotta-swag-raznica",
+        "release": "Разница",
+        "artist": "Whole Lotta Swag",
+        "grade": true
+    },
+    {
+        "link": "/track/rvmzes-m-aga",
+        "release": "М, АГА",
+        "artist": "RVMZES",
+        "grade": true
+    },
+    {
+        "link": "/track/mne",
+        "release": "Мне",
+        "artist": "The Chemodan, Тима Белорусских",
+        "grade": false
+    },
+    {
+        "link": "/track/pryachus",
+        "release": "Прячусь",
+        "artist": "Роки",
+        "grade": false
+    },
+    {
+        "link": "/track/iz-bukv-o-chislah",
+        "release": "Из букв о числах",
+        "artist": "Blockkid",
+        "grade": false
+    },
+    {
+        "link": "/track/dogma95",
+        "release": "Dogma95",
+        "artist": "Brick Bazuka",
+        "grade": false
+    },
+    {
+        "link": "/track/difiramby",
+        "release": "ДИФИРАМБЫ",
+        "artist": "dekma",
+        "grade": true
+    },
+    {
+        "link": "/track/kontrol",
+        "release": "Контроль",
+        "artist": "Ilya Gadaev, Mirèle",
+        "grade": false
+    },
+    {
+        "link": "/track/v-omute",
+        "release": "В омуте",
+        "artist": "OBRAZKOBRA, Thomas Mraz",
+        "grade": false
+    },
+    {
+        "link": "/track/nikto-ne-hochet",
+        "release": "НИКТО НЕ ХОЧЕТ",
+        "artist": "yeschapskii",
+        "grade": true
+    },
+    {
+        "link": "/track/sematary",
+        "release": "Sematary",
+        "artist": "yeschapskii",
+        "grade": false
+    },
+    {
+        "link": "/track/griffiny",
+        "release": "Гриффины",
+        "artist": "yeschapskii",
+        "grade": false
+    },
+    {
+        "link": "/album/disscography2024",
+        "release": "DISSCOGRAPHY2024",
+        "artist": "SCHOKK",
+        "grade": false
+    },
+    {
+        "link": "/album/vy-popali-na-moj-rajon",
+        "release": "Вы попали на мой район",
+        "artist": "Зараза",
+        "grade": false
+    },
+    {
+        "link": "/album/murcielago",
+        "release": "Murciélago",
+        "artist": "BATO",
+        "grade": true
+    },
+    {
+        "link": "/track/storytell-intro",
+        "release": "STORYTELL INTRO",
+        "artist": "i61, OG Buda",
+        "grade": true
+    },
+    {
+        "link": "/track/dirty",
+        "release": "Dirty",
+        "artist": "PINQ",
+        "grade": true
+    },
+    {
+        "link": "/track/hell-star",
+        "release": "HELLSTAR",
+        "artist": "SIDODGI DUBOSHIT",
+        "grade": true
+    },
+    {
+        "link": "/track/trap-star",
+        "release": "Trap Star",
+        "artist": "LIL MORTY",
+        "grade": false
+    },
+    {
+        "link": "/track/like-supa-star",
+        "release": "Like Supa Star",
+        "artist": "LIL MORTY",
+        "grade": true
+    },
+    {
+        "link": "/track/nervami",
+        "release": "Нервами",
+        "artist": "MONRAU",
+        "grade": true
+    },
+    {
+        "link": "/track/taco",
+        "release": "Taco",
+        "artist": "FLESH",
+        "grade": false
+    },
+    {
+        "link": "/track/lux",
+        "release": "lux",
+        "artist": "T-Fest, Скриптонит",
+        "grade": true
+    },
+    {
+        "link": "/track/lebedinaya-pesnya",
+        "release": "Лебединая песня",
+        "artist": "нексюша",
+        "grade": false
+    },
+    {
+        "link": "/track/heart8reak",
+        "release": "Heart8reak",
+        "artist": "Мэйби Бэйби",
+        "grade": true
+    },
+    {
+        "link": "/track/deadshot-chto-takoe-rok",
+        "release": "ЧТО ТАКОЕ РОК?",
+        "artist": "Deadshot",
+        "grade": true
+    },
+    {
+        "link": "/track/enso-never",
+        "release": "NEVER",
+        "artist": "​enso",
+        "grade": true
+    },
+    {
+        "link": "/track/abby-sweet-ostansya",
+        "release": "Останься",
+        "artist": "ABBY SWEET",
+        "grade": true
+    },
+    {
+        "link": "/track/kozlovskiy-kak-zhe-tak",
+        "release": "Как же так",
+        "artist": "Козловский",
+        "grade": true
+    },
+    {
+        "link": "/track/gato-shammgod-training-day",
+        "release": "Training Day",
+        "artist": "Gato Shammgod",
+        "grade": true
+    }
+]
