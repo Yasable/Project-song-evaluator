@@ -11,5 +11,5 @@ def predict_song(song_path: str, lyrics_url: str):
     features = _scaler.transform(features)
     pred = _model.predict(features)[0]
     grades = np.round(pred).astype(int)
-    final_score = final_score(grades)
-    return grades, final_score
+    result = final_score(grades)
+    return grades, result
