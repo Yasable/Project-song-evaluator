@@ -6,6 +6,10 @@ from utils.data_processing import final_score
 def grade_mean_analysis(grade_mean):
     plt.figure(figsize=(12, 4))
 
+    fig, ax = plt.subplots()
+    ax.set_facecolor("#B88AEE")
+    plt.gcf().set_facecolor("#B492DC")
+
     plt.subplot(1, 2, 1)
     plt.hist(grade_mean, bins=10, alpha=0.7, edgecolor="k")
     plt.title("Распределение средних оценок")
@@ -27,6 +31,10 @@ def grade_mean_analysis(grade_mean):
 
 def grade_std_analysis(grade_std, grade_mean, tracks_ids):
     plt.figure(figsize=(12, 4))
+
+    fig, ax = plt.subplots()
+    ax.set_facecolor("#B88AEE")
+    plt.gcf().set_facecolor("#B492DC")
 
     plt.subplot(1, 2, 1)
     plt.hist(grade_std, bins=20, alpha=0.7, color="orange", edgecolor="k")
@@ -52,6 +60,10 @@ def grade_std_analysis(grade_std, grade_mean, tracks_ids):
 def grade_analysis(grade_raw):
     all_grades = grade_raw.flatten()
 
+    fig, ax = plt.subplots()
+    ax.set_facecolor("#B88AEE")
+    plt.gcf().set_facecolor("#B492DC")
+
     plt.figure(figsize=(2, 4))
     plt.hist(all_grades, bins=20, alpha=0.7, color="green", edgecolor="k")
     plt.title("Количество всех оценок")
@@ -63,6 +75,10 @@ def grade_analysis(grade_raw):
 def final_grade_analysis(grade_raw):
     final_grades = np.array([final_score(grades) for grades in grade_raw])
     
+    fig, ax = plt.subplots()
+    ax.set_facecolor("#B88AEE")
+    plt.gcf().set_facecolor("#B492DC")
+
     plt.figure(figsize=(8, 4))
 
     plt.subplot(1, 2, 1)

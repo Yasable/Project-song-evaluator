@@ -13,6 +13,10 @@ def audio_analisys(X_audio, audio_type):
 
     plt.figure(figsize=(12, 4))
 
+    fig, ax = plt.subplots()
+    ax.set_facecolor("#B88AEE")
+    plt.gcf().set_facecolor("#B492DC")
+
     plt.subplot(1, 2, 1)
     plt.hist(all_mfccs, bins=10, alpha=0.7, edgecolor="k")
     plt.title("Распределение mfcc")

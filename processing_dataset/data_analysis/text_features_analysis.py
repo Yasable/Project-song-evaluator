@@ -5,6 +5,10 @@ def text_embedding_analysis(X_text):
     all_features = np.array(X_text).flatten()
     plt.figure(figsize=(8, 4))
 
+    fig, ax = plt.subplots()
+    ax.set_facecolor("#B88AEE")
+    plt.gcf().set_facecolor("#B492DC")
+
     plt.subplot(1, 2, 1)
     plt.hist(all_features, bins=20, alpha=0.7, color="green", edgecolor="k")
     plt.title("Итоговые оцени")

@@ -2,7 +2,7 @@ import numpy as np
 import os
 import matplotlib.pyplot as plt
 
-from utils.file_io import read_json_file, load_data_from_npz, load_data_from_csv
+from utils.file_io import load_data_from_npz
 from utils.data_processing import normalization_features
 from config_dataset import FEATURES_TAGS, LABELS_NAME
 
